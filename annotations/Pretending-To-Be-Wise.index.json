@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/Pretending-To-Be-Wise.opus.json",
+    "default": true
+  }
+]

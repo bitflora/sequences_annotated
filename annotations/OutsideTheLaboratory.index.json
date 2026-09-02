@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/OutsideTheLaboratory.opus.json",
+    "default": true
+  }
+]

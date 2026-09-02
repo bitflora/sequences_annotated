@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/What-Do-I-Mean-By-Rationality.opus.json",
+    "default": true
+  }
+]

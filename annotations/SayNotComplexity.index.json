@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/SayNotComplexity.opus.json",
+    "default": true
+  }
+]

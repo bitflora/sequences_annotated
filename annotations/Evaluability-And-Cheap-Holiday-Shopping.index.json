@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/Evaluability-And-Cheap-Holiday-Shopping.opus.json",
+    "default": true
+  }
+]

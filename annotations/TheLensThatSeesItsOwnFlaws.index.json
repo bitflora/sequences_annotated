@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/TheLensThatSeesItsOwnFlaws.opus.json",
+    "default": true
+  }
+]

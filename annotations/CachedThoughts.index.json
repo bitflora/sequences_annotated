@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/CachedThoughts.opus.json",
+    "default": true
+  }
+]

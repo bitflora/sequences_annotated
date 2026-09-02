@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/Bayesian-Judo.opus.json",
+    "default": true
+  }
+]

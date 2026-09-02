@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/TheTragedyOfGroupSelectionism.opus.json",
+    "default": true
+  }
+]

@@ -12,7 +12,21 @@ No other changes to the original HTML. The JS injects all markers at runtime.
 
 ### Annotation data files
 
-`annotations/<ArticleName>.json` — one file per annotated article, matching the HTML filename exactly (e.g. `Availability.html` → `annotations/Availability.json`).
+Each article can have multiple independently-contributed annotation sets (e.g. one per model/author), selectable by the reader at runtime.
+
+`annotations/<ArticleName>.index.json` — lists the annotation sets available for that article:
+```json
+[
+  { "id": "opus", "label": "Opus", "code": "O", "file": "annotations/<ArticleName>.opus.json", "default": true }
+]
+```
+- `id`: stable slug for the set; used as the localStorage preference key and to namespace element ids. Keep it consistent for the same contributor across articles (e.g. always `"opus"`, `"sonnet"`).
+- `label`: shown in the reader-facing toggle panel.
+- `code`: short (1-2 char) tag used to prefix marker numbers (e.g. `[O1]`) when more than one set is enabled at once. Falls back to the first letter of `id` if omitted.
+- `file`: path to that set's annotation JSON.
+- `default`: whether the set is shown out of the box, before the reader has made an explicit choice.
+
+`annotations/<ArticleName>.<setId>.json` — the annotation objects for one set, e.g. `annotations/Availability.opus.json`.
 
 Structure:
 ```json
@@ -23,23 +37,35 @@ Structure:
 ]
 ```
 
-- `id`: sequential integer; used to generate element ids `annotation-N` / `annotation-ref-N`
+- `id`: sequential integer *within this set*; combined with the set id to generate element ids (`annotation-<setId>-N`)
 - `side`: odd ids → `"left"`, even ids → `"right"` (alternating convention)
 - `quote` *(optional)*: plain text substring to locate in the article. The JS finds this text, wraps it in `<span class="annotation-target">`, and inserts a `<sup class="annotation-ref">` marker after it. Omit for annotations that comment on the article as a whole rather than a specific passage.
 - `content`: HTML string for the margin note; use `<a href="https://doi.org/...">Author et al. (YEAR)</a>` for citations
 
 The `quote` must be an exact plain-text substring of the article as it appears in the DOM (ignore HTML tags; match the text content). If the phrase contains inline elements like `<em>`, write the plain text without them.
 
+The current annotations across all articles are attributed to the `opus` set (label "Opus").
+
 ### Layout
 
-`annotations.css` widens `#wikitext` to 1540px with 460px padding each side, leaving a 620px content column flanked by 420px gutters. `annotations.js` fetches the JSON, injects inline markers via `quote` matching, creates `<aside class="margin-note left|right">` elements inside `#wikitext`, and positions them vertically (absolute, `top` set by JS) to align with their reference superscripts. Collisions are resolved by pushing later notes downward.
+`annotations.css` widens `#wikitext` to 1540px with 460px padding each side, leaving a 620px content column flanked by 420px gutters. `annotations.js` fetches the index, then fetches whichever sets are enabled, injects inline markers via `quote` matching, creates `<aside class="margin-note left|right">` elements inside `#wikitext`, and positions them vertically (absolute, `top` set by JS) to align with their reference superscripts. Collisions are resolved by pushing later notes downward.
 
-Below 1000px viewport width the margin notes are hidden and the layout collapses to the normal single-column skin.
+A small "Annotations ▾" toggle panel (fixed, top-right) lists every set from the index with a checkbox; the reader's choices are stored in `localStorage` under `seq-annotation-sets` (an object of `setId -> boolean`) and apply across articles. Toggling re-fetches and re-renders in place.
+
+Below 1000px viewport width the margin notes are hidden and the layout collapses to the normal single-column skin; the toggle panel still shows.
+
+If `<ArticleName>.index.json` doesn't exist, the JS falls back to fetching `annotations/<ArticleName>.json` directly as a single always-on set with no toggle (legacy/unmigrated articles).
 
 ### Adding annotations to a new article
 
 1. Add the two `<head>` tags above to the article HTML (after the existing `skin.css` link)
-2. Create `annotations/<ArticleName>.json` with annotation objects — no changes to the article body needed
+2. Create `annotations/<ArticleName>.index.json` with at least one set entry, and `annotations/<ArticleName>.<setId>.json` with the annotation objects — no changes to the article body needed
+
+### Adding a new contributor's annotation set to an already-annotated article
+
+1. Pick a stable `setId` (e.g. `"sonnet"`) — reuse it across every article that contributor annotates
+2. Create `annotations/<ArticleName>.<setId>.json` with that contributor's annotation objects (own independent `id` sequence starting at 1)
+3. Append an entry for it to `annotations/<ArticleName>.index.json`; set `"default": false` unless it should be shown out of the box
 
 ### Scripts
 

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/PolicyDebatesShouldNotAppearOneSided.opus.json",
+    "default": true
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/Do-We-Believe-Everything-Were-Told.opus.json",
+    "default": true
+  }
+]

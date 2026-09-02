@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/A-Fable-Of-Science-And-Politics.opus.json",
+    "default": true
+  }
+]

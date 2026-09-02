@@ -79,6 +79,49 @@ sup.annotation-ref a::after,
     content: none;
 }
 
+/* Toggle panel — lets readers pick which annotation set(s) to show */
+.annotation-toggle-panel {
+    position: fixed;
+    top: 12px;
+    right: 12px;
+    z-index: 100;
+    font-family: 'Proxima Nova', sans-serif;
+    font-size: 0.775em;
+}
+
+.annotation-toggle-summary {
+    background: #fff8ec;
+    border: 1px solid #d4a020;
+    color: #b06000;
+    border-radius: 4px;
+    padding: 0.35em 0.6em;
+    cursor: pointer;
+    font-weight: 600;
+}
+.annotation-toggle-summary:hover {
+    background: #fdefd2;
+}
+
+.annotation-toggle-body {
+    margin-top: 0.4em;
+    background: #fff8ec;
+    border: 1px solid #d4a020;
+    border-radius: 4px;
+    padding: 0.5em 0.75em;
+    min-width: 140px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.annotation-toggle-row {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    color: #444;
+    white-space: nowrap;
+    padding: 0.15em 0;
+    cursor: pointer;
+}
+
 /* Narrow screens: collapse to no extra padding; hide margin notes */
 @media (max-width: 1000px) {
     #wikitext {

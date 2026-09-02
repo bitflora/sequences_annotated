@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/MysteriousAnswersToMysteriousQuestions.opus.json",
+    "default": true
+  }
+]
