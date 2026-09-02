@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "If great-great-grandchildren don’t much resemble their great-great-grandparents, you won’t get more than four generations’ worth of cumulative selection pressure",
+    "content": "The premise that cumulative selection requires DNA-like copying fidelity is false, and it was known to be false when this was written. Cultural evolution models show that cumulative adaptation can proceed with quite noisy individual transmission, because conformist and prestige biases at the population level correct for error in a way that individual replication does not need to (<a href=\"https://doi.org/10.1163/156853702320281836\">Henrich &amp; Boyd 2002</a>). Organisational ecology has treated firms as populations subject to selection since the 1970s, with routines and structures as the heritable material (<a href=\"https://doi.org/10.1086/226424\">Hannan &amp; Freeman 1977</a>; <a href=\"https://doi.org/10.2307/2095567\">Hannan &amp; Freeman 1984</a>). The essay's own list of conditions is essentially Lewontin's classic trio of variation, differential fitness, and heritability (<a href=\"https://doi.org/10.1146/annurev.es.01.110170.000245\">Lewontin 1970</a>), with \"digital\" and \"10<sup>-8</sup>\" bolted on without justification."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If psychic powers really existed, we should expect to see everyone using them all the time",
+    "content": "The inference is that a rarely-useful trait cannot be selected, and that is wrong as stated. Selection intensity is the product of how often a situation arises and how much fitness turns on it, so a trait that fires rarely but decisively (an immune response to an uncommon pathogen, a fear response to a rare predator) can experience strong selection; the fear module literature is built on exactly such rare-but-lethal contingencies (<a href=\"https://doi.org/10.1037/0033-295X.108.3.483\">Öhman &amp; Mineka 2001</a>). The essay's conclusion about psychic powers is correct for other reasons, chiefly that they do not exist, but the argument used to reach it would also rule out the existence of adrenaline. A quantitative argument that ignores one of the two factors in the product is not quantitative."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Correlation is covariance divided by variance",
+    "content": "It is not; correlation is covariance divided by the product of the two standard deviations. The slip is small but it sits in the paragraph whose whole purpose is to lecture the reader on the difference between correlation and covariance, and the conclusion drawn from it, that compressing the variance of a trait shrinks its covariance with fitness, is fine but trivial. What is not addressed is that engineered systems with tiny variance in reproduction can still accumulate change if the number of generations is enormous, which is exactly the regime one would worry about for a self-replicating device. The mathematics here is decoration around an intuition."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "This is, to me, the most frightening thing about gray goo or nanotechnological weapons",
+    "content": "By the time this was written the originator of the grey-goo scenario had publicly retreated from it. Drexler and Phoenix argued in 2004 that free-ranging self-replicating nanomachines are neither necessary for molecular manufacturing nor a likely accident, and that the scenario had distracted from realistic risks (<a href=\"https://doi.org/10.1088/0957-4484/15/8/001\">Phoenix &amp; Drexler 2004</a>). The 2003 Smalley–Drexler exchange also raised unresolved chemical objections to the assembler concept itself. The essay therefore spends a third of its length on the evolutionary dynamics of a device whose feasibility is disputed and whose chief proponent no longer endorsed the framing. This is not a fatal flaw in the argument about Price's equation, but it is worth knowing which parts are biology and which are science fiction."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "In corporations, humans offer up thousand-bit intelligently designed complex “mutations,” and then the further selection pressure of “Did it go bankrupt or not?” accounts for a handful of additional bits",
+    "content": "The dichotomy between \"intelligent design\" and \"selection\" is false when the designers are themselves running variation-and-selection internally. Campbell's classic argument is that creative thought proceeds by blind variation and selective retention within the mind (<a href=\"https://doi.org/10.1037/h0040373\">Campbell 1960</a>), and the innovation literature documents that firms generate many product variants and retain the ones markets reward, with a high failure rate at every stage. \"Bankrupt or not\" is also the wrong selection event: firms are selected on growth, funding, imitation by competitors, and acquisition, continuously and at every scale, not only at death. Whether corporate evolution is weak is an empirical question the essay settles by counting bits it has not measured."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Because evolution can’t refactor code that fast, that’s why.",
+    "content": "There is a well-developed alternative answer the essay does not consider: proxies are not a failure to build a fitness-maximiser, they are the optimal design for an agent that cannot observe its own fitness. Inclusive fitness is a statistical property of lineages that no individual can measure in its lifetime, so a decision-maker must act on observable correlates, and formal models show that under realistic information constraints an organism with hardwired preferences for such correlates outperforms one trying to compute fitness directly (<a href=\"https://doi.org/10.1257/jel.39.1.11\">Robson 2001</a>; <a href=\"https://doi.org/10.1016/B978-0-444-53187-2.00007-3\">Robson &amp; Samuelson 2011</a>). On this account the \"thousand shards of desire\" are not evidence of evolution's stupidity but of a solved engineering problem. The essay assumes the human-engineer's design would be better without checking whether it is even well-posed."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "For millions of years before hominid consequentialism, there was reinforcement learning.",
+    "content": "The dichotomy between pre-hominid reinforcement learning and hominid consequentialism does not match what is known about animal cognition. Rats build cognitive maps and take novel shortcuts, which is not stimulus-response learning (<a href=\"https://doi.org/10.1037/h0061626\">Tolman 1948</a>); they show model-based planning in the same two-step decision tasks used to measure it in humans (<a href=\"https://doi.org/10.1038/nn.4613\">Miller, Botvinick &amp; Brody 2017</a>); and scrub-jays cache food in anticipation of tomorrow's specific needs, contrary to their current motivational state (<a href=\"https://doi.org/10.1038/nature05575\">Raby et al. 2007</a>). Model-based and model-free control coexist in the mammalian brain (<a href=\"https://doi.org/10.1016/j.neuron.2011.02.027\">Daw et al. 2011</a>). Consequentialist reasoning is graded and old, and the story that it \"showed up\" with hominids and then hacked pre-existing reinforcers is a narrative, not a finding."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "within each species, the blind idiot god is purely obsessed with inclusive genetic fitness",
+    "content": "Even as a metaphor this overstates what the theory says. Fisher's fundamental theorem does not imply that mean fitness increases or is maximised, a point made repeatedly since the 1960s and formalised by Ewens; frequency-dependent selection, sexual conflict, and meiotic drive routinely lower population mean fitness (<a href=\"https://doi.org/10.1111/brv.12190\">Birch 2016</a>). Whether individuals can be said to maximise inclusive fitness even in an \"as if\" sense is the subject of Grafen's formal Darwinism project, which has established it only under restrictive assumptions and remains contested (<a href=\"https://doi.org/10.1007/s10539-013-9414-y\">Grafen 2014</a>). The essay's whole framing, one pure utility function that failed to \"quine\" into its creations, presupposes that evolution has a utility function, which is exactly the anthropomorphism the previous essays warned against."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Chimpanzees share 95% of your genes.",
+    "content": "The figure is a loose paraphrase of a loose statistic. Aligned human–chimpanzee sequence differs by about 1.2% in single-nucleotide substitutions and about 3% more when insertions and deletions are counted, so \"96–99%\" is the range one sees quoted, and \"share X% of your genes\" is not a well-defined quantity at all since nearly every gene is present in both species in a slightly different form (<a href=\"https://doi.org/10.1038/nature04072\">Chimpanzee Sequencing and Analysis Consortium 2005</a>). The essay's point about relatedness being about shared variance within a population is correct and worth making; it does not need a made-up number to make it."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "So in principle, the pure reproductive consequentialist is possible.",
+    "content": "This is asserted without argument and there are reasons to doubt it. A \"pure reproductive consequentialist\" would need a representation of inclusive fitness accurate enough to act on, but inclusive fitness is defined over counterfactual reproductive outcomes of relatives weighted by relatedness, integrated over a future the agent cannot observe; the computational and informational demands are the reason formal treatments conclude that evolution should build agents with proxy preferences rather than fitness-estimators (<a href=\"https://doi.org/10.1016/B978-0-444-53187-2.00007-3\">Robson &amp; Samuelson 2011</a>). \"In principle possible\" here means \"not logically contradictory,\" which is a much weaker claim than the essay needs for its conclusion that evolution failed to build something a smarter designer would have."
+  }
+]

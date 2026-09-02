@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "We are descended from those who argued most persuasively that the good of the tribe meant executing their hated rival Uglak.",
+    "content": "This is an evolutionary just-so story of exactly the kind the surrounding essays claim to teach readers to distrust. The ethnographic record of mobile foragers points the other way: such societies are aggressively egalitarian, and the people who get killed by coalitions are typically would-be dominators who bully or manipulate, not their victims (<a href=\"https://doi.org/10.1126/science.1219961\">Boehm 2012</a>). The nearest real theory, that human reasoning evolved for argumentation, predicts that people are also good at <em>evaluating</em> others' arguments, which is the opposite of a population pushed around by whoever talks best (<a href=\"https://doi.org/10.1017/S0140525X10000968\">Mercier &amp; Sperber 2011</a>). No data on ancestral executions exist; \"we sure ain't descended from Uglak\" is a rhetorical flourish standing in for evidence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "you are guaranteed to be looking at an output that was optimized only for inclusive genetic fitness",
+    "content": "There is no such guarantee. What you are looking at is the joint product of selection, drift, mutation bias, pleiotropy, developmental constraint, and historical contingency, and a large fraction of genomic and organismal features are not adaptations for anything (<a href=\"https://doi.org/10.1073/pnas.0702207104\">Lynch 2007</a>; <a href=\"https://doi.org/10.1098/rspb.1979.0086\">Gould &amp; Lewontin 1979</a>). Even where selection dominates, whether \"inclusive fitness\" is the quantity it maximises is disputed among theorists; a prominent 2010 attack on the framework drew a rebuttal signed by over a hundred biologists, and the dust has not settled (<a href=\"https://doi.org/10.1038/nature09205\">Nowak, Tarnita &amp; Wilson 2010</a>; <a href=\"https://doi.org/10.1038/nature09831\">Abbot et al. 2011</a>). The essay needs a \"pure note\" to calibrate against, so it declares one to exist."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "What was the actual laboratory result? Cannibalism.",
+    "content": "One laboratory result, chosen because it is ugly. Wade selected for <em>small</em> subpopulations and got beetles that ate each other's offspring; Muir selected hens on <em>group productivity</em> and got birds that stopped cannibalising each other, with mortality falling from 68% to 9% (<a href=\"https://doi.org/10.3382/ps.0750447\">Muir 1996</a>). If the essay's method were applied honestly it would have to say that the \"pure optimization for a known criterion\" yields kindness or cruelty depending on the criterion, which is true but not the lesson being sold. Using a single cherry-picked outcome as the standard against which to judge human rationalisation is itself a fake optimisation criterion."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "you can just observe that people disagree about office politics in ways that strangely correlate to their own interests",
+    "content": "The general phenomenon of motivated reasoning is real (<a href=\"https://doi.org/10.1037/0033-2909.108.3.480\">Kunda 1990</a>), but the specific claim that political positions track self-interest is one of the more surprising failures in political psychology. Decades of survey work find that narrow material self-interest is a weak predictor of policy attitudes; group identity, values, and symbolic politics predict far more (<a href=\"https://doi.org/10.1016/S0065-2601(08)60327-5\">Sears &amp; Funk 1991</a>). People routinely and sincerely support policies that cost them money. The \"just observe\" is doing the work of a citation, and what one observes when one actually looks is not what the essay says."
+  }
+]

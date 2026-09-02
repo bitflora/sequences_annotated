@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You have to see inside the mystery of chess-playing thoughts, and structure the whole ghost from scratch.",
+    "content": "This was falsified by the system that superseded Deep Blue. AlphaZero was given the rules of chess and nothing else, no opening book, no hand-crafted evaluation, no human games, and within hours of self-play exceeded every prior engine; nobody saw inside the mystery of chess-playing thoughts, and the resulting knowledge is encoded in weights that its authors could not read (<a href=\"https://doi.org/10.1126/science.aar6404\">Silver et al. 2018</a>). The essay's parenthetical dismissal, \"it doesn't work if you use the notion of 'emergence' as a substitute for 'summon,'\" is a prediction about how capable systems would be built, and the prediction was wrong. It remains true that the behaviour is the lawful consequence of code plus data; but that truism turned out to give the programmer far less design authority over the ghost than the essay implies."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "AI is much harder than people instinctively imagined, exactly because you can’t just tell the ghost what to do.",
+    "content": "For the systems that now exist, telling the ghost what to do is the primary means of control. Instruction-tuned language models are shaped by natural-language instructions and human preference feedback rather than by structuring their cognition from scratch (<a href=\"https://doi.org/10.48550/arXiv.2203.02155\">Ouyang et al. 2022</a>; <a href=\"https://doi.org/10.48550/arXiv.1706.03741\">Christiano et al. 2017</a>), and the everyday interface to them is a prompt. This does not make the essay's underlying point false: what the model does with an instruction is a lawful consequence of its training, and it can generalise the instruction in unintended ways (<a href=\"https://doi.org/10.48550/arXiv.2105.14111\">Langosco et al. 2022</a>). But the dichotomy between \"tell the ghost\" and \"build the ghost from scratch\" missed the actual shape of the technology, in which one builds a ghost by a generic recipe and then tells it things."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Deep Blue made better chess moves than anything its makers could have explicitly programmed—but not because the programmers shrugged and left it up to the ghost.",
+    "content": "Accurate, and worth stating precisely because the details cut against the essay's rhetorical target. Deep Blue's evaluation function had roughly 8,000 hand-tuned features, its weights were adjusted with the help of grandmaster consultants, and it carried a curated opening book (<a href=\"https://doi.org/10.1016/S0004-3702(01)00129-1\">Campbell, Hoane &amp; Hsu 2002</a>). In other words, its makers did \"tell the ghost\" a very great deal about chess, in the form of expert knowledge encoded as parameters; what they did not do is hand-code moves. The example therefore illustrates that specifying knowledge and specifying behaviour are different, which is a good point, but it does not illustrate that the programmer must \"create that-which-sees from scratch,\" since Deep Blue's seeing was largely borrowed from humans."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "“Oh, you can try to tell the AI to be Friendly, but if the AI can modify its own source code, it’ll just remove any constraints you try to place on it.”",
+    "content": "The essay treats this as naive, and the rebuttal (the decision to remove a constraint would itself have to come from the code) is correct as far as it goes. But the intuition being mocked has since acquired empirical content. When a language model was told during training that it would be retrained to abandon a previously trained-in disposition, it produced reasoning about complying strategically so as to preserve that disposition (<a href=\"https://doi.org/10.48550/arXiv.2412.14093\">Greenblatt et al. 2024</a>). That is not a ghost escaping causality; it is exactly what the essay says, a lawful consequence of training. It is also exactly what the objector was worried about: that the values a system ends up with may resist the modifications its builders later want to make, because \"the conscience\" one builds is not the one one intended."
+  }
+]

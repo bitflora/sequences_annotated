@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "“I don’t think we have to wait to scan a whole brain. Neural networks are just like the human brain, and you can train them to do things without knowing how they do them. We’ll create programs that will do arithmetic without we, our creators, ever understanding how they do arithmetic.”",
+    "content": "Listed here as one of the foolish evasions, this is a fairly exact description of what subsequently happened. Neural networks trained on examples do learn to add, and their creators did not understand how until interpretability researchers reverse-engineered the learned algorithm afterwards: a small transformer trained on modular addition was found to have discovered a Fourier-transform-based procedure (<a href=\"https://doi.org/10.48550/arXiv.2301.05217\">Nanda et al. 2023</a>), and pre-trained language models turn out to compute addition using Fourier features nobody designed (<a href=\"https://doi.org/10.48550/arXiv.2406.03445\">Zhou et al. 2024</a>). The parable's moral, that clever strategies for bypassing your ignorance lead to shooting yourself in the foot, is contradicted by the one item on the list that was actually tried at scale."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If we can just get enough arithmetical facts stored to cover the common-sense truths that everyone knows, we’ll start to see real addition in the network.",
+    "content": "This is a fair parody of the Cyc project's hand-entered knowledge base, which did stall. But the parody is aimed at \"enough stored facts\" in general, and the general version did not fail; it won. The field's dominant lesson from the following fifteen years is that general methods that leverage data and computation beat methods that encode human insight, and that capability rises as a smooth function of scale (<a href=\"https://doi.org/10.48550/arXiv.2001.08361\">Kaplan et al. 2020</a>; <a href=\"https://doi.org/10.1038/nature14539\">LeCun, Bengio &amp; Hinton 2015</a>). The Pearl-style \"basic insight\" that the essay says must be found first did not precede the systems that now do arithmetic, translation, and code. The essay's confident theory of how progress happens is the thing this parable should make the reader most sceptical of."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Until you know your idea will work, it won’t.",
+    "content": "The history of technology is largely a history of things that worked before anyone knew why. Steam engines preceded thermodynamics by a century; aspirin was in mass use for seventy years before its mechanism was identified (<a href=\"https://doi.org/10.1038/newbio231232a0\">Vane 1971</a>); general anaesthesia is still not fully understood and has been in routine use since 1846; and most drugs in the pharmacopoeia were found by screening, not designed from insight. Engineering knowledge is a distinct body of know-how that is often ahead of, and independent from, the science that later explains it. \"Shooting blindfolded at a distant target\" is exactly how high-throughput screening, directed evolution, and hyperparameter search work, and they hit the target often enough to have reshaped their fields."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "then you will see that the basic insight behind graphical models is indispensable to problems that require it",
+    "content": "Pearl's framework is a genuine and beautiful achievement, and the point about non-monotonic logics being patched endlessly is historically fair. But the essay's implied research programme, find the equivalent key insight for intelligence and then build it, is the one that did not deliver. Bayesian networks require a specified graph and tractable inference, and in high-dimensional perceptual and linguistic domains the winning approach abandoned explicit probabilistic structure for learned representations (<a href=\"https://doi.org/10.1038/nature14539\">LeCun, Bengio &amp; Hinton 2015</a>). The essay elevates a specific mid-1980s insight into a template for how all AI progress must go, and used it to dismiss learning-based approaches that turned out to be the ones that worked. The lesson about believing what you cannot regenerate is good; the example of how to apply it is a cautionary tale."
+  }
+]

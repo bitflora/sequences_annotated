@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I seem to recall (though I can’t find the source) that just taking mandatory tests was 40% of classroom time in one school.",
+    "content": "No such source exists, and the actual figure is smaller by an order of magnitude. When the Council of the Great City Schools audited testing across 66 large urban districts, students took on average about 112 mandated tests between pre-K and grade 12, consuming roughly 2.3% of instructional time (about 25 hours per year) in the most heavily tested grade; that is a 2015 report with no DOI, but it is the most comprehensive count made. Even critics of test-driven instruction put preparation time, which is distinct from testing time, in the range of days per year, not 40% of the calendar. \"I seem to recall\" introduces a number that is then used as evidence for a thesis about institutional insanity; the number is the only insane thing in the sentence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Virtually all classroom time is now spent on preparing for tests mandated at the state or federal level.",
+    "content": "The evidence on No Child Left Behind does not support \"virtually all.\" The most careful quasi-experimental evaluation found the Act produced meaningful gains in fourth-grade maths, smaller gains in eighth-grade maths, and no effect on reading, with instructional-time shifts toward tested subjects that were real but modest (<a href=\"https://doi.org/10.1002/pam.20586\">Dee &amp; Jacob 2011</a>). The Bay Area science survey the essay cites (Dorph et al. 2007, a Lawrence Hall of Science report without a DOI) is a self-report of time allocated to science, not of time spent on test preparation, and its 80%-under-an-hour figure predates and postdates NCLB alike, since elementary science instruction has been thin for decades. The essay's example of an institution collapsing into pure measurement gaming is one where the measured outcome, maths achievement, actually improved."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It is now being suggested in several sources that an actual majority of published findings in medicine, though “statistically significant with p < 0.05,” are untrue.",
+    "content": "The \"several sources\" is essentially one: Ioannidis's 2005 essay, whose \"most published research findings are false\" conclusion follows from a model with assumed inputs (prior odds, power, bias), not from an empirical count (<a href=\"https://doi.org/10.1371/journal.pmed.0020124\">Ioannidis 2005</a>). An attempt to estimate the false-discovery rate empirically from the distribution of reported p-values in top medical journals put it around 14% (<a href=\"https://doi.org/10.1093/biostatistics/kxt007\">Jager &amp; Leek 2014</a>), although that estimate is itself disputed. Large-scale replication projects in psychology later found only 36% of effects replicated at conventional significance (<a href=\"https://doi.org/10.1126/science.aac4716\">Open Science Collaboration 2015</a>), so the concern is well founded. But \"an actual majority are untrue\" is a modelled scenario passed off as a measured fact, in an essay about people mistaking proxies for the thing."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "(Though for some reason, physics journals require a threshold of p < 0.0001. It’s as if they conceive of some other purpose to their existence than publishing physics papers.)",
+    "content": "Physics journals require no such thing. The five-sigma convention (<em>p</em> ≈ 3 × 10<sup>−7</sup>) is a discovery threshold used in particle physics for announcing new particles, adopted because of the look-elsewhere effect across many search channels and a history of three-sigma anomalies evaporating; it is a community norm within one subfield, not a journal policy, and it has its own critics (<a href=\"https://doi.org/10.48550/arXiv.1310.1284\">Lyons 2013</a>). Most physics, including condensed matter, astrophysics, and materials science, publishes at conventional thresholds or with no significance test at all. Physicists also report widespread difficulty reproducing others' results in the same surveys that document the problem in biomedicine (<a href=\"https://doi.org/10.1038/533452a\">Baker 2016</a>). The contrast is a flattering myth about a discipline the author admires."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Bureaucrats are untrustworthy genies, for they do not share the values of the wisher.",
+    "content": "The general point about incentives flowing through measurable intermediates is Campbell's law and Goodhart's law, and it is well supported; a formal taxonomy of the ways proxies fail under optimisation now exists (<a href=\"https://doi.org/10.48550/arXiv.1803.04585\">Manheim &amp; Garrabrant 2018</a>). But the specific empirical claim that bureaucrats do not share the wisher's values is contradicted by a large public-administration literature on public service motivation, which finds that people who select into government work are on average more motivated by mission and less by pay than private-sector counterparts (<a href=\"https://doi.org/10.2307/976618\">Perry &amp; Wise 1990</a>). The problem in the essay's education example is not that teachers and administrators want the wrong things; it is that the measurement regime rewards them for something else. Attributing to values what is caused by incentives is the same error the essay elsewhere diagnoses in the \"fundamental attribution\" family."
+  }
+]

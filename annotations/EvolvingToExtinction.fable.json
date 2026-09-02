@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "there is a segregation-distorter on the male sex chromosome of some mice which causes only male children to be born, all carrying the segregation-distorter",
+    "content": "No such system is known in mice, and the example conflates several different things. The famous mouse driver, the <em>t</em>-haplotype, is autosomal (chromosome 17) and distorts transmission ratio, not sex ratio. Sex-chromosome drive in mice involves the <em>Sly</em>/<em>Slx</em> gene families and produces modest skews, not all-male litters (<a href=\"https://doi.org/10.1371/journal.pgen.1002900\">Cocquet et al. 2012</a>). The all-sons Y-drive that would extinguish a population is Hamilton's thought experiment (<a href=\"https://doi.org/10.1126/science.156.3774.477\">Hamilton 1967</a>), and the one place it has actually been \"caught in the act\" is a laboratory: Lyttle drove <em>Drosophila</em> cage populations to extinction with an engineered Y-linked driver (<a href=\"https://doi.org/10.1093/genetics/86.2.413\">Lyttle 1977</a>). The essay's real-world mouse is fiction; the real-world fly it could have cited is the strongest evidence for its thesis."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "This is a good real-world example of group selection",
+    "content": "Mainstream evolutionary epidemiology does not treat virulence evolution as group selection at all. The standard account is the transmission–virulence trade-off, in which the pathogen strain that maximises its own lifetime transmission does best, and killing the host quickly is simply bad for that individual strain's spread (<a href=\"https://doi.org/10.1017/S0031182000055360\">Anderson &amp; May 1982</a>). Myxoma virus in Australian rabbits evolved toward intermediate virulence and has continued to adapt for seventy years without any group-level selection being invoked (<a href=\"https://doi.org/10.1073/pnas.1710336114\">Kerr et al. 2017</a>). Labelling an individual-level trade-off \"group selection\" in an essay whose sequence-mate ridicules group selectionists is an odd choice, and it lets the essay claim a real-world case for a phenomenon it has not actually demonstrated."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "This may not extinguish a species, but it doesn’t help it",
+    "content": "The picture of transposons as pure genomic parasites is a generation out of date. Transposable elements are a major source of regulatory innovation: they have been repeatedly co-opted as enhancers, promoters, and insulators, and are implicated in the evolution of the placenta and of interferon-based immunity (<a href=\"https://doi.org/10.1038/nrg.2016.139\">Chuong, Elde &amp; Feschotte 2017</a>). The essay's numbers also need updating: the human genome carries roughly 1.1 to 1.2 million <em>Alu</em> copies, not \"300,000 to a million\" (<a href=\"https://doi.org/10.1038/nrg798\">Batzer &amp; Deininger 2002</a>), and maize is closer to 85% transposon-derived than 50% (<a href=\"https://doi.org/10.1126/science.1178534\">Schnable et al. 2009</a>). The P-element invasion of <em>D. melanogaster</em> in the mid-twentieth century, by contrast, is well documented and a fair example (<a href=\"https://doi.org/10.1093/oxfordjournals.molbev.a040491\">Anxolabéhère, Kidwell &amp; Periquet 1988</a>)."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I speculate that even if the kinship relation in a hunter-gatherer tribe was strong enough to create a selection pressure for helping individuals not directly related, when several potential helpers were present, a genetic arms race might occur to be the last one to step forward.",
+    "content": "The speculation is built on a laboratory effect whose real-world generality is now doubted. A meta-analysis of over 100 bystander studies found the inhibition effect shrinks and can reverse in dangerous emergencies, where bystanders are a source of help rather than diffusion (<a href=\"https://doi.org/10.1037/a0023304\">Fischer et al. 2011</a>), and analysis of CCTV footage of 219 real public conflicts found that in about nine out of ten someone intervened, with more bystanders predicting more intervention (<a href=\"https://doi.org/10.1037/amp0000469\">Philpot et al. 2020</a>). The original seizure study numbers are genuine (<a href=\"https://doi.org/10.1037/h0025589\">Darley &amp; Latané 1968</a>), but the leap from a 1968 undergraduate intercom experiment to a hominin \"genetic arms race\" and then to humanity \"evolving to extinction\" is three unsupported steps stacked on one small finding."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Thus the mutables have a pure disadvantage. The perfect DNA-copying mechanism rises in frequency to fixation.",
+    "content": "The argument that recombination decouples mutator alleles from the beneficial mutations they produce is standard and correct for sexual populations (<a href=\"https://doi.org/10.1038/387703a0\">Sniegowski, Gerrish &amp; Lenski 1997</a>). But the conclusion that a \"perfect\" copier would sweep is wrong for a different reason: reducing the mutation rate has diminishing fitness returns, and once the per-generation benefit of a further reduction falls below about 1/<em>N</em><sub>e</sub>, selection can no longer see it and drift takes over. This \"drift barrier\" is why observed mutation rates scale with effective population size across the tree of life rather than sitting at zero (<a href=\"https://doi.org/10.1016/j.tig.2010.05.003\">Lynch 2010</a>). The thought experiment assumes an allele with an effect selection could not detect and then has selection fix it."
+  }
+]

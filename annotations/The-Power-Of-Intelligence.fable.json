@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It is squishy things that explode in a vacuum, leaving footprints on their moon. Within that gray wet lump is the power to search paths through the great web of causality, and find a road to the seemingly impossible—the power sometimes called creativity.",
+    "content": "The footprints on the Moon were not put there by a three-pound lump. They were put there by roughly 400,000 people, a state that could tax a continent, and a few thousand years of cumulative technical culture, none of which any individual brain contains or could regenerate. The dominant account of why humans, and not other large-brained animals, came to dominate the planet is cumulative cultural evolution: populations accumulate know-how across generations that no member understands in full, and the size and connectivity of the population predicts innovation better than individual cognitive ability does (<a href=\"https://doi.org/10.1073/pnas.1100290108\">Boyd, Richerson &amp; Henrich 2011</a>; <a href=\"https://doi.org/10.1098/rstb.2015.0192\">Muthukrishna &amp; Henrich 2016</a>). The essay attributes to individual intelligence what belongs to the collective brain, and the difference matters enormously for the argument about AI it is setting up."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Intelligence is as real as electricity.",
+    "content": "Electricity is a physical quantity with units; intelligence is a statistical construct. The general factor <em>g</em> is the first principal component of a correlation matrix of test scores, and whether it corresponds to any single causal property of brains is an open question; a well-developed alternative model reproduces the positive correlations among cognitive abilities from mutual reinforcement between distinct capacities, with no unitary <em>g</em> required (<a href=\"https://doi.org/10.1037/0033-295X.113.4.842\">van der Maas et al. 2006</a>). Within humans, measured intelligence predicts life outcomes with correlations in the 0.2 to 0.5 range, meaning it explains a minority of the variance in the success the essay treats it as synonymous with (<a href=\"https://doi.org/10.1016/j.intell.2006.09.004\">Strenze 2007</a>). The essay reifies a factor score into a force of nature."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It’s a serious failure of imagination to think that intelligence is good for so little.",
+    "content": "The list (obesity, cancer, aging, physics, the Riemann Hypothesis) mixes problems bottlenecked on very different things. Cures require clinical trials whose duration is set by human biology, not by the intelligence of the designer; physics requires experiments at energies no current instrument reaches; and chaotic systems impose predictability horizons that no amount of computation extends (<a href=\"https://doi.org/10.3402/tellusa.v21i3.10086\">Lorenz 1969</a>). Within-human data show returns to intelligence that are real but modest and mediated by institutions (<a href=\"https://doi.org/10.1016/j.intell.2006.09.004\">Strenze 2007</a>). The move from \"one process produced all past technology\" to \"more of that process would rapidly solve all remaining problems\" ignores that past technology was also produced by centuries of experiment, capital accumulation, and trial and error that intelligence directs but cannot replace."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "if the Machine Intelligence Research Institute successfully builds a true AI",
+    "content": "A historical footnote worth having in view. The organisation did not build one, and the systems that came to dominate the field by the 2020s arrived by the route this sequence's essays treat with contempt elsewhere (see <em>Artificial Addition</em>): large learned models trained on data, whose capabilities improved as smooth power-law functions of compute and data rather than through a key theoretical insight (<a href=\"https://doi.org/10.48550/arXiv.2001.08361\">Kaplan et al. 2020</a>; <a href=\"https://doi.org/10.1038/nature14539\">LeCun, Bengio &amp; Hinton 2015</a>). The essay's confidence about who understands intelligence well enough to build it is a prediction, and it did not pan out. That does not settle the argument about what such systems can do, but it should lower one's confidence in the author's implicit model of how the technology develops."
+  }
+]

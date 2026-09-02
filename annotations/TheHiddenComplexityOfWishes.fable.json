@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But eating little girls is such an un-aesthetic solution that Wynne-Edwards, Allee, Brereton, and the other group-selectionists simply didn’t think of it.",
+    "content": "This is a claim about the imaginations of specific historical scientists, offered without evidence, and it is implausible on its face. Cannibalism of eggs and larvae in flour beetles was a standard, intensively studied laboratory phenomenon by the 1940s (<a href=\"https://doi.org/10.2307/1948641\">Park 1948</a>), and Wade chose <em>Tribolium</em> partly because its population dynamics, cannibalism included, were so well characterised. Allee's own research programme was on cooperation and aggregation in animals; the idea that he had never considered intraspecific killing does not survive a glance at his bibliography. The essay needs its historical villains to have been blinded by aesthetics, so it asserts that they were. That is the same move it accuses them of: writing the bottom line first."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The only safe genie is a genie that shares all your judgment criteria, and at that point, you can just say “I wish for you to do what I should wish for.” Which simply runs the genie’s should function.",
+    "content": "The argument proves too much. Every principal-agent relationship in the world, employer and employee, patient and surgeon, citizen and government, involves an agent who does not share all the principal's judgment criteria and who is nonetheless made approximately safe by incentives, monitoring, liability, and the ability to revoke the delegation; the economics of incomplete contracts is the study of how this works when specifying every contingency is impossible (<a href=\"https://doi.org/10.1086/261404\">Grossman &amp; Hart 1986</a>). The Outcome Pump is dangerous because it is an unbounded maximiser of a proxy with no oversight and no penalty for side effects; that is a particular design choice, not a theorem about delegation. The dichotomy of \"shares all your values\" or \"no wish is safe\" leaves out the entire middle where actual institutions live."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "There is no safe wish smaller than an entire human morality.",
+    "content": "The argument assumes there is a determinate object, \"your entire morality\" or \"the genie's should function,\" to be captured. Decades of work on preference construction indicate that human values are not a stable stored structure awaiting readout: judgments shift with framing, elicitation method, and context in ways that are not mere noise around a true value (<a href=\"https://doi.org/10.1037/0003-066X.50.5.364\">Slovic 1995</a>). If the wisher's own \"should function\" is partly constructed at the moment of asking, then \"run the genie's should function\" is not a well-defined instruction and the finite-Kolmogorov-complexity reassurance does not help. This is not a reason for less caution about powerful optimisers; it is a reason to doubt that the essay's proposed solution is coherent."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "All these special cases, the seemingly unlimited number of required patches, should remind you of the parable of Artificial Addition",
+    "content": "The prediction implicit here is that a system cannot acquire \"don't blow up the building\" without an explicit lookup table of forbidden paths. In practice, learned systems trained from human preference comparisons do generalise such judgments from a modest number of examples to novel cases, imperfectly but far better than a lookup table would (<a href=\"https://doi.org/10.48550/arXiv.1706.03741\">Christiano et al. 2017</a>; <a href=\"https://doi.org/10.48550/arXiv.2203.02155\">Ouyang et al. 2022</a>). The imperfections are real and well documented, including reward hacking and misgeneralisation (<a href=\"https://doi.org/10.48550/arXiv.2307.15217\">Casper et al. 2023</a>), and the underlying worry about proxies remains live. But the specific picture, that values must be either hand-patched case by case or transferred whole, was not how the problem actually presented itself."
+  }
+]

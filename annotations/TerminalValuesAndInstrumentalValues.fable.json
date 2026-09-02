@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But I do not think an argument about female circumcision is really a factual argument about how to best achieve a shared value of treating women fairly or making them happy.",
+    "content": "Empirical work on why the practice persists says otherwise. Practitioners justify it by appeal to hygiene, health, fertility, marriageability, and religious requirement, all of which are factual beliefs, and many of them false; the classic account models it as a self-enforcing convention maintained by beliefs about what others will do, and shows that it collapses when those beliefs change (<a href=\"https://doi.org/10.2307/2096305\">Mackie 1996</a>). Field data from Sudan found attitudes within communities far more heterogeneous than the \"different terminal values\" picture allows (<a href=\"https://doi.org/10.1126/science.aaa7978\">Efferson et al. 2015</a>). Whether a disagreement is \"about facts\" or \"about terminal values\" is itself an empirical question; the essay settles it for its two examples by intuition, and gets at least this one wrong."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "then you agree about a superior instrumental value (crime is bad), but you disagree about which intermediate events lead to which consequences",
+    "content": "The gun example is chosen as the paradigm factual dispute, and the research on gun attitudes suggests it is closer to the opposite. Perceptions of gun risk are predicted far better by cultural worldview than by any factual information, and providing more data polarises rather than converges (<a href=\"https://doi.org/10.2307/3312930\">Kahan &amp; Braman 2003</a>). Policy attitudes generally track group identity and symbolic values rather than instrumental calculation (<a href=\"https://doi.org/10.1016/S0065-2601(08)60327-5\">Sears &amp; Funk 1991</a>). So the two illustrations may be reversed: the \"factual\" gun dispute is largely a values dispute in disguise, and the \"values\" dispute over circumcision is substantially about facts. This is a problem for the essay's programme, since sorting disputes into the two bins turns out to require the very cognitive archaeology it admits is unreliable."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "An ideal Bayesian decision system can be set up using only four elements",
+    "content": "The formalism is standard expected-utility theory, and the \"type error\" argument against the psychological egoist is a nice use of it. Two caveats. First, humans demonstrably violate the axioms that guarantee a utility function exists, in ways that have been known since Allais (<a href=\"https://doi.org/10.2307/1907921\">Allais 1953</a>; <a href=\"https://doi.org/10.2307/1914185\">Kahneman &amp; Tversky 1979</a>), so an argument that a human philosopher's claim about human motivation is a \"type error\" in an idealisation humans do not satisfy has less force than it appears. Second, the empirical question the philosopher raises, whether apparent altruism reduces to self-regarding motives, was addressed by experiment rather than by formalism: Batson's studies separating empathic concern from personal distress found altruistic motivation that survives easy escape from the situation (<a href=\"https://doi.org/10.1037/0022-3514.40.2.290\">Batson et al. 1981</a>). The evidence is better than the type-checker."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "You may start thinking that there’s no way to develop a consequentialist that maximizes only inclusive genetic fitness, because it will starve unless you include an explicit terminal value for “eating food.”",
+    "content": "The people who say this are not making a type error; they are making a point about information. A consequentialist can derive \"eat\" from \"reproduce\" only if it already knows that eating leads to reproduction, and the entire difficulty is that this knowledge, for an organism, is neither innate nor cheaply learnable before it starves. Formal analyses of the evolution of preferences conclude that under realistic information constraints a designer should install proxy goals rather than a fitness objective, because the proxy-goaled agent outperforms the pure consequentialist (<a href=\"https://doi.org/10.1016/B978-0-444-53187-2.00007-3\">Robson &amp; Samuelson 2011</a>). The steam-shovel-and-car-door analogy works because the human already has the causal model; it fails for exactly the case it is deployed against."
+  }
+]

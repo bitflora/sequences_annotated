@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Raising the value of the stakes can increase need for closure—which shuts down complexity tolerance when complexity tolerance is most needed.",
+    "content": "The need-for-closure literature says roughly the reverse for the manipulation described. Kruglanski's framework distinguishes the need for closure, raised by time pressure, fatigue, and noise, from the fear of invalidity, raised by accountability and high costs of being wrong; the latter <em>lowers</em> closure-seeking and increases deliberation (<a href=\"https://doi.org/10.1016/0022-1031(83)90022-7\">Kruglanski &amp; Freund 1983</a>; <a href=\"https://doi.org/10.1037/0033-295X.103.2.263\">Kruglanski &amp; Webster 1996</a>). Raising the stakes in the sense of making error costly is therefore predicted to open the mind, not shut it, unless it comes bundled with time pressure. The measurement instrument itself has also been criticised as multidimensional and not cleanly interpretable (<a href=\"https://doi.org/10.1037/0022-3514.72.6.1396\">Neuberg, Judice &amp; West 1997</a>). The essay borrows a construct's name and reverses its best-supported prediction."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You can say, unconditionally and flatly, that killing anyone is a huge dose of negative terminal utility. Yes, even Hitler.",
+    "content": "This is a statement of the author's moral philosophy presented as if it followed from the decision-theoretic formalism, and it does not. The formalism permits any utility function over outcomes, including ones where the death of a mass murderer carries positive terminal utility, and nothing in the \"double counting\" argument rules that out; the essay concedes as much a few sentences later and then reasserts the flat claim anyway. Moral psychology finds that people do not in fact treat lives as fungible quantities of utility to be summed: protected or sacred values resist trade-offs and produce outrage at the very proposal of one (<a href=\"https://doi.org/10.1006/obhd.1997.2690\">Baron &amp; Spranca 1997</a>; <a href=\"https://doi.org/10.1016/S1364-6613(03)00135-9\">Tetlock 2003</a>). Whether that is a bias or a datum about what values are is the philosophical question; the additive framework assumes the answer."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Instrumental values often have no specification that is both compact and local.",
+    "content": "This is true and useful, and it has a name and a literature the essay does not mention. The impossibility of writing down a compact, local rule for what to do that survives contact with a complex environment is the frame problem in one guise and Goodhart's law in another: any proxy that is compact enough to state and local enough to measure will diverge from the goal under optimisation pressure. The general pattern has been formalised into several distinct failure modes (<a href=\"https://doi.org/10.48550/arXiv.1803.04585\">Manheim &amp; Garrabrant 2018</a>). Situating the box-and-keys parable in that literature would have made the point stronger and shown that it is a known structural feature of specification, not a novel observation."
+  }
+]

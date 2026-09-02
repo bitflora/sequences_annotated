@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Anger exists in Homo sapiens because angry ancestors had more kids. There’s no other way it could have gotten there.",
+    "content": "There are several other ways, and every one of them is textbook evolutionary biology. A trait can be present because it is a by-product of something else that was selected, because of pleiotropy, because of drift, or because it is an inherited feature of a lineage that was never selected against; the leading evolutionary psychologists themselves published a paper distinguishing adaptations from exaptations and spandrels and cautioning against assuming the first (<a href=\"https://doi.org/10.1037/0003-066X.53.5.533\">Buss et al. 1998</a>). Anger-like approach-and-threat responses are shared across mammals, so \"angry ancestors had more kids\" may be true of some pre-primate lineage in a way that says little about the human emotion. The essay's \"no other way\" is the adaptationist fallacy that <a href=\"https://doi.org/10.1098/rspb.1979.0086\">Gould &amp; Lewontin (1979)</a> named, stated in its purest form."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Some brain organs are directly reproductive, like lust; others are indirectly reproductive, like anger.",
+    "content": "There is no anger organ. Meta-analysis of neuroimaging finds no brain region or network that is consistently and specifically activated by any single discrete emotion; the same regions participate in many emotions and in non-emotional processing (<a href=\"https://doi.org/10.1017/S0140525X11000446\">Lindquist et al. 2012</a>). The picture of the brain as a collection of dedicated evolved modules is the massive-modularity thesis, and it is contested on both neural and computational grounds: cortical regions are reused across wildly different tasks (<a href=\"https://doi.org/10.1017/S0140525X10000853\">Anderson 2010</a>), and the defenders of modularity have had to redefine \"module\" so loosely that the thesis loses much of its content (<a href=\"https://doi.org/10.1037/0033-295X.113.3.628\">Barrett &amp; Kurzban 2006</a>). The organ metaphor smuggles in a contested architecture as if it were anatomy."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The woman is attracted to his confident smile and firm manner, cues to high status, which in the ancestral environment would have signified the ability to provide resources for children.",
+    "content": "The sex-differentiated mate-preference story comes from self-report surveys (<a href=\"https://doi.org/10.1017/S0140525X00023992\">Buss 1989</a>), and it has two well-documented problems. First, stated preferences do not predict whom people are actually attracted to: in speed-dating studies, the sex difference in weighting status versus attractiveness disappears when real partners rather than hypothetical ones are being evaluated (<a href=\"https://doi.org/10.1037/0022-3514.94.2.245\">Eastwick &amp; Finkel 2008</a>). Second, the size of the sex difference across nations tracks the nations' gender inequality, shrinking sharply where women have economic independence, which is what a social-role account predicts and an ancestral-adaptation account does not (<a href=\"https://doi.org/10.1177/0956797612441004\">Zentner &amp; Mitura 2012</a>). The vignette narrates a contested hypothesis as if it were the woman's neural wiring."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Like “IRC chat” or “TCP/IP protocol,” the phrase “reproductive organ” is redundant. All organs are reproductive organs.",
+    "content": "Cute, but it defines away a real distinction and ignores everything that is not an adaptation. The appendix, the plantar muscles, the genes for a functional vitamin-C pathway that primates broke and never repaired, and much of the genome are present not because they contributed to ancestral reproduction but because nothing removed them; non-adaptive evolution is the null hypothesis that adaptive stories must beat (<a href=\"https://doi.org/10.1073/pnas.0702207104\">Lynch 2007</a>). Even for genuine adaptations, saying the wing is a \"reproductive organ\" collapses Tinbergen's distinct questions of function, mechanism, development, and history into one word (<a href=\"https://doi.org/10.1111/j.1439-0310.1963.tb01161.x\">Tinbergen 1963</a>). The essay elsewhere insists on keeping these levels apart; the opening joke is a category error it spends the rest of the piece warning against."
+  }
+]

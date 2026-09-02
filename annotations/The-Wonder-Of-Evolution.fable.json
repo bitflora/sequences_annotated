@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But in this case we do know how it happened.",
+    "content": "We do not. The RNA-world hypothesis is the leading candidate, but it is a hypothesis with serious unsolved problems, not a known history. One of its own advocates has called it \"the worst theory of the early evolution of life (except for all the others)\" (<a href=\"https://doi.org/10.1186/1745-6150-7-23\">Bernhardt 2012</a>), and the standard review is candid about the gaps between RNA replication in the lab and anything plausibly prebiotic (<a href=\"https://doi.org/10.1101/cshperspect.a003608\">Robertson &amp; Joyce 2012</a>). Competing metabolism-first accounts, in which autocatalytic chemistry at hydrothermal vents precedes any genetic polymer, remain on the table (<a href=\"https://doi.org/10.1098/rstb.2002.1183\">Martin &amp; Russell 2003</a>). The paragraph's epistemic confidence is exactly the kind the essay itself says one should not extend one millimetre past the evidence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "by some strange coincidence, the chemical ingredients of RNA are chemicals that would have arisen naturally on the prebiotic Earth of 4 billion years ago",
+    "content": "This was not true when written and is only partly true now. The prebiotic synthesis of ribonucleotides was for decades regarded as the central obstacle to the RNA world, because ribose is unstable and does not readily join to bases. A plausible route to the pyrimidine nucleotides was found only in 2009 (<a href=\"https://doi.org/10.1038/nature08013\">Powner, Gerland &amp; Sutherland 2009</a>) and to the purines in 2016 (<a href=\"https://doi.org/10.1126/science.aad2808\">Becker et al. 2016</a>), each requiring specific, sequenced conditions that are still debated as geochemically realistic. Calling the availability of RNA's ingredients a \"strange coincidence\" inverts the actual history: the ingredients were the problem."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The first replicator wasn’t a statistical trend, it was a pure accident.",
+    "content": "This is a philosophical stipulation presented as a scientific result, and it forecloses an active research programme. Whether the transition from chemistry to evolvable replicators was a one-off accident or a gradual selection process on autocatalytic networks is precisely what origin-of-life researchers argue about; one influential analysis found that simple autocatalytic sets lack the heritable variation needed to evolve (<a href=\"https://doi.org/10.1073/pnas.0912628107\">Vasas, Szathmáry &amp; Santos 2010</a>), which is a substantive empirical result, not a category error. The essay's dismissal of the question as \"creationist misrepresentation\" is a rhetorical shield: one can hold that evolution presupposes a replicator and still think the emergence of the first one is a legitimate scientific question rather than a strawman."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Science has a very exact idea of the capabilities of evolution.",
+    "content": "It does not, and the gap is where much current research lives. What determines evolvability, how often adaptation proceeds from standing variation versus new mutation, how rugged real fitness landscapes are, and how fast populations can track environmental change are all open questions (<a href=\"https://doi.org/10.1038/nrg2278\">Pigliucci 2008</a>). Empirical surprises keep arriving: <em>E. coli</em> in the Lenski long-term experiment evolved a novel citrate-metabolising trait after 31,000 generations through a multi-step potentiation and refinement process nobody predicted (<a href=\"https://doi.org/10.1038/nature11514\">Blount et al. 2012</a>). The essay wants a sharp line so that anyone above it is a creationist dupe and anyone below it is a scientist, but the line itself is drawn by intuition, not by any exact theory."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the descendants of flying squirrels might reoccupy that ecological niche in ten million years, gliding membranes transformed into wings",
+    "content": "The gliding-to-flapping (\"trees-down\") route is presented as the obvious incremental path, but it is one side of a long-running dispute. Gliders and flappers have very different wing kinematics, and no known gliding lineage has ever evolved powered flight; the alternative \"ground-up\" model, supported by experiments showing that juvenile birds flap their wings to run up steep inclines, offers a distinct incremental pathway (<a href=\"https://doi.org/10.1126/science.1078237\">Dial 2003</a>). The point matters because the essay's argument is that we can \"visualize the trail backward\"; in this case biologists have visualised at least two incompatible trails and cannot yet decide between them. The example illustrates how easy it is to construct a plausible incremental story, which is a caution, not a confirmation."
+  }
+]

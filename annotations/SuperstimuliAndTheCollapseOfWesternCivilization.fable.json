@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Resisting any temptation takes conscious expenditure of an exhaustible supply of mental energy.",
+    "content": "This is the strength model of self-control, and its central claim has not survived. A 23-laboratory preregistered replication of the standard depletion paradigm found an effect indistinguishable from zero (<a href=\"https://doi.org/10.1177/1745691616652873\">Hagger et al. 2016</a>); a second multi-site effort using paradigms chosen by the theory's proponents found at most a very small effect (<a href=\"https://doi.org/10.1177/0956797621989733\">Vohs et al. 2021</a>); and meta-analysis correcting for publication bias found the original literature consistent with no effect at all (<a href=\"https://doi.org/10.1037/xge0000083\">Carter et al. 2015</a>). The glucose-as-fuel variant fails on physiological grounds: the brain's marginal energy use during effortful tasks is trivial (<a href=\"https://doi.org/10.1177/147470491000800208\">Kurzban 2010</a>). Everything the essay builds on \"exhaustible mental energy,\" including the superstimulus-depletes-faster conjecture, rests on this."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Actual women are killing themselves (e.g., supermodels using cocaine to keep their weight down) to keep up with competitors that literally don’t exist.",
+    "content": "The effect of idealised media images on body dissatisfaction is real but small. Meta-analysis puts the average experimental effect around <em>d</em> = −0.28, with most of it concentrated in women already high in body dissatisfaction (<a href=\"https://doi.org/10.1037/0033-2909.134.3.460\">Grabe, Ward &amp; Hyde 2008</a>), and a later meta-analysis found effects near zero for the general population, concluding that thin-ideal media \"affects some, but not most, viewers\" (<a href=\"https://doi.org/10.1037/a0030766\">Ferguson 2013</a>). The famous Fiji study, in which disordered eating rose after television arrived, is a single uncontrolled before-after comparison (<a href=\"https://doi.org/10.1192/bjp.180.6.509\">Becker et al. 2002</a>). Supermodels on cocaine are an anecdote about one occupation, not evidence that superstimuli are killing women in general."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "But video game manufacturers compete against each other, and if you can make your game 5% more addictive, you may be able to steal 50% of your competitor’s customers.",
+    "content": "The numbers are invented, and the prediction of an addictiveness ratchet has had seventeen years to show up. Using conservative diagnostic criteria, the prevalence of \"internet gaming disorder\" in large representative samples is 0.3 to 1%, with no detectable association with health outcomes (<a href=\"https://doi.org/10.1176/appi.ajp.2016.16020224\">Przybylski, Weinstein &amp; Murayama 2017</a>); broader meta-analytic estimates are around 3% and are highly sensitive to instrument and sample (<a href=\"https://doi.org/10.1177/0004867420962851\">Stevens et al. 2021</a>). What the market did ratchet is monetisation: loot-box spending correlates with problem gambling severity (<a href=\"https://doi.org/10.1371/journal.pone.0206767\">Zendle &amp; Cairns 2018</a>). That is a real problem, but it is not \"engaged consumers are removed from the gene pool,\" and it is a different mechanism from the one the essay proposes."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Perhaps the demographic collapse of advanced societies happens because the market supplies ever-more-tempting alternatives to having children",
+    "content": "Demographers have a mature body of theory and evidence on fertility decline, and it does not need superstimuli. Falling child mortality, rising returns to education, women's labour-force participation, the cost of children, and contraception jointly account for the transition across very different societies (<a href=\"https://doi.org/10.1257/089533003772034943\">Lee 2003</a>). Media does have a measured effect, but the mechanism is social modelling rather than temptation: exposure to Brazilian soap operas depicting small families lowered fertility (<a href=\"https://doi.org/10.1257/app.4.4.1\">La Ferrara, Chong &amp; Duryea 2012</a>), and the MTV show <em>16 and Pregnant</em> reduced teen births by informing viewers about the consequences (<a href=\"https://doi.org/10.1257/aer.20140012\">Kearney &amp; Levine 2015</a>). \"Marketed out of existence\" is a line from a novel, offered as a hypothesis in place of a literature the essay does not engage."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "our ancestors with too much willpower probably starved themselves to sacrifice to the gods, or failed to commit adultery one too many times",
+    "content": "There is no evidence for any of this; it is a just-so story invented to explain a trait (limited willpower) whose existence as a depletable resource is itself doubtful. It also illustrates the method the sequence elsewhere condemns: pick the observed level of a trait, assume it is an optimum, and invent selective costs on either side to explain why. Heritable individual differences in self-control are real and substantial, but their evolutionary history is unknown and the trait may be a by-product of general executive function rather than a tuned adaptation with its own cost-benefit history (<a href=\"https://doi.org/10.1037/0003-066X.53.5.533\">Buss et al. 1998</a>). \"Probably\" is carrying an entire evolutionary hypothesis with no observations behind it."
+  }
+]

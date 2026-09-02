@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Isn’t this a remarkable situation to be in, from a scientific perspective? I can predict the outcome of a process, without being able to predict any of the intermediate steps of the process.",
+    "content": "It is the ordinary situation in most of science, not a remarkable one. Thermodynamics predicts that a gas will reach equilibrium without tracking a single molecule; ecology predicts population equilibria without tracking a single animal; any system with an attractor is predictable at the coarse level and unpredictable at the fine one. The specific version for agents, predicting behaviour from attributed goals and competence while ignoring mechanism, is Dennett's \"intentional stance,\" worked out in detail two decades before this essay, along with an account of why such coarse-grained patterns are real and predictive (<a href=\"https://doi.org/10.2307/2027085\">Dennett 1991</a>). The essay presents a well-known idea as a personal discovery and the foundation of a life's work, without acknowledging the literature that already contains it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I must credit that my friend is a good enough planner to successfully drive me to the airport (if he wants to).",
+    "content": "The example is chosen so that the inference succeeds; in general it fails, and the failures are systematic. People are reliably overconfident about their own and others' ability to complete plans on time, a bias robust enough to have its own name (<a href=\"https://doi.org/10.1037/0022-3514.67.3.366\">Buehler, Griffin &amp; Ross 1994</a>). Knowing an agent's goal and believing it competent licenses a prediction only when one also has base rates for how often such agents achieve such goals, and those base rates, not the goal-attribution, carry most of the predictive content. Chess ratings work because they are exactly such base rates accumulated over thousands of games; the \"I know Kasparov's utility function\" framing takes credit for a prediction that Elo statistics are actually making."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The outcome of Kasparov’s game is predictable because I know, and understand, Kasparov’s goals.",
+    "content": "Chess is the best case for this method and it is not representative. The goal is fixed by the rules, publicly known, single-dimensional, and the same for both players; the only unknown is capability. Outside games, inferring goals from behaviour is underdetermined: any pattern of choices is consistent with many preference orderings plus beliefs, which is the classic problem with revealed preference (<a href=\"https://doi.org/10.2307/2552796\">Sen 1973</a>), and in inverse reinforcement learning the same behaviour is compatible with infinitely many reward functions. The essay's method, predict outcomes from known goals plus assumed power, therefore has its greatest difficulty in precisely the domain it is meant to be applied to, an artificial agent whose goals are the thing in question."
+  }
+]

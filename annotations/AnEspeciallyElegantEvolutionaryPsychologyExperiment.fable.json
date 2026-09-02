@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "my understanding is that the results here squared well with the data from closer studies of parental grief that were looking for other correlations",
+    "content": "It is not clear what studies are meant, and the ones that exist do not square well. In a study of 219 bereaved couples, grief intensity <em>increased</em> with the age of the child who died, approximately linearly, across the whole range up to age 30, with no sign of the post-adolescent decline the reproductive-value curve predicts (<a href=\"https://doi.org/10.1037/0022-006X.73.4.617\">Wijngaards-de Meij et al. 2005</a>). Reviews of parental bereavement outcomes find losing an adult child is at least as devastating as losing a young one (<a href=\"https://doi.org/10.1017/S1478951509000133\">Hendrickson 2009</a>). The one earlier sociobiological study of real bereaved relatives found only weak effects of the child's age (<a href=\"https://doi.org/10.1037/0022-3514.51.4.797\">Littlefield &amp; Rushton 1986</a>). A hedge like \"my understanding is\" is where a citation should be, and the citations point the other way."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "This may sound suspiciously high—could evolution really do such exact fine-tuning?—until you realize that this selection pressure was not only great enough to fine-tune parental grief, but, in fact, carve it out of existence from scratch in the first place.",
+    "content": "Strength of selection does not imply precision of fit, and the inference from \"strong pressure\" to \"0.92 is plausible\" is a non sequitur. Strongly selected traits routinely show large residual variation from mutation, developmental noise, pleiotropic trade-offs, and gene flow; that is why heritable variation in fitness-relevant traits persists at all. The real reason 0.92 is unsurprising is duller: it is a correlation between two smooth, single-peaked curves across a handful of age bins, and any two hump-shaped functions of age will correlate highly. The essay reaches for a grand evolutionary explanation for a number that a statistician would explain with degrees of freedom."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "the parental grief adaptation is fine-tuned in a way that has nothing to do with past investment in a child, and everything to do with the future reproductive consequences of losing that child",
+    "content": "The data cannot distinguish these. Cumulative parental investment and residual reproductive value both rise monotonically from birth to adolescence, so over that range the two hypotheses make the same prediction; they diverge only after adolescence, where reproductive value falls and investment keeps rising. The Crawford study's discriminating evidence is therefore the post-adolescent decline in <em>imagined</em> grief, and in studies of actual bereaved parents that decline is not observed; grief keeps rising with the child's age (<a href=\"https://doi.org/10.1037/0022-006X.73.4.617\">Wijngaards-de Meij et al. 2005</a>). The confident \"of course\" is attached to the one part of the claim the evidence contradicts."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "whether the surviving !Kung are typical ancestral hunter-gatherers in this dimension",
+    "content": "The reproductive-value curve is a construct built from Howell's demographic study of a few hundred Dobe !Kung in the 1960s and 70s, a population already in contact with pastoralists and with high infant mortality partly attributable to introduced disease. Whether that mortality schedule resembles the Pleistocene one is unknowable, and the general practice of treating one contemporary foraging group as the \"ancestral environment\" is a recognised weakness of the field (<a href=\"https://doi.org/10.1037/0003-066X.53.5.533\">Buss et al. 1998</a>). The essay flags this concern and then dismisses it on the strength of the very correlation whose meaning is in question. Circularity: the fit is used as evidence that the input to the fit was appropriate."
+  }
+]

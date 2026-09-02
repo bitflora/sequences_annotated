@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "to getting fat, to getting fewer dates, to reproducing less successfully",
+    "content": "In the one large dataset where this has been measured, the sign is reversed. Analysing three generations of the Framingham Heart Study, Byars and colleagues found that natural selection in a contemporary American population favoured women who were <em>heavier</em>, as well as shorter and with lower cholesterol, with the trends projected to continue (<a href=\"https://doi.org/10.1073/pnas.0906199106\">Byars et al. 2010</a>). Reviews of selection in modern humans find it ongoing and measurable, and not in the direction the essay's causal chain assumes (<a href=\"https://doi.org/10.1038/nrg2831\">Stearns et al. 2010</a>). The essay's point that the taste bud does not track present fitness survives; the illustrative chain of consequences it offers is empirically backwards."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Fifty thousand years ago, the taste buds of Homo sapiens directed their bearers to the scarcest, most critical food resources—sugar and fat.",
+    "content": "Sweet receptors are not a hominin adaptation to Pleistocene scarcity; the TAS1R sweet/umami receptor family predates mammals and its evolution across vertebrates tracks diet in ways that have nothing to do with human famine (<a href=\"https://doi.org/10.1093/molbev/msj028\">Shi &amp; Zhang 2006</a>). Nor is it established that ancestral humans were chronically calorie-limited: Hadza foragers expend no more energy per day than Westerners and remain lean, which points to intake and food environment rather than to a scarcity-tuned appetite as the modern problem (<a href=\"https://doi.org/10.1371/journal.pone.0040503\">Pontzer et al. 2012</a>). The \"Adam liked sugar and ate an apple, 2763 generations later\" story is a parable, and the essay should say so instead of dating it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "No human being with the deliberate goal of maximizing their alleles’ inclusive genetic fitness would ever eat a cookie unless they were starving.",
+    "content": "This is not obvious and the essay does not argue it. A deliberate fitness-maximiser in a modern food environment would eat cookies whenever their marginal fitness cost is negligible, which for most people most of the time it is; obesity's effect on reproductive success is small, sex-dependent, and in at least one large cohort positive for women (<a href=\"https://doi.org/10.1073/pnas.0906199106\">Byars et al. 2010</a>). The sentence works rhetorically by importing an implicit model in which any sub-optimal calorie is a fitness loss, and it is the same implicit model that generated the thrifty-gene hypothesis, which has not survived genomic scrutiny (<a href=\"https://doi.org/10.1016/j.ajhg.2014.01.009\">Ayub et al. 2014</a>). The slogan that organisms are adaptation-executers is sound; the cookie example is just another adaptationist intuition."
+  }
+]

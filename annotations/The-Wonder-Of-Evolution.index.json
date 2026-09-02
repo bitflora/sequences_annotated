@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/The-Wonder-Of-Evolution.fable.json",
+    "default": true
+  }
+]

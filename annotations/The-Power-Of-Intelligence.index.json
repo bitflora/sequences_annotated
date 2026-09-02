@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/The-Power-Of-Intelligence.fable.json",
+    "default": true
+  }
+]

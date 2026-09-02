@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "So far as evolution is concerned, individuals reproducing to the fullest and then cannibalizing others’ daughters is a no-brainer; whereas individuals voluntarily restraining their own breeding for the good of the group is absolutely ludicrous.",
+    "content": "The experimental record does not support \"no-brainer\" versus \"ludicrous.\" Selecting on whole-group productivity in caged hens reduced cannibalism and pecking mortality from 68% to 9% within six generations, producing precisely the \"nice\" outcome the essay says group selection cannot deliver (<a href=\"https://doi.org/10.3382/ps.0750447\">Muir 1996</a>; <a href=\"https://doi.org/10.3382/ps.0750294\">Craig &amp; Muir 1996</a>). Wade got cannibals because he selected for small populations, and cannibalism was already in the beetles' standing repertoire (<a href=\"https://doi.org/10.2307/1948641\">Park 1948</a>); restraint was not, so the essay's parenthetical claim that the two alternatives are \"around equally simple as mutations\" is false in the one system it cites. What natural selection finds obvious depends on the criterion and the available variation, not on an inherent ranking of ugly over pretty."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "we are descended from those who argued most persuasively that the tribe’s interest—not just their own interest—required that their hated rival Uglak be executed",
+    "content": "Repeated from <em>Fake Optimization Criteria</em> and still without evidence. The anthropology of mobile foragers describes societies in which the coalition kills or expels the aspiring dominator, and in which persuasive self-aggrandisement is precisely what gets punished (<a href=\"https://doi.org/10.1126/science.1219961\">Boehm 2012</a>). The essay is illustrating a fallacy, deriving what nature must have done from what would be a satisfying story, with an example that commits it. An evolutionary account of rationalisation may well be right, but \"we sure aren't descended from Uglak\" is a rhetorical pleasure, not a datum."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "look at the cognitive history and it’s optimism in, optimism out",
+    "content": "The empirical literature on optimism is in worse shape than this confident generalisation suggests. The much-cited finding that people update their beliefs more in response to good news than bad (<a href=\"https://doi.org/10.1016/j.cub.2011.10.030\">Sharot 2011</a>) has been argued to be a statistical artefact of the belief-update paradigm, reproducible with agents that have no optimism at all (<a href=\"https://doi.org/10.1016/j.cogpsych.2016.05.004\">Shah et al. 2016</a>). More to the point, the essay's own inference is symmetric: if one cannot predict an alien optimiser by ranking outcomes on one's own preferences, one equally cannot predict that it will produce outcomes one dislikes. \"Anthropomorphic optimism\" has a twin, anthropomorphic pessimism, and the \"heavy subtext about Unfriendly AI\" is only licensed if the essay's method is abandoned for the pessimistic conclusion."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Later on, when Michael J. Wade actually went out and created in the laboratory the nighimpossible conditions for group selection",
+    "content": "The framing of Wade's conditions as \"nigh-impossible\" and the result as an embarrassment for group selection is the reverse of how the experiment is understood in the field. Wade's papers were taken as showing that group selection is a strong and fast evolutionary force when population structure permits it, and they helped launch the multilevel-selection revival rather than close it (<a href=\"https://doi.org/10.1111/j.1558-5646.1977.tb00985.x\">Wade 1977</a>; <a href=\"https://doi.org/10.1086/286049\">Goodnight &amp; Stevens 1997</a>). Later theoretical work established that group and kin selection are mathematically interchangeable descriptions, so that the dispute the essay narrates as won and lost was largely about bookkeeping (<a href=\"https://doi.org/10.1086/522809\">Wilson &amp; Wilson 2007</a>). The morality tale requires a decisive loser; the science does not supply one."
+  }
+]

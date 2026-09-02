@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "No; the adults adapted to cannibalize eggs and larvae, especially female larvae.",
+    "content": "The cannibalism is presented as what group selection \"really\" produces once romance is stripped away. It is what you get when you select for <em>low population size</em>. When Muir applied group selection to caged hens, selecting on the productivity of the whole cage rather than the individual bird, mortality from pecking and cannibalism fell from 68% to 9% in six generations, and the birds became measurably less aggressive (<a href=\"https://doi.org/10.3382/ps.0750447\">Muir 1996</a>). Wade's own follow-up demonstrated that group selection was a strong and rapid force in the laboratory rather than a negligible one (<a href=\"https://doi.org/10.1111/j.1558-5646.1977.tb00985.x\">Wade 1977</a>), and reviewers of the experimental literature draw the same conclusion (<a href=\"https://doi.org/10.1086/286049\">Goodnight &amp; Stevens 1997</a>). The lesson the essay draws, \"nature picks the ugly solution,\" is an artefact of which criterion the experimenter happened to select on."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The math suggests this is pretty unlikely. In this simulation, for example",
+    "content": "The simulation is never identified, and the cited source undercuts the use it is put to. Footnote 1 is D. S. Wilson's 1975 trait-group model, a paper whose purpose was to show that group selection for altruism <em>can</em> work under realistic population structure, and which became a founding document of the multilevel-selection revival (<a href=\"https://doi.org/10.1086/522809\">Wilson &amp; Wilson 2007</a>). The parameter values (subgroups of 25, 20% migration, 3% cost) are quoted without provenance and without any indication of why they are the relevant ones for a predator population. A reader cannot check any of this, which is a strange posture for an essay about not trusting conclusions that arrive pre-selected by their author's preferences."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "foxes didn’t restrain their breeding (I forget the exact species of dispute; it wasn’t foxes and rabbits)",
+    "content": "The forgotten species matters, because the real case is messier than \"they looked and it wasn't there.\" Wynne-Edwards's central examples were birds, especially red grouse, and the dispute with Lack was over interpretation of density regulation that both sides agreed occurred. Grouse populations are in fact regulated by territorial behaviour that limits breeding density (<a href=\"https://doi.org/10.1016/S0065-2504(01)32011-1\">Moss &amp; Watson 2001</a>); the argument was whether this is individuals maximising their own success or a group adaptation, which is a question about mechanism, not about whether restraint is observed. The clean story of romantic prediction meeting brute empirical refutation is itself a narrative selected for its aesthetic appeal."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I often recommend evolutionary biology to friends just because the modern field tries to train its students against rationalization",
+    "content": "Evolutionary biology's own most-cited internal critique says the opposite about the field's dominant mode. Gould and Lewontin's \"Spandrels\" paper charged the adaptationist programme with exactly the failure the essay attributes to group selectionists: telling a plausible story about why a trait is optimal, failing to test alternatives such as drift, constraint, or by-product, and treating the story's plausibility as evidence (<a href=\"https://doi.org/10.1098/rspb.1979.0086\">Gould &amp; Lewontin 1979</a>). Lynch has argued that much of the field's thinking about complexity is adaptationist storytelling that ignores non-adaptive population-genetic forces (<a href=\"https://doi.org/10.1073/pnas.0702207104\">Lynch 2007</a>). The discipline that the essay holds up as the cure for rationalisation has a forty-year literature accusing itself of the disease."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "then they searched for a reason why this would happen, and came up with the idea of group selection; then, since they knew what they wanted the outcome of group selection to be, they didn’t look for any less beautiful and aesthetic adaptations",
+    "content": "This is a claim about the private cognitive histories of scientists dead or retired by 2007, and no evidence is offered for it. It is also anachronistic: Wynne-Edwards was proposing a mechanism for population regulation that ecologists observed and could not otherwise explain, and cannibalism in flour beetles was already a thoroughly documented laboratory phenomenon in his day (<a href=\"https://doi.org/10.2307/1948641\">Park 1948</a>), so \"they couldn't imagine it\" is not a plausible reconstruction. The essay diagnoses motivated reasoning in others by inferring their motives from the fact that they were wrong, which is a circular procedure that would convict anyone who ever backed a losing hypothesis."
+  }
+]

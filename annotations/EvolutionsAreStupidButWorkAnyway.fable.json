@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Thus, if the population size were 1,000,000—the estimated population in hunter-gatherer times—then it would require 2,763 generations for a gene conveying a 1% advantage to spread through the gene pool.",
+    "content": "The formula and the input are mismatched. The fixation-time expression is a population-genetic result in which <em>N</em> is the effective population size, not the census count, and the long-term human effective population size is on the order of 10,000, not 1,000,000 (<a href=\"https://doi.org/10.1093/oxfordjournals.molbev.a039995\">Takahata 1993</a>). Substituting the right number cuts the estimate by about a third. More importantly, the calculation assumes a new mutation starting from a single copy; adaptation from standing variation (\"soft sweeps\") is far faster and appears to be common (<a href=\"https://doi.org/10.1534/genetics.104.036947\">Hermisson &amp; Pennings 2005</a>; <a href=\"https://doi.org/10.1016/j.tree.2013.08.003\">Messer &amp; Petrov 2013</a>). Lactase persistence in Europeans rose from rare to majority in well under 10,000 years, with estimated selection coefficients of 0.09 to 0.19, several times the \"pretty darned large\" 3% the essay treats as an upper bound (<a href=\"https://doi.org/10.1086/421051\">Bersaglieri et al. 2004</a>)."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Probability of fixation = 2s",
+    "content": "This one is right and worth affirming. Haldane's 1927 result that a new beneficial mutation with heterozygous advantage <em>s</em> fixes with probability roughly 2<em>s</em> in a large, stable population is a cornerstone of population genetics and has held up (<a href=\"https://doi.org/10.1017/S0305004100011750\">Haldane 1927</a>). Two caveats the essay omits: the result assumes constant population size, and in a growing population the fixation probability is higher because early drift losses are less likely (<a href=\"https://doi.org/10.1093/genetics/146.2.723\">Otto &amp; Whitlock 1997</a>); and the relevant quantity for adaptation is not the fate of one mutation but the rate of supply, which in a population of a million is many copies of most possible point mutations every generation."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "According to biologists’ best current knowledge, evolutions have invented a fully rotating wheel on a grand total of three occasions.",
+    "content": "No source is given and the count depends entirely on definitions. The bacterial flagellar motor is a true rotary engine (<a href=\"https://doi.org/10.1038/245380a0\">Berg &amp; Anderson 1973</a>); the archaeal flagellum rotates but is evolutionarily unrelated, sharing ancestry with type IV pili (<a href=\"https://doi.org/10.1016/j.tim.2012.04.007\">Jarrell &amp; Albers 2012</a>); F-type and V-type ATP synthases are rotary but homologous to each other. Depending on how one splits these, the number is two, three, or four, and none of it is \"biologists' best current knowledge\" so much as a trivia question. The rhetorical purpose is to make evolution look feeble next to a wheelwright, but macroscopic wheels are absent from biology for reasons of physiology and terrain, not because selection failed to \"think of\" them."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "In other ways, human technology leaves biology in the dust.",
+    "content": "In the one domain where the comparison is direct, the record cuts the other way. For decades rational protein design, humans reasoning from structure to function, was comprehensively outperformed by directed evolution, which is random mutation plus screening run in a test tube (<a href=\"https://doi.org/10.1021/ar960017f\">Arnold 1998</a>; <a href=\"https://doi.org/10.1038/nrm2805\">Romero &amp; Arnold 2009</a>); this is what the 2018 Nobel Prize in Chemistry was for. Protein structure prediction remained unsolved for fifty years until it yielded not to insight but to a learned model trained on evolution's own output. The grad student who \"can do things in an hour that evolution could not do in a billion years\" is also, for many molecular problems, a grad student who spends a year failing at what a week of directed evolution accomplishes."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "we only really began accumulating knowledge, around… what, four hundred years ago?",
+    "content": "This is off by roughly three orders of magnitude and the error is load-bearing. Cumulative cultural evolution, in which each generation builds on inherited techniques nobody could invent alone, is at least as old as the Acheulean and is the standard explanation for how humans came to dominate ecologies (<a href=\"https://doi.org/10.1073/pnas.1100290108\">Boyd, Richerson &amp; Henrich 2011</a>). It matters because the essay's headline comparison, one programmer designing a hundred interdependent parts \"in a single afternoon\" versus evolution's millennia, credits an individual brain with what is in fact the product of thousands of years of accumulated, selectively retained culture. The honest comparison is between two cumulative selection processes running at different speeds, not between a genius and a blind watchmaker."
+  }
+]

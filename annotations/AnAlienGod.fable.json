@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Whatever happens, happens because of the genes themselves.",
+    "content": "This is strict gene-centrism stated as settled fact, and it is not. Evolutionary change is also driven by non-genetic inheritance, developmental bias, plasticity, and organisms reshaping their own selective environments (niche construction); proponents of an \"extended evolutionary synthesis\" argue these are causes of adaptation in their own right, not footnotes to gene frequencies (<a href=\"https://doi.org/10.1098/rspb.2015.1019\">Laland et al. 2015</a>). Defenders of the standard view reply that the existing framework already accommodates them (<a href=\"https://doi.org/10.1038/514161a\">Wray et al. 2014</a>). Either way, the essay's \"no royal road, buy a textbook\" gesture conceals a live dispute about whether genes are the only thing that \"happens.\" The rhetorical move is to present one side of a debate among professional biologists as the thing everyone but the confused amateur already knows."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It was a reliable invariant of humans’ ancestral environment that calories were scarce.",
+    "content": "This is the \"thrifty gene\" hypothesis (Neel 1962), and it has fared badly. If calorie scarcity had been a reliable invariant driving strong selection for fat storage, alleles for obesity should have gone to fixation and should show signatures of positive selection; they have not, and a survey of 65 type-2-diabetes risk loci found no such signature (<a href=\"https://doi.org/10.1016/j.ajhg.2014.01.009\">Ayub et al. 2014</a>). Famines were episodic, mortality in them was concentrated among the very young and old rather than the reproductive-age adults selection would act through, and the heritability of body weight is more plausibly explained by drift than by adaptation (<a href=\"https://doi.org/10.1038/ijo.2008.161\">Speakman 2008</a>; <a href=\"https://doi.org/10.1146/annurev-nutr-071811-150711\">Speakman 2013</a>). The essay uses an adaptationist just-so story as its worked example of how to avoid adaptationist just-so stories."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Nothing; that elephant won’t reproduce more or less either way.",
+    "content": "Two paragraphs earlier the essay correctly explained inclusive fitness: a gene can spread by helping relatives who carry it. It then forgets this. Post-reproductive elephant matriarchs are not fitness-irrelevant; the presence of a grandmother raises calf survival and daughters' reproductive rate in Asian elephants (<a href=\"https://doi.org/10.1038/srep27213\">Lahdenperä et al. 2016</a>), and the same grandmother effect is documented in humans (<a href=\"https://doi.org/10.1038/nature02367\">Lahdenperä et al. 2004</a>). So a mutation that killed old elephants \"right away\" would in fact be selected against, and a slow death that keeps a matriarch present a little longer is not obviously neutral. The example does not show what it is meant to show; it is chosen for its emotional force, which is exactly the habit the essay is warning against."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Mutation is random, but selection is non-random.",
+    "content": "The slogan is a simplification that the field has moved past. Mutation is random with respect to fitness in the sense that organisms cannot choose beneficial mutations, but it is far from uniform: rates vary by orders of magnitude across the genome, are biased toward particular nucleotide changes, and are shaped by chromatin state and repair machinery, so the supply of variation itself channels which adaptations are reachable (<a href=\"https://doi.org/10.1093/jhered/esp048\">Stoltzfus &amp; Yampolsky 2009</a>). A 2022 study reported mutation rates lower in functionally constrained regions of the <em>Arabidopsis</em> genome (<a href=\"https://doi.org/10.1038/s41586-021-04269-6\">Monroe et al. 2022</a>); that specific claim is contested (<a href=\"https://doi.org/10.1093/molbev/msac169\">Liu &amp; Zhang 2022</a>), but the underlying point stands that \"random\" is doing more work in the slogan than the biology supports. It matters here because the essay leans on mutation being an undirected trickle to argue that evolution cannot reroute a retina."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "The problem is that no single mutation will reroute the whole retina simultaneously.",
+    "content": "This is asserted, not shown, and the inference from \"bad by engineering standards\" to \"trapped by history\" skips the possibility that the layout is not bad. Müller glial cells traverse the inverted retina and behave as living optical fibres, delivering light to photoreceptors with little scattering loss (<a href=\"https://doi.org/10.1073/pnas.0611180104\">Franze et al. 2007</a>), and they preferentially guide medium and long wavelengths to cones while letting short wavelengths leak to rods, improving daytime acuity (<a href=\"https://doi.org/10.1038/ncomms5319\">Labin et al. 2014</a>). The inverted arrangement also puts the most metabolically demanding cells in the body against their blood supply and pigment epithelium. Whether the vertebrate retina is a frozen accident or a constrained optimum is an open empirical question; the essay treats it as a rhetorical gift."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "It would scarcely cost the wasp anything to anesthetize its prey as well as paralyze it.",
+    "content": "The argument that nature is cruel here assumes the caterpillar suffers, which is not established. Whether insects have pain experience at all is an active research question; the most thorough recent review finds strong evidence only for some orders and rates the evidence for lepidopteran larvae as weak (<a href=\"https://doi.org/10.1016/bs.aiip.2022.10.001\">Gibbons et al. 2022</a>). It is also not true that analgesia would be free: parasitoid venoms are already intricate cocktails of neuromodulators whose composition is under selection for host manipulation, and any additional component carries metabolic and pleiotropic cost. None of this rescues Paley. But the essay's evidence of \"cruelty\" is a projection of human phenomenology onto a caterpillar, the very anthropomorphism the essay accuses others of."
+  }
+]

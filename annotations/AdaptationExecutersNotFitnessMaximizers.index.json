@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/AdaptationExecutersNotFitnessMaximizers.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/AdaptationExecutersNotFitnessMaximizers.fable.json",
+    "default": true
   }
 ]

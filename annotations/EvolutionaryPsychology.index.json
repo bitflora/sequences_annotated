@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/EvolutionaryPsychology.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/EvolutionaryPsychology.fable.json",
+    "default": true
   }
 ]

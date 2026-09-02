@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In every known culture, humans seem to experience joy, sadness, fear, disgust, anger, and surprise. In every known culture, these emotions are indicated by the same facial expressions.",
+    "content": "This is Ekman's basic-emotions thesis (<a href=\"https://doi.org/10.1037/h0030377\">Ekman &amp; Friesen 1971</a>), and it is among the most heavily contested claims in psychology. The original cross-cultural studies used forced-choice tasks that inflate agreement (<a href=\"https://doi.org/10.1037/0033-2909.115.1.102\">Russell 1994</a>); when Himba participants in Namibia sorted faces freely, they did not produce the six categories (<a href=\"https://doi.org/10.1037/a0036052\">Gendron et al. 2014</a>); and Trobriand Islanders read the canonical \"fear\" face as a threat display (<a href=\"https://doi.org/10.1073/pnas.1611622113\">Crivelli et al. 2016</a>). A five-author review commissioned to settle the matter concluded that the evidence does not support reliable, specific, universal facial signatures for these emotions (<a href=\"https://doi.org/10.1177/1529100619832930\">Barrett et al. 2019</a>). The essay's paradigm example of a human universal is the one whose universality has most conspicuously failed to hold up."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "We humans are very much alike under our skulls—that goes with being a sexually reproducing species; you can’t have everyone using different complex adaptations, they wouldn’t assemble.",
+    "content": "The argument from sexual recombination to psychic unity (<a href=\"https://doi.org/10.1111/j.1467-6494.1990.tb00907.x\">Tooby &amp; Cosmides 1990</a>) shows that the <em>architecture</em> must be shared; it says nothing about how much the parameters vary, and they vary a great deal. Twin studies across fifty years and 14 million pairs find essentially every psychological trait substantially heritable, typically around 50%, which means large standing genetic variation in cognition and temperament (<a href=\"https://doi.org/10.1038/ng.3285\">Polderman et al. 2015</a>). Cross-cultural variation in perception, reasoning, fairness norms, and self-concept is large enough that findings from Western undergraduates frequently do not generalise even in direction (<a href=\"https://doi.org/10.1017/S0140525X0999152X\">Henrich, Heine &amp; Norenzayan 2010</a>). \"Alike under our skulls\" is true at the level of having a hippocampus and false at most levels this essay cares about."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The only reason you can try at all to grasp anything as physically complex and poorly understood as the brain of another human being is that you configure your own brain to imitate it.",
+    "content": "This is the simulation theory of mindreading, stated as though it were the only account. Its rival, that people deploy a tacit theory of how minds work, has substantial developmental evidence behind it (<a href=\"https://doi.org/10.1111/j.1468-0017.1992.tb00202.x\">Gopnik &amp; Wellman 1992</a>), and the pattern of errors people make in predicting others is hard to explain by simulation alone (<a href=\"https://doi.org/10.1016/j.tics.2005.01.012\">Saxe 2005</a>). Empirically, deliberately \"putting yourself in their shoes\" does not improve accuracy about what another person thinks or feels; across 25 experiments, perspective-taking left accuracy unchanged or made it worse, while simply asking the other person helped (<a href=\"https://doi.org/10.1037/pspa0000115\">Eyal, Steffel &amp; Epley 2018</a>). The mechanism the essay treats as our one window into other minds is neither established nor, when tested, especially effective."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Much of the progress in biology since the 1960s has consisted of trying to enforce a moratorium on anthropomorphizing evolution.",
+    "content": "Much of the progress in biology since the 1960s has consisted of molecular biology, genomics, and developmental genetics, and the historical claim is an inversion of what actually happened in behavioural biology. The mid-century \"moratorium\" was on attributing mental states to <em>animals</em>, and it is now widely regarded as an error that set the field back; de Waal coined \"anthropodenial\" for the reflexive refusal to recognise shared cognition in other species (<a href=\"https://doi.org/10.5840/philtopics19992716\">de Waal 1999</a>), and comparative cognition has since documented planning, tool manufacture, and cultural transmission across many taxa. Suppressing anthropomorphism about natural selection was a specific and correct move (Williams 1966); generalising it into \"the great lesson of modern biology\" is the essay's own gloss."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Cats have brains, of course, which operate to learn over a lifetime; but at the end of the cat’s lifetime, that information is thrown away, so it does not accumulate.",
+    "content": "Non-human animals accumulate learned information across generations, and this has been documented in detail. Chimpanzee communities maintain distinct repertoires of dozens of socially transmitted behaviours (<a href=\"https://doi.org/10.1038/21415\">Whiten et al. 1999</a>); cetaceans transmit foraging techniques and song traditions culturally (<a href=\"https://doi.org/10.1017/S0140525X0100396X\">Rendell &amp; Whitehead 2001</a>); experimentally seeded foraging traditions in wild great tits spread and persisted across generations (<a href=\"https://doi.org/10.1038/nature13998\">Aplin et al. 2015</a>); and homing-pigeon flocks show cumulative improvement of routes across generational turnover, the specific thing the essay says only humans do (<a href=\"https://doi.org/10.1038/ncomms15049\">Sasaki &amp; Biro 2017</a>). The gap between humans and other animals is one of degree and is real, but the essay's clean line, brains as \"pieces but not players\" until humans, is not where the biology puts it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Natural selection takes hundreds of generations to do anything and millions of years for de novo complex designs.",
+    "content": "Contemporary evolution is routinely observed on timescales of years to decades. Guppies transplanted between Trinidadian streams evolved altered life histories within a few years (<a href=\"https://doi.org/10.1126/science.275.5308.1934\">Reznick et al. 1997</a>); <em>Anolis</em> lizards introduced to small islands diverged in limb morphology in 10 to 14 years (<a href=\"https://doi.org/10.1038/387070a0\">Losos, Warheit &amp; Schoener 1997</a>); Darwin's finches shift beak morphology measurably in a single drought year, with reversals the next (<a href=\"https://doi.org/10.1126/science.1070315\">Grant &amp; Grant 2002</a>). A survey of measured rates found that evolution over short intervals is often orders of magnitude faster than long-term averages suggest, because rapid change in alternating directions cancels out in the fossil record (<a href=\"https://doi.org/10.1111/j.1558-5646.1999.tb04550.x\">Hendry &amp; Kinnison 1999</a>). \"Hundreds of generations to do anything\" is a statement about fixation of a single new mutation, not about what selection does."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "On an absolute scale, these are the sort of bright ideas that any smart hacker comes up with during the first ten minutes of thinking about system architectures.",
+    "content": "The evolution of sex is one of the most famous unsolved problems in biology, precisely because it is not obvious why it is a good idea. Sexual reproduction carries a twofold cost relative to asexuality (half of each generation is males who bear no offspring), and explaining how the benefits of recombination outweigh that cost has generated fifty years of theory and remains without a consensus answer (<a href=\"https://doi.org/10.1086/599084\">Otto 2009</a>). The essay's confidence that these are ten-minute ideas is hindsight bias: knowing that a design exists and works makes it feel obvious. It is also worth noting what the \"smart hacker\" would have to specify to actually implement meiosis, and that nobody has."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Natural selection exerted roughly constant optimization power on the hominid line in the course of coughing up humans; and this doesn’t seem to have required exponentially more time for each linear increment of improvement.",
+    "content": "Neither half of this is measured. \"Optimization power\" has no operational definition in the essay, so the claim that it was constant is unfalsifiable as stated, and there is no reason to believe selection intensity on hominins was constant across three million years of changing climate, ecology, and group structure. As for the trajectory of the product, hominin brain size shows scale-dependent patterns, gradual within lineages and punctuated across them, and the rate of encephalisation was not linear (<a href=\"https://doi.org/10.1098/rspb.2017.2738\">Du et al. 2018</a>). Economists who have looked for the empirical signatures an approaching \"singularity\" should leave in productivity, capital share, and price data have not found them (<a href=\"https://doi.org/10.1257/mac.20170105\">Nordhaus 2021</a>). An argument that relies on an unmeasured input being constant and an unmeasured output being linear is an analogy, which the essay to its credit admits, but analogies do not license the \"sea change\" conclusion."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "The present state of the art in rationality training is not sufficient to turn an arbitrarily selected mortal into Albert Einstein, which shows the power of a few minor genetic quirks of brain design compared to all the self-help books ever written in the twentieth century.",
+    "content": "The inference from \"training doesn't produce Einsteins\" to \"genes matter more than environment\" is invalid on its face, and the environmental side of the ledger is larger than the essay allows. Measured IQ rose by roughly three points per decade throughout the twentieth century across dozens of countries, a shift of about two standard deviations that cannot be genetic and that dwarfs anything self-help books were trying to do (<a href=\"https://doi.org/10.1037/0033-2909.101.2.171\">Flynn 1987</a>; <a href=\"https://doi.org/10.1177/1745691615577701\">Pietschnig &amp; Voracek 2015</a>). Intelligence is substantially heritable (<a href=\"https://doi.org/10.1038/mp.2014.105\">Plomin &amp; Deary 2015</a>), but heritability is not the same as immutability, and \"a few minor genetic quirks\" is not a description of a trait influenced by thousands of variants of tiny effect."
+  }
+]
