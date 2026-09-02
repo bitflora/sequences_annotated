@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "only 21% of the subjects successfully guessed the experimenter’s real rule, and replications since then have continued to show success rates of around 20%",
+    "content": "Claim: only about 21% of subjects discover the rule, and replications consistently show roughly 20% success. The figure comes from Wason (1960), \"On the failure to eliminate hypotheses in a conceptual task,\" <a href=\"https://doi.org/10.1080/17470216008416717\">https://doi.org/10.1080/17470216008416717</a>, where 6 of 29 subjects announced the correct rule on their first attempt. The low solve rate is a durable, frequently-replicated finding. However, the difficulty is partly an artifact of task structure: the target rule (\"any ascending sequence\") is far more general than subjects' typical hypotheses, so a positive-test strategy rarely produces a disconfirming result. Variants that present two complementary categories (e.g., Tweney et al., 1980, \"DAX/MED\" version, <a href=\"https://doi.org/10.1080/14640748008401168\">https://doi.org/10.1080/14640748008401168</a>) sharply raise success rates, indicating the result reflects the interaction of strategy and task, not a fixed 20% ceiling."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Subjects who attempt the 2-4-6 task usually try to generate positive examples, rather than negative examples—they apply the hypothetical rule to generate a representative instance, and see if it is labeled “Yes.”",
+    "content": "Claim: subjects predominantly test positive (rule-consistent) instances. This describes the \"positive test strategy,\" and the empirical tendency is well-replicated. Crucially, Klayman & Ha (1987), \"Confirmation, disconfirmation, and information in hypothesis testing,\" <a href=\"https://doi.org/10.1037/0033-295X.94.2.211\">https://doi.org/10.1037/0033-295X.94.2.211</a>, showed that a positive test strategy is often a <i>rational</i> default: under realistic conditions (where the hypothesized set is smaller than the true set) testing positive cases is an efficient way to obtain disconfirming evidence. The 2-4-6 task is engineered to be one of the cases where this otherwise-sensible strategy fails. So the behavior is real, but it is better characterized as a generally adaptive heuristic misfiring on an adversarial task than as a pure defect."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "This cognitive phenomenon is usually lumped in with “confirmation bias.” However, it seems to me that the phenomenon of trying to test positive rather than negative examples, ought to be distinguished from the phenomenon of trying to preserve the belief you started with.",
+    "content": "Claim: positive-test strategy should be distinguished from confirmation bias (motivated belief preservation). This distinction is now standard in the literature and is essentially correct. Nickerson's (1998) review, \"Confirmation bias: A ubiquitous phenomenon in many guises,\" <a href=\"https://doi.org/10.1037/1089-2680.2.2.175\">https://doi.org/10.1037/1089-2680.2.2.175</a>, treats \"confirmation bias\" as an umbrella over several distinct processes, including positive testing, biased weighting of evidence, and motivated reasoning. The umbrella effect is robust, but its mechanisms are heterogeneous and contested, exactly as this paragraph suggests."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "what experiment has shown to be human instinct",
+    "content": "Claim: searching for confirming rather than disconfirming evidence is a human \"instinct\" demonstrated by experiment. Positive-test preference is reliably observed, but framing it as innate instinct overstates the evidence. The same Klayman & Ha (1987) analysis (above) shows it is a context-sensitive strategy rather than a hardwired bias, and disconfirmation behavior improves substantially with task reframing, feedback, and incentives (e.g., Tweney et al., 1980). The behavioral regularity is well-supported; the \"instinct\" interpretation is an inference beyond what the experiments establish."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Claim: the 80% failure rate exposes a deep flaw — humans \"only live in half the world\" by neglecting negative tests. This dramatizes the result in a way the data do not license, because the task never tells subjects the rule is supposed to be <i>falsifiable</i> or that the experimenter's rule is maximally general. A subject who treats \"announce the rule when your positive tests keep confirming\" as the goal is behaving sensibly under ambiguous instructions; the \"correct\" answer presupposes a Popperian norm of active disconfirmation that was not made explicit. Indeed, on a Bayesian analysis a positive test that <i>could</i> have failed but didn't is genuine evidence, so subjects are not gathering zero information — they are gathering less than the optimal-for-this-task amount. The gap between observed and ideal behavior reflects a mismatch between subjects' reasonable default goals and the experiment's hidden success criterion, more than a one-sided perceptual defect."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "content": "Claim: the lesson transfers directly — a good hypothesis is defined by what it <i>can't</i> explain, and failure to seek what a theory forbids is the same error as the 2-4-6 mistake. The falsificationist maxim is a useful heuristic but it is not the consensus account of scientific method, and leaning on it this hard imports contested philosophy as if it were settled. Strict falsificationism faces the Duhem-Quine problem (any prediction can be saved by adjusting auxiliary assumptions, so a failed test never cleanly refutes one hypothesis) and the Bayesian objection that confirming evidence is genuinely epistemically valuable, not worthless (Howson & Urbach, 2006, <i>Scientific Reasoning: The Bayesian Approach</i>). On the Bayesian view the right target is not \"only seek disconfirmation\" but \"seek the test with highest expected information gain,\" which sometimes <i>is</i> a positive test. Yudkowsky's equation of explanatory strength with sheer forbidding-power is closer to a slogan than to a defensible general theory of evidence."
+  }
+]

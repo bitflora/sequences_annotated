@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Suppose you ask subjects to press one button if a string of letters forms a word, and another button if the string does not form a word",
+    "content": "Semantic/lexical priming of this kind, the Meyer & Schvaneveldt (<a href=\"https://doi.org/10.1037/h0031564\">1971</a>) lexical-decision paradigm, is one of cognitive psychology's most robust and replicable effects, and nothing here is in doubt. The trouble begins when Yudkowsky uses this rock-solid laboratory phenomenon as a springboard to \"contamination,\" social priming, and confirmation bias. Low-level associative priming and high-level behavioral or goal priming are very different beasts with very different evidentiary track records, and the essay treats them as a single continuum."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Priming is subconscious and unstoppable, an artifact of the human neural architecture.",
+    "content": "This sweeping claim is where the chapter overreaches. It may hold for semantic priming, but the dramatic \"behavioral priming\" results that made the idea famous, that subtle cues reliably push real-world behavior, largely failed to replicate. The Bargh, Chen & Burrows (1996) elderly-priming/slow-walking study did not reproduce under controlled conditions (<a href=\"https://doi.org/10.1371/journal.pone.0029081\">Doyen et al. 2012</a>); money, cleanliness, and achievement priming effects similarly faltered. By 2017 Daniel Kahneman, who had called social priming a sure thing in <em>Thinking, Fast and Slow</em>, publicly described the field as facing a \"train wreck.\" \"Unstoppable\" is precisely the kind of strong claim the replication crisis did not support."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "these signs have been shown to work, which is why stores keep putting them up.",
+    "content": "The \"Limit 12 per customer\" claim traces to <a href=\"https://doi.org/10.2307/3151931\">Wansink, Kent & Hoch (1998)</a>, and the source matters: Brian Wansink's lab became one of the field's most prominent misconduct cases, with more than a dozen papers retracted after investigations found pervasive data problems and p-hacking (Cornell, 2018). While that particular 1998 paper was not itself retracted, citing Wansink as evidence that purchase-quantity anchors \"have been shown to work\" is exactly the sort of claim his body of work casts doubt on. The marketing inference, \"stores keep doing it, so it must work,\" is also a survivorship argument, not evidence."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Don’t think it takes anything more to set confirmation bias in motion.",
+    "content": "This is the essay's central inferential leap, and it is unsupported. That a flashed word speeds lexical recognition (robust) tells us almost nothing about whether \"a single fleeting image\" can set durable, belief-distorting confirmation bias already \"decided\" (a far stronger, behavioral claim). Confirmation bias is well-documented at the level of motivated reasoning and selective exposure (<a href=\"https://doi.org/10.1037/1089-2680.2.2.175\">Nickerson 1998</a>), but grounding it in subliminal associative priming is speculative, and the subliminal-influence literature it leans on is among the least replicable in psychology. Reducing confirmation bias to \"associational networks priming compatible thoughts\" is a hypothesis presented as established mechanism."
+  }
+]

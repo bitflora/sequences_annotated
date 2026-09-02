@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Early studiers of cults were surprised to discover than when cults receive a major shock—a prophecy fails to come true, a moral flaw of the founder is revealed—they often come back stronger than before, with increased belief and fanaticism.",
+    "content": "This \"failed prophecy strengthens belief\" claim traces to Festinger, Riecken & Schachter's <em>When Prophecy Fails</em> (1956), but the study is far weaker than its fame. The group was tiny (about a dozen committed members); the researchers infiltrated it as participant-observers and, by their own account, may have inflated its numbers and reinforced its sense of importance; and only some members intensified belief while others quietly defected. Later reviews of failed-prophecy cases find intensified proselytizing is the exception, not the rule, groups more often decline, splinter, or quietly reinterpret the prophecy (<a href=\"https://doi.org/10.1525/nr.1999.3.1.60\">Dawson 1999</a>). The dramatic generalization rests on a single uncontrolled case study."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The Jehovah’s Witnesses placed Armageddon in 1975, based on Biblical calculations; 1975 has come and passed.",
+    "content": "The Jehovah's Witnesses example actually cuts against the thesis. After the 1975 non-event the movement did not \"come back stronger\": growth stalled and the Witnesses suffered years of net decline and heavy defections through the late 1970s before recovering. That is the opposite of intensified fanaticism following disconfirmation, and it fits the broader pattern that large movements usually lose members after a failed prophecy. Citing the cases that survived (while ignoring their post-prophecy slumps) is a survivorship bias of exactly the kind the heuristics-and-biases essays elsewhere warn against."
+  }
+]

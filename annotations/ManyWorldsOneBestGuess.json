@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The debate should already be over.",
+    "content": "The claim of a decisive, debate-ending victory is not reflected in how physicists actually divide. Opinion polls of researchers in quantum foundations repeatedly show no consensus and many-worlds as a minority position: a poll at a foundations conference put Copenhagen-style and information-based views ahead, with many-worlds around 18% (<a href=\"https://doi.org/10.1016/j.shpsb.2013.04.004\">Schlosshauer, Kofler & Zeilinger 2013</a>). More substantively, the essay glides past many-worlds' central unsolved problem: deriving the Born rule, the actual probabilities, from a deterministic, branching wavefunction in which every outcome occurs. Decades of attempts (Deutsch's and Wallace's decision-theoretic program, Zurek's envariance) remain actively disputed and are not generally accepted as successful. \"The laws of probability theory are laws, not suggestions\" is exactly the open question here, since it is unclear what probability even refers to when nothing fails to happen."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "sees a blurry superposition of cats",
+    "content": "This leans on decoherence to deliver definite-looking branches, but decoherence's own developers are explicit that it does not by itself solve the measurement problem. Decoherence explains why interference between macroscopically distinct states becomes unobservable and which basis is selected; it does not, without an added interpretive postulate (many-worlds, a collapse mechanism, or hidden variables), explain why one definite outcome is experienced (<a href=\"https://doi.org/10.1016/S1355-2198(02)00086-2\">Adler 2003</a>, \"Why decoherence has not solved the measurement problem\"). Presenting the suppression of cross-branch interference as if it straightforwardly yields the single world each observer sees skips the very step that remains contested, which is the step many-worlds is supposed to be supplying."
+  }
+]

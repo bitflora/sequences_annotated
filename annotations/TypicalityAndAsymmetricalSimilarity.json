@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "reaction times are faster for more central examples",
+    "content": "Typicality effects are real and highly replicable (Rosch 1975). The inference the essay draws from them, however—that they show categories are not classical, Aristotelian, all-or-nothing sets—is exactly what Armstrong, Gleitman &amp; Gleitman (<a href=\"https://doi.org/10.1016/0010-0277(83)90012-4\">1983</a>) refuted. They found people give the same graded typicality ratings for provably classical categories: subjects will say 3 is a \"better\" odd number than 447, or 22 a \"better\" even number than 18, while simultaneously affirming that odd-number membership is strictly all-or-nothing. So typicality gradients track accessibility or familiarity, not the logical structure of the concept—they do not, by themselves, license abandoning crisp category membership."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "gave consistently higher ratings than people asked to rate how similar the United States is to Mexico",
+    "content": "This is a faithful report of a genuine and replicated effect: similarity judgments are asymmetric (Tversky, \"Features of Similarity,\" <a href=\"https://doi.org/10.1037/0033-295X.84.4.327\">1977</a>). In Tversky's contrast model, the less salient or more variant item (Mexico, North Korea) is judged more similar to the prominent referent (the United States, China) than the reverse. The phenomenon is solid, and the directional, framing-dependent character the essay emphasizes is precisely what the contrast model predicts."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "people were more likely to expect a disease would spread from robins to ducks on an island, than from ducks to robins",
+    "content": "Another well-validated claim. Rips (1975) opened the experimental study of category-based induction, and the typicality-driven, asymmetric projection he reported was confirmed and formalized into a quantitative model by Osherson, Smith, Wilkie, López &amp; Shafir (<a href=\"https://doi.org/10.1037/0033-295X.97.2.185\">1990</a>): people project properties more strongly from typical to atypical members than the reverse. The \"similarity as a proxy for probability\" reading the essay offers is consistent with this mature and robust literature."
+  }
+]

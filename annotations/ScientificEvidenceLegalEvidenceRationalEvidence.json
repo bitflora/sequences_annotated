@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Many now argue that 0.05 is too weak, and that it would be useful to lower it to 0.01 or 0.001.",
+    "content": "Written in 2007, the essay anticipates the argument that the conventional <em>p</em> < 0.05 significance threshold is \"too weak.\" This prediction was substantially vindicated by the subsequent replication crisis in psychology and biomedicine. Ioannidis's \"Why most published research findings are false\" (<a href=\"https://doi.org/10.1371/journal.pmed.0020124\">2005</a>) and the Open Science Collaboration's large-scale replication of 100 psychology studies, which reproduced only about 36% of significant effects (<a href=\"https://doi.org/10.1126/science.aac4716\">2015</a>), made the problem concrete. In 2017 a group of 72 methodologists formally proposed redefining statistical significance to <em>p</em> < 0.005 for claims of new discoveries (Benjamin et al., <a href=\"https://doi.org/10.1038/s41562-017-0189-z\">2018</a>), while others argued the fixed-threshold framework itself should be abandoned (Amrhein et al., <a href=\"https://doi.org/10.1038/d41586-019-00857-9\">2019</a>; the ASA statement, Wasserstein & Lazar, <a href=\"https://doi.org/10.1080/00031305.2016.1154108\">2016</a>). The essay's broader point, that significance thresholds are pragmatic social conventions rather than facts of nature, is the mainstream methodological position today."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "content": "The essay's framing—that \"all legal evidence should ideally be rational evidence, but not the other way around,\" and that the commissioner's tip is genuine Bayesian evidence we merely choose to exclude—treats Bayesian likelihood ratios as the unqualified gold standard, with legal rules of exclusion as a pragmatic compromise. Legal evidence scholars push back: exclusionary rules are not just self-binding restrictions on otherwise-valid inference but reflect that naive likelihood reasoning over hearsay and reputation is systematically <em>unreliable</em>, because such inputs are easily fabricated, correlated, and double-counted. The \"reference-class problem\"—which population the suspect belongs to for the purpose of a base rate—has no objective answer, so the supposedly clean rational likelihood ratio is itself under-determined (Allen & Pardo, 2007, <a href=\"https://doi.org/10.1007/s10503-007-9067-6\">Law, Probability and Risk</a>)."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The essay asserts that the commissioner's private tip \"must have been strong Bayesian evidence\" because acting on it is prudent, and that you'd \"still be a fool to insult Wulky.\" This reasons backward from a decision to a credence and overstates the inference. Prudent caution can follow from asymmetric stakes (the cost of insulting a real crime boss is high, the cost of staying polite is near zero) even when the probability of the underlying claim is modest—a point standard in decision theory, where expected-loss minimization decouples action from belief. So \"it's prudent to act as if\" does not license \"therefore the evidence was strong\"; the loss function, not the likelihood ratio alone, is doing much of the work."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay's recurring move—\"Is it really Bayesian evidence? I think we must answer yes\"—treats every information source with a non-trivial likelihood ratio as evidence on a single continuous scale, with science and law as filtered subsets. This is internally elegant but assumes the Bayesian framework is the uniquely correct account of what evidence is. There are well-developed rival epistemologies: frequentist/error-statistical accounts hold that evidence is a matter of a procedure's error-controlling properties, not of degrees of belief (Mayo, 2018, <em>Statistical Inference as Severe Testing</em>, <a href=\"https://doi.org/10.1017/9781107286184\">Cambridge University Press</a>). On that view, a closed-access journal result and a police tip are not simply weaker points on the same axis as a replicated experiment; they differ in <em>kind</em> because they were not produced by a severe, error-probing test."
+  }
+]

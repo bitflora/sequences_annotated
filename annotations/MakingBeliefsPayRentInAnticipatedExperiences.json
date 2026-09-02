@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "better than any other species in the world, learn to model the unseen",
+    "content": "The claim that humans model the unseen \"better than any other species\" is broadly defensible but should be stated with care. Comparative cognition research shows humans are not unique in tracking unobserved causes: corvids and great apes track hidden objects and unseen agents, and there is contested evidence for implicit false-belief tracking in great apes (Krupenye et al., 2016, <a href=\"https://doi.org/10.1126/science.aaf8110\">Science</a>). The defensible version is that humans vastly exceed other species in open-ended, recursive, language-supported modeling of unobservables—a difference in degree and generativity rather than an absolute kind."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "rather than constraining the experience in advance",
+    "content": "The operational test for a meaningful belief—it must constrain experience in advance and ideally prohibit some outcomes—restates Popper's falsificationism (Popper, 1959, <em>The Logic of Scientific Discovery</em>). This is a normative philosophy-of-science position, not an empirical finding, and it has well-known limits: the Duhem-Quine thesis notes hypotheses are tested only in bundles with auxiliary assumptions, so a failed prediction never falsifies one belief cleanly. Worse for the essay's strict reading, much legitimate science traffics in beliefs that make no fresh sensory prediction for the believer—claims about the deep past, parameters estimated rather than predicted, existence claims about entities we can only infer. The \"pay rent in anticipation\" rule, taken literally, would evict a great deal of well-confirmed science along with the phlogiston."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The phlogiston example is a tidy villain, but it misrepresents the history. Phlogiston theory <em>did</em> make advance predictions and genuinely organized eighteenth-century chemistry for decades; it was abandoned not because it floated free of experience but because it made specific predictions (notably about mass changes on combustion) that lost to Lavoisier's oxygen account. Picking a defeated theory and retroactively describing it as having \"yielded no advance predictions\" is hindsight selection: the very feature that makes phlogiston look like an empty floating belief is exactly the feature—testability—that let it be refuted. A belief you could falsify is, by the essay's own criterion, not a floating one."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The \"post-utopian / colonial alienation\" example uses an invented humanities term to suggest that whole disciplines traffic in floating beliefs connected only to one another. This is a rhetorical strawman: interpretive and classificatory vocabulary in literary criticism, taxonomy, or law does real coordinating work even when it issues no sensory prediction (knowing a text is \"Gothic\" licenses inferences about other features, intertextual relations, and reader expectations). The demand that every meaningful belief cash out in personal sensory anticipation is a strong verificationist commitment that philosophy of science largely abandoned, precisely because it cannot accommodate theoretical, mathematical, and structural terms whose value lies in inferential connection rather than direct observation."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Calling networks of mutually-connected-but-unobservable beliefs \"a uniquely human flaw\" and \"barnacles\" begs the question. The same architecture the essay praises for modeling atoms and gravity is what it condemns when the conclusions are ones the author rejects; there is no internal, content-neutral test the believer can apply in the moment to tell a productive theoretical network from a \"floating\" one—both feel coherent from the inside. The honest version of the advice is weaker than stated: <em>over the long run and at the level of a research community</em>, beliefs that never connect to observation tend to stagnate. As individual real-time epistemic hygiene, \"find the difference in anticipation\" frequently fails, because the difference is often there but neither party can articulate it."
+  }
+]

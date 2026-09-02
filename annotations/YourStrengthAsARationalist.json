@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "we believe instinctively, but disbelief requires a conscious effort",
+    "content": "The claim is that comprehension entails initial acceptance, so that \"we believe instinctively, but disbelief requires a conscious effort.\" This is the Spinozan model of belief proposed by Gilbert, whose studies found that subjects under cognitive load were more likely to treat statements they had been told were false as true (Gilbert, Tafarodi & Malone, <a href=\"https://doi.org/10.1037/0022-3514.65.2.221\">1993</a>). The core effect has received only partial support, and the strong \"automatic belief\" interpretation is actively contested: subsequent work argues that load impairs memory for the truth tag rather than forcing genuine belief, and a recent multi-lab replication of the closely related paradigm failed to reproduce the predicted asymmetry (Richter et al. tradition; see the \"epistemic monitoring\" critique). The direction of the effect (rejecting information is somewhat more effortful than accepting it) is plausible, but Yudkowsky cites a single 1993 paper as if it settled the architecture of belief, which it did not."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "design flaw in human cognition that this sensation manifests as a quiet strain in the back of your mind",
+    "content": "The essay treats the faint \"feels forced\" sensation as a reliable, if under-amplified, error signal, and frames its weakness as a \"design flaw.\" The broader literature on feelings of confusion and metacognitive disfluency is mixed: such cues can improve detection of errors and inconsistencies (Topolinski & Reber, <a href=\"https://doi.org/10.1111/j.1467-8721.2010.01730.x\">2010</a>), but they are noisy and easily produced by irrelevant factors (font legibility, fluency manipulations), so they are far from a calibrated alarm. The advice to attend to confusion is reasonable, but the implied reliability of the signal is stronger than the evidence supports."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "Calling the quiet, easily-ignored quality of the confusion signal a \"design flaw\" assumes the alarm should be louder. But a signal-detection account suggests the opposite trade-off: a \"wailing siren\" that fired every time a model strained would generate constant false alarms, since mild dissonance accompanies almost all real-world reasoning. The whole heuristics-and-biases program is built on demonstrating how often the gut alarm misfires, which is precisely why a low-intensity, override-able cue may be well calibrated rather than defective. The framing presumes a designer's-eye view of what cognition \"should\" do that the essay never defends."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The moral, \"your strength as a rationalist is your ability to be more confused by fiction than by reality,\" is memorable but conflates two distinct skills: noticing that an observation is improbable under your model, and correctly identifying which of model-error or report-error is to blame. In the anecdote the second inference was the hard part, and it depended on a base-rate judgment (anonymous IRC stranger vs. medical establishment) that had nothing to do with confusion-detection. The author had in fact reasoned correctly that paramedics rarely refuse chest-pain calls; his error was trusting an unreliable source, a source-credibility failure rather than a failure to feel confused. Treating the episode as a pure parable about heeding confusion obscures that the operative variable was the prior on the informant."
+  }
+]

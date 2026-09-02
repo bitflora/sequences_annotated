@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "where it is difficult to believe a thing, it is often much easier to believe that you ought to believe it",
+    "content": "\"Belief in belief\" is Dennett's philosophical analysis (Dennett, 2006, <em>Breaking the Spell</em>), not an experimental result, and the essay correctly flags that it departs from Dennett on details. The deeper problem is that the construct is essentially unfalsifiable as deployed here: any pattern of professing-without-anticipating can be redescribed as \"belief in belief,\" so the explanation risks being the very kind of floating, anything-fits belief the previous essay condemned. There are competing, more parsimonious accounts of the same behavior—social signaling and identity display (professions of faith as group-membership badges rather than truth-claims), self-presentation, or simply compartmentalized credence with no second-order \"belief that one ought to believe\" at all. Inferring a specific hidden two-tier belief architecture from outward behavior is under-determined, and the essay never says what observation would distinguish \"belief in belief\" from these alternatives."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the dragon-claimant flinches away from the prospect of admitting to themselves that there is no dragon, because it conflicts with their self-image",
+    "content": "The proposed mechanism—people resist abandoning a belief because doing so threatens a flattering self-image—is self-justification under cognitive dissonance (Festinger, 1957, <em>A Theory of Cognitive Dissonance</em>). Dissonance-reduction and self-image protection are well-replicated, and self-affirmation reliably reduces defensive resistance to threatening information (Cohen & Sherman, 2014, <a href=\"https://doi.org/10.1146/annurev-psych-010213-115137\">Annual Review of Psychology</a>). Two caveats: classic dissonance theory has live competitors (self-perception and impression-management accounts), so \"protecting a self-image\" is one viable mechanism among several rather than the established one; and the dissonance literature concerns measured attitude change in laboratory paradigms, whereas the essay applies the idea to the unmeasured, introspected inner life of a hypothetical dragon-claimant—a much weaker evidentiary footing than the citation count suggests."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The whole essay rests on a confident piece of mind-reading: that the dragon-claimant \"must possess an accurate anticipation-controlling model somewhere in their mind,\" inferred from their ability to pre-empt each test. But this over-attributes coherence. People generate excuses reactively and fluently without any precomputed unified model—motivated reasoning produces locally plausible deflections on demand (Kunda, 1990, <a href=\"https://doi.org/10.1037/0033-2909.108.3.480\">Psychological Bulletin</a>), and confabulation research shows fluent post-hoc justification with no accurate underlying representation being consulted (Nisbett & Wilson, 1977, <a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Psychological Review</a>). The inference \"they can excuse every test, therefore they secretly know the truth\" is a clever rhetorical move, but excuse-generation does not require the tidy hidden true-model the argument posits."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The claim that \"people don't believe in belief in belief, they just believe in belief\" because admitting the regress would be non-virtuous is asserted as psychological fact, but it is pure armchair construction with no evidential support offered. The infinite-tower framing (P, believing P, believing you believe P) is logically clean and may be useful, yet there is little reason to think ordinary religious or political cognition is actually organized into these discrete stacked meta-levels rather than into a single fuzzy, context-dependent, partly performative stance. The anthropology and psychology of religion increasingly describe sacred or credal assertions as a distinct cognitive register—not literal factual beliefs at all (e.g., work on \"religious credence\" vs. factual belief)—which would dissolve the puzzle the essay builds its tower to solve."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The recommendation to study mathematical logic to \"make very sharp distinctions\" between P, wanting P, and believing you believe P implies that human belief states are crisply individuated objects awaiting careful logical sorting. This is a category error about the subject matter. Graded, probabilistic, context-shifting credences—not discrete propositional tokens—are the better model of human belief, and the felt sharpness of the logical distinctions does not transfer to messy psychological reality. The advice also exemplifies the essay's recurring move of treating a formal apparatus (logic here, Bayes elsewhere) as if mere acquaintance with it confers the cognitive discipline; the debiasing evidence (Pronin et al., 2002, <a href=\"https://doi.org/10.1177/0146167202286008\">Personality and Social Psychology Bulletin</a>) suggests knowing the distinctions and reliably applying them to oneself are very different achievements."
+  }
+]

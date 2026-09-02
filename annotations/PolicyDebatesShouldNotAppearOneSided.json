@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The experimental evidence for a purely genetic component of 0.6–0.8 is overwhelming",
+    "content": "Twin and adoption studies do put the heritability of adult IQ in roughly the 0.5-0.8 range, so the number is not invented, but \"a purely genetic component\" misstates what heritability is. Heritability is a population statistic, the share of trait variance attributable to genetic differences in a particular population and environment, not a fixed property of the trait, and it shifts with circumstances: <a href=\"https://doi.org/10.1046/j.0956-7976.2003.psci_1475.x\">Turkheimer et al. (2003)</a> found IQ heritability near zero in impoverished children and high in affluent ones. Heritability of IQ also rises with age, and molecular genetics has so far recovered only a fraction of the twin-study estimate (the \"missing heritability\" problem). \"Overwhelming\" and \"purely genetic\" overstate a real but heavily conditional finding."
+  }
+]

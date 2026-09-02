@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "hindsight",
+    "content": "Claim (implicit): the past failures of phlogiston and vitalism look obvious only in hindsight. This invokes hindsight bias, first demonstrated by Fischhoff (1975), <a href=\"https://doi.org/10.1037/0096-1523.1.3.288\">https://doi.org/10.1037/0096-1523.1.3.288</a>: once an outcome is known, people overestimate how predictable it was. A meta-analysis by Guilbault et al. (2004), <a href=\"https://doi.org/10.1207/S15324834BASP2603_2\">https://doi.org/10.1207/S15324834BASP2603_2</a>, confirms a reliable effect. The phenomenon is well-replicated."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It feels like you believe a new fact, but you don’t anticipate any different outcomes. Your curiosity feels sated, but it has not been fed.",
+    "content": "Claim: a label produces a feeling of understanding without yielding any new predictive content. This is well-captured by the \"illusion of explanatory depth\" (Rozenblit & Keil, 2002, <a href=\"https://doi.org/10.1207/s15516709cog2605_1\">https://doi.org/10.1207/s15516709cog2605_1</a>), in which people rate their mechanistic understanding highly until asked to produce it. Relatedly, the mere presence of explanatory-sounding information (e.g., irrelevant neuroscience or jargon) inflates judged quality of explanations (Weisberg et al., 2008, <a href=\"https://doi.org/10.1162/jocn.2008.20040\">https://doi.org/10.1162/jocn.2008.20040</a>). Both effects have replicated."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "“Emergence” has the same deep appeal to human psychology, for the same reason.",
+    "content": "Claim: vacuous explanatory labels appeal to \"human psychology\" in a deep, general way. The supporting evidence is the human preference for explanations that feel complete or that cite an underlying cause, documented by Lombrozo (2006), <a href=\"https://doi.org/10.1016/j.tics.2006.08.004\">https://doi.org/10.1016/j.tics.2006.08.004</a>, and the seductive-allure effect cited above (Weisberg et al., 2008). These are robust laboratory findings. The sweeping claim that all such appeal shares \"the same reason\" is an interpretive generalization beyond what any single study establishes; the underlying mechanisms (closure, fluency, essentialism) are distinct and individually supported."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "Claim: \"emergence\" as a noun is always empty because the verb \"emerges from\" only has content when followed by a specific model — so the concept does no work of its own. This is a fair hit against lazy usage (\"intelligence is emergent, therefore explained\"), but it overshoots by implying there is no substantive concept of emergence at all. Philosophers and physicists distinguish a precise notion — <i>weak</i> emergence, where macro-behavior is deducible in principle but only by simulating the micro-dynamics, with no closed-form macro-law (Bedau, 1997, <a href=\"https://doi.org/10.2307/2218000\">https://doi.org/10.2307/2218000</a>) — and this is a real and contentful claim about computational irreducibility, not a synonym for \"magic.\" Yudkowsky's eliminability test (\"delete the word and the sentence is unchanged\") works on the vacuous usage precisely because he picks vacuous examples; applied to \"weak emergence\" the deletion <i>does</i> change the claim, since it asserts the absence of a tractable higher-level shortcut."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Claim: replacing \"emergent\" with \"magical\" leaves the knowledge content unchanged, proving the term is contentless. The substitution trick is rhetorically effective but it conflates the failure-mode usage with the term's legitimate sense, and so misses the strongest target. Anderson's landmark \"More Is Different\" (1972, <a href=\"https://doi.org/10.1126/science.177.4047.393\">https://doi.org/10.1126/science.177.4047.393</a>) argues that at each level of complexity genuinely new laws and organizing principles appear that are not derivable in practice from the level below — superconductivity, broken symmetry, and phase transitions are paradigm cases where the macro-behavior is sharply discontinuous and governed by order parameters absent at the micro-level. The Renormalization Group and the existence of universality classes give this mathematical teeth: distinct microphysics flows to identical macroscopic critical behavior, a fact \"reductively\" deducible yet not capturable by simply restating micro-laws. A critique that cannot distinguish this body of physics from saying \"magic\" has not engaged the concept's real content."
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "devised many creative explanations, none stooping so low as to say",
+    "content": "The anecdote depicts students offering verbal \"explanations\" (convection, strange metals) without genuine understanding, an instance of what cognitive scientists call the illusion of explanatory depth: people believe they understand mechanisms far better than they do, until asked to produce a detailed causal account (Rozenblit & Keil, <a href=\"https://doi.org/10.1207/s15516709cog2605_1\">2002</a>). This effect is well replicated. The essay's reluctance to say \"I don't know\" is the behavioral signature this literature documents, so the illustration is empirically apt rather than merely rhetorical."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Their deeper error is that they thought they were doing physics.",
+    "content": "The claim that naming a mechanism (\"because of heat conduction\") feels like physics without constraining anticipation touches on research into how scientific reasoning is taught. Studies of science education find that learners frequently acquire fluent vocabulary while retaining non-predictive mental models, and that minimally guided discovery instruction is often less effective than direct, explanatory instruction at producing transferable understanding (Kirschner, Sweller & Clark, <a href=\"https://doi.org/10.1207/s15326985ep4102_1\">2006</a>). The essay's diagnosis aligns with this work; the corrective it implies (demanding anticipation-constraining predictions) is consistent with evidence-based pedagogy."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The students were genuinely at fault here only because the actual cause (the instructor secretly turned the plate) lay outside the space of mechanisms anyone could have anticipated, which makes this a trick demonstration rather than a clean case of fake explanation. \"Because of heat conduction\" is not in fact a maximum-entropy non-statement: with normal boundary conditions it does predict the radiator-side is warmer, which is why the observation is surprising in the first place. The students' error was failing to question the framing (that the setup was as described), not invoking a contentless phrase. The essay slightly overstates its case by treating a correct-but-misapplied physical concept as if it were equivalent to saying \"magic.\""
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay's hidden premise is that legitimate knowledge must always cash out in anticipation-constraining predictions; a fluent but non-predictive verbal account is dismissed as fake. But this conflates having a Bayesian method with having the right answer, and it discounts that some genuine knowledge is irreducibly propositional. Ryle's distinction between \"knowing-that\" and \"knowing-how\" (<em>The Concept of Mind</em>, 1949) and Wittgenstein's analysis of rule-following both suggest that competence and verbal articulation come apart in either direction: one can predict without being able to state why, and one can legitimately know facts (a historical date, a definition) that constrain no new sensory anticipation. \"Anticipation control\" is a good test for empirical mechanism, not a universal criterion of meaningful knowledge."
+  }
+]

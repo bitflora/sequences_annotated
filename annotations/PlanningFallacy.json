@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "a corresponding cognitive bias, replicated in experiments with individual planners",
+    "content": "Yudkowsky concedes the airport/Eurofighter/Opera House overruns may be products of availability, bureaucracy, and incentives, then pivots to \"but there's also a corresponding cognitive bias.\" Watch the move: he keeps the dramatic megaproject anecdotes for vividness while resting the actual argument on small student-task experiments, as if the two were the same phenomenon scaled. They are not. Flyvbjerg's own work attributes megaproject overruns substantially to strategic misrepresentation, deliberate lowballing to win funding, not to honest cognitive optimism (<a href=\"https://doi.org/10.1080/01944360208976273\">Flyvbjerg, Holm & Buhl, 2002</a>). Bundling political deception and student procrastination under one \"bias\" inflates the apparent reach of the cognitive effect."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "45% (less than half!) finished by the time of their 99% probability level",
+    "content": "The arresting \"13% / 19% / 45%\" calibration figures are from <a href=\"https://doi.org/10.1037/0022-3514.67.3.366\">Buehler, Griffin & Ross (1994)</a>, a single study with a student sample on self-relevant academic tasks. The qualitative result reproduces, but the planning fallacy is far more heterogeneous than \"people underestimate.\" The large meta-analysis by <a href=\"https://doi.org/10.1037/bul0000067\">Halkjelsvik & Jørgensen (2018)</a> finds the direction and size of the bias swing with task type, time-unit framing, and elicitation method, and that short or externally-assigned tasks can show <em>over</em>estimation. The blanket statement that \"people think they can plan, ha ha\" overgeneralizes from the conditions most likely to produce underestimation."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Unlike most cognitive biases, we know a good debiasing heuristic for the planning fallacy.",
+    "content": "Yudkowsky claims that asking for \"best guess\" and \"best case\" scenarios produced \"indistinguishable results,\" inferring that people's realistic estimate just <em>is</em> their best case. The Newby-Clark et al. (2000) finding is real but narrower than the gloss: it shows best-guess and best-case predictions converge, not that people are incapable of pessimism, and the same researchers found worst-case prompts <em>do</em> shift estimates, just insufficiently. The leap to \"reality usually delivers results somewhat worse than the worst case\" is a quip, not a finding; for most everyday tasks outcomes cluster around expectations, and the long right tail of overruns is a feature of a minority of complex projects, not the typical case."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "\"Unlike most cognitive biases, we know a good debiasing heuristic\", the outside view, is the essay's most useful and best-supported claim, and reference-class forecasting genuinely has applied backing. But the confidence is still oversold in two ways. First, the hard part is choosing a reference class of genuinely comparable cases, which is itself a judgment that smuggles the inside view back in; for novel or heterogeneous projects no clean class exists. Second, the debiasing literature broadly shows manipulations have inconsistent, often modest effects (Halkjelsvik & Jørgensen, 2018). Calling it \"fairly reliable\" is defensible; the surrounding tone, that you can just take the long answer as \"true\" and \"deal with it,\" overstates how often a valid reference class is actually available."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "There is an unexamined asymmetry in the essay's normative framing: it treats every miss of a deadline as an error to be corrected, but optimistic forecasts may be instrumentally rational rather than epistemically defective. A literature on motivated optimism finds that ambitious deadlines can raise effort and output even when systematically missed, so a planner who \"knew\" the true outside-view estimate might actually accomplish less. If the function of a plan is partly to motivate rather than to predict, then \"accurate forecast\" and \"good plan\" can come apart, and the essay's identification of the two, plan accuracy as the sole measure of rationality, quietly assumes the very thing instrumental rationality leaves open."
+  }
+]

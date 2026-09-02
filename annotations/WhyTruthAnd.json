@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "System 1 and System 2—fast perceptual judgments versus slow deliberative judgments",
+    "content": "The \"System 1 / System 2\" framing describes dual-process theory: a fast, automatic, intuitive mode versus a slow, effortful, deliberative mode, popularized by <a href=\"https://doi.org/10.1037/0003-066X.58.9.697\">Kahneman (2003)</a> and in <em>Thinking, Fast and Slow</em> (2011). The broad distinction between automatic and controlled processing is well established. However, contemporary cognitive scientists caution against reifying \"System 1\" and \"System 2\" as two literal systems or brain modules; reviews argue the data are better described by continua of automaticity and by multiple interacting processes rather than two discrete systems (Keren & Schul, 2009, <a href=\"https://doi.org/10.1111/j.1745-6924.2009.01164.x\">Perspectives on Psychological Science</a>; Melnikoff & Bargh, 2018, <a href=\"https://doi.org/10.1016/j.tics.2018.01.006\">Trends in Cognitive Sciences</a>). The labels are best read as a useful heuristic, not a settled neuro-architectural fact."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "trained into the neural circuitry that underlies System 1",
+    "content": "The claim that deliberate practice \"trains\" reasoning rules into the \"neural circuitry that underlies System 1\" describes automatization: with practice, effortful procedures become faster and less resource-demanding (the classic controlled-to-automatic shift of Shiffrin & Schneider, 1977, <a href=\"https://doi.org/10.1037/0033-295X.84.2.127\">Psychological Review</a>). That practice produces automatization is robust. The further suggestion that one can reliably retrain debiasing strategies into intuition is more contested: debiasing training shows real but often domain-specific and modest transfer, and some biases resist intuitive correction even after extensive training. The mechanistic gloss (\"neural circuitry that underlies System 1\") is informal rather than a localized empirical finding."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The essay claims this dual-process picture is what people \"really\" mean when they oppose emotion to rationality, then asserts \"both systems can serve the goal of truth, or defeat it.\" Even granting the framework, the mapping of emotion onto fast/perceptual processing and reason onto slow/deliberative processing is precisely the equation the affective-science literature rejects: emotions are now widely modeled as involving appraisal and evaluation that recruit \"System 2\"-style processing, and deliberation is shot through with affect (Damasio's somatic-marker work, and Pham, 2007, <a href=\"https://doi.org/10.1037/1089-2680.11.2.155\">Review of General Psychology</a>, on affect as information). So the essay's tidy reassignment of the folk emotion/reason contrast to the System 1 / System 2 contrast smuggles in a contested theoretical commitment rather than clarifying a confusion."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay's caution against \"morality as a motivation for rationality\"—on the grounds that moral framing gives reasoning \"all the dreadful degrees of freedom of an arbitrary tribal custom\"—is itself a strong empirical-psychological wager presented as observation. The opposite effect is also documented: framing accuracy as a value or duty (accountability, \"accuracy goals\") can <em>improve</em> calibration and reduce bias relative to no such framing (Lerner & Tetlock, 1999, <a href=\"https://doi.org/10.1037/0033-2909.125.2.255\">Psychological Bulletin</a>). Whether treating truth-seeking as a moral duty helps or harms reasoning depends on the social and institutional context, so the essay's blanket suspicion is not established; it trades on the vivid Mr. Spock caricature rather than on evidence that moralized rationality is generally counterproductive."
+  }
+]

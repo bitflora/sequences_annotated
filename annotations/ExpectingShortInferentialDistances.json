@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "at most 200 people",
+    "content": "The essay treats Dunbar's number (~150-200) as a settled cognitive limit on stable social group size, derived from a correlation between neocortex ratio and group size in non-human primates (Dunbar, 1992, <a href=\"https://doi.org/10.1016/0047-2484(92)90081-J\">Journal of Human Evolution</a>). Subsequent work has been skeptical: a large re-analysis using updated primate data and modern statistical methods found that the confidence intervals around any human group-size estimate are enormous (from roughly 4 to 520), so the brain-to-group-size extrapolation does not support a single precise number (Lindenfors, Wartel & Lind, 2021, <a href=\"https://doi.org/10.1098/rsbl.2021.0158\">Biology Letters</a>). The general point that ancestral bands were small is uncontroversial; the specific \"200\" figure should be read as illustrative rather than empirically pinned down. Note also that the argument does not actually need Dunbar's number: the entire inferential-distance thesis rests on it being load-bearing nowhere, which raises the question of why it is invoked at all."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "illusion of transparency",
+    "content": "The \"illusion of transparency\"—the tendency to overestimate how well one's internal states are discernible to others—was demonstrated by Gilovich, Savitsky & Medvec (1998, <a href=\"https://doi.org/10.1037/0022-3514.75.2.332\">Journal of Personality and Social Psychology</a>). The effect has replicated and is generally regarded as a robust finding within the broader family of egocentric-bias effects, though its magnitude is moderate and context-dependent. Crucially, the original studies concern transparency of transient emotional states (lying, disgust, nervousness), not transparency of one's <em>knowledge base</em> or inferential chains, which is what the essay needs. Borrowing a result about felt nervousness to underwrite a claim about how speakers misjudge shared background knowledge is a stretch the cited literature does not directly support."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "an evolutionary-psychological argument for a cognitive bias to underestimate inferential distances",
+    "content": "This invokes an evolutionary-psychological \"just-so\" mechanism: a dedicated cognitive bias, shaped in the ancestral environment, to underestimate inferential distance. The descriptive phenomenon (speakers and writers routinely overestimate shared background and skip needed steps) overlaps with the empirically supported curse of knowledge (Camerer, Loewenstein & Weber, 1989, <a href=\"https://doi.org/10.1086/261651\">Journal of Political Economy</a>) and the illusion of transparency. But the specific adaptationist account—that this is a discrete evolved bias selected because ancestral bands shared near-universal background knowledge—is untested and unfalsifiable as stated: any communication failure can be retrofitted to it, which is exactly the floating-belief problem the neighboring essay warns against. Reverse-inference from a present-day behavior to a specific Pleistocene selection pressure is the methodological move evolutionary psychology is most criticized for."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay assumes the error always runs one direction: experts <em>underestimate</em> how many steps their audience needs. But the curse of knowledge is a difficulty <em>discounting</em> what one knows, which can equally produce the opposite error—experts who condescend, over-explain, and bore audiences who in fact share more background than assumed. Field data on expert-novice communication shows both over- and under-estimation depending on task and audience (e.g., the calibration literature on instructors' judgments of student knowledge). Eliezer's examples are uniformly cases where he is the misunderstood expert and the audience is the deficient party; the reverse failure mode—the expert who is simply wrong, or whose \"hundred inferential steps\" rest on shaky premises—is conspicuously absent, which is itself a selection bias in the essay's casework."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The evolution-and-Occam's-Razor example quietly assumes that \"simplest explanation\" really is a knockdown argument and that resistance reflects the audience's failure to revere Occam's Razor. This conflates two different things. Whether a layperson finds \"it's the simplest explanation\" persuasive is partly a communication problem, but it is also true that simplicity arguments are genuinely weak when stated without the supporting structure (a bare appeal to parsimony does not, by itself, establish common descent—the evidence does). Framing the listener's skepticism as a mere inferential-distance artifact lets the speaker avoid the possibility that the compressed argument was actually a bad argument, and that the listener's hesitation tracked a real gap rather than a missing premise."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "content": "The prescriptive payoff—recurse far enough back to the audience's accepted premises and communication succeeds—overstates how tractable real disagreement is. When parties disagree on values, framings, or which premises count as \"already accepted,\" no amount of additional inferential scaffolding converges them; this is the substance of work on motivated and identity-protective reasoning (Kahan et al., 2017, <a href=\"https://doi.org/10.1017/bpp.2016.2\">Behavioural Public Policy</a>), where supplying <em>more</em> information to numerate partisans <em>widens</em> rather than closes the gap. The essay models persuasion as a tree-traversal problem with a guaranteed path; in practice the failure is often not distance but the absence of any shared root, which inferential patience cannot manufacture."
+  }
+]

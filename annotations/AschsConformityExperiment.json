@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Three-quarters of the subjects in Asch’s experiment gave a “conforming” answer at least once.",
+    "content": "This \"three-quarters conformed at least once\" framing is technically correct but routinely oversold. Across Asch's critical trials, subjects gave the independent, correct answer roughly two-thirds to three-quarters of the time; conformity was the exception per decision, not the rule, and Asch himself stressed the independence as much as the yielding. The popular image, that people mostly cave to the group, inverts what the trial-level data actually show. To his credit, Yudkowsky's later analysis here works from the more careful meta-analytic numbers rather than this headline."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Conformity increases strongly up to 3 confederates, but doesn’t increase further up to 10–15 confederates.",
+    "content": "Citing the <a href=\"https://doi.org/10.1037/0033-2909.119.1.111\">Bond & Smith (1996)</a> meta-analysis is exactly the right move, but it carries two findings that cut against treating conformity as a fixed feature of \"our society.\" First, measured conformity has declined across cohorts since the 1950s, suggesting it is partly an artifact of mid-century American culture, the very thing Asch worried about. Second, conformity is substantially higher in collectivist than individualist cultures. A historically and culturally variable effect is not the universal \"phenomenon now known as conformity\" the opening sentence implies."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "all-female groups (a female subject alongside female confederates) conform significantly more often than all-male groups.",
+    "content": "The claim that women conform more is one of the shakier in this essay. The sex difference is small, and the classic result (<a href=\"https://doi.org/10.1037/h0030382\">Sistrunk & McDavid 1971</a>) is that women conform more only on stereotypically masculine tasks, men more on feminine ones, so the effect tracks task familiarity and the experimenter's choice of materials, not a stable trait. <a href=\"https://doi.org/10.1037/0033-2909.90.1.1\">Eagly & Carli's (1981)</a> meta-analysis puts the average sex difference near zero once content is controlled, and notes male authors tended to report larger female conformity. Yudkowsky's gloss, \"women are too agreeable and men too disagreeable,\" reads a confounded artifact as a deep fact about the sexes."
+  }
+]

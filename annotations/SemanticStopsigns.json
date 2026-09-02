@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "a way of belonging to a tribe, which gives people a motive to say it as often as possible",
+    "content": "Claim: professing a belief functions as group/tribal signaling that gives people a motive to repeat it. This connects to the broad literature on motivated reasoning and identity-protective cognition. Kunda (1990), \"The case for motivated reasoning,\" <a href=\"https://doi.org/10.1037/0033-295X.97.4.480\">https://doi.org/10.1037/0033-295X.97.4.480</a>, established that goals systematically bias reasoning, and Kahan et al. (2017) on \"identity-protective cognition,\" <a href=\"https://doi.org/10.1017/bca.2016.2\">https://doi.org/10.1017/bca.2016.2</a>, found that numeracy can amplify rather than reduce partisan bias on identity-laden topics. The general phenomenon is well-supported, though \"semantic stopsign\" itself is an informal essayistic construct rather than a measured psychological effect."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "failure to consider the obvious next question",
+    "content": "Claim: the diagnostic of a \"stopsign\" is the failure to consider the obvious next question. This is descriptively related to research on the human tendency toward shallow processing and reluctance to engage effortful reasoning, e.g., \"cognitive miser\" accounts (Fiske & Taylor, 1991) and performance on the Cognitive Reflection Test (Frederick, 2005, <a href=\"https://doi.org/10.1257/089533005775196732\">https://doi.org/10.1257/089533005775196732</a>), where most respondents give the intuitive answer without checking it. CRT effects replicate robustly. Note that \"semantic stopsign\" is a rhetorical/philosophical label, not an experimentally isolated construct, so this annotation flags the supporting cognitive science rather than validating the term itself."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "Claim: the \"obvious next question\" — \"Where did God come from?\", \"Where did the laws of physics come from?\" — can always be pushed one step further, so any answer that halts the regress is illegitimate. This assumes explanation must regress without end, but that premise is philosophically contestable. A foundationalist or a defender of brute facts can hold that some explanatory chains terminate: there may be facts that are simply <i>so</i> with no further \"why,\" and demanding a cause for everything risks the very regress it complains about (if every fact needs an external explainer, no explanation is ever complete). Theistic philosophers analyze God precisely as a necessary being whose existence does not invite a further \"where from,\" the same move physicists make when treating fundamental laws as brute (see van Inwagen on the Principle of Sufficient Reason; Pruss, 2006, <i>The Principle of Sufficient Reason</i>). One may reject these answers on the merits, but refusing to stop is not automatically more rational than stopping."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "Claim: a word is a stopsign when it halts the \"obvious continuation of the question-and-answer chain.\" Wittgenstein argued the opposite about justification generally: \"If I have exhausted the justifications I have reached bedrock, and my spade is turned. Then I am inclined to say: 'This is simply what I do'\" (<i>Philosophical Investigations</i> §217). On this view every practice of inquiry must rest on ungrounded ground — conceptual primitives and shared practices that are not themselves further explained — and Quine's \"Two Dogmas of Empiricism\" (1951, <a href=\"https://doi.org/10.2307/2181906\">https://doi.org/10.2307/2181906</a>) likewise denies any sharp line between substantive claims and the framework assumptions we decline to question. The difficulty is that Yudkowsky's own diagnostic (\"did you ask the next question?\") provides no principled way to distinguish a lazy stopsign from a legitimate bedrock; he relies on the reader's intuition that \"God!\" is bad but \"the laws of physics\" is fine, which is the very judgment in dispute. The concept usefully flags thought-terminating clichés, but it cannot by itself adjudicate which stopping points are warranted."
+  }
+]

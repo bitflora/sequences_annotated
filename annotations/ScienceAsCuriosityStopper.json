@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You become less curious",
+    "content": "The claim is that being told something is \"scientifically explicable\"—that <em>someone else</em> knows—diminishes one's own curiosity. This is loosely consistent with Loewenstein's (<a href=\"https://doi.org/10.1037/0033-2909.116.1.75\">1994</a>) <em>information-gap theory</em>, which models curiosity as arising from a perceived gap between what one knows and wants to know. But the essay's specific causal claim—that the mere existence of an external explainer closes that gap and kills curiosity—is asserted from a single contrived anecdote (the \"Science!\" light spell), not from data. Information-gap theory actually predicts the opposite is possible: knowing an answer exists but is withheld can <em>sharpen</em> the felt gap and heighten curiosity, which is why cliffhangers and \"the answer is known but I won't tell you\" work. Yudkowsky moves from one rhetorical scenario to a general law of human motivation without the intervening evidence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the raw emotion of curiosity—the feeling of being intrigued",
+    "content": "The essay treats curiosity as a distinct affective state (\"the raw emotion of curiosity\"). Contemporary affective neuroscience broadly supports treating curiosity/interest as a motivational state with measurable correlates: <a href=\"https://doi.org/10.1111/j.1467-9280.2009.02402.x\">Kang et al. (2009)</a> found high-curiosity states engage reward-related circuitry and enhance memory for answers. So framing curiosity as an intrinsic, reward-linked drive is reasonably grounded. Note, though, that this same research cuts against the essay's normative complaint: Kang et al. found curiosity is driven largely by the subjective gap between confidence and the desire to know, meaning it is <em>supposed</em> to track personal uncertainty, not absolute cosmic ignorance. A person feeling less curious about a phenomenon others have explained is not exhibiting \"spite\"; they are exhibiting exactly the uncertainty-tracking function curiosity evolved to serve. The phenomenon Yudkowsky derides may be the system working as designed."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "it would seize the entirety of your attention. You would drop whatever else you were doing, and focus on that light bulb",
+    "content": "The vivid claim that genuine inexplicability would \"seize the <em>entirety</em> of your attention\" and make you \"drop whatever else you were doing\" overstates what attention research supports. Novelty and prediction-error do reliably orient attention and boost exploration (<a href=\"https://doi.org/10.1037/h0042695\">Berlyne, 1957</a>), but attention is capacity-limited and routinely interrupted by competing demands; total absorption is the exception. The \"entirety\" framing is rhetorical scaffolding for the essay's conclusion, not an empirical description—and the inflated baseline lets Yudkowsky depict any lesser curiosity as a defect to be explained away by his \"someone else knows\" mechanism, when ordinary attentional triage is the simpler account."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay's recurring move is to treat naming a phenomenon as a \"curiosity-stopper\" or \"semantic stopsign\" as if naming the failure mode were equivalent to a prescription for avoiding it. This is the same gap that runs through the whole sequence: identifying a cognitive shortcut does not supply a reliable remedy. <a href=\"https://doi.org/10.1037/0033-2909.116.1.117\">Wilson and Brekke (1994)</a> show that people who know about a mental-contamination effect frequently fail to correct for it, because correction requires awareness, motivation, <em>and</em> an accurate model of the effect's direction and size—conditions rarely met. The essay offers the reader awareness of the \"Science! as password\" trap but no validated technique for sustaining curiosity in its presence, and there is little evidence such metacognitive exhortation changes behavior outside the page."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The empirical heart of the piece—that labeling something \"science\" or \"electricity\" actively <em>kills</em> curiosity and leaves you knowing \"nothing more than you knew before\"—is presented as a discovery about cognition but supported entirely by intuition-pump anecdotes (the light spell, the green elephant). The alternative reading is that a name like \"electricity\" is a genuine, if compressed, pointer to a body of knowledge one could expand on demand—not a stopsign but an index entry—and treating it as sufficient for present purposes is rational triage, not curiosity-death. Yudkowsky's stronger claim, that schooling's password-style labels causally suppress the disposition to inquire, is exactly the kind of education-effects hypothesis that controlled study tends to deflate (<a href=\"https://doi.org/10.1111/j.1745-6924.2009.01163.x\">Lilienfeld et al., 2009</a>, on the limited transfer of critical-thinking instruction). The anecdote is memorable; the general principle is unverified."
+  }
+]

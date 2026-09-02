@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "conjunction fallacies, to overconfidence, to the availability and representativeness heuristics, to base rate neglect",
+    "content": "This passage names four staples of the \"heuristics and biases\" program as if they were a settled, coherent natural kind. Their replication records actually differ sharply and are worth distinguishing. The <em>conjunction fallacy</em> (<a href=\"https://doi.org/10.1037/0033-295X.90.4.293\">Tversky & Kahneman, 1983</a>) and <em>base-rate neglect</em> are robust in their original framings but both attenuate dramatically when problems are posed in natural-frequency rather than single-event probability formats (<a href=\"https://doi.org/10.1037/0033-295X.102.4.684\">Gigerenzer & Hoffrage, 1995</a>). <em>Overconfidence</em> is partly an artifact of unrepresentative item sampling and the hard-easy effect, and shrinks once these are controlled. <em>Representativeness</em> remains an influential label rather than an independently measurable mechanism. Pointing at \"stuff like that\" papers over the fact that these phenomena do not share one cause or one robustness profile."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the availability heuristic is not itself a bias, but it gives rise to identifiable, compactly describable biases",
+    "content": "The essay's defining move, that biases arise from \"the shape of our own mental machinery\" and are \"humanly universal,\" is the load-bearing claim of the whole sequence, and it is the most empirically vulnerable. The replication crisis hit social and cognitive psychology hard, and several effects once presented as universal proved fragile, culture-bound, or sample-specific; the WEIRD-samples critique (<a href=\"https://doi.org/10.1017/S0140525X0999152X\">Henrich, Heine & Norenzayan, 2010</a>) shows that conclusions drawn overwhelmingly from Western undergraduates routinely fail to generalize, including in domains of reasoning. Individual differences in susceptibility are also large and stable. Defining biases as universal machinery-level defects builds an empirical bet about human uniformity into the very definition, where it cannot be examined."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "Yudkowsky separates correctable \"mistakes\" (cognitive content) from hard-to-fix \"biases\" (machinery), framing the project as acquiring \"personal skills of rationality\" that route around the machinery. But the debiasing literature is notably discouraging on exactly this point: simply knowing about a bias rarely removes it. The bias blind spot, our tendency to see bias in others but not ourselves, is itself robust (<a href=\"https://doi.org/10.1177/0146167202286008\">Pronin, Lin & Ross, 2002</a>), and trained, knowledgeable experts remain susceptible. If awareness and \"skill\" deliver only modest, effortful, often non-transferable gains, the essay's implicit promise, that studying biases makes you systematically less biased, is itself a claim that the evidence only partly supports."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The closing image, that someone identifies a problem \"in a fashion that System 2 can comprehend,\" leans on a tidy System 1 / System 2 architecture in which a fast, biased system is policed by a slow, rational one. That dichotomy is now seriously contested. <a href=\"https://doi.org/10.1111/j.1745-6916.2009.01164.x\">Keren & Schul (2009)</a> argue the two-systems construct is underspecified and the defining features do not cohere, and even sympathetic theorists have retreated to a looser \"Type 1 / Type 2 process\" view that abandons the clean two-agents-in-the-head picture (<a href=\"https://doi.org/10.1177/1745691612460685\">Evans & Stanovich, 2013</a>). Treating \"System 2 comprehension\" as the obvious endpoint of debiasing imports a model that its own field has largely walked back."
+  }
+]

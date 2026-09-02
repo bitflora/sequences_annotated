@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "available",
+    "content": "The text invokes the <em>availability heuristic</em>—the tendency to judge an event's frequency or probability by how easily examples come to mind. <a href=\"https://doi.org/10.1016/0010-0285(73)90033-9\">Tversky and Kahneman (1973)</a> introduced the concept. The basic phenomenon (ease of retrieval influences frequency estimates) is well-replicated, though later work refined the mechanism: <a href=\"https://doi.org/10.1037/0022-3514.61.2.195\">Schwarz et al. (1991)</a> showed it is often the subjective <em>experience</em> of retrieval fluency, not the number of instances recalled, that drives the effect—sometimes producing the reverse of a naive availability prediction. This refinement is awkward for Yudkowsky's prescription: if it is fluency rather than count that matters, then deliberately \"making history available\" by recalling many historical cases can backfire when the recall <em>feels</em> effortful, leaving one less rather than more persuaded (<a href=\"https://doi.org/10.1207/s15327663jcp1404_2\">Schwarz, 2004</a>). The qualitative claim is sound; the proposed intervention rests on the cruder version of the theory."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "fictions we see in lifelike moving pictures have too great an impact on us",
+    "content": "The claim that vivid fictional or narrative depictions exert a disproportionate influence on belief corresponds to research on \"narrative transportation\" and the \"vividness effect.\" <a href=\"https://doi.org/10.1037/0022-3514.79.5.701\">Green and Brock (2000)</a> found that absorption into a narrative increases acceptance of story-consistent beliefs. However, the broader vividness effect has a notably mixed record: <a href=\"https://doi.org/10.1037/0033-295X.89.2.155\">Taylor and Thompson (1982)</a> reviewed the literature and concluded experimental support for vivid information dominating pallid information is weak and highly context-dependent—often absent altogether under controlled comparison. This matters because the essay's whole strategy assumes a robust, manipulable vividness channel that one can redirect from fiction toward history. If the effect is fragile and inconsistent, the recommended program of \"immersing\" oneself to feel history more vividly has no reliable lever to pull. The direction is plausible; the magnitude is contested."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Don’t imagine how you could have predicted the change",
+    "content": "The passage describes <em>hindsight bias</em>: after an outcome is known, people overestimate how predictable it was beforehand. First documented by <a href=\"https://doi.org/10.1037/0096-1523.1.3.288\">Fischhoff (1975)</a>, this is one of the more robust findings in judgment research, confirmed meta-analytically by <a href=\"https://doi.org/10.1177/1745691612454303\">Roese and Vohs (2012)</a>. But that same review undercuts the essay's implicit advice. Yudkowsky urges the reader to actively \"remember\" not having predicted past changes, as a corrective—yet Roese and Vohs report that hindsight bias is highly resistant to debiasing and persists even when people are explicitly warned and instructed to consider how things could have turned out otherwise. Recognizing the bias is well-supported; the assumption that an act of will (\"<em>remember</em> that you did not guess\") dissolves it is exactly the mental-contamination problem (<a href=\"https://doi.org/10.1037/0033-2909.116.1.117\">Wilson & Brekke, 1994</a>) that bias awareness routinely fails to solve."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay's core proposal—deliberately \"making history available\" by imagining you lived through every era so its lessons hammer home—treats salience as a straightforward cure for under-weighting historical evidence. The availability literature gives reason for caution rather than optimism. Manipulating what comes easily to mind is double-edged: increasing the availability of examples can amplify whatever the examples suggest, including stereotypes and false generalizations, and the felt difficulty of generating many instances can <em>reduce</em> conviction (<a href=\"https://doi.org/10.1207/s15327663jcp1404_2\">Schwarz, 2004</a>). More fundamentally, \"history\" is itself a biased, survivor-skewed, narratively-curated sample; flooding one's mind with it does not approximate the real distribution Yudkowsky says fiction departs from. The intervention could just substitute one availability distortion for another."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The closing argument generalizes from the history of past surprises (\"century after century, the world changed in ways you did not guess\") to the conclusion that you should expect the future to be radically strange. The inference is weaker than the rhetoric. That past observers failed to predict change does not entail that <em>future</em> change will be large, nor that any particular speculative future is likely; it is a claim about predictive humility, not a license for any specific forecast. The same selection effect noted above operates here—we remember the dramatic discontinuities and forget the long stretches of continuity—so the recalled record itself overstates how surprising history \"really\" was. \"Be less confident in your forecasts\" is defensible; \"therefore be moved by my forecast\" does not follow."
+  }
+]

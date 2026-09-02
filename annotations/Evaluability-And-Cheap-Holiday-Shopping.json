@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "if you buy someone a $45 scarf, you are more likely to be seen as generous than if you buy them a $55 coat.",
+    "content": "The \"less is better\" effect (<a href=\"https://doi.org/10.1002/(SICI)1099-0771(199806)11:2%3C107::AID-BDM292%3E3.0.CO;2-Y\">Hsee 1998</a>) is real within joint-versus-separate evaluation paradigms, but each demonstration rests on small student samples giving hypothetical willingness-to-pay, and the headline reversals are modest in size. The broader joint/separate evaluation reversal is itself well-replicated (<a href=\"https://doi.org/10.1037/0033-2909.125.5.576\">Hsee et al. 1999</a>), so the phenomenon is genuine; the specific figures, a $45 scarf beating a $55 coat, should be read as illustrations, not stable parameters you can plan a shopping strategy around."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Subjects who saw only one of these options were willing to pay an average of $24 for Dictionary A and an average of $20 for Dictionary B.",
+    "content": "The evaluability hypothesis, that an attribute swamps judgment only once it becomes comparable, is one of the more robust ideas in behavioral decision research and replicates across domains (<a href=\"https://doi.org/10.1006/obhd.1996.0077\">Hsee 1996</a>; <a href=\"https://doi.org/10.1037/0033-2909.125.5.576\">Hsee et al. 1999</a>). The important boundary condition the essay underplays: the reversal requires the key attribute to be genuinely hard to evaluate in isolation, and it weakens or disappears when people have a reference standard, prior expertise, or market feedback. Outside the lab, separate evaluation with no comparison information is less common than the gift-shopping advice assumes."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "You can make a gamble more attractive by adding a strict loss!",
+    "content": "This descends from the Lichtenstein & Slovic (<a href=\"https://doi.org/10.1037/h0031207\">1971</a>) preference-reversal literature, which is among the most robust in the field, so the demonstration is solid. Two caveats. Grether & Plott (1979) famously tried to make preference reversals vanish under economic incentives and market discipline and could not, but later work shows reversals do shrink with learning, arbitrage, and repeated markets. And like all the effects in this chapter, it requires separate evaluation; the open empirical question, which the shopping advice glosses, is how often real decisions are made without any side-by-side comparison."
+  }
+]

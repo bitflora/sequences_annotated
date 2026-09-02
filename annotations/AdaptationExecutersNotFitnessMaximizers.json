@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Individual organisms are best thought of as adaptation-executers rather than as fitness-maximizers.",
+    "content": "This is one of the soundest ideas in the sequence. The distinction between the <em>ultimate</em> (selective-historical) cause of a trait and its <em>proximate</em> moment-to-moment operation is Mayr's classic separation of cause in biology (<a href=\"https://doi.org/10.1126/science.134.3489.1501\">1961</a>) and part of Tinbergen's four questions (<a href=\"https://doi.org/10.1111/j.1439-0310.1963.tb01161.x\">1963</a>); confusing the two is a standard error the framework was designed to prevent. No serious caveat applies to the core thesis itself—the caveats below concern the specific stories told to illustrate it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Micronutrients that were reliably abundant in leaves and nuts are absent from bread",
+    "content": "The general logic—tastes tuned to past scarcity now firing in an environment of abundance—is sound, but the confident picture of a single ancestral diet is shakier than it sounds. There was no one \"environment of evolutionary adaptedness\": hominin diets varied enormously by region, season, and epoch, so claims about what was \"reliably abundant\" are reconstructions, not measurements. The thrifty-gene account of modern obesity that this framing invites is itself disputed—Speakman's \"drifty gene\" critique (<a href=\"https://doi.org/10.1038/ijo.2008.161\">2008</a>) argues the data fit relaxed selection on body weight better than positive selection for fat storage. The mismatch idea is plausible; the specific dietary backstory carries more certainty than the evidence warrants."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "“So there grows up in them against their fellow men a hostility which has no cause",
+    "content": "The fable's premise—that intense group hostility can arise from an arbitrary, content-free group marker—is well-supported by experimental social psychology. Tajfel's minimal group paradigm showed that assigning people to meaningless categories is sufficient to produce in-group favoritism in resource allocation, with no prior contact, conflict of interest, or interaction (Tajfel et al., 1971, <a href=\"https://doi.org/10.1002/ejsp.2420010202\">European Journal of Social Psychology</a>). But the typical laboratory result is in-group <em>favoritism</em>, not the active out-group <em>aggression</em>—massacres, \"pestilence to be cleansed\"—the fable depicts. The leap from preferentially allocating points to one's arbitrary group to organized intergroup killing requires real or perceived competition, mobilizing leadership, and norms; the minimal-group finding does not by itself license the fable's picture of motiveless lethal hatred, which is closer to Procopius's rhetoric than to the data."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "it would be rare to find a city merchant who believed the sky was blue, and yet advocated an individual tax and freer marriage laws",
+    "content": "The observation that unrelated factual, economic, and social positions become bundled into a single partisan package maps onto research on ideological \"constraint\" and partisan sorting—the correlation of attitudes across logically independent issues, which has increased in recent decades (following Converse's 1964 analysis of belief systems). The mechanism the fable dramatizes—group identity, not first-principles reasoning, driving the bundling—is consistent with evidence on identity-protective and politically motivated reasoning (Kahan et al., 2017, <a href=\"https://doi.org/10.1017/bpp.2016.2\">Behavioural Public Policy</a>). One caveat the fable elides: this bundling is contingent and historically variable, not a fixed property of \"politics\"—which issues align with which coalition shifts over time and across cultures, so the tidy Blue/Green package is a stylized snapshot, not a law of group cognition."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The fable's rhetorical engine is the analogy between the cerulean-sky dispute and contemporary political disagreement: both are supposedly factual questions corrupted by tribal allegiance. But the analogy is rigged. \"What color is the sky\" has a single observer-independent answer reachable by walking up a corridor; almost no real political dispute (tax incidence, marriage law, divorce policy) is like that—they turn on values and tradeoffs with no \"true color\" to discover. By choosing a purely factual disguised-as-political question, the fable makes depoliticized truth-seeking look both possible and obviously correct, then invites the reader to transfer that intuition to disputes where it does not hold. The persuasive force comes from the example's atypicality, not from any demonstrated general isomorphism between factual and political questions."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The six characters are a gallery of failure modes, with only Ferris—curious, unattached, delighted—presented as the rational ideal. This framing quietly equates rationality with affective detachment from one's social world, and treats grief, dread, or concern for one's community (Barron, Daria, Eddin) as epistemic vices rather than reasonable responses to genuine social costs of changing one's mind. Yet the literature the rest of the Sequences relies on shows belief change <em>does</em> carry real relational and identity costs (Kahan et al., 2017), so Daria's anguish is not irrationality—it is accurate appraisal of her situation. Holding up the consequence-free explorer as the model of good thinking smuggles in a contestable value judgment: that the rational agent is the one with the least at stake."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Charles the tolerant professor is set up as a coward who would block off the corridor to protect a comfortable relativism, and the fable invites contempt for him. But Charles's reasoning contains a defensible kernel the fable refuses to credit: that a single dramatic revelation, weaponized into one faction's vindication, could rationally be expected to <em>restart</em> intergroup violence, and that the expected harm might outweigh the value of broadcasting the fact. That is a consequentialist judgment about disclosure under conditions of conflict, not a confusion about whether the sky has a real color. By collapsing \"truth is socially constructed\" (which Charles rejects) into \"sometimes spreading a true fact does net harm\" (which is simply true), the fable scores a rhetorical point against a position no careful reader actually holds."
+  }
+]

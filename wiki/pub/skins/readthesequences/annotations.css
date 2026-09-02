@@ -1,0 +1,92 @@
+/*
+ * Skeptic's Annotations — margin note layout
+ * Amber/orange palette distinguishes from editor footnotes (blue).
+ */
+
+/* Widen #wikitext to accommodate left + right gutters */
+#wikitext {
+    position: relative;
+    max-width: 1540px;
+    padding-left: 460px;
+    padding-right: 460px;
+    box-sizing: border-box;
+}
+
+/* Inline annotated text */
+.annotation-target {
+    background: rgba(220, 160, 0, 0.12);
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: rgba(200, 130, 0, 0.6);
+    cursor: default;
+}
+
+/* Superscript marker [A1], [A2], etc. */
+sup.annotation-ref {
+    line-height: 0;
+}
+sup.annotation-ref a {
+    font-family: 'Proxima Nova', sans-serif;
+    font-size: 0.65em;
+    color: #b06000;
+    text-decoration: none;
+    font-weight: 600;
+}
+sup.annotation-ref a:hover {
+    text-decoration: underline;
+}
+
+/* Margin notes — positioned absolutely by JS */
+.margin-note {
+    position: absolute;
+    width: 420px;
+    font-family: 'Proxima Nova', sans-serif;
+    font-size: 0.775em;
+    line-height: 1.55;
+    color: #444;
+    border-left: 2px solid #d4a020;
+    padding-left: 0.65em;
+}
+
+.margin-note.left {
+    left: 20px;
+}
+
+.margin-note.right {
+    right: 20px;
+}
+
+.margin-note-number {
+    font-weight: 700;
+    color: #b06000;
+    margin-right: 0.25em;
+    white-space: nowrap;
+}
+
+.margin-note a {
+    color: #6060c0;
+}
+.margin-note a:hover {
+    text-decoration: underline;
+}
+
+/* The skin stamps a raised marker after every link (skin.css:
+   a:link::after { content: "\FEFF\B0"; }). Suppress it on the links this
+   feature injects — the [A1] refs and margin-note citations — so they don't
+   sprout stray degree-sign characters. */
+sup.annotation-ref a::after,
+.margin-note a::after {
+    content: none;
+}
+
+/* Narrow screens: collapse to no extra padding; hide margin notes */
+@media (max-width: 1000px) {
+    #wikitext {
+        padding-left: 1em;
+        padding-right: 1em;
+        max-width: 660px;
+    }
+    .margin-note {
+        display: none;
+    }
+}

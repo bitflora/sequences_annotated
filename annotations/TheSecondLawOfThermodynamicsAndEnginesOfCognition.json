@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "To form accurate beliefs about something, you really do have to observe it",
+    "content": "The physical core of this claim has held up well. The thermodynamic cost of information processing, that erasing one bit dissipates at least kT ln 2 of heat (Landauer's principle), was directly measured by <a href=\"https://doi.org/10.1038/nature10872\">Bérut et al. (2012)</a>, and the converse, extracting work from information via a Szilárd-type engine, was demonstrated by <a href=\"https://doi.org/10.1038/nphys1821\">Toyabe et al. (2010)</a>. So \"engines of cognition\" paying a real thermodynamic price is not metaphor; it is confirmed physics. The caveat is that the sweeping epistemological moral, that you <em>cannot</em> form accurate beliefs without doing work, rests on using Landauer's principle to exorcise Maxwell's demon, and that exorcism remains philosophically disputed: John Norton argues the principle is neither cleanly derivable from statistical mechanics nor sufficient on its own to rescue the Second Law without circularity (<a href=\"https://doi.org/10.1016/S1355-2198(98)00026-4\">Earman & Norton 1999</a>)."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "essentially Bayesian in nature",
+    "content": "Calling the Second Law \"essentially Bayesian\" adopts the Jaynes/MaxEnt program, the interpretation of thermodynamic entropy as missing information relative to an observer, as if it were settled fact. It is an influential but minority interpretive stance, not a consensus. Many physicists hold that Boltzmann/Gibbs entropy is an objective property of a system's macrostate and that the identification with a knower's subjective uncertainty is a philosophical add-on, criticized precisely for letting the Second Law's status depend on what someone happens to know (the same \"isn't that too subjective?\" objection raised in <em>Beautiful Probability</em>, here turned around). The underlying theorem (Liouville's, phase-space volume conservation) is real; the gloss that this makes entropy fundamentally epistemic is a contested reading presented as the plain meaning."
+  }
+]

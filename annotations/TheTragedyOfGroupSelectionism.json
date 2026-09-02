@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Vero Wynne-Edwards, Warder Allee, and J. L. Brereton",
+    "content": "Wynne-Edwards (1962) is fairly described as the high-water mark of naive group selectionism, and his explanation—populations regulating their own breeding for the good of the group—was rightly rejected after Williams's <em>Adaptation and Natural Selection</em> (1966). Worth keeping distinct, though, is that the phenomena he catalogued (territoriality, communal displays, density-dependent fecundity) are real; what was overturned was his group-benefit <em>explanation</em>, not his observations. The history here is one of mechanism being reinterpreted, not of an empirical edifice collapsing."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the group selectionists ultimately lost the scientific argument",
+    "content": "\"Lost\" is the standard 1960s–70s verdict, but it overstates the settled position. Group selection returned not merely \"somewhat\" but as multilevel selection theory, a mathematically respectable framework in which the Price equation partitions the same evolutionary change into within- and between-group components (Sober &amp; Wilson, <em>Unto Others</em>, 1998). Whether inclusive fitness or group selection is the more illuminating accounting is still openly disputed among biologists (Nowak et al. <a href=\"https://doi.org/10.1038/nature09205\">2010</a>; Abbot et al. <a href=\"https://doi.org/10.1038/nature09831\">2011</a>). What was defeated was group adaptation \"for the good of the species,\" not group-level selection as a force."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "repeatedly selecting populations of insects for low numbers of adults per subpopulation",
+    "content": "There is an irony in how this experiment is deployed. Wade's <em>Tribolium</em> studies (<a href=\"https://doi.org/10.1073/pnas.73.12.4604\">1976</a>; <a href=\"https://doi.org/10.1111/j.1558-5646.1977.tb00991.x\">1977</a>) are normally cited as evidence that group selection can be a <em>strong, fast</em> agent of change in the lab, not a negligible one—the cannibalism the essay highlights was simply the trait that happened to respond. Wade further showed that group selection works precisely because real populations violate the assumptions (random migration, large demes) that made the classic models declare it impotent (see Goodnight &amp; Stevens, <a href=\"https://doi.org/10.1086/286050\">1997</a>). So the experiment supports the conclusion that group selection is feasible under realistic structure, somewhat against the essay's framing of it as a cautionary tale about an effect too weak to matter."
+  }
+]

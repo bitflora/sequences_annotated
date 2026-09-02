@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "in one experiment in 1981, 68% of the subjects ranked it more likely that “Reagan will provide federal support for unwed mothers and cut federal support to local governments” than that “Reagan will provide federal support for unwed mothers.”",
+    "content": "The Reagan example is from <a href=\"https://doi.org/10.1037/0033-295X.90.4.293\">Tversky & Kahneman (1983)</a>. The conjunction fallacy replicates, but the very feature Yudkowsky leans on, that detail makes a scenario \"sound more plausible\", is also what powers the strongest critique. A cooperative reader hears the bare conjunct \"Reagan will provide federal support for unwed mothers\" as implying \"and nothing else noteworthy,\" so endorsing the richer statement can reflect sensible conversational inference rather than a violation of probability logic. When the inclusion relation is made transparent, or frequencies replace probabilities, the error rate drops sharply. The strict-setup violation is real; the leap to \"this is why humans get swindled by detailed narratives\" is a much larger claim built on it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "conjunction fallacy occurs because we “substitute judgment of representativeness for judgment of probability.”",
+    "content": "The \"substitute representativeness for probability\" account is Kahneman & Frederick's (2002) attribute-substitution framing, and Yudkowsky presents it as the experiments having \"weeded out alternative hypotheses and nailed down the standard interpretation.\" That is overstated. Representativeness is not independently measured, so the explanation risks circularity: the answer is wrong because it was representativeness-driven, and we know it was representativeness because the answer was wrong. Competing models, conversational pragmatics, confusion over the meaning of \"probable,\" and signed-summation/averaging accounts, each capture sizeable shares of the effect. The phenomenon is solid; calling one contested interpretation \"nailed down\" is exactly the overconfidence the sequence warns against."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Sixty-five percent of the subjects chose grgrrr",
+    "content": "The four-green/two-red dice study is in Tversky & Kahneman (1983). The dominance violation is striking, but it is highly format-dependent: presenting the bets as frequencies or making the set-inclusion relation transparent sharply reduces it (<a href=\"https://doi.org/10.1037/0033-295X.102.4.684\">Gigerenzer & Hoffrage, 1995</a>). That dependence matters for Yudkowsky's thesis. He argues the fix can't be \"noticing the inclusion\" because that's a mere band-aid, the deep cure is to \"feel every added detail as a burden.\" But if the error is largely an artifact of how the problem is represented, then changing the representation <em>is</em> addressing the cause, and the demand for a cultivated emotional aversion to conjunctions looks like overcorrection rather than calibration."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The Poland-invasion forecaster study is genuinely interesting because the two groups never saw the comparison, which Yudkowsky uses to argue the bias is too deep to patch case-by-case. But the prescription he derives, \"leap back\" from the word \"and\" and \"penalize the probability substantially, a factor of four at least,\" is a recipe for a new systematic error. A blanket multiplicative penalty on conjunctions would make you badly underconfident about specific true scenarios and about highly probable conjuncts (P(it will rain) is barely reduced by adding \"and the sun will rise\"). The corrective heuristic is itself unconditional in a way the calibrated answer is not; the right adjustment depends on the conditional dependence between the claims, which \"flinch at and\" ignores."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The essay's rhetorical payload is the move from a lab artifact to a sweeping diagnosis of \"incautious futurists\" and \"huge packages of unsupported claims.\" This is a selective application: detail-laden forecasting is not uniformly worse. In domains with real structure, adding correct conditioning information improves predictions, and the forecasting literature (e.g., Tetlock's work on superforecasters) finds the best forecasters decompose problems into many specific, articulated sub-considerations rather than recoiling from detail. The lesson \"distrust elaborate scenarios\" and the lesson \"good forecasting requires structured detail\" are both supportable, and Yudkowsky picks the cases that favor the former while presenting it as the general law."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "content": "Note the self-serving turn at the end: the conjunction fallacy is enlisted to dismiss a rival's speculative cosmology (universes replicating via engineered black holes) while the author's own confidence is left unexamined. But the heuristic cuts both ways. \"Disentangle the details and ask how you know each one\" is good advice that applies just as forcefully to the heuristics-and-biases program's own grand narrative, that a catalog of lab effects implies humans are pervasively, systematically irrational and that a particular Bayesian self-discipline is the remedy. That is itself a long conjunction of contestable claims. The essay teaches suspicion of detailed stories told by others without turning it on the detailed story it is itself telling."
+  }
+]

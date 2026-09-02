@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Mice see, but they don’t know they have visual cortexes, so they can’t correct for optical illusions.",
+    "content": "The claim is that humans can \"correct for\" optical illusions by knowing they have a visual cortex, whereas mice cannot. In fact, susceptibility to many visual illusions is largely involuntary and persists even with full knowledge that one is being fooled—the Müller-Lyer and Ebbinghaus illusions remain perceptually compelling after the trick is explained (Gregory, 1997, <a href=\"https://doi.org/10.1098/rstb.1997.0095\">Philosophical Transactions of the Royal Society B</a>). Metacognitive knowledge lets a person discount a percept at the level of belief, but it does not undo the perception itself, which directly undercuts the essay's metaphor: the \"lens\" precisely <em>cannot</em> correct its own optics, only annotate them. Separately, non-human animals (rodents, birds, fish, insects) also experience and behaviorally respond to geometric illusions, so the human/mouse contrast is one of degree, not the clean binary the essay needs to dramatize human exceptionalism."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "understand its own flaws—its systematic errors, its biases—and apply second-order corrections to them",
+    "content": "The essay's central promise is that knowing about one's biases enables \"second-order corrections\" that make cognition far more powerful. The empirical record on debiasing is mixed at best. Some interventions produce durable improvement—a single training game reduced anchoring and confirmation bias with effects persisting months (Morewedge et al., 2015, <a href=\"https://doi.org/10.1177/2372732215600886\">Policy Insights from the Behavioral and Brain Sciences</a>). But mere awareness of a bias typically does <em>not</em> remove it and can backfire: the bias blind spot leads people to grant biases in the abstract while believing themselves personally exempt (Pronin, Lin & Ross, 2002, <a href=\"https://doi.org/10.1177/0146167202286008\">Personality and Social Psychology Bulletin</a>), and meta-awareness of the blind spot does not eliminate it (Scopelliti et al., 2015, <a href=\"https://doi.org/10.1287/mnsc.2014.2096\">Management Science</a>). The essay's confident \"this, in practice, makes the lens far more powerful\" is precisely the claim the debiasing literature has struggled to vindicate."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "\"Mice can't think about thinking, which is why they don't have Science\" treats metacognition as an all-or-nothing human possession. Comparative work shows graded metacognition in other species: rhesus monkeys and rats decline difficult trials when uncertain and seek information adaptively, behavior standardly interpreted as uncertainty monitoring (Smith, 2009, <a href=\"https://doi.org/10.1016/j.tics.2009.06.009\">Trends in Cognitive Sciences</a>). The reason mice lack Science is far more plausibly the absence of cumulative culture, language, and external record-keeping than a binary lack of \"thinking about thinking.\" The essay's framing flatters the reader (you, unlike the mouse, possess the magic ingredient) while skating over the fact that individual human metacognition is famously unreliable—which is why Science is a <em>social</em>, institutional error-correcting process, not a personal superpower."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The nuclear-war anecdote is offered as a clean illustration of wishful thinking corrupting belief, but the man's \"pure hope\" answer is being read in the least charitable way to make the point land. The deeper issue is that the essay slides from a correct probabilistic claim (your optimism cannot itself lower nuclear-war risk by 20%) to the much stronger implied claim that one can reliably <em>detect</em> when hope is distorting one's own first-order beliefs and \"apply a reflective correction.\" Introspective access to the causes of one's own judgments is poor (Nisbett & Wilson, 1977, <a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Psychological Review</a>): people confabulate reasons and miss the actual influences on their beliefs, so the very self-monitoring the essay relies on is the faculty least equipped to do the job."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Treating the brain as \"a flawed lens that can understand its own flaws\" smuggles in a unified, self-transparent reasoner doing the correcting. But the dual-process picture this rests on—a biased intuitive system supervised by a corrective reflective one—is now heavily contested. The clean System 1 / System 2 dichotomy has been challenged as a misleading reification: the two \"systems\" are not crisply separable, and reflective processing is neither reliably less biased nor obviously \"in charge\" (Evans & Stanovich, 2013, <a href=\"https://doi.org/10.1177/1745691612460685\">Perspectives on Psychological Science</a>; Melnikoff & Bargh, 2018, <a href=\"https://doi.org/10.1016/j.tics.2018.01.007\">Trends in Cognitive Sciences</a>). If there is no privileged \"second-order\" vantage point cleanly distinct from the biased first-order processing, the central metaphor of a lens that steps back to correct itself is doing more poetic than mechanistic work."
+  }
+]

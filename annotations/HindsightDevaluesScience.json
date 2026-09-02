@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Hindsight bias: Subjects who know the actual answer to a question assign much higher probabilities they “would have” guessed for that answer, compared to subjects who must guess without knowing the answer.",
+    "content": "The definition given matches the classic hindsight bias (\"knew-it-all-along effect\") first demonstrated by Fischhoff (<a href=\"https://doi.org/10.1037/0096-1523.1.3.288\">1975</a>): people told an outcome overestimate how predictable it was in foresight. This is one of the most robust findings in cognitive psychology. A comprehensive review by Roese & Vohs (<a href=\"https://doi.org/10.1177/1745691612454303\">2012</a>) confirms the effect replicates across domains, cultures, and decades, and identifies three component levels (memory distortion, inevitability, foreseeability). Unlike many heuristics-and-biases results, hindsight bias has weathered the replication crisis well."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "In this demonstration (from Paul Lazarsfeld by way of Meyers), all of the findings above are the opposite of what was actually found.",
+    "content": "The five \"obvious\" military findings, all stated as the reverse of the real results, come from Lazarsfeld's (1949) review of <em>The American Soldier</em>. This is a vivid pedagogical demonstration rather than a controlled experiment, and Lazarsfeld's original point was precisely that the surveyed results were genuinely non-obvious. The device works because readers cannot easily verify the direction, which is itself an illustration of the foreseeability component of hindsight bias rather than independent empirical evidence for it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "students rated the supposed finding as what they “would have predicted.” Perfectly standard hindsight bias.",
+    "content": "Baratz's (1983) unpublished dissertation found that students rated both a true finding and its opposite as what they \"would have predicted.\" This specific study is not widely cited or directly replicated, but its conclusion is consistent with the much larger hindsight-bias literature and with controlled work showing the effect for scientific and statistical findings (e.g., Slovic & Fischhoff, <a href=\"https://doi.org/10.1037/0096-1523.3.4.544\">1977</a>). The phenomenon is robust even though this particular citation is weak."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Hindsight will lead us to systematically undervalue the surprisingness of scientific findings",
+    "content": "The inference that hindsight bias causes us to \"systematically undervalue the surprisingness of scientific findings\" is a reasonable extrapolation, and there is direct evidence that people judge already-known research results as obvious (Slovic & Fischhoff, <a href=\"https://doi.org/10.1037/0096-1523.3.4.544\">1977</a>). The caveat is one of magnitude and debiasing: the effect, while reliable, is often modest in size and can be partially reduced by prompting people to consider alternative outcomes, so it does not render lay intuition wholesale unreliable."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The title's thesis, that hindsight bias \"devalues science,\" is an institutional claim that the cited lab work does not establish. Demonstrating that individuals rate a known result as foreseeable in a questionnaire is not the same as showing that funding agencies, journal editors, or tenure committees systematically underrate genuinely surprising findings, and the latter is what \"devalues science\" would require. Whether the laboratory effect transfers to real allocation decisions, where reviewers have domain expertise, adversarial incentives, and explicit novelty criteria, is essentially unstudied. Yudkowsky is extrapolating a robust within-subject effect to an aggregate, institutional outcome without the connecting evidence."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "content": "The rhetorical move of reversing the findings and then teasing \"unless, of course, I reversed the results again\" demonstrates the bias effectively, but it cannot distinguish hindsight bias from a simpler fact: many social-science results are genuinely close calls where either direction would be defensible, so a reader who finds both directions plausible may be well calibrated rather than biased. Lazarsfeld's actual point was that the surprising thing is how many results run against folk expectation, not that every result feels obvious in hindsight. The demonstration is persuasive theater, but as evidence it conflates \"the answer was not obvious\" with \"you would have claimed any answer was obvious,\" which are separable claims."
+  }
+]

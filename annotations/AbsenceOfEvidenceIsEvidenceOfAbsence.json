@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "absence of evidence is always evidence of absence",
+    "content": "The central claim, that in probability theory absence of evidence is always evidence of absence, is a theorem of Bayesian probability, not an empirical psychological finding. Given that observing E raises P(H), it follows by the law of total probability that failing to observe E must lower P(H), since P(H) is a convex combination of P(H|E) and P(H|¬E). This is mathematically correct and uncontroversial. The substantive question the slogan glosses over is magnitude, and crucially the detection probability P(E|H): if we do not know how likely the search would have been to turn up evidence had H been true, the non-observation can be arbitrarily weak, and the inference from \"I saw nothing\" to \"it is probably absent\" can be nearly empty even though it is formally nonzero."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "post-hoc fitting of evidence to hypothesis",
+    "content": "The opening anecdote, drawn from Dawes (1988), is used to illustrate \"post-hoc fitting of evidence to hypothesis,\" the human tendency to construe any observation, including its absence, as confirming a prior belief. This relates to confirmation bias, which is well documented but also nuanced: Klayman & Ha (<a href=\"https://doi.org/10.1037/0033-295X.94.2.211\">1987</a>) showed that much apparent confirmation seeking reflects a rational \"positive test strategy\" rather than motivated reasoning. Warren's reasoning is better characterized as the specific error of treating an unfalsifiable hypothesis (a Fifth Column that conceals itself) as confirmed by every outcome, which the Bayesian analysis here diagnoses precisely."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "Yudkowsky is careful, by the end, to say absence can be \"strong evidence of absence or very weak evidence of absence, depending on how likely the cause is to produce the observation\"; this caveat is exactly right and is the load-bearing point. The danger is the title, which strips that conditional and travels as a slogan. In practice people deploy \"absence of evidence is evidence of absence\" against claims where the detection probability P(E|H) is genuinely unknown or low (rare side effects in an underpowered trial, an undetected astronomical object, a cause leaving few traces), and there the licensed update is negligible. The theorem guarantees the sign of the update, never that it is large enough to act on; conflating those two is the actual fallacy in the wild."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay invokes the Fermi Paradox as a case where \"no positive observations at all\" should make us worry, but this is precisely the setting where the slogan is weakest, because the detection probability is almost entirely unconstrained. We do not know how likely we would be to have detected extraterrestrial civilizations even if many existed, so the non-observation supports a wide range of posteriors, from \"they are rare\" to \"they are common but undetectable\" (the \"great filter\" versus \"zoo hypothesis\" debate). Citing Fermi as a clean illustration of evidence-of-absence understates how much the conclusion rides on an unknown P(E|H); the absence is real, but what it licenses is genuinely contested rather than a tidy probability decrement."
+  }
+]

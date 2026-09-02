@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "conjunction fallacy",
+    "content": "Claim (by reference): the conjunction fallacy as a real reasoning error. Demonstrated by Tversky & Kahneman (1983), \"Extensional versus intuitive reasoning: The conjunction fallacy in probability judgment,\" <a href=\"https://doi.org/10.1037/0033-295X.90.4.293\">Tversky & Kahneman (1983)</a>, using the \"Linda\" problem, where most respondents rate a conjunction (bank teller and feminist) as more probable than one of its conjuncts. The effect replicates robustly. The ongoing debate is interpretive: some of the apparent error reflects pragmatic/conversational construal of \"probable\" and \"and\" (<a href=\"https://doi.org/10.1002/(SICI)1099-0771(199912)12:4%3C275::AID-BDM323%3E3.0.CO;2-M\">Hertwig & Gigerenzer, 1999</a>), and frequency-format versions reduce it substantially. Yudkowsky cites it as something Traditional Rationality \"failed\" to warn him about, but note the gap in his own narrative: knowing the conjunction fallacy by name is precisely what bias-awareness research finds does not, by itself, immunize one against it (<a href=\"https://doi.org/10.1037/0033-2909.116.1.117\">Wilson & Brekke, 1994</a>). The phenomenon is solid; its status as a pure logic error, and as a teachable corrective, are both contested."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "an instinct that has been trained into them",
+    "content": "Claim: much of expert skill is trained-in, tacit instinct rather than explicit rule. This aligns with research on expertise and intuition, including Klein's naturalistic decision making and Chase & Simon's (1973) classic chess-perception studies, <a href=\"https://doi.org/10.1016/0010-0285(73)90004-2\">Chase & Simon (1973)</a>, showing experts encode domain patterns rapidly and non-verbally. <a href=\"https://doi.org/10.1037/a0016755\">Kahneman & Klein (2009)</a> jointly delineate when such intuition is trustworthy (high-validity, rapid-feedback environments) versus not. This caveat cuts against Yudkowsky's framing: the rationality he advocates concerns exactly the low-validity, slow-feedback domains (futurism, metaphysics of mind) where Kahneman and Klein agree expert intuition is least reliable—yet it is unclear that any explicit method, Bayesian or otherwise, reliably substitutes for the missing feedback. Well-supported on expertise, but it does not establish that his preferred discipline performs better where trained intuition fails."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "experimental evidence from cognitive psychology on how humans actually think",
+    "content": "Claim: cognitive psychology supplies solid experimental evidence on how humans actually reason, enough to ground a discipline that \"lets you actually get it right.\" Much of it does, but this essay's tradition draws heavily on the heuristics-and-biases program and adjacent pre-2011 psychology, parts of which fared poorly in the replication crisis (<a href=\"https://doi.org/10.1126/science.aac4716\">Open Science Collaboration, 2015</a>; ego depletion shrank to near zero in <a href=\"https://doi.org/10.1177/1745691616652873\">Hagger et al., 2016</a>). Core judgment findings cited here replicate well, but the load-bearing inference—that knowing this literature yields people who \"get it right\"—is the weakest link: <a href=\"https://doi.org/10.4159/9780674974685\">Stanovich et al. (2016)</a> document \"dysrationalia,\" in which intelligence and even bias knowledge dissociate from rational performance, and <a href=\"https://doi.org/10.1111/j.1745-6924.2009.01163.x\">Lilienfeld et al. (2009)</a> note that critical-thinking instruction transfers poorly outside the trained context. Treat \"experimental evidence\" as a body needing per-finding scrutiny, and treat the leap to real-world efficacy as unproven."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay's central move is autobiographical: Yudkowsky generalizes from his own youthful error (a quantum-gravity theory of mind) to a universal lesson about what rationality must contain. This is n=1 reasoning dressed as cognitive science. A single salient personal failure, vividly recalled, is exactly the kind of evidence the availability heuristic warns against over-weighting—he diagnoses others' biases while building a general theory on one memorable case. The narrative also commits a post-hoc attribution error: he is confident his error was <em>caused</em> by lacking \"the Way of Bayes,\" but a recovered memory cannot establish the counterfactual that Bayesian training specifically would have prevented it. Many capable scientists hold and discard speculative ideas without any such framework; the autobiographical certainty outruns what one case can show."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Yudkowsky claims that following Traditional Rationality \"would have been acceptable\" to waste thirty years, while his Bayesian alternative crosses a \"stratospherically high threshold\" letting one \"actually get it right.\" This sets up a contrast that the evidence does not vindicate. There is no demonstration that self-described Bayesian rationalists reach correct conclusions faster or more reliably in open-ended domains; the claim that ordinary scientific norms (predict, test, update, accept disproof) are merely \"a walk, not a dance\" understates how much working science already does. Absent outcome data comparing the two disciplines, the asserted superiority is rhetorical. The honest summary is that he replaced one error with a different framework, not that the framework is shown to win."
+  }
+]

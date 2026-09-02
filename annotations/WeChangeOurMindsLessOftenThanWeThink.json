@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "only 1 of the 24 respondents chose the option to which he or she initially assigned a lower probability",
+    "content": "This striking statistic comes from an informal aside in <a href=\"https://doi.org/10.1016/0010-0285(92)90013-R\">Griffin & Tversky (1992)</a>: the authors \"discreetly approached colleagues,\" a convenience sample of 24 self-reporting confidence about job choices, with no controls. It is an anecdote, not an experiment, and it bears far more weight than 24 unsystematically gathered cases can carry. People who consult others on a hard choice may simply have been near-decided already, so the data cannot distinguish \"we rarely change our minds\" from \"we ask once we've mostly decided.\" The vivid \"96% accuracy\" should not be read as an established rate at which humans fail to revise decisions."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "we become able to guess what our answer will be within half a second of hearing the question.",
+    "content": "The jump from a 24-person job-choice observation to \"we become able to guess our answer within half a second of hearing the question\" is pure extrapolation with no cited evidence. Reaction-time and decision research shows deliberation times vary enormously with difficulty, and many consequential choices are revised over days or years. The \"half-second window for intelligence to act\" is a rhetorically powerful image, not a finding, and treating it as one is exactly the overgeneralization-from-a-single-anecdote that the heuristics literature warns against."
+  }
+]

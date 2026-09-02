@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It is easy to show that this edict works in contexts where there are objectively defined good solutions to problems.",
+    "content": "The Maier role-play study dates to the mid-20th century and is reported here thirdhand (Yudkowsky quoting Dawes quoting Maier). It is a single contrived demonstration: a scripted production-line scenario with an experimenter-planted \"correct\" answer worth a pre-specified ~19%, which makes \"the edict works\" close to tautological. The broader idea is plausible and finds support in adjacent research, anchoring on early proposals and \"production blocking\" do degrade group ideation (<a href=\"https://doi.org/10.1207/s15327957pspr1003_1\">Nijstad & Stroebe 2006</a>), and structured methods like the Nominal Group Technique outperform unstructured discussion, but those are different paradigms. Treat Maier as illustration, not proof."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I have no objective criterion on which to judge the quality of the problem solving of the groups",
+    "content": "Note Dawes's own candor, quoted in the same breath: for his own groups he \"had no objective criterion on which to judge the quality of the problem solving,\" and the edict merely \"appears to foster better solutions.\" That is an honest admission that the practitioner evidence is impressionistic and uncontrolled, vulnerable to exactly the confirmation bias the surrounding essays warn about. The fair summary is that \"hold off on proposing solutions\" is a reasonable heuristic with suggestive but thin experimental backing, not a demonstrated technique."
+  }
+]

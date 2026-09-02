@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Tversky and Kahneman recorded the estimates of subjects who saw the Wheel of Fortune showing various numbers.",
+    "content": "Anchoring is, refreshingly, one of the most replicable findings in the heuristics-and-biases literature. The Wheel-of-Fortune paradigm and its descendants survived large-scale direct replication: Many Labs 1 (<a href=\"https://doi.org/10.1027/1864-9335/a000178\">Klein et al. 2014</a>) and Many Labs 2 (<a href=\"https://doi.org/10.1177/2515245918810225\">Klein et al. 2018</a>) reproduced robust anchoring across dozens of labs and many thousands of participants. So unlike much of the social-cognition canon, the basic effect Yudkowsky describes here is on firm empirical ground."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The current theory for this and similar experiments is that subjects take the initial, uninformative number as their starting point or anchor; and then they adjust upward or downward from their starting estimate",
+    "content": "This \"anchor-and-adjust\" account is exactly the mechanism the next essay walks back. <a href=\"https://doi.org/10.1111/j.1467-9280.2006.01704.x\">Epley & Gilovich (2006)</a> showed deliberate adjustment occurs mainly for self-generated anchors; for the experimenter-provided numbers used in the Wheel-of-Fortune task, the effect is driven by selective accessibility (priming), not by sliding from a starting point and stopping early. Yudkowsky presents the adjustment story as \"the current theory,\" then corrects it a chapter later, a sign the textbook narrative he is relaying was already outdated."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Completely implausible anchors, such as 1215 or 1992, produced anchoring effects just as large as more plausible anchors such as 1905 or 1939.",
+    "content": "Strack & Mussweiler's selective-accessibility result is real, but the \"implausible anchors work just as well\" claim needs qualification. Later work finds anchor extremity does matter: wildly implausible anchors produce smaller, not equal, effects in many designs (<a href=\"https://doi.org/10.1006/jesp.2000.1431\">Wegener et al. 2001</a>), and an anchor's pull depends on whether it is treated as relevant. The strong reading here, that even absurd numbers contaminate judgment to the same degree, overgeneralizes from a single demonstration."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Tversky and Kahneman report that offering payoffs for accuracy did not reduce the anchoring effect.",
+    "content": "The claim that incentives don't dent anchoring is often repeated but only partly true. Reviews of incentive effects (<a href=\"https://doi.org/10.1023/A:1007850605129\">Camerer & Hogarth 1999</a>) find financial incentives sometimes reduce biases, sometimes don't, and rarely eliminate them; anchoring is relatively incentive-resistant, but \"did not reduce\" is stronger than the evidence. <a href=\"https://doi.org/10.1037/a0021540\">Simmons, LeBoeuf & Nelson (2010)</a> found incentives can reduce anchoring when they motivate people to think in the correct direction. The blanket statement papers over a more conditional result."
+  }
+]

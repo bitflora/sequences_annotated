@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Kahneman et al. presented 867 jury-eligible subjects with descriptions of legal cases",
+    "content": "The Kahneman, Schkade & Sunstein (<a href=\"https://doi.org/10.1023/A:1007710408413\">1998</a>) result, high agreement on outrage and punishment ratings but wild scatter in dollar awards, is a strong and well-regarded study, and the psychophysical \"unbounded scale with no modulus\" framing is a real insight. One caveat worth flagging: these were individuals rating cases in isolation, not deliberating juries. The same authors' later work on deliberation (\"Deliberating about Dollars,\" Schkade, Sunstein & Kahneman 2000) found that group deliberation systematically shifts and polarizes awards, often upward, so the individual-level scatter both overstates and mischaracterizes how real juries arrive at a figure."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I observe that many futuristic predictions are, likewise, best considered as attitude expressions.",
+    "content": "The jump from punitive-damages psychophysics to \"futuristic predictions are attitude expressions\" is an analogy, not a finding, and Yudkowsky concedes as much (\"As far as I can guess\"). No data here show that expert AI-timeline estimates are arbitrary unbounded-scale outputs rather than noisy, overconfident, but content-bearing forecasts. Expert-forecasting research (Tetlock, <em>Expert Political Judgment</em>, 2005, a book, no DOI) does find long-range predictions poorly calibrated, which supports Yudkowsky's skepticism, but that is a weaker and different claim than \"these numbers are pure outrage-style noise.\" The analogy is doing rhetorical work the cited experiment does not license."
+  }
+]

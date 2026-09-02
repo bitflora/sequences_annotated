@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "We think in words, but our stream of consciousness is steered below the level of words, by the trained-in remnants of past insights and harsh experience",
+    "content": "Claim: conscious verbal thought is steered by processes operating below the level of words and awareness. This is broadly consistent with dual-process accounts of cognition (Kahneman, 2011, <i>Thinking, Fast and Slow</i>; Evans & Stanovich, 2013, <a href=\"https://doi.org/10.1177/1745691612460685\">https://doi.org/10.1177/1745691612460685</a>), in which fast intuitive (\"System 1\") processes feed deliberate reasoning. The existence of fast, non-deliberate influences on judgment is well-supported, and expertise-based intuition is documented (Klein, 1998, on naturalistic decision making). Caveat: strong claims about <i>unconscious</i> determinants of complex behavior should be distinguished from many \"automaticity\" and social-priming demonstrations of the 2000s, a number of which failed to replicate (see Open Science Collaboration, 2015, <a href=\"https://doi.org/10.1126/science.aac4716\">https://doi.org/10.1126/science.aac4716</a>)."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "it is how human beings think by default, how they have thought since the ancient times",
+    "content": "Claim: substituting a vacuous causal node (\"skip-over\") for genuine understanding is the human default mode of thinking. This relates to the \"cognitive miser\" framework (Fiske & Taylor, 1991) and to evidence that people accept shallow, fluent explanations without checking them (Cognitive Reflection Test, Frederick, 2005, <a href=\"https://doi.org/10.1257/089533005775196732\">https://doi.org/10.1257/089533005775196732</a>; illusion of explanatory depth, Rozenblit & Keil, 2002, <a href=\"https://doi.org/10.1207/s15516709cog2605_1\">https://doi.org/10.1207/s15516709cog2605_1</a>). These effects replicate. The universalizing historical claim (\"since the ancient times\") is rhetorical and not itself an empirical finding."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "create an illusion of understanding",
+    "content": "Claim: terms like \"complexity\" and \"emergence\" create an illusion of understanding. This is directly supported by the illusion of explanatory depth (Rozenblit & Keil, 2002, <a href=\"https://doi.org/10.1207/s15516709cog2605_1\">https://doi.org/10.1207/s15516709cog2605_1</a>) and the \"seductive allure\" effect, in which irrelevant technical or neuroscientific phrasing raises perceived explanatory quality (Weisberg et al., 2008, <a href=\"https://doi.org/10.1162/jocn.2008.20040\">https://doi.org/10.1162/jocn.2008.20040</a>; replicated and extended by Weisberg et al., 2015, <a href=\"https://doi.org/10.1017/S1930297500006410\">https://doi.org/10.1017/S1930297500006410</a>). The effect is robust."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "Claim: \"complexity\" never does explanatory work, even though it has rigorous definitions like Kolmogorov and VC complexity — the failure is always the \"skip-over,\" not the word. The anecdote's lesson is sound for hand-waving usage, but it understates how much real predictive content the technical notions carry, which weakens the inference from \"this conversation misused the word\" to \"appealing to complexity is a microthought, not a thought.\" There are substantive, falsifiable theses of the form \"system X cannot perform task Y unless its description length / sample complexity / circuit complexity exceeds a bound\": VC dimension yields concrete generalization bounds (Vapnik, 1998), and computational-complexity arguments place hard limits on what bounded agents can compute. Marcello's intuition that \"there's got to be some amount of complexity that does it\" is, charitably read, a claim about necessary representational capacity — which is a respectable open question in learning theory, not merely a verbal evasion."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Claim: the right discipline is to refuse to \"skip over\" any mysterious step and instead linger at the gap until it is mechanized. As a research ethic against premature closure this is valuable, but taken as a universal rule it cuts against productive scientific practice, where black-boxing a sub-problem and reasoning around it is often how progress is made. Working physicists routinely posited unexplained primitives (the quantum of action, the cosmological constant, dark matter as a placeholder \"missing mass\") and built predictive theories on top of them before any mechanism was in hand; thermodynamics succeeded for a century while \"entropy\" remained a useful black box prior to statistical mechanics. The skill is knowing <i>which</i> gaps must be confronted now versus deferred — a judgment about research strategy and tractability that the blanket \"never skip over\" injunction does not by itself supply."
+  }
+]

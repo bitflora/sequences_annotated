@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "it would outright falsify the neo-Darwinian model of natural selection",
+    "content": "The claim that a single-generation acquisition of a complex adaptation would \"outright falsify\" neo-Darwinism is a sound illustration of falsifiability in the Popperian sense; the parallel to \"rabbit fossils in the Precambrian\" is Haldane's classic example of what could refute evolution. This is uncontroversial as philosophy of science. A minor caveat: modern evolutionary biology recognizes mechanisms beyond classical point mutation and gradual selection (horizontal gene transfer, developmental plasticity, the role of regulatory genes), so the \"neo-Darwinian model\" the essay treats as monolithic is itself a moving and pluralistic target, even though none of these would permit Storm."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Probably an actual majority of the people who believe in evolution use the phrase “because of evolution” because they want to be part of the scientific in-crowd",
+    "content": "The quantitative claim that \"probably an actual majority\" who endorse evolution do so as in-group attire rather than understanding is an unsourced estimate. There is genuine evidence that public acceptance of evolution tracks cultural and religious identity more than comprehension, and that science literacy can polarize rather than converge belief on identity-laden topics (Kahan et al., <a href=\"https://doi.org/10.1038/nclimate1547\">2012</a>). But survey data also show that many people who accept evolution do hold partial mechanistic understanding, so the specific \"majority\" figure is rhetorical extrapolation beyond what the data establish."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "identify with a tribe",
+    "content": "The thesis that belief statements can function to \"identify with a tribe\" rather than to track reality corresponds to identity-protective and culturally motivated cognition, a reasonably well-supported finding: positions on contested scientific topics correlate strongly with group identity, and reasoning ability can amplify rather than reduce identity-congruent conclusions (Kahan, <a href=\"https://doi.org/10.1017/CBO9780511794834.024\">2013</a>). The mechanism is real, though the essay's blanket attribution of tribal motives to a \"majority\" of believers is stronger than the correlational evidence licenses."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay's implicit test, that a belief is real only if the holder can state which future experiences it prohibits, sets a bar that excludes most legitimate lay deference to expertise. A non-biologist who accepts evolution because the relevant scientific community overwhelmingly endorses it is making a defensible inference from testimony, not merely wearing attire, even though they cannot personally enumerate what the theory forbids. Trust in well-vetted expert consensus is itself an epistemically rational strategy, not a failure of understanding. By treating personally-held predictive content as the sole marker of genuine belief, Yudkowsky undervalues the division of cognitive labor on which all of science actually depends."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The diagnosis that critics dismiss strongly superhuman AI by \"comparison to apocalyptic literature\" rather than by \"known laws which prohibit such an outcome\" cuts both ways, and the essay does not notice the symmetry. The proponent equally lacks a \"theory of intelligence which lets them calculate a theoretical upper bound on the power of an optimization process\"; absent such a theory, confident assertion that strong superintelligence is feasible is no more model-grounded than confident denial. The honest epistemic state for both sides is deep uncertainty, so framing skepticism as a mere genre-association error, while exempting the affirmative position from the same standard, is special pleading rather than the neutral application of Bayescraft the piece advertises."
+  }
+]

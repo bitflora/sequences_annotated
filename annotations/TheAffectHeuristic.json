@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "subjects stated willingness to pay more than twice as much in the first condition",
+    "content": "The \"affection effect\" (<a href=\"https://doi.org/10.1023/A:1007876907268\">Hsee & Kunreuther 2000</a>) is a genuine willingness-to-pay anomaly, but it rests on small samples and hypothetical stated preferences, and the interpretation is not airtight. Paying more to insure a sentimentally valued object can be rational if the payout partly funds replacement, mourning, or consolation, exactly the \"purchase of consolation\" reading Yudkowsky raises and then waves away. Stated willingness-to-pay for hypothetical insurance is also a notoriously unreliable proxy for actual behavior. The anomaly is suggestive, not the knockdown demonstration of irrationality it is presented as."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Finucane et al. found that for nuclear reactors, natural gas, and food preservatives, presenting information about high benefits made people perceive lower risks",
+    "content": "The inverse risk-benefit correlation is the centerpiece evidence for the affect heuristic, and its interpretation is contested. A negative correlation between perceived risk and perceived benefit need not reflect affect spilling across judgments: people may hold a single evaluative (\"good/bad\") impression of unfamiliar hazards that is partly informative, and in the world, well-regulated high-benefit technologies can genuinely differ in risk. The experimental manipulations (raising perceived benefit lowers perceived risk) are stronger evidence, but the \"affect heuristic\" functions here as an interpretive umbrella over heterogeneous effects, framing, ratio bias, halo, rather than one demonstrated mechanism. Slovic offered it as a unifying hypothesis, not a settled finding."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "7 in 100 was preferred to 1 in 10.",
+    "content": "This \"ratio bias,\" preferring 7/100 to 1/10, is one of the better-replicated findings here (<a href=\"https://doi.org/10.1037/0022-3514.66.5.819\">Denes-Raj & Epstein 1994</a>; Kirkpatrick & Epstein 1992), and it survives as \"denominator neglect\" in the numeracy literature. But note that denominator neglect is a different and more specific mechanism than affect: it concerns difficulty integrating ratios and correlates with low numeracy (<a href=\"https://doi.org/10.1037/a0017327\">Reyna et al. 2009</a>). Folding it under the affect heuristic, alongside framing and halo effects, blurs distinct cognitive processes into one feeling-based story."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Ganzach found the same effect in the realm of finance.",
+    "content": "The finance result (<a href=\"https://doi.org/10.1006/obhd.2000.2914\">Ganzach 2000</a>) is a single correlational study of analysts' judgments, and \"found the same effect\" overstates how settled it is. Real markets actually display a low-risk anomaly, low-volatility stocks earning higher returns (<a href=\"https://doi.org/10.2469/faj.v67.n1.4\">Baker, Bradley & Wurgler 2011</a>), the opposite of the textbook risk-return tradeoff Yudkowsky treats as ground truth, so a negative perceived risk-return relation may track a genuine market feature rather than an affective illusion. A lone study on unfamiliar-stock ratings is thin support for the strong claim that finance professionals' risk judgments are governed by affect."
+  }
+]

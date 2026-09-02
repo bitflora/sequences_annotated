@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "transfer thinking skills from one context to another",
+    "content": "The essay invokes the difficulty of transferring \"thinking skills from one context to another.\" This points to a robust and well-replicated body of research: the classic studies of analogical transfer found that subjects who solved one problem frequently failed to apply the same solution structure to an isomorphic problem in a new surface context (see Gick & Holyoak, <a href=\"https://doi.org/10.1016/0010-0285(80)90013-4\">1980</a>, \"Analogical problem solving,\" and <a href=\"https://doi.org/10.1016/0010-0285(83)90002-6\">1983</a>, \"Schema induction and analogical transfer\"). The phenomenon of weak spontaneous \"far transfer\" has held up across decades; subsequent reviews (e.g., Barnett & Ceci, <a href=\"https://doi.org/10.1037/0033-2909.128.4.612\">2002</a>) confirm that transfer is highly sensitive to context and rarely occurs spontaneously. This is one of the empirically sturdier claims invoked in the text and was not undermined by the replication crisis."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "content": "The parable's payoff is the claim that subjective feelings of uncertainty should be governed by the probability calculus—that anticipation is a \"conserved resource\" summing to one, just like the axioms of probability. The Dutch-book and representation-theorem arguments do show that an agent with graded beliefs violating the probability axioms is exploitable in principle (Ramsey, 1926; de Finetti, 1937). But whether <em>real</em> degrees of belief must be sharp single numbers is contested: imprecise-probability frameworks represent uncertainty by sets of probability functions precisely because a unique number is often not warranted by the evidence (Walley, 1991, <em>Statistical Reasoning with Imprecise Probabilities</em>). The essay treats the conserved-resource model as the only coherent way to handle felt uncertainty, but it is one normatively defensible model among several."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The essay's deeper moral—that whenever you feel uncertain you should be doing Bayesian probability even without \"little numbers\"—presents subjective Bayesian updating as the obviously correct tool for reasoning under limited time and data. Yet a substantial research program shows the opposite in exactly the essay's setting (scarce data, limited time, an open environment): simple fast-and-frugal heuristics frequently match or beat full Bayesian integration out of sample, because complex models overfit when data are thin (Gigerenzer & Brighton, 2009, <a href=\"https://doi.org/10.1111/j.1756-8765.2008.01006.x\">Topics in Cognitive Science</a>). The pundit who allocates preparation time by a quick \"which seems most likely\" rule is not obviously committing an error to be corrected by probability theory; under realistic constraints that heuristic can be the ecologically rational choice."
+  }
+]

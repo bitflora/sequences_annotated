@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But the proverb does appear true to some degree, and I propose that we should be very disturbed by this fact.",
+    "content": "On the empirical core, the essay is broadly right but for a reason that complicates its alarm. Intelligence and rationality are measurably separate constructs: performance on heuristics-and-biases tasks correlates only weakly with cognitive ability, and Stanovich has shown at length that thinking biases are largely independent of cognitive ability (<a href=\"https://doi.org/10.1037/0022-3514.94.4.672\">Stanovich & West 2008</a>). The bias blind spot can even <em>increase</em> with cognitive sophistication (<a href=\"https://doi.org/10.1037/a0028857\">West, Meserve & Stanovich 2012</a>). That undercuts the framing that competence outside one's specialty \"should\" follow from competence inside it; rationality does not ride along with expertise, so finding the two decoupled is the expected result, not an alarming anomaly demanding that we \"sit bolt upright.\""
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "believes in a spirit world",
+    "content": "The inference drawn here, that a religious scientist \"literally doesn't know why you have to look at things,\" is far stronger than the evidence supports. Religiosity among working scientists is common rather than aberrant: surveys find a large minority believe in a personal God (<a href=\"https://doi.org/10.1038/386435a0\">Larson & Witham 1997</a>; Ecklund's <em>Science vs. Religion</em>, 2010), even as belief drops sharply among elite National Academy members. Cognitive science treats \"compartmentalization,\" holding domain-bounded models that are not reconciled with one another, as a near-universal feature of human cognition, not a diagnostic of failing to grasp experimentation. Going from \"holds a religious belief\" to \"does not understand the purpose of empirical inquiry\" skips over the well-documented fact that the two routinely coexist in the same competent practitioner."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the two researchers have performed different experiments with different stopping conditions",
+    "content": "Yudkowsky is invoking the likelihood principle, the thesis that inference should depend only on the likelihood of the observed data and not on the sampling plan that produced it. This is the orthodox Bayesian position, but it is presented here as an obvious knockdown when it is actually contested at the foundations. The principle's famous derivation (<a href=\"https://doi.org/10.1080/01621459.1962.10480660\">Birnbaum 1962</a>) was later doubted by Birnbaum himself and has been argued to be flawed (<a href=\"https://doi.org/10.1214/14-STS470\">Mayo 2014</a>). And the likelihood principle largely <em>follows from</em> assuming Bayesian coherence, so deploying it to prove the frequentists wrong is closer to restating Bayesianism than to refuting the alternative."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the likelihood ratio is the same, and the evidential impact is the same, and the posterior belief should be the same, between the two experiments",
+    "content": "There is a deep irony here, because the frequentist worry about stopping rules that this essay mocks was vindicated by the replication crisis. Optional stopping, peeking at the data and continuing until significance, is one of the \"researcher degrees of freedom\" that <a href=\"https://doi.org/10.1177/0956797611417632\">Simmons, Nelson & Simonsohn (2011)</a> showed can drive the false-positive rate far above 5%. The Bayesian rebuttal, that a coherent agent's posterior is invariant to the stopping rule, is true only inside an idealized model with a correct prior; it does not deliver error control, and even Bayes-factor procedures are only protected from optional stopping under specific conditions (<a href=\"https://doi.org/10.3758/s13423-020-01803-x\">de Heide & Grünwald 2021</a>). So \"the researcher's private intentions are irrelevant\" holds as a statement about idealized degrees of belief while being false as a statement about how often a method misleads you, which is what the medical researchers in the example actually care about."
+  }
+]

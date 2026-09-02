@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Modern research suggests that humans think about cause and effect using something like the directed acyclic graphs (DAGs) of Bayes nets",
+    "content": "Claim: humans represent causation using something like the directed acyclic graphs of Bayesian networks. This reflects the \"causal Bayes net\" program in cognitive science (Gopnik et al., 2004, <a href=\"https://doi.org/10.1037/0033-295X.111.1.3\">https://doi.org/10.1037/0033-295X.111.1.3</a>), which showed that adults and children can recover causal structure from patterns of covariation in ways well-described by Bayes-net learning. Subsequent work confirms that Bayes-net models predict many human causal judgments, but it is a debated computational-level account rather than an established claim about underlying mental machinery; people also show systematic deviations (e.g., the \"Markov violation\" effect, Rehder & Waldmann, 2017, <a href=\"https://doi.org/10.1016/j.cogpsych.2017.01.002\">https://doi.org/10.1016/j.cogpsych.2017.01.002</a>), where they fail to honor the conditional-independence relations a true DAG would imply. The framework is influential and partly supported, not settled fact."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "hindsight bias",
+    "content": "Claim: hindsight bias makes a fitted cause feel as though it constrained (predicted) its effect. Hindsight bias was first demonstrated by Fischhoff (1975), \"Hindsight is not equal to foresight,\" <a href=\"https://doi.org/10.1037/0096-1523.1.3.288\">https://doi.org/10.1037/0096-1523.1.3.288</a>, showing that knowing an outcome inflates judged prior probability of that outcome. This is one of the more robust findings in judgment research: a meta-analysis by Guilbault et al. (2004), <a href=\"https://doi.org/10.1207/S15324834BASP2603_2\">https://doi.org/10.1207/S15324834BASP2603_2</a>, confirmed a reliable moderate effect across many studies and manipulations. The phenomenon is well-replicated, though its size depends on task and population."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "But the human mind does not automatically detect when a cause has an unconstraining arrow to its effect",
+    "content": "Claim: people fail to detect when a purported cause does not actually constrain (predict) its effect, treating after-the-fact explanations as predictions. This is consistent with research on the \"illusion of explanatory depth\" (Rozenblit & Keil, 2002, <a href=\"https://doi.org/10.1207/s15516709cog2605_1\">https://doi.org/10.1207/s15516709cog2605_1</a>), in which people overestimate how well they understand causal mechanisms, and with the broad literature on the human appetite for causal explanation (Lombrozo, 2006, <a href=\"https://doi.org/10.1016/j.tics.2006.08.004\">https://doi.org/10.1016/j.tics.2006.08.004</a>). These effects replicate well; the stronger normative framing here (that humans lack any \"constraint check\") is an interpretive gloss rather than a single measured result."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "Claim: probabilistic Bayes-net reasoning, with its directed forward/backward messages, gives \"precisely\" the correct account of what causation is and what the phlogiston theorists got wrong. Pearl's causal-DAG framework is powerful, but it is one of several rival accounts of causation, not the uniquely correct one. Interventionist theories (Woodward, 2003, <i>Making Things Happen</i>) ground causation in what would happen under hypothetical manipulations, while process theories (Salmon, Dowe) analyze it in terms of physical conserved quantities transmitted along causal lines; these can diverge from a bare graphical formalism. Even within the Bayes-net tradition, the direction of arrows is not read off the data but must be supplied by background assumptions (the Causal Markov and Faithfulness conditions, which can fail in real systems). Yudkowsky presents one mathematically elegant model as if it simply <i>were</i> causation; the diagnosis of phlogiston as \"double-counted evidence\" is apt, but it does not require accepting that the directed-graph picture exhausts what cause-and-effect means."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Claim: phlogiston was a \"fake explanation\" because it could explain any observation and made no forward predictions, so its persistence shows a defect in how humans track causes. The post-hoc caricature is fair as far as it goes, but historians of chemistry note that phlogiston theory did real predictive and organizing work in its day — it unified combustion, calcination, and respiration, and chemists like Cavendish and Priestley used it to design experiments and anticipate results (see Chang, 2012, <i>Is Water H2O?</i>, on phlogiston's genuine empirical successes). Its eventual defeat by Lavoisier's oxygen theory turned on quantitative mass measurements, not on phlogiston being obviously contentless. Treating discarded theories as transparently \"fake\" is itself a form of the hindsight bias the essay elsewhere warns against: at the time the theory constrained expectations more than the retrospective story admits."
+  }
+]

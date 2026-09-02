@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "scientists write down their experimental predictions in advance",
+    "content": "The claim that scientists write predictions down in advance describes the norm of pre-specification, the methodological remedy for the \"witch's decision tree\" the essay describes. While long an ideal, in practice undisclosed flexibility in analysis and post-hoc hypothesizing (HARKing) were widespread, a major driver of the replication crisis (Simmons, Nelson & Simonsohn, <a href=\"https://doi.org/10.1177/0956797611417632\">2011</a>; Ioannidis, <a href=\"https://doi.org/10.1371/journal.pmed.0020124\">2005</a>). Pre-registration has since been adopted precisely because writing predictions in advance was the exception rather than the rule. The essay states the norm correctly but should not be read as describing routine historical practice."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "For a true Bayesian, it is impossible to seek evidence that confirms a theory",
+    "content": "\"For a true Bayesian, it is impossible to seek evidence that confirms a theory\" follows directly from the conservation law: the prior is the probability-weighted average of the possible posteriors, so no experiment can be expected, in advance, to raise confidence in a fixed hypothesis. This is a sound theorem about expected belief change. The subtlety, noted in the confirmation-bias literature, is that a \"positive test strategy\" can still be diagnostically efficient (Klayman & Ha, <a href=\"https://doi.org/10.1037/0033-295X.94.2.211\">1987</a>); seeking confirmation is irrational only when one expects, on average, to be more confident afterward regardless of outcome."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Human psychology is so screwed up",
+    "content": "The closing remark that human psychology is \"screwed up\" reflects the heuristics-and-biases tradition's emphasis on systematic irrationality. This framing has been substantially qualified: ecological-rationality researchers argue many \"biases\" are adaptive responses to real-world structure (Gigerenzer & Brighton, <a href=\"https://doi.org/10.1111/j.1756-8765.2008.01006.x\">2009</a>), and the replication crisis has weakened several once-canonical bias demonstrations. Human reasoning departs from Bayesian norms in documented ways, but the blanket verdict is stronger than the contemporary evidence warrants."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The conservation law is exact, but the essay quietly extrapolates from \"the math forbids expecting one-directional confirmation\" to \"humans systematically violate this.\" That behavioral claim is much harder to support than the theorem. The headline demonstrations are historical and rhetorical (witch trials, Earl Warren), not controlled measurements of how often ordinary reasoners expect asymmetric updates; what the lab literature actually shows is a positive-test bias in hypothesis selection, which is not the same thing as violating conservation of expected evidence. Distinguishing a genuine systematic bias from occasional, motivated lapses on emotionally charged topics requires evidence the essay does not cite, so \"so screwed up\" is a stronger empirical verdict than the cases establish."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The reassurance that you can \"sit back and relax\" because evidence is a zero-sum game holds only for a fixed hypothesis and a fixed likelihood model. In real inquiry the value of an experiment lies elsewhere: in reducing the variance of your posterior, in discriminating between rival hypotheses, and in surfacing hypotheses you had not yet entertained (where the relevant law is expected information gain, not conservation of a single P(H)). A scientist who took the slogan literally and stopped designing informative experiments would be making a mistake; the theorem says only that you cannot rig the expected direction of belief, not that experiment is pointless or that all tests are equally worth running."
+  }
+]

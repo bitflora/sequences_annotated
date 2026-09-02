@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A college student apparently having an epileptic seizure was helped 85% of the time by a single bystander, and 31% of the time by five bystanders.",
+    "content": "These are the figures from Darley &amp; Latané's classic seizure study (<a href=\"https://doi.org/10.1037/h0025589\">1968</a>), and the diffusion-of-responsibility effect they measured is real. But the strong moral drawn here—that in a crowd \"virtually no one\" steps forward—does not survive contact with field data. Philpot et al. (<a href=\"https://doi.org/10.1037/amp0000469\">2020</a>) coded real CCTV footage of 219 public conflicts across three countries and found at least one bystander intervened in over 90% of them, with more bystanders meaning a higher chance someone helped. The lab effect concerns how fast and how likely a given individual is to act, not whether help arrives in a genuine emergency; the \"no one helps\" reading is the part that has not held up."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "individual selection favors equal investment in male and female offspring",
+    "content": "This is a correct statement of Fisher's principle, and it is among the most elegant and best-confirmed predictions in evolutionary biology: frequency-dependent selection drives equal parental <em>investment</em> in the sexes, which yields roughly equal numbers when sons and daughters cost the same to produce. The framework also predicts the documented exceptions, such as the female-biased ratios produced by local mate competition in parasitic wasps and fig wasps (Hamilton 1967). The essay's use of the maternity ward as visible evidence for individual over group selection is a fair one."
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the two-year-old will ignore the easily accessible toy and go after the apparently forbidden one",
+    "content": "This is <a href=\"https://doi.org/10.1037/0022-3514.35.11.830\">Brehm & Weintraub (1977)</a>, a small reactance demonstration whose result was narrower than the retelling suggests: the forbidden-toy preference appeared in the boys and not the girls in the original sample. A single low-N study with a sex interaction is thin support for a universal claim about how desire tracks obtainability. The broader phenomenon (psychological reactance) is real and replicable, but this particular vivid anecdote is the kind of striking-but-fragile demonstration that <em>Influence</em> tends to feature."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "they became more opposed to coed dorms",
+    "content": "The banned-speech effect comes from Worchel, Arnold & Baker (1975, <em>Journal of Applied Social Psychology</em>; no stable DOI), and the \"forbidden information becomes more attractive\" pattern is genuine but strongly moderated. Reactance to censorship depends on the perceived legitimacy and motives of the censor; when restriction is seen as benevolent or the source as credible, the boomerang shrinks or reverses. The essay presents a one-directional law (\"forbidden = more desirable\"), whereas the literature describes a conditional effect that can flip with framing, which weakens the claim that this is a fixed feature of the machinery."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The conventional theory for explaining this is",
+    "content": "Psychological reactance (Brehm 1966) is one of the more durable social-psychology constructs: it has a validated measurement scale (<a href=\"https://doi.org/10.1080/03637750500111815\">Dillard & Shen 2005</a>) and replicates across persuasion contexts, so crediting it here is fair. The weak link is the next move, the evolutionary gloss that leaping on disappearing options \"may be a good adaptation in a hunter-gatherer society.\" That is an untested just-so story; reactance needs no adaptationist origin tale to be real, and supplying one adds an unfalsifiable layer the data do not support."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "Nearly every demonstration in this essay is sourced to Cialdini's <em>Influence</em>, a popular trade book that selects maximally striking findings, several of them decades old, small-sample, or (like the supermarket beef-buyer study) reported as unpublished fieldwork. The scarcity/reactance principle survives scrutiny, but the dramatic magnitudes quoted, six-times-as-much beef, four-thousand-then-thirteen-thousand-dollar jury swings, should be read as memorable illustrations rather than stable effect sizes. Much of mid-century persuasion research was conducted before the methodological reforms that followed social psychology's replication crisis, and point estimates from that era routinely fail to reproduce at their original strength."
+  }
+]

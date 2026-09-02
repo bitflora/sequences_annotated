@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It’s common to put on a show of neutrality or suspended judgment in order to signal that one is mature, wise, impartial",
+    "content": "The essay's core mechanism—that displayed neutrality functions as a status- and competence-signal—is an interpretation grounded in signaling theory (Spence, 1973, <a href=\"https://doi.org/10.2307/1882010\">Quarterly Journal of Economics</a>) and costly-signaling accounts of social behavior. There is supporting evidence that expressing confident judgment can raise perceived competence and status (Anderson et al., 2012, <a href=\"https://doi.org/10.1037/a0029395\">Journal of Personality and Social Psychology</a>), which is consistent with the claim that strategic positioning carries reputational payoffs. However, the specific reading that withholding judgment is <em>primarily</em> a wisdom-signaling move is an inference about hidden motives; genuine uncertainty, conflict-avoidance, and institutional role norms (which the essay itself notes for judges) are alternative explanations not ruled out. Attributing self-serving motives to those who suspend judgment is itself a strong claim that risks the very thing the essay warns against—reading the evidence to fit a preferred conclusion."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "where people leap to judgment only because of their biases",
+    "content": "The claim that people often \"leap to judgment only because of their biases\" is consistent with dual-process accounts in which fast, intuitive responses can crowd out reflective reasoning (Kahneman, 2011, <em>Thinking, Fast and Slow</em>); the Cognitive Reflection Test, for instance, shows many people endorse an intuitive-but-wrong answer before reflection (Frederick, 2005, <a href=\"https://doi.org/10.1257/089533005775196732\">Journal of Economic Perspectives</a>). Two caveats: first, fast intuitive judgments are frequently accurate in well-structured environments, so \"leaping to judgment\" is not always error; and second, the dual-process framework has been substantially refined and contested since this essay was written, with the rigid System 1 / System 2 dichotomy now treated as a simplification rather than a literal architecture (Evans & Stanovich, 2013, <a href=\"https://doi.org/10.1177/1745691612460685\">Perspectives on Psychological Science</a>)."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The essay's central move is that \"neutrality is a definite judgment,\" implying that genuine suspension of judgment is rarely warranted and that diligent reasoning can usually identify which side the evidence favors. This conflates two distinct things. Declining to <em>act</em> as if one side is more probable (a decision) differs from <em>assigning</em> equal or indeterminate credence (a belief), and there are well-characterized situations—deep uncertainty, conflicting models, or contested values—where suspending judgment is the epistemically correct response rather than cowardice. The normative claim that a hard-enough thinker can always reach a determinate verdict imports a strong assumption about the structure of evidence; Elqayam & Evans (2011, <a href=\"https://doi.org/10.1017/S0140525X1100001X\">Behavioral and Brain Sciences</a>) caution against this kind of \"normativism,\" where a single rational answer is presumed to exist for descriptive psychological behavior."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "Freire's dictum—that washing one's hands of a conflict between powerful and powerless is siding with the powerful—is presented as a near-tautology, but it is a substantive normative claim, not an evidential one. It assumes that inaction has determinate moral valence (favoring the stronger party), which holds in some conflicts and not others; mediation, de-escalation, and refusal to escalate can themselves change outcomes in ways that do not simply ratify the status quo. The essay slides from a true point (claiming neutrality can be a disguised position) to a stronger and contestable one (that demanding a ceasefire is therefore objectively pro-aggressor). Game-theoretic work on third-party intervention shows the welfare effects of outside pressure on combatants are highly context-dependent rather than uniformly favoring the initiator (see, e.g., Regan, 2002, <a href=\"https://doi.org/10.1177/0022002702046001004\">Journal of Conflict Resolution</a>)."
+  }
+]

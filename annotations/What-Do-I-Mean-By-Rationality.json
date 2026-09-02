@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "someone rates the probability “Bill plays jazz” as less than the probability “Bill is an accountant who plays jazz.”",
+    "content": "Yudkowsky deploys the conjunction fallacy as a clean illustration of how psychology can convict a judgment of being objectively \"wrong\" against the gold standard of probability theory. But the example is shakier than the rhetorical use requires. The canonical demonstration is the \"Linda\" problem of <a href=\"https://doi.org/10.1037/0033-295X.90.4.293\">Tversky & Kahneman (1983)</a>, and a large share of the apparent error dissolves once you grant that a cooperative reader interprets the bare conjunct \"Bill plays jazz\" as \"plays jazz and is not an accountant\" (Gricean implicature) and reads \"probable\" in its colloquial rather than measure-theoretic sense. <a href=\"https://doi.org/10.1037/0033-295X.102.4.684\">Gigerenzer & Hoffrage (1995)</a> further show the violation rate collapses when the same problem is posed in natural frequencies. The normative violation is genuine in the strict setup, but it is not the unambiguous specimen of irrationality the essay treats it as."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "content": "The deeper move here is the identification of \"rationality\" with conformity to Bayesian probability theory and expected-utility decision theory, treated as content-free \"gold standards\" that apply \"equally and without distinction\" to every problem. This is a substantive philosophical commitment, not a neutral definition. The very same Tversky-Kahneman program that supplies the biases also inspired a serious rival research tradition, ecological rationality, which argues that simple heuristics can outperform Bayesian-optimal procedures in real environments with limited data (<a href=\"https://doi.org/10.1037/0033-295X.103.4.650\">Gigerenzer & Goldstein, 1996</a>). On that view, deviation from the textbook axioms is not automatically a \"failure\"; it can be an adaptation to structure the axioms ignore. Yudkowsky concedes the formalisms are intractable, but still treats them as the standard everything falls short of."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "Yudkowsky hedges that the Bayesian ideal is \"computationally intractable on most real-world problems\" yet insists this style of thinking \"gets us systematically closer\" to accuracy. That inference deserves scrutiny: an unreachable optimum does not entail that approximating it is the best feasible policy. When the true model is unknown and data are scarce, deliberately ignoring information and using a fast-and-frugal rule can yield lower error than an attempted Bayesian computation with a misspecified prior, the bias-variance tradeoff familiar from statistical learning. \"Closer to the ideal procedure\" and \"closer to the truth\" are not the same claim, and the essay slides between them."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay equates instrumental rationality with \"winning\", maximizing the expectation of a coherent utility function, and treats coherence as simply given. But the existence of a single coherent utility function over outcomes is itself an empirical assumption that descriptive decision research repeatedly falsifies: preferences reverse under reframing, intransitivities are common, and people behave as if they have multiple, context-dependent goal systems rather than one stable ranking. If real agents do not have the coherent preferences the framework presupposes, then \"maximize your utility function\" is less a normative ideal one falls short of than a model that may not apply. The note that Newcomblike and anthropic problems destabilize decision theory itself is a much larger admission than the essay's confident tone suggests."
+  }
+]

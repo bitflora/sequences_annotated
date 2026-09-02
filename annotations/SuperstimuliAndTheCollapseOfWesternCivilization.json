@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "an exhaustible supply of mental energy",
+    "content": "This is the \"ego depletion\" or strength model of self-control (Baumeister et al., <a href=\"https://doi.org/10.1037/0022-3514.74.5.1252\">1998</a>), and the depletable-fuel claim is now one of the more prominent casualties of the replication crisis. A preregistered, multi-laboratory Registered Replication Report found essentially no depletion effect (Hagger et al., <a href=\"https://doi.org/10.1177/1745691616652871\">2016</a>), and a meta-analysis correcting for publication bias put the true effect near zero (Carter &amp; McCullough, <a href=\"https://doi.org/10.3389/fpsyg.2014.00823\">2014</a>). Whatever limits self-control, the specific metaphor of a literal energy reserve that resisting temptation \"uses up\" is poorly supported."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "it contains more concentrated sugar, salt, and fat than anything that exists in the ancestral environment",
+    "content": "The supernormal-stimulus concept itself is solid ethology: Tinbergen and colleagues showed that birds prefer exaggerated dummy eggs and that chicks peck hardest at exaggerated bill models (<em>The Study of Instinct</em>, 1951). Extending it to candy bars and video games is a reasonable analogy, but it is an analogy, not a measured result—\"more than anything in the ancestral environment\" is asserted rather than quantified, and the further leap to civilizational collapse is rhetorical. The ethological core is real; the sweeping cultural extrapolation outruns the evidence."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "have died playing online games for days without rest",
+    "content": "These deaths are genuine but extraordinarily rare anecdotes, and a handful of cases cannot establish the population-level trend the essay extrapolates toward. The inference that market competition will ratchet games up to lethal addictiveness is a thought experiment, not a finding. \"Gaming disorder\" was added to the ICD-11 in 2019, but its status remains contested, prevalence estimates are low, and the diagnostic criteria are disputed—so the \"marketed out of existence\" thesis should be read as speculation rather than documented fact."
+  }
+]

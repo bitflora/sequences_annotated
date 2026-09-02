@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Your curiosity feels sated, but it hasn’t been fed.",
+    "content": "Claim: a label can make curiosity feel satisfied without adding knowledge. This aligns with the \"information-gap\" theory of curiosity (Loewenstein, 1994, <a href=\"https://doi.org/10.1037/0033-2909.116.1.75\">https://doi.org/10.1037/0033-2909.116.1.75</a>), under which curiosity is driven by a felt gap between what one knows and wants to know, and with the \"illusion of explanatory depth\" (Rozenblit & Keil, 2002, <a href=\"https://doi.org/10.1207/s15516709cog2605_1\">https://doi.org/10.1207/s15516709cog2605_1</a>), where receiving or generating a superficial explanation reduces the sense of a knowledge gap even when genuine understanding has not increased. Both findings have replicated; the specific framing here is an apt illustration rather than a single experimental result."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It is a failure of human psychology that, faced with a mysterious phenomenon, we more readily postulate mysterious inherent substances than complex underlying processes.",
+    "content": "Claim: people more readily postulate mysterious inherent substances than complex underlying processes. This corresponds closely to research on psychological essentialism, the tendency to explain category membership and behavior by an unobserved inner \"essence\" (Gelman, 2003, <i>The Essential Child</i>; Medin & Ortony, 1989). Essentialist reasoning appears early in development and across cultures and is well-documented (Gelman, 2004, <a href=\"https://doi.org/10.1016/j.tics.2004.07.001\">https://doi.org/10.1016/j.tics.2004.07.001</a>). The empirical bias toward essence-style explanation is robust; describing it as a uniform \"failure\" is an evaluative gloss, since essentialist heuristics are often useful for biological kinds."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "Claim: the signs of a \"mysterious answer\" are an exhaustive set — it stops curiosity, has no moving parts, and its proponents cherish ignorance — so any explanation matching them is empty. This three-part checklist is a useful rhetorical heuristic, but it is presented as if it were a validated taxonomy of bad explanation, which it is not. Philosophy of science offers richer and competing accounts of explanatory virtue (unification, Kitcher, 1989; mechanism, Machamer, Darden & Craver, 2000, <a href=\"https://doi.org/10.1086/392759\">https://doi.org/10.1086/392759</a>; causal-difference accounts, Woodward, 2003) under which an explanation can be genuinely informative while having few \"moving parts\" — fundamental physical posits like mass, charge, or spin are exactly such \"blank\" primitives, yet they are not vacuous. The checklist conflates two different defects (failing to constrain anticipation vs. terminating in a primitive), and only the first is truly a mark of emptiness."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "Claim: postulating an inner substance to explain a phenomenon is a \"failure of human psychology\" that simply mixes up the map with the territory. Many historically maligned \"substance\" posits were in fact productive proto-theories that were later vindicated or partly so: the \"germ\" before microbiology, the \"gene\" before molecular biology, and the chemical \"affinity\" that anticipated bonding theory all began as named-but-opaque inner causes that successfully constrained later inquiry. Vitalism itself motivated real research programs and was refuted empirically (Wöhler's urea synthesis, the essay's own example) rather than dismissed a priori as a category error. Naming an unknown cause and treating it as a placeholder for an unsolved problem is, on the charitable reading, exactly the \"say magic\" move Yudkowsky praises elsewhere — the difference between fruitful and empty posits is whether the research community keeps probing, which is a sociological fact, not a feature of the word itself."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Claim: \"mystery is a property of questions, not answers\" — ignorance is in the map, never the territory, so to call a phenomenon objectively mysterious is always a confusion. As a slogan against worshipful obscurantism this is well-taken, but stated this strongly it begs a live question in metaphysics. There may be facts that are mysterious in a stronger, mind-independent sense: McGinn's \"mysterianism\" argues consciousness may be cognitively closed to creatures with our conceptual equipment (McGinn, 1989, <a href=\"https://doi.org/10.1093/mind/XCVIII.391.349\">https://doi.org/10.1093/mind/XCVIII.391.349</a>), and quantum mechanics arguably contains irreducible objective indeterminacy rather than mere ignorance. Yudkowsky's identification of all mystery with a defective mental state is itself a substantive philosophical thesis (epistemicism about the unknown), not a neutral truism, and it forecloses the possibility that some limits to explanation are features of the world or of any possible knower rather than of the present inquirer."
+  }
+]

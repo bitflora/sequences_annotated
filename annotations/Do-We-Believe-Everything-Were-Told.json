@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Spinoza suggested that we first passively accept a proposition in the course of comprehending it, and only afterward actively disbelieve propositions which are rejected by consideration.",
+    "content": "Gilbert's Spinozan hypothesis, that we automatically accept a proposition just by comprehending it and must spend effort to \"unbelieve\" it, is elegant but contested. The supporting studies are small and from the early-1990s social-cognition tradition whose paradigms have weathered the replication crisis poorly, and direct challenges exist: <a href=\"https://doi.org/10.1111/j.1467-9280.2005.01576.x\">Hasson, Simmons & Todorov (2005)</a> found people do not automatically accept implausible statements, with the \"belief by default\" pattern depending on prior plausibility rather than holding universally. <a href=\"https://doi.org/10.1037/a0014038\">Richter et al. (2009)</a> likewise found readers routinely validate incoming claims against knowledge. The model is influential, not established."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Subjects in the cognitively busy condition recommended an average of 11.15 years in prison",
+    "content": "The dramatic crime-report result, busy subjects giving nearly double the sentence when false statements aggravated the crime, comes from a single experiment (Gilbert, Tafarodi & Malone 1993) with a modest sample, and I know of no large direct replication. Note also that the effect appears only under deliberate cognitive load, an unusual condition; the non-busy subjects barely differed (7.03 vs 6.03 years). So even on its own terms the study shows that ordinary, undistracted readers largely succeed at rejecting clearly-labeled falsehoods, a much milder conclusion than the paper's title, \"You Can't Not Believe Everything You Read.\""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "When subjects are told that a pro-abortion or anti-abortion speaker was randomly assigned to give a speech on that position, subjects still think the speakers harbor leanings in the direction randomly assigned.",
+    "content": "This is the Jones & Harris (1967) attitude-attribution paradigm, the founding demonstration of what later got called correspondence bias, and the effect itself replicates. But reading it as a pure cognitive failure is contestable: even when an essayist is assigned a position, the quality and content of the argument still carry genuine information about the writer, so some \"dispositional\" inference is Bayesian rather than erroneous. Subsequent work also shows the effect is far from universal, East Asian participants attribute behavior to situations much more readily, and the asymmetry shrinks or reverses across cultures (<a href=\"https://doi.org/10.1037/0033-2909.125.1.47\">Choi, Nisbett & Norenzayan 1999</a>). The paradigm establishes a bias under specific instructions, not a fixed feature of \"the human\" mind."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "We attribute our own actions to our situations, seeing our behaviors as perfectly normal responses to experience.",
+    "content": "The whole essay rests on the actor-observer asymmetry, the claim that we explain our own behavior situationally but others' dispositionally. That asymmetry, treated as textbook fact since Jones & Nisbett (1971), did not survive meta-analysis: <a href=\"https://doi.org/10.1037/0033-2909.132.6.895\">Malle (2006)</a>, aggregating 173 studies, found the average actor-observer difference to be essentially zero, reliably present only in narrow conditions such as negative or unexpected events. So the intuitive vending-machine contrast Yudkowsky builds the piece around describes a much weaker and more conditional phenomenon than the confident framing implies."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Drinking students considerably overestimate the fraction of fellow students who drink, but nondrinkers considerably underestimate the fraction.",
+    "content": "The false-consensus effect (<a href=\"https://doi.org/10.1016/0022-1031(77)90049-X\">Ross, Greene & House 1977</a>) is one of the better-replicated social-judgment phenomena, so this example is on solid ground. Two cautions. First, projecting one's own tendency onto others is often rational: one's own behavior is a legitimate, if biased, sample of the population, so a Bayesian who weights it will look \"egocentric\" without being irrational. Second, false consensus is logically distinct from correspondence bias, one concerns estimating prevalence, the other attributing causes, and the essay slides between them as if they were a single mechanism."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The “fundamental attribution error” refers to our tendency to overattribute others’ behaviors to their dispositions, while reversing this tendency for ourselves.",
+    "content": "The label \"fundamental attribution error\" (Ross 1977) has been criticized on its own terms. Gilbert & Malone, whom Yudkowsky quotes approvingly at the top, argue the phenomenon is neither fundamental nor straightforwardly an error, since dispositional inference is frequently accurate and adaptive. Calling it \"fundamental\" also overstates its generality given the cross-cultural evidence that holistic-thinking cultures show weaker dispositionism. And as noted above, the \"reversing this tendency for ourselves\" half, the actor-observer asymmetry, is the part that failed to replicate in <a href=\"https://doi.org/10.1037/0033-2909.132.6.895\">Malle's (2006)</a> meta-analysis."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "is accepted by a substantial fraction, possibly a majority, of academic philosophers of consciousness",
+    "content": "\"Possibly a majority\" overstates the load-bearing claim. The <a href=\"https://doi.org/10.1007/s11098-013-0259-7\">PhilPapers Survey (Bourget & Chalmers 2014)</a> asked professional philosophers about zombies directly: the plurality (~36%) chose \"conceivable but not metaphysically possible,\" only ~23% \"metaphysically possible,\" and ~16% \"inconceivable.\" So while a majority grant that zombies are <em>conceivable</em>, only about a quarter grant the <em>metaphysical possibility</em> that the argument actually needs, and the 2020 survey replication found a similar split. The slippage matters because Yudkowsky's own essay later (rightly) insists that conceptual possibility is not logical/metaphysical possibility; this opening parenthetical blurs exactly that distinction."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "native Chinese speakers can remember longer digit sequences than English-speakers",
+    "content": "The direction of this effect is well established: digit span is limited by how much you can subvocally rehearse in roughly two seconds (Baddeley's phonological loop and the word-length effect), so languages with shorter spoken digit-words, like Chinese, yield longer spans (Ellis & Hennelly 1980 for Welsh; Hoosain & Salili 1988 for Chinese). The weak point is the English benchmark: \"seven plus or minus two\" (Miller 1956) is itself superseded. Once rehearsal and chunking are controlled for, the capacity of working memory is closer to about four items (<a href=\"https://doi.org/10.1017/S0140525X01003922\">Cowan 2001</a>). So the cross-linguistic contrast is sound, but it is really evidence about rehearsal rate, not about a fixed \"magical number,\" and the figure it is measured against is outdated. Yudkowsky's actual inference, that there is a phonological inner narrative, is independently supported."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Researchers have already tapped the lateral geniculate nucleus of a cat and reconstructed recognizable visual inputs.",
+    "content": "This is accurate and refers to <a href=\"https://doi.org/10.1523/JNEUROSCI.19-18-08036.1999\">Stanley, Li & Dan (1999)</a>, who reconstructed recognizable natural-scene movies from the firing of cat LGN neurons. If anything the aside undersells what followed: neural-decoding work has since reconstructed seen images, and even imagined or dreamed content, from human fMRI (<a href=\"https://doi.org/10.1016/j.cub.2011.08.031\">Nishimoto et al. 2011</a>; Shen et al. 2019). A rare case in this essay where the empirical claim is both correct and conservative."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Sir Roger Penrose (physicist) and Stuart Hameroff (neurologist) are substance dualists",
+    "content": "Two factual errors. Penrose and Hameroff are not substance dualists: Penrose explicitly rejects dualism, and their Orchestrated Objective Reduction (Orch-OR) theory is a <em>physicalist</em> proposal, locating consciousness in (speculative) objective-collapse physics inside microtubules rather than in an immaterial mind-substance. And Hameroff is an anesthesiologist, not a neurologist. The \"being tested\" gloss is also dated: the central blow was <a href=\"https://doi.org/10.1103/PhysRevE.61.4194\">Tegmark (2000)</a>, who estimated neuronal decoherence times near 10⁻¹³ s, far too short to support computation; Hagan, Hameroff & Tuszyński (2002) contested the estimate, and later claims of warm quantum effects in microtubules remain contested and unreplicated. The theory is indeed fringe, but the parenthetical labels misclassify it, and ironically in the wrong direction: Yudkowsky cites it as the falsifiable foil to epiphenomenalism, yet calls its physicalist proponents \"substance dualists.\""
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the word for the highest soul, that which God breathed into Adam",
+    "content": "The Hebrew here is partly right and partly folk etymology. The link to Adam is sound: Genesis 2:7 has God breathe <em>nishmat chayim</em> (נִשְׁמַת חַיִּים), \"the breath of life,\" and <em>nishmat</em> is the construct form of <em>neshamah</em> (נְשָׁמָה). \"Highest soul\" is defensible only in the popular three-tier scheme (<em>nefesh → ruach → neshamah</em>); the fuller Kabbalistic system places <em>chayah</em> and <em>yechidah</em> above it. But the load-bearing gloss, \"the hearer,\" is incorrect. <em>Neshamah</em> derives from the root נ־שׁ־מ (n-sh-m), \"to breathe\" (cf. <em>neshimah</em>, breathing), and literally means \"breath\"; \"hearer\" is from the unrelated root שׁ־מ־ע (sh-m-ʕ), \"to hear\" (note the different final consonant). The equation of <em>neshamah</em> with \"the hearer\" is a homiletic word-association, not an etymology, which Yudkowsky's own hedge (\"I once read somewhere\") quietly concedes, even as the essay's \"you are the one who hears your thoughts\" motif leans on it."
+  }
+]

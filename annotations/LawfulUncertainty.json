@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "What subjects tended to do instead, however, was match probabilities—that is, predict the more probable event with the relative frequency with which it occurred.",
+    "content": "Claim: in binary prediction with base-rate predictability, subjects \"match probabilities\" rather than maximize. Probability matching is a real and frequently-observed phenomenon, documented since the 1950s (Estes, 1950; reviewed by Vulkan, 2000, <a href=\"https://doi.org/10.1111/1467-6419.00106\">https://doi.org/10.1111/1467-6419.00106</a>). However, it is not universal or fixed: maximization increases markedly with financial incentives, with clearer feedback, when subjects deliberate rather than respond intuitively (Koehler & James, 2009, <a href=\"https://doi.org/10.1016/j.cognition.2009.03.009\">https://doi.org/10.1016/j.cognition.2009.03.009</a>), and even across species and developmental stages. So the effect is robust as a default tendency but strongly moderated by task conditions, contrary to a reading of it as an immutable flaw."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "76% of the time",
+    "content": "Claim: even paid subjects over a thousand trials chose the majority option only about 76% of the time. The specific figure traces to Tversky & Edwards (1966), \"Information versus reward in binary choices,\" <a href=\"https://doi.org/10.1037/h0023123\">https://doi.org/10.1037/h0023123</a>. The qualitative result (sub-maximizing despite payment) replicates, but later work shows the magnitude is sensitive to incentive size and design; in some paradigms a substantial fraction of subjects do converge toward maximization (Shanks, Tunney & McCarthy, 2002, <a href=\"https://doi.org/10.1002/bdm.413\">https://doi.org/10.1002/bdm.413</a>). The cited number is a single study's value, not a fixed constant."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I would suspect that something simpler is going on—that the all-blue strategy just didn’t occur to the subjects.",
+    "content": "Claim: the maximizing (\"all-blue\") strategy simply did not occur to subjects, rather than reflecting overconfidence. This is a plausible interpretation and aligns with research suggesting probability matching arises partly from an effortful but mistaken search for patterns in random sequences (Wolford et al., 2004, on pattern-seeking; Gaissmaier & Schooler, 2008, <a href=\"https://doi.org/10.1016/j.cognition.2008.02.002\">https://doi.org/10.1016/j.cognition.2008.02.002</a>, who found matching correlates with attempts to detect sequential structure). The pattern-search account has empirical support, but the specific introspective claim (\"just didn't occur to them\") is an inference; competing accounts (e.g., expectation-matching heuristics) also fit the data."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "Claim: randomizing your actions is unconditionally irrational — \"a random key does not open a random lock,\" so matching only ever makes you \"stupid.\" This holds in the essay's stipulated setup (an i.i.d. sequence, fixed payoff for accuracy, no observer), but stated as a general principle it is false: in adversarial and strategic environments randomization is provably optimal. The minimax theorem (von Neumann, 1928; see Osborne & Rubinstein, 1994, <i>A Course in Game Theory</i>) shows that against an opponent who can exploit any predictable pure strategy — matching pennies, rock-paper-scissors, penalty kicks — the unique optimal play is a deliberately mixed (randomized) strategy, and field studies confirm expert players approximate it (Chiappori, Levitt & Groseclose, 2002, on soccer penalties, <a href=\"https://doi.org/10.1257/000282802762024611\">https://doi.org/10.1257/000282802762024611</a>). Probability matching can likewise be ecologically rational when payoffs depend on others' choices or on covering a distribution of states rather than guessing a single hidden constant. \"Fight fire with water\" is good advice against a static random source; it is bad advice against an adaptive adversary."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "Claim: this single experiment \"compactly illustrates the most important idea in all of rationality\" — that the optimal response to a foggy world is to behave lawfully, never to inject chaos. The rhetorical elevation outruns what one binary-prediction paradigm can bear, and it quietly smuggles in the strong assumption that the environment is genuinely structureless and non-strategic. Real \"uncertain worlds\" are frequently the opposite — partially observable, non-stationary, and populated by other agents — settings in which the rational policy can involve exploration, hedging, and randomization rather than repeating the current point-estimate of the best action (the explore/exploit tradeoff in bandit problems, Sutton & Barto, 2018, <i>Reinforcement Learning</i>). Even Bayesian decision theory only prescribes \"always take the currently-best action\" once you have already conditioned on a model; while learning, deterministically exploiting can be strictly suboptimal. The deep lesson is real for the stated game, but \"never randomize\" is a domain-specific result dressed up as a universal law of reason."
+  }
+]

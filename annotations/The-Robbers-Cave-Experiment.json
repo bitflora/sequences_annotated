@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "They needn’t have bothered with Stage 2.",
+    "content": "This is the part of the Robbers Cave story that historical investigation has most undermined. Sherif had run an earlier, nearly identical study (Middle Grove, 1953) that failed: the boys stubbornly refused to turn on each other and even resisted the experimenters' attempts to provoke conflict, so Sherif abandoned it and never published it, as Gina Perry documented from the archives (<em>The Lost Boys</em>, 2018, a book, no DOI). At Robbers Cave the staff intervened far more actively than the published account admits, seeding rivalry and engineering provocations. The tidy \"conflict arose almost spontaneously\" narrative survives partly because the disconfirming trial was buried."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There was hostility almost from the moment each group became aware of the other group’s existence",
+    "content": "Beyond the buried failed replication, Robbers Cave is a single, uncontrolled study: one camp, 22 carefully pre-selected boys (white, middle-class, Protestant, well-adjusted, median IQ 112), no control group, and experimenters who doubled as camp staff and shaped events. The researcher degrees of freedom were enormous, and the observations were recorded by people who wanted intergroup conflict to appear and had abandoned a prior study when it didn't. Realistic-conflict theory may well be correct, but it rests on a literature far broader than this one demonstration, which is better treated as a vivid illustration than as decisive evidence."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The Robbers Cave Experiment illustrates the psychology of hunter-gatherer bands, echoed through time, as perfectly as any experiment ever devised by social science.",
+    "content": "This is the strongest overreach in the piece. A study of 22 mid-century Oklahoma schoolboys at a summer camp cannot reveal \"the psychology of hunter-gatherer bands echoed through time\", that is an evolutionary interpretation laid over a culturally specific sample, with no hunter-gatherers anywhere in the data. The boys were deliberately drawn from one narrow demographic to remove pre-existing differences, which makes them a poor model for ancestral bands defined by kinship and shared history. The grand evolutionary gloss is exactly the kind of unfalsifiable just-so extrapolation the early Map-and-Territory essays warned against."
+  }
+]

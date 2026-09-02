@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the second an extremely high 0.92",
+    "content": "The 0.92 is far less impressive than the \"N = 221\" beside it implies. That correlation is not computed over 221 independent people; it is computed between two smooth, single-peaked curves—average rated grief and reproductive value—across a handful of age categories, so its effective degrees of freedom are tiny and its confidence interval enormous. Any two smooth inverted-U curves will correlate highly almost regardless of their fine structure, which is why the gap between 0.64 (modern Canadian reproductive value) and 0.92 (!Kung reproductive value) is weak evidence that grief is tuned to ancestral rather than current demography. Crawford, Salter &amp; Jang (<a href=\"https://doi.org/10.1016/0162-3095(89)90006-X\">1989</a>) found a real pattern; the eye-popping precision is largely an artifact of curve smoothness."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "it was conducted by asking human adults to imagine parental grief, rather than asking real parents with children of particular ages",
+    "content": "This is presented as an elegance, but it is also the study's central vulnerability. Asking uninvolved adults to <em>predict</em> how much a parent would grieve measures a shared folk theory of grief, not grief itself—and if people simply believe that losing a near-adolescent child is worst, their ratings will trace that belief whether or not any evolved emotion underlies it. Worse, that folk intuition could be reverse-engineered from the very demographic facts the experimenters used to build the comparison curve, manufacturing the correlation. A study of actual bereaved parents would be exposed to fewer of these demand and folk-psychological confounds."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "People who say that evolutionary psychology hasn",
+    "content": "A single striking correlation is offered here as a decisive \"advance prediction,\" but one never-preregistered, rarely-replicated result is thin ground for so strong a claim—especially one whose headline statistic is inflated by the degrees-of-freedom problem noted above. The recurring complaint about evolutionary psychology is not that it can never predict anything, but that it too readily generates post-hoc adaptationist narratives that survive whatever data appear; a lone elegant study does not retire that worry, however appealing the result."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "religionists execute what William Bartley called the retreat to commitment",
+    "content": "The \"retreat to commitment\" (Bartley, <em>The Retreat to Commitment</em>, 1962) describes the move of insulating a belief from evidence by grounding it in unargued commitment. The behavioral pattern the essay attributes to it—maintaining or even intensifying belief after disconfirmation—is the same phenomenon documented in the classic field study of a failed-prophecy group (Festinger, Riecken & Schachter, <em>When Prophecy Fails</em>, 1956). That foundational study is a single small-sample observational case and its strong \"increased proselytizing after disconfirmation\" claim has not replicated cleanly; later reviews find belief-maintenance is common but the predicted surge in proselytizing is inconsistent (see Dawson, 1999, <a href=\"https://doi.org/10.2307/3712339\">Nova Religio</a>). So the qualitative pattern is real, but the original study should not be treated as a tightly established quantitative effect."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "it only requires a manageable effort of self-deception for them to overlook the Bible’s moral problems",
+    "content": "The appeal to \"a manageable effort of self-deception\" invokes motivated reasoning—the tendency to reach conclusions one is motivated to reach, within the bounds of what one can plausibly justify (Kunda, 1990, <a href=\"https://doi.org/10.1037/0033-2909.108.3.480\">Psychological Bulletin</a>). This is a well-supported and frequently replicated body of work. A precision note: the term \"self-deception\" is theoretically contentious—it is debated whether agents literally hold contradictory beliefs simultaneously, or whether the behavior is better described as biased information search, selective attention, and asymmetric standards of evidence, which is what most of the experimental literature actually measures."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The essay's central argument equates the \"separate magisterium\" / non-disprovability defense with intellectual fraud, but it runs together two genuinely distinct ideas: Popperian falsifiability and Bayesian updating. A claim can be unfalsifiable in Popper's strict sense—incapable of being conclusively refuted by any observation—while still carrying a prior probability that ordinary evidence raises or lowers. Bayesianism does not require falsifiability; it only requires that some possible observations be more expected under the hypothesis than under its negation. So a sophisticated theist can coherently grant that their belief is not <em>falsifiable</em> while still treating it as evidentially responsive, which is not the self-contradiction the essay implies (on the falsifiability/confirmation distinction, see Sober, 2008, <em>Evidence and Evolution</em>, <a href=\"https://doi.org/10.1017/CBO9780511806285\">Cambridge University Press</a>)."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The essay treats the historical scriptures as making bold, disconfirmable factual claims (the Exodus, large-scale miracles) and frames their later reinterpretation as a dishonest \"retreat.\" This is largely accurate as intellectual history, but it understates that allegorical and non-literal readings of scripture are ancient, not modern damage-control: Philo of Alexandria and Origen were reading Genesis figuratively before the third century. The narrative that the \"separate magisterium\" idea is a recent fabrication is therefore too strong; non-literal interpretation predates the scientific challenges the essay says produced it. The historical claim should be qualified to \"the explicit doctrine that religion makes no factual claims is modern,\" which is weaker than \"religion never had non-literal readings until it was cornered.\""
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The essay reads the Mount Sinai theophany as, \"from a Bayesian perspective, some darned unambiguous evidence of a superhumanly powerful entity\"—but this only follows if the report is taken as a reliable record of an event. The relevant Bayesian comparison is not P(report | event happened) but P(report exists) under competing hypotheses including legend, oral-tradition embellishment, and post-hoc national myth-making, all of which predict exactly such reports without any supernatural event. Because invented or exaggerated foundational miracle stories are common across cultures, a dramatic claim's mere presence in a text is weak evidence at best. The essay's own later point—that authors without libraries could \"make up pretty much anything\"—undercuts the inference it draws here."
+  }
+]

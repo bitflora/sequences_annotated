@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "people who know the outcome of a situation believe the outcome should have been easy to predict in advance",
+    "content": "Hindsight bias is one of the more durable findings in cognitive psychology; the review by <a href=\"https://doi.org/10.1177/1745691612454303\">Roese & Vohs (2012)</a> documents its consistency and decomposes it into memory-distortion, inevitability, and foreseeability components. The replication record here is genuinely good, a useful contrast to weaker effects elsewhere in the sequence. The caveats are about moderators: it shrinks when outcomes are surprising and when people are explicitly prompted to consider how things could have turned out otherwise, and it is far from uniform across individuals. Yudkowsky's stronger flourish, that \"even when warned, we can't de-interpret,\" overstates this; the consider-the-alternative manipulation is a documented partial remedy, so the bias is not the immovable object the phrasing implies."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Keysar presented a group of subjects with scenario (a), and 59% thought that Mark’s message was sarcastic and that Jane would perceive the sarcasm.",
+    "content": "The restaurant-sarcasm study is from <a href=\"https://doi.org/10.1006/cogp.1994.1006\">Keysar (1994)</a>, and the illusion-of-transparency family, including Gilovich, Savitsky & Medvec's (1998) work on the felt transparency of emotion, has replicated better than the social-priming results of the same era. Two cautions on the use made of it. First, these are reading-and-rating vignette studies; subjects judge a hypothetical June's perception, which measures beliefs about transparency, not a real failure of communication. Second, effect sizes scale with how strong the speaker's privileged knowledge is, so the dramatic numbers reflect a deliberately strong manipulation rather than the size of the effect in ordinary talk."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Speakers thought that they were understood in 72% of cases and were actually understood in 61% of cases.",
+    "content": "The speaker-calibration figures, understood 61% of the time but believed 72%, come from <a href=\"https://doi.org/10.1111/1467-9280.00439\">Keysar & Henly (2002)</a>. Note the gap is 11 percentage points: speakers are <em>miscalibrated</em>, but they are also mostly right, and they are not wildly deluded. The essay's title, \"Why No One Understands You,\" dramatizes an effect that the cited data show to be a modest overestimate against a high baseline of actual success. The overhearer comparison (56%) is interesting but small-sample, and \"egocentric overestimation\" coexists with the fact that human communication usually works, which a balanced reading would foreground rather than bury."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The Chamberlain-Hitler anecdote is rhetorically powerful and analytically worthless as evidence for an illusion-of-transparency \"bias.\" Hitler's reading of the 1939 letter was driven by strategic interest, ideology, and intelligence assessments, not by Chamberlain's egocentric overconfidence about diplomatic prose; treating a world-historical decision as a scaled-up lab vignette is precisely the kind of just-so reasoning the sequence elsewhere warns against. It is also a textbook selection effect: one vivid case chosen because it fits, with no accounting of the countless polite diplomatic communications that were understood as intended. The lab effect may be real; this illustration does nothing to establish its magnitude or its relevance to high-stakes communication."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The closing prescription, \"chances are your words are more ambiguous than you think,\" is reasonable, but the essay never asks whether knowing about the illusion of transparency actually helps you overcome it, which is the question that matters for a project organized around debiasing. The perspective-taking and egocentric-anchoring literature (Epley, Keysar, Van Boven & Gilovich, 2004) finds the egocentric default is fast and persistent and that mere awareness produces limited correction; effortful adjustment toward the listener helps but tends to be insufficient and effortful. So the practical upshot is weaker than the confident moral suggests: recognizing the bias does not reliably convert you into a clearer communicator, it mainly licenses lowering your estimate of how well you were understood."
+  }
+]

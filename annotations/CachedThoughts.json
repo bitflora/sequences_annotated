@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "any postulated operation has to complete in at most 100 sequential steps",
+    "content": "The \"hundred-step rule\" is a real argument from <a href=\"https://doi.org/10.1207/s15516709cog0603_1\">Feldman & Ballard (1982)</a>: since neurons operate on a millisecond timescale and many cognitive tasks finish in a few hundred milliseconds, the brain can chain only on the order of 100 serial steps, forcing massive parallelism. It is a useful order-of-magnitude argument, but a back-of-envelope heuristic rather than a measured constant, and modern neuroscience complicates it (dendritic computation, oscillatory timing, and recurrent processing make \"steps\" hard to count cleanly). The further claim that \"the majority of human cognition consists of cache lookups\" is an evocative metaphor, not a result; the rest of the essay is rhetoric, reasonable as such, but it imports no specific evidence about how beliefs or memories are actually stored and retrieved."
+  }
+]

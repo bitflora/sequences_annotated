@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It takes longer for subjects to name this color",
+    "content": "This is the Stroop effect (Stroop, <a href=\"https://doi.org/10.1037/h0054651\">1935</a>), and it is among the most robust and endlessly replicated findings in all of psychology—the interference is large, reliable across decades, languages, and laboratories, and well characterized theoretically (MacLeod's review, <a href=\"https://doi.org/10.1037/0033-2909.109.2.163\">1991</a>). An entirely safe example to lean on."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Cognitive causes are ontologically distinct from evolutionary causes.",
+    "content": "Correct and important: this is Mayr's proximate/ultimate distinction (<a href=\"https://doi.org/10.1126/science.134.3489.1501\">1961</a>) and the heart of Tinbergen's four questions (<a href=\"https://doi.org/10.1111/j.1439-0310.1963.tb01161.x\">1963</a>). A trait's evolutionary history (why selection built it) and its mechanism (how it runs now) are different levels of explanation, and conflating them—reading inclusive-fitness goals into the felt content of an emotion—is exactly the confusion biologists are trained to avoid. The framework being invoked is mainstream and well founded."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "which would have been fertility cues in the ancestral environment",
+    "content": "The proximate/ultimate logic is sound, but the specific adaptationist content slipped into the vignette is precisely the contested part of evolutionary psychology. Buss's cross-cultural survey (<a href=\"https://doi.org/10.1017/S0140525X00023992\">1989</a>) did find men weighting youth and looks and women weighting resources, but the <em>adaptationist</em> reading is disputed: the sex difference shrinks markedly in more gender-equal societies (Zentner &amp; Mitura, <a href=\"https://doi.org/10.1177/0956797612441004\">2012</a>), which fits a sociostructural account at least as well. Presenting \"clear complexion = fertility cue\" and \"confident smile = resource-provisioning cue\" as plain fact illustrates the field's habit of confident reverse-engineering from a trait to its supposed ancestral function."
+  }
+]

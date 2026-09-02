@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Attitude polarization. Exposing subjects to an apparently balanced set of pro and con arguments will exaggerate their initial polarization.",
+    "content": "Taber & Lodge (<a href=\"https://doi.org/10.1111/j.1540-5907.2006.00214.x\">2006</a>) is influential, and several of its effects (prior-attitude, disconfirmation) are reasonably robust. But \"attitude polarization,\" the idea that balanced arguments push people further apart, has not held up well. The original demonstration (Lord, Ross & Lepper 1979) was small, and replications find polarization weak and inconsistent (<a href=\"https://doi.org/10.1111/j.1467-9280.1996.tb00355.x\">Kuhn & Lao 1996</a>). Its dramatic cousin, the \"backfire effect\" (corrections strengthening false beliefs), largely failed to replicate: <a href=\"https://doi.org/10.1007/s11109-018-9443-y\">Wood & Porter (2019)</a>, across 52 issues and over 10,000 subjects, found corrections overwhelmingly move people toward accuracy. The bias is real; the backfire framing is mostly a myth."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you’re irrational to start with, having more knowledge can hurt you.",
+    "content": "The \"sophistication effect,\" that the politically knowledgeable are more biased, is the hook of the essay, but it rests on a single pair of studies (two issues, gun control and affirmative action) and the picture since is mixed. <a href=\"https://doi.org/10.1017/bpp.2016.2\">Kahan et al.'s (2017)</a> motivated-numeracy work finds high-numeracy subjects can be more polarized on identity-relevant issues, supporting the idea; but on most questions expertise improves accuracy and reduces bias. Whether knowledge nets out as harmful depends heavily on whether the topic is identity-protective, a contingency the blanket claim \"having more knowledge can hurt you\" papers over."
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The availability heuristic is judging the frequency or probability of an event by the ease with which examples of the event come to mind.",
+    "content": "The availability heuristic was introduced by <a href=\"https://doi.org/10.1016/0010-0285(73)90033-9\">Tversky & Kahneman (1973)</a>, and the core phenomenon, that judged frequency tracks ease of bringing instances to mind, has held up. The crucial refinement, which undercuts the simple story told here, is that the operative cue is the subjective <em>ease</em> of retrieval, not the amount of content retrieved. <a href=\"https://doi.org/10.1037/0022-3514.61.2.195\">Schwarz et al. (1991)</a> showed that asking people to generate many examples can <em>lower</em> their frequency estimates, because the recall feels hard, the exact reverse of \"more examples come to mind, so I judge it more frequent.\" The definition Yudkowsky gives is the textbook one, but the mechanism it implies has been substantially complicated by the very literature it draws on."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Subjects thought that accidents caused about as many deaths as disease; thought that homicide was a more frequent cause of death than suicide. Actually, diseases cause about sixteen times as many deaths as accidents, and suicide is twice as frequent as homicide.",
+    "content": "The Lichtenstein et al. (1978) mortality figures are real, but they do not cleanly establish that <em>availability</em> is the cause, which is what Yudkowsky needs. The same data show the classic regressive signature of judgment under uncertainty: rare causes overestimated, common causes underestimated, a pattern you get from noisy estimates regressed toward a central anchor regardless of media exposure. Availability and regression are confounded here, and the essay simply assumes availability won. The specific ratios quoted (diseases sixteen times accidents; suicide twice homicide) are also 1970s U.S. statistics that do not travel across eras or countries, so they cannot anchor a claim about universal cognitive machinery."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "When no flooding has recently occurred (and yet the probabilities are still fairly calculable), people refuse to buy flood insurance even when it is heavily subsidized and priced far below an actuarially fair value.",
+    "content": "The Combs & Slovic (1979) correlation, 0.85-0.89 between newspaper coverage and judged frequency, is doing heavy lifting, and Yudkowsky reads it as availability bias \"either way.\" But a high correlation between perceived frequency and reported frequency is also exactly what a <em>well-calibrated</em> reader would produce: if your evidence about death rates comes from reporting, tracking that reporting is rational updating on the data you actually have, not a malfunction. To call this a \"bias\" presupposes the reader should have known the true base rates from some other source. The deeper problem, that the media supplies an unrepresentative sample, is an environmental/information problem, which by the previous essay's own definition is precisely <em>not</em> a bias of the machinery."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "The Bill Gates passage quietly shifts from epistemic error to a claim about wellbeing, \"you may suffer hedonic penalties,\" and treats social comparison with salient outliers as another availability failure. This conflates two very different things. Knowing Gates is a 0.00000000015 fraction of people is not the cognition that drives upward comparison; comparison targets are shaped by reference groups, aspiration, and motivation, not frequency estimation, and much of that comparison is functional. Folding mood, envy, and media diet into \"availability bias\" stretches the construct past the point where the cited experiments support it."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The flood-insurance and levee examples are presented as a clean \"absurdity bias\": unexperienced events get assigned probability zero. The behavioral literature broadly agrees low-probability high-consequence risks are under-insured, but attributes it to a bundle of causes, probability neglect, liquidity constraints, charity hazard (expecting government bailouts), mistrust of insurers, and learning from neighbors, not to a single \"never happened, therefore impossible\" mechanism. Note too the selection at work: Yudkowsky picks risks people <em>under</em>-weight, but the same era's research documents the opposite, wild <em>over</em>-reaction to vivid, rare, dread risks like terrorism, nuclear accidents, and shark attacks. A heuristic that supposedly makes unexperienced events vanish cannot also explain panic over events almost no one has experienced; the framing survives only by choosing confirming cases."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "content": "The essay's evolutionary aside, that the ancestral environment had \"at most one layer of selective reporting\" while we face six bloggers of filtering, is a plausible-sounding just-so story offered without evidence. We have no reliable measurement of information-filtering depth in Pleistocene social networks, and ancestral gossip, myth, and reputation systems were themselves heavily selective and distorting. The inference, that modern media must therefore produce \"much larger availability biases,\" is an untested extrapolation dressed as a mechanism. It is exactly the kind of unfalsifiable evolutionary narrative that critics of pop evolutionary psychology have warned against."
+  }
+]

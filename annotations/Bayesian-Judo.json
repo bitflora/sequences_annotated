@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Aumann’s Agreement Theorem which shows that no two rationalists can agree to disagree",
+    "content": "Aumann's Agreement Theorem is a genuine and proven result (Aumann, 1976, <a href=\"https://doi.org/10.1214/aos/1176343654\">The Annals of Statistics</a>), but its premises are far stronger than the dinner-party setting suggests. It requires that both parties be perfect Bayesians, share a <em>common prior</em>, and have it be <em>common knowledge</em> (in the strict, infinitely recursive sense) that they have updated and reached their respective posteriors—at which point those posteriors must coincide. None of these conditions holds for two humans arguing about AI and souls, so invoking the theorem to declare that \"no two rationalists can agree to disagree\" is a rhetorical extension well beyond what the mathematics licenses. Because the antecedents essentially never obtain among real people, the practical content of the theorem here is close to vacuous—it tells us what perfectly rational agents with identical priors would do, which is exactly the situation a disagreement demonstrates we are not in."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If two people disagree with each other, at least one of them must be doing something wrong.",
+    "content": "\"If two people disagree, at least one must be doing something wrong\" does not follow from Aumann's theorem in any real conversation. Disagreement is fully consistent with rationality when priors differ (the common-prior assumption is itself contested—Aumann, 1998), when information is private and not common knowledge, or when agents are computationally bounded. Even ideal agents may need many rounds of honest exchange to converge (Geanakoplos & Polemarchakis, 1982, <a href=\"https://doi.org/10.1016/0022-0531(82)90029-0\">Journal of Economic Theory</a>), and that convergence presupposes shared priors that humans demonstrably lack. The anecdote's persuasive force comes from deploying an impressive-sounding theorem as a conversational bludgeon, not from the theorem actually entailing that one's interlocutor is in error."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "content": "The vignette is structured as a clean victory, but it is a self-reported, single-source anecdote in which the narrator is also the hero, the judge, and the only witness quoted (\"That was beautiful\"). This is precisely the kind of selectively remembered, flattering case study that the Sequences elsewhere warn against: we never hear about the conversations where the maneuver flopped, the interlocutor disengaged unconvinced, or the bystanders were unimpressed. As evidence that \"Bayesian judo\" works, a curated win with no denominator tells us almost nothing about its base rate of success, and the genre conventions of the triumphant dinner-party story should lower, not raise, our confidence that it unfolded as tidily as recounted."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "What actually persuaded the man was not Aumann's theorem—which he plainly did not understand and which does not apply—but a simple and sound falsifiability point: a claim that predicts \"you can't build an AI\" is refuted if you build one. The theorem is decorative; the real work is done by the ordinary logic of testable claims, and invoking a misapplied agreement theorem to \"prove\" he was not permitted to disagree is closer to intellectual intimidation than to the cooperative truth-seeking the result idealizes. Notably, the man's final retreat (\"something eternal\") is treated as reaching agreement \"as Aumann's Theorem requires,\" when it is really him conceding ground to end an uncomfortable exchange—a social outcome, not a Bayesian convergence on shared posteriors."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "this looks simply stupid—and other organisms have independently evolved retinas the right way around",
+    "content": "The inverted vertebrate retina is the stock textbook example of \"bad design,\" but the claim that it is simply stupid is now contested. Müller glial cells span the retina and act as living optical fibres, funnelling light through the scattering neural layers to the photoreceptors with low loss (<a href=\"https://doi.org/10.1073/pnas.0611180104\">Franze et al. 2007</a>; <a href=\"https://doi.org/10.1103/PhysRevLett.104.158102\">Labin &amp; Ribak 2010</a>), and they even sort wavelengths to sharpen daytime acuity. The inverted layout also presses the metabolically ravenous photoreceptors against the pigment epithelium and choroidal blood supply they depend on. Cephalopods evolved a \"forward\" retina under different constraints; the vertebrate eye is better read as a constrained optimum than as an obvious blunder."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "A gene that sacrifices one unit of resources to bestow three units of resource on a brother",
+    "content": "This is Hamilton's rule (a helping allele spreads when relatedness × benefit exceeds cost), and it is one of the better-supported ideas in evolutionary biology. It is worth flagging that the underlying framework is not closed: Nowak, Tarnita &amp; Wilson (<a href=\"https://doi.org/10.1038/nature09205\">2010</a>) argued that inclusive-fitness theory is dispensable and often misleading, drawing a rebuttal co-signed by over 130 biologists (Abbot et al., <a href=\"https://doi.org/10.1038/nature09831\">2011</a>). The arithmetic in the example is sound; the broader status of \"the gene's-eye view\" as the uniquely correct accounting remains an active dispute rather than settled fact."
+  }
+]

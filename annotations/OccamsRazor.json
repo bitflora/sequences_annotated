@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Solomonoff induction measures the “complexity of a description” by the length of the shortest computer program which produces that description as an output",
+    "content": "The essay grounds Occam's Razor in Solomonoff induction, which formalizes simplicity as the length of the shortest program producing the data. This is mathematically well-founded as a theory of inductive inference (Solomonoff, <a href=\"https://doi.org/10.1016/S0019-9958(64)90223-2\">1964</a>), but the formalism is uncomputable in general because it requires summing over all programs, including non-halting ones. The \"constant penalty\" for choosing a different universal machine is real but can be arbitrarily large for any finite data set, so the framework's practical guidance for everyday model selection is weaker than the prose suggests. It remains the canonical idealization rather than an operational procedure."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "one bit of program complexity should cost at least a “factor of two gain” in the fit",
+    "content": "The claim that \"one bit of program complexity should cost at least a factor-of-two gain in fit\" is a correct statement of the trade-off implicit in MAP/MDL inference: a prior of (1/2) per code bit exactly offsets a doubling of likelihood. This is sound within the Bayesian/MDL framework (Rissanen, <a href=\"https://doi.org/10.1016/0005-1098(78)90005-5\">1978</a>). The caveat is that \"complexity\" here is defined relative to a chosen description language; the threshold is exact only given that reference machine, so the numeric \"factor of two\" is not a language-independent fact about nature."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The Minimum Message Length formalism is nearly equivalent to Solomonoff induction",
+    "content": "The near-equivalence of Minimum Message Length (Wallace & Boulton, <a href=\"https://doi.org/10.1093/comjnl/11.2.185\">1968</a>) and Solomonoff induction is accurately characterized: both penalize description length, with MML selecting the single shortest two-part message rather than summing over all programs. The distinction the essay flags (shortest program vs. mixture) is genuine and is also what separates MML from the closely related Minimum Description Length principle; these are robust results in algorithmic information theory, not contested empirical claims."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "hindsight bias and anchoring",
+    "content": "The closing list invokes several cognitive biases. Hindsight bias is among the most robust findings in this literature, surviving extensive replication and meta-analysis (Roese & Vohs, <a href=\"https://doi.org/10.1177/1745691612454303\">2012</a>). Anchoring is also well-replicated, though the magnitude and mechanism (insufficient adjustment vs. selective accessibility) remain debated. \"Positive bias\" / confirmation bias is more nuanced: Klayman & Ha (<a href=\"https://doi.org/10.1037/0033-295X.94.2.211\">1987</a>) showed that much apparent confirmation seeking is a rational \"positive test strategy\" rather than a motivated bias, so this item warrants more qualification than the others."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "content": "The essay's pivotal claim is that there is an objective \"sense in which Maxwell's equations are simpler\" than Thor, cashed out as the length of the shortest program. But Solomonoff's own theorem says the program length is only defined up to an additive constant set by the choice of universal machine—and that constant is not a footnote. For any two competing hypotheses, one can construct a reference machine on which either is the shorter, so \"which is simpler\" is well-defined only <em>after</em> fixing a language, and that choice is not handed down by nature. The essay treats the Turing-machine encoding as privileged, but it is a representational convention; the complexity penalty it yields is objective only relative to that convention, which is precisely the point critics of the universal-prior program press (see Goodman's \"new riddle of induction,\" 1955, and discussions of language-dependence of simplicity such as Kelly, 2007, <a href=\"https://doi.org/10.1086/525502\">Philosophy of Science</a>)."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "content": "The essay assumes the simplest hypothesis is the one we should believe is most likely <em>true</em>, treating algorithmic simplicity as a guide to truth rather than merely to predictive performance. But the formal results behind MDL and Solomonoff induction justify simplicity for <em>prediction and generalization</em>—shorter codes tend to predict unseen data better because they overfit less—not for metaphysical likelihood. A simplicity prior is a convention that yields good out-of-sample behavior; nothing guarantees the universe itself is biased toward short programs. Conflating \"compresses the data best\" with \"is most probably how reality works\" is an inference the mathematics does not license (on simplicity as a means to predictive accuracy rather than truth, see Forster & Sober, 1994, <a href=\"https://doi.org/10.1093/bjps/45.1.1\">British Journal for the Philosophy of Science</a>)."
+  }
+]

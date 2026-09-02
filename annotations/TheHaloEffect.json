@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "we automatically assign to good-looking individuals such favorable traits as talent, kindness, honesty, and intelligence",
+    "content": "The \"what is beautiful is good\" stereotype is real, but the meta-analysis Cialdini cites for it (<a href=\"https://doi.org/10.1037/0033-2909.110.1.109\">Eagly et al. 1991</a>) sharply qualifies the claim: the halo is strong for perceived social competence, weaker for intellectual ability, and essentially zero for integrity and concern for others. In other words, the very review invoked here found that people do <em>not</em> reliably attribute \"honesty\" and \"kindness\" to the attractive, contradicting the sentence it is quoted to support. The halo is genuine but selective, not the blanket good-person glow the passage implies."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "a study of the 1974 Canadian federal elections found that attractive candidates received more than two and a half times as many votes as unattractive candidates",
+    "content": "These election figures rest on an unpublished 1976 doctoral thesis (Efran & Patterson), with the methodological limits that implies, and \"2.5 times as many votes\" is a raw correlation laden with confounds, incumbency, party, and campaign spending all correlate with both attractiveness ratings and vote share. The companion \"73% denied any influence\" point is also weaker than it sounds: verbal denial of a cause is not strong evidence the cause operated, but it is not strong evidence it didn't, either. <a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Nisbett & Wilson (1977)</a> showed introspective reports are simply unreliable about causes, in both directions."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "attractive individuals get paid an average of 12–14 percent more than their unattractive coworkers",
+    "content": "The \"beauty premium\" (Hamermesh & Biddle 1994, <em>American Economic Review</em>, no DOI) is a robust correlation, but later work shows much of it is not a pure attractiveness halo. Beauty correlates with confidence, communication skill, and health, and experiments controlling for these shrink the premium: <a href=\"https://doi.org/10.1257/000282806776157515\">Mobius & Rosenblat (2006)</a> decompose it into a genuine confidence channel plus employer stereotypes, not a single halo, and part of the gap is assortative (attractive people sort into jobs where looks are productive). The number is real; reading it as straightforward evidence of irrational bias is only part of the story."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "attractive defendants were twice as likely to avoid jail as unattractive defendants.",
+    "content": "The courtroom-attractiveness studies are old, small, and mixed. Stewart (1980) observed just 74 defendants; mock-jury studies like Kulka & Kessler use undergraduates judging staged vignettes, with well-known ecological-validity problems. The meta-analytic picture is far more muted: <a href=\"https://doi.org/10.1111/j.1559-1816.1994.tb01552.x\">Mazzella & Feingold (1994)</a> found attractiveness effects on mock-jury verdicts and sentences are generally small and crime-specific, and they <em>reverse</em> for offenses like fraud and swindling, where good looks become an aggravating factor. \"Twice as likely to avoid jail\" is a vivid single-study figure, not the meta-analytic consensus."
+  }
+]
