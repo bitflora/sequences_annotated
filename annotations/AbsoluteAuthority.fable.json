@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In the world of the unenlightened ones, there is authority and un-authority.",
+    "content": "The psychology the essay imagines here has been studied, and the study contradicts the essay's prescription. The developmental literature on epistemological understanding does find an absolutist stage in which knowledge is certain and comes from authorities, but it finds that the stage people typically move to next is \"multiplist\" relativism, in which, having learned that experts disagree and change their minds, they conclude that all claims are opinions and none is better than another (<a href=\"https://doi.org/10.1016/S0885-2014(00)00030-7\">Kuhn, Cheney &amp; Weinstock 2000</a>). That is the Fallacy of Gray from the previous essay, and the message \"science is probabilistic, just like all other knowledge\" is precisely the message that moves people from absolutism into it. The evaluativist stage, in which claims are compared by evidence, is reached by a minority of adults and is not produced by telling absolutists that scientists are uncertain. The essay's speculation that the school regimen causes absolutism has some support in the epistemic-beliefs literature, but its proposed cure is, on the evidence, the cause of the next problem."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "They will accept the first half of the statement as a confession of guilt; and dismiss the second half as a flailing attempt to accuse everyone else to avoid judgment.",
+    "content": "This is an empirical prediction, that admitting uncertainty costs trust, and it was tested. Across five experiments communicating numeric uncertainty about facts and figures produced only a small reduction in perceived reliability and little change in trust in the source (<a href=\"https://doi.org/10.1073/pnas.1913678117\">van der Bles et al. 2020</a>). A review of the wider science-communication literature found that the effect depends on the kind of uncertainty: acknowledging technical uncertainty in a measurement generally does not reduce credibility, while emphasizing disagreement among experts does (<a href=\"https://doi.org/10.1177/0963662520942122\">Gustafson &amp; Rice 2020</a>). So the abyssal cultural gap is narrower than pictured, and the specific thing that opens it is not \"we could be wrong\" but \"scientists disagree,\" which is what the essay's imagined interlocutor actually cited. The essay's closing proposal that scientists say \"not infinitely certain\" was thus not needed; the plain statement was already mostly harmless."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If you take one hundred people and ask them each to make a statement of which they are “absolutely certain,” how many of these statements will be correct? Not one hundred.",
+    "content": "The finding is real but the experiment described is not the one that produced it. Subjects who gave odds of 1,000,000 to 1 on general-knowledge items were wrong far more often than the odds implied (<a href=\"https://doi.org/10.1037/0096-1523.3.4.552\">Fischhoff, Slovic &amp; Lichtenstein 1977</a>). In those studies the experimenter chose the items, and they were chosen to be hard. When items are sampled representatively from a domain, overconfidence largely disappears, and part of what remains is a regression artifact from selecting on stated confidence (<a href=\"https://doi.org/10.1037/0033-295X.98.4.506\">Gigerenzer, Hoffrage &amp; Kleinbölting 1991</a>; <a href=\"https://doi.org/10.1037/0033-295X.107.2.384\">Juslin, Winman &amp; Olsson 2000</a>). In the essay's experiment the subjects choose their own statements, and people asked for something they are absolutely certain of pick items like their own name and the sun's existence. The hard-easy effect predicts that such self-selected items are answered correctly at rates close to, and for very easy items above, the stated confidence. The essay's rhetorical experiment would probably come out near one hundred."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If anything, the statements that people are really fanatic about are far less likely to be correct than statements like “the Sun is larger than the Moon” that seem too obvious to get excited about.",
+    "content": "No study is cited because none tested it. The calibration literature covers general-knowledge quizzes, forecasts and perceptual judgments, not the accuracy of beliefs held with fanatical commitment, and the essay's argument for the claim, that fanatic professions arise only where there is opposition, establishes at most that fanatically held beliefs are contested, not that they are usually false. Contested beliefs include the ones the essay endorses, evolution and the moon landings among them, which are held with considerable heat by their defenders. The mechanism asserted, that emotional commitment is not monotonically related to accuracy, is plausible; the stronger claim printed, \"far less likely to be correct,\" is the sort of confident empirical generalization about the psychology of one's opponents that the essay is, in the same breath, warning against."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "it means you think you could make one million equally strong independent statements, one after the other, over the course of a solid year or so, and be wrong, on average, around once",
+    "content": "This is a frequentist gloss on a credence, and it contradicts the Bayesian view of probability that the sequence otherwise insists on. On the subjectivist account the sequence takes from Jaynes and de Finetti, a probability of 0.999999 is a betting ratio or a scoring-rule commitment about this one proposition; it does not assert anything about a hypothetical sequence of a million other statements, and it needs no reference class. The essay's operationalization also cannot be satisfied in principle, since no protocol produces a million independent, equally fraught statements, which means the standard rules out every extreme credence not because the evidence is lacking but because the test is impossible. That is a self-sealing argument, and it is why the same move in the next essay, \"your ego far exceeds that of mental patients,\" mistakes a coherence requirement for a personality trait. Probability is in the mind, the sequence says; here it is suddenly in the long run."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It’s questionable whether the statement “2 + 2 = 4” or “In Peano arithmetic, SS0 + SS0 = SSSS0” can be said to be true in any purely abstract sense, apart from physical systems that seem to behave in ways similar to the Peano axioms.",
+    "content": "This is a minority position in the philosophy of mathematics stated as if it were the cautious default. Platonism, structuralism and logicism all hold that arithmetic truths do not depend on the behavior of physical systems, and the debate among them is organized around Benacerraf's dilemma, that a semantics on which mathematical statements are straightforwardly true is hard to square with an account of how we could know them (<a href=\"https://doi.org/10.2307/2025075\">Benacerraf 1973</a>). The essay then \"charges right ahead\" to the claim that 2 + 2 = 4 is always and precisely true. It is entitled to that view, but the sentence quoted is not a modest hedge; it is a substantive empiricist commitment about the truth-makers of arithmetic, and the essay's later reasoning about what it would take to be wrong about arithmetic (memory failure, hallucination) is about knowledge, not truth. The two are run together under the banner of \"the map is not the territory.\""
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I am not going to discuss the actual experiments that have been done on calibration",
+    "content": "The experiments matter, because what they show cuts against the use the essay makes of them. Overconfidence in the calibration paradigm is a hard-easy effect: subjects are overconfident on difficult general-knowledge items, well calibrated on representative samples of items, and underconfident on easy ones (<a href=\"https://doi.org/10.1037/0033-295X.98.4.506\">Gigerenzer, Hoffrage &amp; Kleinbölting 1991</a>; <a href=\"https://doi.org/10.1037/0033-295X.107.2.384\">Juslin, Winman &amp; Olsson 2000</a>). Asked for frequency estimates rather than single-item confidence, subjects are close to accurate. \"2 + 2 = 4\" is the easiest item in any possible test, and the data predict that confidence in it is if anything too low. The essay withholds the literature to prevent readers from using it as a fully general counterargument, and then uses it as one: the finding that people are overconfident on hard trivia is deployed against certainty about the simplest proposition there is."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I don’t think you could get up to 99.99% confidence for assertions like “53 is a prime number.”",
+    "content": "Under the probability axioms the essay invokes elsewhere, this is not permitted. Cox's theorem and Kolmogorov's axioms both require that logical truths receive probability 1; \"53 is prime\" is a theorem of arithmetic, and a credence of 0.9999 in it violates the coherence the framework is built on. What the essay is describing is logical uncertainty, the situation of an agent who cannot see all the consequences of its axioms, and standard probability theory cannot represent it. This is not a pedantic objection: the author's own research institute spent years on it and produced \"logical induction\" (Garrabrant et al. 2016, arXiv:1609.03543, no DOI) precisely because assigning non-extreme credences to theorems requires abandoning or reworking the axioms. The essay's advice is therefore incoherent within the theory it recommends, a fact its author's later work acknowledges. The de Blanc anecdote shows that people make arithmetic mistakes, which no one disputed."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Now you’re going to talk for a hundred human lifetimes, and not be wrong even once?",
+    "content": "The illustration miscounts. At one assertion every 20 seconds for 16 hours a day, a million assertions take about 347 days, as the essay says. A trillion is a million times that: roughly 950,000 years, or about twelve thousand human lifetimes, not a hundred. The essay is off by two orders of magnitude in a passage whose entire purpose is to convey how large the numbers are, and in the direction of understating its own point. The slip is harmless to the argument, but an essay warning readers that they cannot be trusted with 99.99% confidence in \"53 is prime\" might have checked its multiplication."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Assert a confidence of (1 − 1⁄googolplex) and your ego far exceeds that of mental patients who think they’re God.",
+    "content": "A credence is not an ego claim, and the comparison shows the frequentist reading has taken over. Under the subjectivist account the sequence adopts from Jaynes, a credence of 1 minus 1 over googolplex in a tautology is simply what coherence requires, minus an epsilon for one's own fallibility; it is not a boast about being right a googolplex times in a row, because it is not about a series of trials at all. De Finetti's operationalization by betting ratios, and the scoring-rule operationalization the sequence uses elsewhere for calibration, both make extreme credences meaningful without any reference class of \"equally fraught statements.\" What the essay has established is that no human protocol could verify such a credence by frequency. On the sequence's own view of probability, verification by frequency was never what a credence meant. The Smigrodzki quotation that closes the essay is a norm of regularity, discussed in the next essay's annotations; it is contested, not obvious."
+  }
+]

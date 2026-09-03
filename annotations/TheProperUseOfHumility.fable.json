@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Does acting this way make you stronger, or weaker?",
+    "content": "The essay's operational test for humility is empty by the essay's own standard. Two paragraphs earlier it warns that a prescriptive principle you only vaguely comprehend has \"so many degrees of freedom that it can adapt to justify almost any deed.\" \"Stronger\" is never defined independently of the conclusions the essay already favors: adding cables makes the bridge stronger, double-checking the test makes the student stronger, and doubting evolution makes the creationist weaker, in each case because the author has already decided which action is right. Every worked example is one where the cost of the precaution is small and the cost of error is large, which is a plain expected-value calculation and needs no virtue term at all. A criterion that reproduces the author's verdicts and would reproduce the opposite verdicts for an author with opposite priors is the vague principle the essay says to beware."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Scientific humility is something you would practice even if you were alone in a spacesuit, light years from Earth with no one watching",
+    "content": "The literature on reasoning says the solitary astronaut is exactly the condition under which self-correction fails. People cannot detect their own biases by introspection even when they readily detect the same biases in others (<a href=\"https://doi.org/10.1177/0146167202286008\">Pronin, Lin &amp; Ross 2002</a>), and Mercier and Sperber's argumentative theory, supported by the finding that individuals reason poorly alone and well when evaluating others' arguments, holds that the function of reasoning is social to begin with (<a href=\"https://doi.org/10.1017/S0140525X10000968\">Mercier &amp; Sperber 2011</a>). The institutions that actually make science self-correcting, peer review, replication, adversarial collaboration, and Merton's \"organized skepticism,\" are all social. The essay's picture of humility as a private discipline exercised with no one watching mistakes the one setting where the bias blind spot is untreatable for the paradigm case of the virtue."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "because physicists have this arrogant idea that their models should work all the time, not just most of the time, they follow up on small flaws",
+    "content": "The history of physics does not support this. The anomalous precession of Mercury's perihelion was quantified by Le Verrier in 1859 and left standing for 56 years while astronomers posited the planet Vulcan, intra-Mercurial dust and a modified gravitational exponent rather than abandon Newton; it was explained by general relativity in 1915, not by anyone following up the flaw. The solar neutrino deficit, measured from 1968, was attributed to errors in the solar model for three decades until neutrino oscillation was confirmed in 2001. Lakatos's account of research programmes (1970, book chapter, no DOI) was written precisely to describe how scientists rationally tolerate anomalies for long periods. Small flaws are followed up when a theory exists that could accommodate them, which is the opposite of the arrogance-first story told here."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The problem is motivated skepticism a.k.a. disconfirmation bias",
+    "content": "The diagnosis is made from exactly the evidence that the later literature says cannot support it. The motivated-skepticism paradigm (<a href=\"https://doi.org/10.1037/0022-3514.63.4.568\">Ditto &amp; Lopez 1992</a>; <a href=\"https://doi.org/10.1111/j.1540-5907.2006.00214.x\">Taber &amp; Lodge 2006</a>) infers motivation from the fact that people scrutinize unwelcome evidence more heavily. But a Bayesian with strong priors also scrutinizes surprising evidence more heavily, so asymmetric scrutiny alone is consistent with unmotivated updating; the confound is laid out by <a href=\"https://doi.org/10.1016/j.cobeha.2020.01.003\">Tappin, Pennycook &amp; Rand (2020)</a> and, for the climate case, by <a href=\"https://doi.org/10.1038/s41558-018-0360-1\">Druckman &amp; McGrath (2019)</a>, who conclude that most of the field's evidence for motivated reasoning is compatible with accuracy motivation plus divergent priors. The essay's own framework, in which a rational agent weighs evidence by its likelihood ratio against what they already believe, is the alternative explanation for the behavior it calls motivated. Reading a motive off a pattern of scrutiny is the mind-reading move the sequence elsewhere warns against."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "And the greater the inconvenience of changing one’s mind, the more effort people will expend on the proof.",
+    "content": "Galbraith's line is an aphorism, not a finding, and the empirical picture is less bleak than the essay makes it. Across more than 10,000 subjects and 52 issues, corrections to false political beliefs were generally accepted, including on the issues most inconvenient to the subject's party, and the \"backfire\" pattern in which counter-evidence strengthens the original belief could not be reproduced (<a href=\"https://doi.org/10.1007/s11109-018-9443-y\">Wood &amp; Porter 2019</a>). Belief updating on political facts is directionally correct and merely cautious in survey experiments. People change their minds less than an ideal Bayesian would, but the claim that \"almost everyone gets busy on the proof\" describes a case the essay finds vivid, not the modal response to disconfirmation."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "To be humble is to take specific actions in anticipation of your own errors.",
+    "content": "This is the essay's strongest move and it converges with the psychometric construct developed a decade later. The intellectual humility scale of <a href=\"https://doi.org/10.1177/0146167217697695\">Leary et al. (2017)</a> operationalizes the trait as recognizing that one's beliefs may be wrong, and finds that high scorers attend more to the quality of evidence and distinguish strong from weak arguments better, independently of general openness. Two caveats the essay's definition needs. The measured trait is a disposition toward one's beliefs, not a program of actions, and the scale is self-report, so it inherits the bias-blind-spot problem noted above; whether people who describe themselves as humble actually double-check more is not what the scale shows. And the checkable version of \"specific actions\" that has evidence behind it, Klein's pre-mortem and structured red-teaming, is again a social procedure rather than the private vigilance the essay pictures."
+  }
+]

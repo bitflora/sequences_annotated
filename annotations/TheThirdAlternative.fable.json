@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "offering children bribes for good behavior encourages the children to behave well only when adults are watching, while praise without bribes leads to unconditional good behavior",
+    "content": "The essay's one concrete Third Alternative is a half-remembered finding, flagged \"if I recall correctly,\" and the recollection is wrong in both directions. The undermining literature it gestures at concerns intrinsic motivation for interesting tasks, not good behavior: tangible rewards reduce later free-choice engagement (<a href=\"https://doi.org/10.1037/0033-2909.125.6.627\">Deci, Koestner &amp; Ryan 1999</a>), though a rival meta-analysis found the effect small and confined to narrow conditions (<a href=\"https://doi.org/10.3102/00346543064003363\">Cameron &amp; Pierce 1994</a>). Praise is not the innocent alternative: it is itself a contingent reward, delivered only when adults are watching, and person-praise (\"you're so smart\") produces worse persistence and more cheating after failure than no praise at all (<a href=\"https://doi.org/10.1037/0022-3514.75.1.33\">Mueller &amp; Dweck 1998</a>). Nothing in this literature shows praise yielding \"unconditional\" good behavior. The essay condemns Noble Liars for not checking their alternatives, in an argument whose own alternative it did not check."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If Santa-belief is destroyed by truth, the children will lose their sense of wonder and stop behaving nicely.",
+    "content": "The dilemma is granted \"for the sake of argument,\" but it was never a live one, and saying so would have made the essay's point better than the Third Alternative does. When children discover the truth about Santa they overwhelmingly report neutral or positive reactions and pride at having worked it out, while it is the parents who report sadness (<a href=\"https://doi.org/10.1007/BF02253289\">Anderson &amp; Prentice 1994</a>). Children also do not treat Santa as an ordinary factual belief; they wall it off from their physical reasoning in ways that track their growing understanding of possibility. So the premise that the lie sustains anything is unsupported, and the correct reply to the Santa argument is not a substitute policy but that the harm it fears has been looked for and not found. The essay's method, accept the premises and search for alternatives, skips the step that dissolves the problem."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Modern cognitive psychology views decision-making as a search for alternatives.",
+    "content": "One branch does; the branch that studied real decisions found the opposite. Simon's satisficing (<a href=\"https://doi.org/10.2307/1884852\">Simon 1955</a>) is a search model, but naturalistic decision-making research found that expert fireground commanders typically generated a single option and evaluated it serially rather than comparing alternatives (<a href=\"https://doi.org/10.1177/154193128603000616\">Klein, Calderwood &amp; Clinton-Cirocco 1986</a>). In a direct test, handball players' first-generated option was usually their best, and generating further options made their final choice worse (<a href=\"https://doi.org/10.1016/S0749-5978(03)00027-X\">Johnson &amp; Raab 2003</a>). The \"five minutes by the clock\" brainstorming prescription has never been evaluated, and the nearest evidence, that idea quantity does not track idea quality and that structured brainstorming underperforms its reputation, does not favor it. An essay about failing to search for alternatives presents one model of decision-making as the field's view without searching for the alternative."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "But suppose we find a policy that has some defensible benefit, and also just happens to be personally convenient? Then we stop the search at once!",
+    "content": "This is the one claim in the essay with direct experimental support, and the essay gives it none. Ditto and Lopez showed that people demand less information before accepting a preferred conclusion than an unwelcome one, the \"quantity of processing\" asymmetry described here (<a href=\"https://doi.org/10.1037/0022-3514.63.4.568\">Ditto &amp; Lopez 1992</a>), and the effect has held up in conceptual replications. Two qualifications matter for the moral the essay draws. Differential stopping is also what a Bayesian with different priors does, so the asymmetry does not by itself prove the stopping was motivated (see the annotations to the previous essay). And the remedy the essay proposes, introspecting for \"a tiny flash of reluctance,\" runs into the finding that people cannot report the causes of their own choices (<a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Nisbett &amp; Wilson 1977</a>); the flash test returns whatever the subject already believes about their own motives."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "It’s amazing how many Noble Liars and their ilk are eager to embrace ethical violations",
+    "content": "The essay's evidence about how much deliberation precedes a prosocial lie is an assertion about strangers' inner lives, and the experimental work on such lies cuts against the framing. Lies told to spare or benefit another person are judged more moral than truths that harm, and recipients trust prosocial liars more, not less, once the motive is known (<a href=\"https://doi.org/10.1016/j.jesp.2014.03.005\">Levine &amp; Schweitzer 2014</a>; <a href=\"https://doi.org/10.1016/j.obhdp.2014.10.007\">Levine &amp; Schweitzer 2015</a>). In those studies the lie is often the third alternative, between a blunt truth that hurts and a silence that misleads. The essay assumes that whenever a lie is convenient for the liar, convenience is why it was chosen; that is a hypothesis about motive that its author has not tested and, by the essay's own advice, should suspect of being convenient."
+  }
+]

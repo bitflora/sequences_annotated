@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the people who play are the ones who can least afford to lose",
+    "content": "This part is well supported and worth stating precisely. Lottery spending as a share of income falls steeply with income, so the implicit tax is regressive, and when a state introduces a lottery, households reduce other spending to pay for it rather than funding it from savings, with the cut concentrated among low-income households and falling on food and rent categories (<a href=\"https://doi.org/10.1016/j.jpubeco.2004.07.004\">Kearney 2005</a>). Two refinements: absolute spending per player is similar across income groups, so the regressivity is a share-of-income fact, and lottery sales are heavily concentrated, with a small fraction of heavy players accounting for most of the take. The population-level harm is a heavy-tail story, which matters for whether \"the lottery\" or \"heavy play\" is the thing to criticize."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "paying a dollar for a day’s worth of pleasant anticipation, imagining yourself as a millionaire",
+    "content": "The essay treats this as a rationalization by blog commenters. It is the leading model of lottery demand in the economics literature. The \"buying a dream\" model, in which the consumption value of a ticket rises with the jackpot rather than with expected return, fits UK lotto sales better than the expected-value model does (<a href=\"https://doi.org/10.1093/ei/40.3.485\">Forrest, Simmons &amp; Chesters 2002</a>), and utility-of-gambling models had been formalized earlier (<a href=\"https://doi.org/10.1007/BF01065831\">Conlisk 1993</a>). The \"dream\" model also predicts what the essay's stupidity model cannot: why sales jump on rollovers even though the odds do not change. Whether a dollar's daydream is worth a dollar is a welfare judgment about someone else's consumption; the essay makes it by fiat and calls the result arithmetic."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If not for the lottery, maybe they would fantasize about going to technical school, or opening their own business, or getting a promotion at work",
+    "content": "The counterfactual assumes that fantasy about achievable goals is productive and only the lottery fantasy is wasted. Oettingen's program found the reverse: positive fantasies about attainable futures, a job, a romance, an exam, a recovery, predict less effort and worse outcomes over the following months, apparently because imagining the success saps the energy needed to pursue it (<a href=\"https://doi.org/10.1037/0022-3514.83.5.1198\">Oettingen &amp; Mayer 2002</a>; <a href=\"https://doi.org/10.1016/j.jesp.2011.02.003\">Kappes &amp; Oettingen 2011</a>). What helps is contrasting the fantasy with obstacles, not fantasizing more. The lottery is not draining a productive dream-budget, because on this evidence the technical-school daydream the essay wants to protect behaves the same way. The mechanism the essay proposes for the harm is one the literature does not support."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "it can’t devalue the emotional force of a pleasant anticipation by a factor of 0.00000001 without dropping the line of reasoning entirely",
+    "content": "The essay reinvents, without citation, the probability weighting function of prospect theory (<a href=\"https://doi.org/10.2307/1914185\">Kahneman &amp; Tversky 1979</a>; <a href=\"https://doi.org/10.1007/BF00122574\">Tversky &amp; Kahneman 1992</a>), and gets its shape wrong. People do not \"drop the line of reasoning\" at small probabilities; they overweight them, systematically and measurably, with the overweighting stronger for affect-rich outcomes (<a href=\"https://doi.org/10.1111/1467-9280.00334\">Rottenstreich &amp; Hsee 2001</a>). And they discriminate among small probabilities: ticket sales track jackpot size and, more weakly, the odds, which is not what a brain that cannot feel small numbers would do. The lottery is the textbook illustration of the weighting function precisely because behavior there is lawful, not because reasoning has been abandoned."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "This seems sufficient to explain the popularity of lotteries.",
+    "content": "It is not sufficient, and tested alternatives exist. Making people feel relatively poor, by having them place their income on a scale that puts them near the bottom, increases lottery ticket purchases; so does reminding them that the lottery is a domain where rich and poor have equal chances (<a href=\"https://doi.org/10.1002/bdm.588\">Haisley, Mostafa &amp; Loewenstein 2008</a>). Those manipulations change purchases without changing anyone's ability to feel small probabilities, so at least part of the demand is about perceived status and perceived fairness of opportunity, not numeracy. The essay's five-step program says step three, deciding the bias is bad, should be easy. It is easy only if you first assume that lottery demand is a numerical error, which is the question at issue."
+  }
+]

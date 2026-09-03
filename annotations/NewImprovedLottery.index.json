@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/NewImprovedLottery.fable.json",
+    "default": true
+  }
+]

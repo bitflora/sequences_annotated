@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The odds of that are something like two to the power of seven hundred and fifty million to one.",
+    "content": "The number is against a null hypothesis nobody holds, and the essay's own Bayesian framework says that makes it uninformative. Two to the seven-hundred-fifty-millionth is the probability that two independently random strings of three billion bases would match; but \"similar by coincidence\" in the mouth of a creationist means \"similar because built to similar plans,\" a common-design hypothesis under which coding-sequence similarity is expected and its probability is nowhere near that small. What the sequence elsewhere insists on, a likelihood ratio between the live hypotheses, is not computed. The evidence that actually discriminates common descent from common design is the pattern the essay does not mention: shared pseudogenes such as the broken vitamin-C gene, shared endogenous retroviral insertions at the same genomic positions, and the nested hierarchy of neutral substitutions. Those are strong because common design does not predict them, which is what a likelihood argument requires."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the shared genes estimate was revised to 95%, not 98%",
+    "content": "The numbers are ill-defined without a denominator, and the essay's self-correction is itself uncertain. Single-nucleotide divergence in alignable sequence is about 1.2%; counting insertions and deletions raises the divergence to roughly 4%, the origin of the 95% figure (<a href=\"https://doi.org/10.1073/pnas.172510699\">Britten 2002</a>; <a href=\"https://doi.org/10.1038/nature04072\">Chimpanzee Sequencing and Analysis Consortium 2005</a>). Neither the 98% nor the 95% is about \"the 30,000 known genes\" as the essay guesses; both are genome-wide. The exponent in the essay's odds is therefore arbitrary in a second way, since the base count and the match count both depend on what one chooses to align. This matters for the moral drawn: a calculation the author cannot source, applied to a statistic he cannot define, was presented in conversation as settling the matter to hundreds of millions of orders of magnitude. The interlocutor's skepticism of that number was warranted, whatever his reasons."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "they have undoubtedly been wrong more often than once in",
+    "content": "This is the essay's best sentence and deserves more weight than the essay gives it. It is the model-uncertainty argument: a stated probability inherits the probability that the model producing it is wrong, so no calculation can deliver a credence more extreme than one's confidence in the calculation. Applied consistently it undercuts the paragraph's framing. If the author's own stated odds were miscalibrated by hundreds of millions of orders of magnitude, the \"laws of thought as seen by the unenlightened ones\" that the interlocutor is mocked for are, in this exchange, less wrong than the enlightened one's. The interlocutor said there was still a chance; the essay concedes there was."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "This is why people buy lottery tickets—no one can feel the smallness of a probability that small.",
+    "content": "A single-cause explanation offered as fact. The measured probability weighting function shows that people distinguish small probabilities from one another, compressing but not flattening them (<a href=\"https://doi.org/10.1007/BF00122574\">Tversky &amp; Kahneman 1992</a>), and lottery sales respond to jackpot size and to the odds in ways a \"cannot feel it\" model would not predict (<a href=\"https://doi.org/10.1093/ei/40.3.485\">Forrest, Simmons &amp; Chesters 2002</a>). Experimental manipulations of perceived relative income and of perceived fairness change purchases without changing anyone's numeracy (<a href=\"https://doi.org/10.1002/bdm.588\">Haisley, Mostafa &amp; Loewenstein 2008</a>). The insensitivity to small probabilities is real, but it is one input among several, and the essay's habit in this sequence of naming a single cognitive failure as \"why\" people do something is a just-so explanation dressed as a finding."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "if you can’t ignore a likelihood of one over googol because you want to, you can’t ignore a likelihood of 0.9 because you want to",
+    "content": "The word \"likelihood\" is doing two jobs. In the earlier paragraphs it means the probability of a hypothesis; here it is being contrasted with \"proof\" as a degree of support. In the Bayesian usage the sequence teaches, a likelihood is the probability of the evidence given a hypothesis, and a likelihood of 0.9 says nothing on its own: it must be compared with the likelihood under the alternative. A finding with likelihood 0.9 under H1 and 0.9 under H2 can be ignored, and a Bayesian is required to ignore it. The slippery-cliff argument works only under the loose reading, where \"likelihood\" means posterior probability. The essay is attacking the habit of treating all uncertain arguments as ignorable by relying on a usage in which an argument's strength is a single number attached to it, which is the error the sequence spends a book trying to unteach."
+  }
+]

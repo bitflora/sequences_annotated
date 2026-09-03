@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In the second case, I would think it more likely that they had messed with my arithmetic recall than that 2 + 2 actually equalled 4.",
+    "content": "Read the sentence again: it says that in the essay's own scenario, the evidence would convince the author that his memory had been tampered with, not that 2 + 2 = 3. That is the point the interlocutor was making. Quine's holism describes exactly this: mathematical beliefs sit at the center of the web, and any recalcitrant observation is accommodated by revising something at the periphery, perception, memory or the honesty of the experimenters, before the arithmetic moves (<a href=\"https://doi.org/10.2307/2181906\">Quine 1951</a>). The earplug scenario is Mill's empiricism about arithmetic, and Frege's reply to Mill in 1884 is the standard one: two drops of water added to two drops make one drop, and no one concludes that 2 + 2 = 1, because arithmetic is not a generalization about the behavior of objects (Frege, <em>Grundlagen</em> §7, book, no DOI). The essay does not show that the belief is conditional on evidence. It shows that when the evidence arrives, the belief is the last thing to go, which is what \"unconditional\" was meant to convey."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There’s really only two possibilities, for a belief of fact—either the belief got there via a mind-reality entangling process, or not.",
+    "content": "Stated this way the dichotomy is unfalsifiable, because \"entangling process\" expands to cover whatever turns out to be reliable. Infants discriminate 1+1=2 from 1+1=1 at five months (<a href=\"https://doi.org/10.1038/358749a0\">Wynn 1992</a>), a result that has held up in some replications and failed in others but that no one attributes to the infant's observations of earplugs; if it is innate, then the belief got there by natural selection on ancestors, which is \"entanglement\" only in a sense that also covers a belief acquired by testimony, tradition or upbringing. The essay needs the narrow sense for its argument against unconditional belief and the broad sense to make its dichotomy true. The \"ten bits\" threshold is decorative: nothing in the argument depends on a program length, and the space of possible beliefs is not what determines whether a process is truth-tracking."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Presumably it would be the same sort of situation causally responsible for producing your current belief in Christianity: We would push you screaming out of the uterus of a Muslim woman",
+    "content": "This is the genetic fallacy, and it is symmetric. The causal history of a belief does not settle its justification, a point the essay's own \"entanglement\" apparatus is designed to respect, since upbringing can be an entangling process for arithmetic and a non-entangling one for theology only if one already knows which is true. Applied evenly, the challenge asks the author what would convince him that 2 + 2 = 3, and his answer in this very essay is \"the same sort of situation that currently convinces me that 2 + 2 = 4,\" a situation whose third listed component is social agreement, the thing being mocked as Muslim parents. The empirical premise is also shakier than \"presumably\" suggests: religious affiliation is largely shared-environment, but adult religiousness has substantial heritability and is not simply installed by parents (<a href=\"https://doi.org/10.1111/j.1467-6494.2005.00316.x\">Koenig et al. 2005</a>), and roughly a third of American adults hold a religious identity different from the one they were raised in. Conversion is common enough that the \"what would convince you\" question has an answer many people have lived."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The evidential crossfire of physical observation, mental visualization, and social agreement.",
+    "content": "Two of the three witnesses cannot testify independently. Visualization of xx and xx making xxxx is not evidence about arithmetic; it is arithmetic being done, and it comes out the way it does because the visualizer has already learned to count. Social agreement is exactly what the essay declines to accept from the Christian. That leaves physical observation, and Frege's water drops show that observation underdetermines arithmetic unless one has an independent grip on what counts as \"adding\" and \"the same objects.\" The stability of 2 + 2 = 4 is not that three sources keep agreeing; it is that the statement is true under any interpretation of its terms that preserves their meaning, which is why the essay had to reach for hallucination and simulation to describe disconfirming it. The essay's belief is as unconditional as the interlocutor's; the essay has only found a way to say \"unconditional\" that sounds like it isn't."
+  }
+]

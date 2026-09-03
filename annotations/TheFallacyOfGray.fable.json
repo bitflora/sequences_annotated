@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I don’t know if the Sophisticate’s mistake has an official name, but I call it the Fallacy of Gray.",
+    "content": "It has several. The inference from \"there is no sharp line\" to \"there is no difference\" is the continuum fallacy, also called the fallacy of the beard or the line-drawing fallacy, catalogued in critical-thinking texts for decades before this essay, and the specific \"all grays are the same shade\" version is what the informal-logic literature calls false equivalence. The essay's authority for the fallacy is a dialogue from a science-fiction novel, and its argument for its importance is the author's recollection of a formative reading experience. Nothing here is wrong. But an essay in a sequence on overly convenient excuses might have noticed that \"I don't know if it has a name\" is a convenient excuse for not looking, and that looking would have found a literature with worked examples of when the fallacy is and is not committed."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "many bloggers have said of Overcoming Bias: “It is impossible, no one can completely eliminate bias.”",
+    "content": "The critics' actual argument is stronger than the one attributed to them. The point was not that bias cannot be reduced but that a self-identified bias-reducer has no reliable way to tell whether they have reduced it, because the bias blind spot is uncorrelated with intelligence and cognitive ability and is largest in people who consider themselves least biased (<a href=\"https://doi.org/10.1177/0146167202286008\">Pronin, Lin &amp; Ross 2002</a>; <a href=\"https://doi.org/10.1287/mnsc.2014.2096\">Scopelliti et al. 2015</a>). The debiasing literature itself is mixed: one-shot training has produced durable reductions in a few biases (<a href=\"https://doi.org/10.1177/2372732215600886\">Morewedge et al. 2015</a>), while a review of the wider field found many interventions ineffective and some backfiring (<a href=\"https://doi.org/10.1111/j.1745-6924.2009.01144.x\">Lilienfeld, Ammirati &amp; Landfield 2009</a>). \"That which I cannot eliminate may be well worth reducing\" is true and does not answer the objection, which was about measurement, not possibility. The essay two places later in this book, Knowing About Biases Can Hurt People, concedes the point."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "then in many cases I don’t think it’s unreasonable to call the output “straightforward”—even in economics",
+    "content": "The evidence favors Cowen. When economists were surveyed on both their parameter estimates and their policy positions, their positions were predicted by their values and were largely unrelated to their estimates of the relevant elasticities, which is the opposite of \"straightforwardly applying economic theory\" (Fuchs, Krueger &amp; Poterba 1998, <em>Journal of Economic Literature</em>, no DOI). Later work found that economists rate the identical statement as more or less credible depending on which economist it is attributed to, with the effect tracking the rater's own ideology (Javdani &amp; Chang 2023, <em>Cambridge Journal of Economics</em>). The counter-evidence, that the IGM panel of elite economists shows more consensus than the public expects and little partisan split (<a href=\"https://doi.org/10.1257/aer.103.3.629\">Gordon &amp; Dahl 2013</a>), shows agreement on questions with settled answers, not filter-free application on contested ones. Hanson's 75% weight on theory is a stated intention; the data are about what economists actually do, and they side with the filter."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "It’s a most peculiar psychology—this business of “Science is based on faith too, so there!”",
+    "content": "For most people who believe in science, the claim is partly right, and the essay's reply concedes it. Trust in science functions psychologically like religious faith for the non-religious: it increases under mortality salience and existential stress, and it is held by people who could not reproduce or evaluate the findings they trust (<a href=\"https://doi.org/10.1016/j.jesp.2013.03.008\">Farias et al. 2013</a>). Lay belief in evolution or in the age of the universe is deference to authority, which the previous essay called the Authoritative Way. The essay's rejoinder that science \"heals the sick and reveals the secrets of the stars\" is an argument from predictive success, and the pessimistic meta-induction was framed to show that predictive success did not deliver truth for caloric, phlogiston or the luminiferous ether (<a href=\"https://doi.org/10.1086/288975\">Laudan 1981</a>). The paragraph that follows, diagnosing a \"devil's bargain\" in anyone who raises the point, is the mind-reading of opponents the sequence otherwise condemns."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Or even if not, we can still compare shades, and say “it is darker” or “it is lighter.”",
+    "content": "Only if grayness is one-dimensional, which for the essay's own applications it is not. Interventions that reduce overconfidence tend to produce underconfidence; \"consider the opposite\" reduces anchoring but can increase indecision; and reducing one bias frequently increases another, so \"lighter\" has no meaning for a person's overall bias without a metric that weights the biases against each other, which the debiasing literature does not supply. In the moral case the same problem is called incommensurability: Gandhi and Stalin are comparable because the example was chosen to be easy, and the interesting cases, where one alternative is better on some dimensions and worse on others, are exactly the ones where \"darker or lighter\" has no determinate answer. The essay is right that the one-color view is a mistake. It replaces it with a one-axis view, and does not argue for the axis."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "between zero chance of becoming wealthy, and epsilon chance, there is an order-of-epsilon difference. If you doubt this, let epsilon equal one over googolplex.",
+    "content": "The reply answers a claim the commenter did not make. Real lottery odds are of order one in ten million to one in three hundred million; substituting one over googolplex changes the subject by some three hundred million orders of magnitude and then declares victory over the substitute. More importantly, the commenter was describing decision weights, and the essay answers about probabilities. The prospect-theory weighting function is discontinuous at zero: the move from impossible to possible carries a disproportionate weight, the \"possibility effect,\" which is the best-replicated finding in the descriptive theory of choice under risk (<a href=\"https://doi.org/10.2307/1914185\">Kahneman &amp; Tversky 1979</a>; <a href=\"https://doi.org/10.1007/BF00122574\">Tversky &amp; Kahneman 1992</a>). If the thing being bought is the experience of being in the running, the relevant quantity is the weight, and the difference between zero and epsilon is exactly not of order epsilon. The essay's arithmetic is correct and beside the point."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You buy in once, for a single dollar, and get not just a few days of epsilon chance of becoming rich, but a few years of epsilon.",
+    "content": "The reductio describes an existing product that the behavioral-finance literature regards as a public good. British Premium Bonds, sold since 1956, are exactly this: you buy in once, keep your principal, and stay entered in every monthly prize draw indefinitely, and they are among the most widely held savings instruments in the country (<a href=\"https://doi.org/10.1257/aer.98.2.321\">Tufano 2008</a>). Prize-linked savings accounts modeled on them, such as Michigan's \"Save to Win,\" raised savings among low-income households who had not previously saved, and the mechanism was precisely that the lottery-like draw made the account attractive. The essay wrote a satire whose punchline is a design that reformers use to convert lottery demand into savings. The satire also shows what \"buying hope\" would predict, and the prediction was confirmed: people do want the perpetual epsilon, and it turns out to be good for them."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Yep, offering people tempting daydreams that will not actually happen sure is a valuable service, all right.",
+    "content": "The essay's own model of the consumer, a brain that overweights small probabilities, does not imply that the consumer would prefer the New Improved Lottery, so the satire does not follow from the psychology it invokes. Anticipation is a bounded, time-structured good: people will pay to delay a pleasant outcome so that they can savor it, and the value of savoring depends on there being a definite moment of resolution (<a href=\"https://doi.org/10.2307/2232929\">Loewenstein 1987</a>). A draw on a stated night supplies exactly that structure; a Poisson process with no scheduled resolution removes it. So the weekly draw is not evidence that the state is withholding the \"obvious\" product to overcharge people. It is the product the anticipation model predicts, and the essay's redesign strips out the feature that generates the value it is pretending to sell."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The alternative is that consumers are making mistakes, and we all know that can’t happen.",
+    "content": "The sarcasm targets a position no one in the debate held. The economics of lotteries has never assumed consumers are error-free; it distinguishes the consumption value of play from the mistaken beliefs some players hold about odds, and it measures both. Regressivity and the crowding-out of household spending are real and documented (<a href=\"https://doi.org/10.1016/j.jpubeco.2004.07.004\">Kearney 2005</a>), and the state's take, roughly half of sales, is the actual overcharge. The essay's argument for \"they want to overcharge people\" is that governments fail to offer a product that (as noted above) they and others do offer. What remains, once the satire is set aside, is the essay's willingness to treat a purchase it would not make as a mistake, which is the paternalism it was supposed to be arguing for rather than assuming."
+  }
+]

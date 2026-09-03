@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "So I propose that it makes sense to say that 1 and 0 are not in the probabilities",
+    "content": "The proposal is the norm of regularity, advanced by Carnap, Kemeny and Shimony in the 1950s (<a href=\"https://doi.org/10.2307/2266902\">Shimony 1955</a>), and its difficulties are well known. In any infinite outcome space a countably additive real-valued probability must assign 0 to some possible events: each particular infinite sequence of coin tosses is possible and has probability 0, and moving to hyperreal-valued credences does not repair this (<a href=\"https://doi.org/10.1093/analys/67.3.173\">Williamson 2007</a>; <a href=\"https://doi.org/10.1215/00318108-2366479\">Easwaran 2014</a>). So \"0 is not a probability\" cannot be a general norm; regularity is possible only in finite spaces. At the other end, the die example conflates a modelling tautology with an empirical claim: P(some outcome in the sample space) = 1 says nothing about meteors, because the meteor was not in the space. Enlarging the space to include it changes the model; it does not make the tautology false."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "A famous proof called Cox’s Theorem (plus various extensions and refinements thereof) shows that all ways of representing uncertainties that obey some reasonable-sounding constraints, end up isomorphic to each other.",
+    "content": "Cox's theorem is the wrong authority for this essay, twice over. First, the theorem as Cox and Jaynes stated it does not go through without additional assumptions; a finite counterexample satisfying Cox's postulates but not isomorphic to probability was constructed by <a href=\"https://doi.org/10.1613/jair.536\">Halpern (1999)</a>, and the repaired versions require the plausibility scale to be dense or continuous, which are not \"reasonable-sounding constraints\" so much as technical stipulations. Second, and fatally for the essay's purpose, the conclusion of Cox's theorem is that any such representation is isomorphic to probability with certainty represented by 1 and impossibility by 0; the derivation uses P(A|A) = 1 as a fixed point. The theorem the essay cites to legitimize odds as a representation is a theorem that puts 0 and 1 in."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "just as negative and positive infinity, which do not obey the field axioms, are not in the real numbers",
+    "content": "The analogy inverts the logic. Zero and one are the two elements every field must contain, the additive and multiplicative identities; they satisfy the field axioms by definition. The infinities are excluded from the reals because they break those axioms. The log-odds argument then runs in a circle: the map from probability to log odds is a bijection only on the open interval (0, 1), so the \"isomorphism\" the essay cites was constructed by first deleting the endpoints and then observing that the image has no endpoints. That the log-odds representation cannot express certainty is a fact about log odds, not about certainty, in the same way that the inability to write 0 as a ratio 1:n is a fact about odds notation. The essay presents a limitation of a coordinate system as a discovery about the thing it represents."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The main reason this would upset probability theorists is that we would need to rederive theorems previously obtained by assuming that we can marginalize over a joint probability by adding up all the pieces and having them sum to 1.",
+    "content": "Understated to the point of concealment. Without normalization there is no law of total probability, no definition of conditional probability as a ratio, and no Bayes' theorem, whose denominator is a marginal that sums to 1 over a partition. The proposal removes the theorem the sequence is named for. The essay's proposed \"magical symbol\" for unconsidered possibilities is the ordinary complement of the considered ones, and the problem it points at, that the catch-all hypothesis has no likelihood, is the familiar catch-all problem of Bayesian confirmation theory, which is not solved by refusing to let the complement have probability. The one concrete technical problem named, updating on an observation that had probability 0, was solved in the 1950s by Popper's conditional-probability functions, which take conditional probability as primitive and are well-defined on probability-0 conditions, without removing 0 or 1 from the scale."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Just as there are mathematicians who refuse to believe in the law of the excluded middle or infinite sets, I would like to be a probability theorist who doesn’t believe in absolute certainty.",
+    "content": "The intuitionists and finitists earned the comparison by building systems: Heyting arithmetic, Bishop's constructive analysis, primitive recursive arithmetic, each with its own theorems and its own price. The essay offers an aspiration and no system, and the systems that do exist for representing uncertainty without the standard commitments, imprecise probabilities, Dempster–Shafer belief functions, Popper functions, ranking theory, all retain 0 and 1 as the values for impossibility and certainty. There is one respect in which the essay is right: an ideal agent should not assign 1 to any contingent empirical proposition, because such an assignment can never be revised by conditionalization. But that is a norm about contingent propositions, not about the numbers, and it does not extend to tautologies, to the sample space, or to the theorems of arithmetic that the previous essay wanted to hold at 99.99%. The essay is arguing for regularity while describing it as a reform of the number line."
+  }
+]
