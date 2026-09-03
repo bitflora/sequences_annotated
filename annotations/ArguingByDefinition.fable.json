@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Over the last thirteen years I’ve been keeping track of how often this phrase is used correctly versus incorrectly—though not with literal statistics, I fear.",
+    "content": "This is an availability estimate of exactly the kind Book I's essays warn against: a frequency judgment from memory, in which the instances that irritated the author are the ones that were stored. No count, no denominator, no sampling of ordinary usage. The claim that 'by definition' outside mathematics is 'among the most alarming signals of flawed argument' is therefore an impression, and the phrase has routine legitimate uses that the impression does not sample: statutory definitions ('a minor is, by definition, under eighteen'), units, stipulated technical terms, and clarifications of what a speaker meant. The author uses it that way too. Book IV's Zombie Responses opens an argument with 'The zombie world, by definition, contains all parts of our world that...', a stipulation outside mathematics, correctly flagged as one. The advice to delete the phrase would delete the flag."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Atheism does not resemble the central members of the “religion” cluster, so if it wasn’t for the fact that atheism is a religion by definition, you might go around thinking that atheism wasn’t a religion.",
+    "content": "Whether atheism resembles the religion cluster depends on which features are weighted, which is the essay's own lesson two essays earlier (disguised queries) and the founding problem of the similarity view (Murphy &amp; Medin 1985). Weight doctrinal content and supernatural belief, and atheism is far from the center. Weight organized community, shared identity, rituals of membership, canonical texts, founders, schisms and the demand for moral seriousness, and organized atheism and secular humanism have all of them; a court found the resemblance sufficient for constitutional protection (<em>Kaufman v. McCaughtry</em>, 7th Cir. 2005). 'Does not resemble' is asserted as a fact about thingspace; it is a choice of metric, made without saying so."
+  }
+]

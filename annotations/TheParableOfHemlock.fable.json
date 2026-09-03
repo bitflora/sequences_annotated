@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The Greek philosophers—like most prescientific philosophers—were rather fond of certainty.",
+    "content": "The philosopher the essay is arguing with is not Greek. Aristotle did not put mortality into the definition of man; his definition ran through genus and differentia ('two-footed animal', 'rational animal'), and he held that a universal premise like 'all men are mortal' is known by induction from perceived particulars (<em>Posterior Analytics</em> II.19, no DOI). The formula the essay attacks, <em>animal rationale mortale</em>, is Latin: Augustine's <em>De Ordine</em> II.11 and the medieval tree of Porphyry, where 'mortal' distinguishes men from gods. As for fondness for certainty, the Greek philosophical tradition contains the Academic skeptics, the Pyrrhonists, and Aristotle's own warning not to demand more precision than the subject allows (<em>Nicomachean Ethics</em> I.3). The essay's target exists; it has been placed in the wrong century and the wrong language."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But then we can never know for certain that Socrates is a “human” until after Socrates has been observed to be mortal.",
+    "content": "This argument is not new, and it was made by a Greek. Sextus Empiricus, <em>Outlines of Pyrrhonism</em> II.195–197 (2nd century CE, no DOI), argued that the syllogism 'every man is an animal, Socrates is a man, therefore Socrates is an animal' is circular, because the universal premise cannot be known without already knowing the conclusion about Socrates. John Stuart Mill made the same argument the centerpiece of <em>A System of Logic</em> II.iii (1843, no DOI), with the same Socrates example, and added the diagnosis the essay reaches two essays later: the real inference is from observed particulars to a new particular, and the general proposition is a record of past inferences, not their source. The sequence presents as a discovery about 'the Aristotelians' a position that has been standard in logic textbooks for a hundred and eighty years."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Is the number 29,384,209 prime?",
+    "content": "It is not: 29,384,209 = 1,667 × 17,627. The essay does not claim either way, so this is not an error, but a reader who wants to test the essay's point, that the answer was fixed by the axioms before anyone computed it, now has it. The deeper point the example gestures at, that a reasoner can be uncertain about logical facts, is the problem of logical omniscience. It is a real and unsolved problem for the Bayesian framework the rest of the book treats as settled: standard probability theory assigns probability 1 to every theorem, so a Bayesian agent cannot coherently be uncertain whether this number is prime. The essay's remedy, 'impossible possible worlds', is Hintikka's (<a href=\"https://doi.org/10.1007/BF00262950\">Hintikka 1975</a>), and the formal treatment that reconciles it with probability, logical induction, was not produced until <a href=\"https://doi.org/10.48550/arXiv.1609.03543\">Garrabrant et al. (2016)</a>, at the author's own institute. The Litany Against Logic is in tension with the book's claim elsewhere that probability theory is the unique extension of logic."
+  }
+]

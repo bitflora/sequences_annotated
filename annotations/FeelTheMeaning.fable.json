@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Indeed, on most occasions, the brain will not distinguish at all between the word and the meaning—only bothering to separate the two while learning a new language, perhaps.",
+    "content": "Psycholinguistics distinguishes them at every occasion, and the everyday evidence is the tip-of-the-tongue state: the speaker has the concept, knows the referent, can say what it is not, and cannot retrieve the word. Standard models of production have separate levels for concept, lemma and word form (<a href=\"https://doi.org/10.1017/S0140525X99001776\">Levelt, Roelofs &amp; Meyer 1999</a>), and bilinguals map one concept to two labels continuously, not only 'while learning'. The essay's picture, a wire from the syllable unit to the concept unit so tight that the two feel identical, is contradicted by the experience of knowing exactly what you mean and lacking the word for it, which is common enough to have a name."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It feels like a word has a meaning, as a property of the word itself; just like how redness is a property of a red apple, or mysteriousness is a property of a mysterious phenomenon.",
+    "content": "On the leading view in philosophy of language, the feeling is closer to correct than the essay's correction. Meaning is not a property of the sound, but neither is it a private association in one brain: it is fixed by the practices of a linguistic community and by the world, which is why 'what does \"sound\" mean' is a question with a public answer and a division of linguistic labor to consult about it (Putnam 1975, <a href=\"https://doi.org/10.1017/CBO9780511625251.014\">'The Meaning of \"Meaning\"'</a>; Burge, 'Individualism and the Mental', 1979, no DOI). Albert and Barry's argument about what 'sound' means is misguided if it is a proxy for a physics dispute; it is not a Mind Projection Fallacy, because the meaning of a word in English is a fact about English, not about Albert's temporal cortex."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Similarly, when someone shouts “Yikes! A tiger!,” natural selection would not favor an organism that thought",
+    "content": "An evolutionary just-so story, deployed here as the explanation of a cognitive architecture the essay has not established exists. No comparative or developmental evidence is offered for the 'design constraint', and the argument would equally explain the opposite architecture (a system that distinguishes labels from concepts would handle homonyms, deception and language learning better, all of which mattered in ancestral environments). Book III's L and M annotations found this pattern throughout the evolutionary essays; it recurs here in a sequence about words."
+  }
+]

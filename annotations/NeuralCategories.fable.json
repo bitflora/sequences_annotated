@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Recurrent networks don’t always settle right away: They can oscillate, or exhibit chaotic behavior, or just take a very long time to settle down.",
+    "content": "Not the one described. A network with Hebbian, hence symmetric, weights and asynchronous updates is a Hopfield network, and Hopfield proved in <a href=\"https://doi.org/10.1073/pnas.79.8.2554\">1982</a> that it always descends an energy function to a fixed point; it cannot oscillate or go chaotic. Convergence typically takes a few sweeps. Oscillation requires asymmetric weights or synchronous updating, neither of which the essay's Network 1 has. The 'wait five minutes for your tiger attractor' is not a property of the architecture the essay drew."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But it still seems like a fair guess that however the brain really works, it is in some sense closer to Network 2 than Network 1.",
+    "content": "The guess runs against the anatomy and the modeling consensus. Cortex is massively recurrent, with most synapses onto a pyramidal cell coming from other cortical neurons rather than from feedforward inputs, and attractor dynamics in recurrent populations are the standard model of working memory, pattern completion in hippocampal CA3, and head-direction and grid representations (<a href=\"https://doi.org/10.1038/s41583-022-00642-0\">Khona &amp; Fiete 2022</a> for a review). The O(N²) 'problem' is what the brain pays for: about 10<sup>4</sup> synapses per neuron. The essay's hub-and-spoke Network 2 is a reasonable diagram of naive Bayes; as a claim about brains it is the less biologically plausible of the two pictures it draws."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "This is hard to represent, in either architecture, without extra nodes.",
+    "content": "The 'extra nodes' are hidden units, and the observation that a single-layer network cannot represent a feature interaction of this kind is Minsky and Papert's 1969 XOR result (<em>Perceptrons</em>, no DOI). The solution, hidden layers trained by backpropagation, was published two decades before the essay (<a href=\"https://doi.org/10.1038/323533a0\">Rumelhart, Hinton &amp; Williams 1986</a>), and it is the architecture that, scaled up, produced the results the Book III essays on artificial intelligence did not expect. Read with hindsight, the parenthesis identifies exactly the capability that made 'scruffy' networks work, and files it as a limitation of both toy models."
+  }
+]

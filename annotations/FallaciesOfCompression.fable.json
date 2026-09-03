@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A sufficiently young child, or a sufficiently ancient Greek philosopher, would not know that there were such things as “acoustic vibrations” or “auditory experiences.” There would just be a single thing that happened when a tree fell; a single event called “sound.”",
+    "content": "The ancient Greek philosopher knew. Aristotle's <em>De Anima</em> II.8 (419b–420b, no DOI) distinguishes sound as a motion of air produced by the impact of solid bodies from hearing as the reception of that motion in the ear, and discusses whether a sounding body and the medium can exist without a hearer. The Stoics defined sound as struck air; Vitruvius (<em>De Architectura</em> V.3) compared sound to ripples on water. The distinction the essay presents as 'a big, difficult scientific challenge' that the ancients could not have made was a commonplace of ancient natural philosophy, in the very author the sequence has been using as its foil for classical categories."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Every now and then one sees a press release claiming that a research study has “explained consciousness” because a team of neurologists investigated a 40Hz electrical rhythm",
+    "content": "The 40 Hz proposal is Crick and Koch's (<em>Seminars in the Neurosciences</em> 2, 1990, no DOI), and its authors were explicit that they were proposing a neural <em>correlate</em>, not an explanation, and that the hard problem was being set aside. The distinction the essay goes on to draw, between access, self-awareness, wakefulness and phenomenal experience, is Block's access/phenomenal distinction (<a href=\"https://doi.org/10.1017/S0140525X00038188\">Block 1995</a>) with Rosenthal's higher-order theories for reflectivity. The essay's press-release strawman is not the field; the field made the essay's distinction first and in more detail."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "But what this feels like from inside is not so much zooming in on a map, as fissioning an indivisible atom—taking one thing (it felt like one thing) and splitting it into two or more things.",
+    "content": "The process has a name and a literature: conceptual differentiation. Wiser and Carey traced how the seventeenth-century Experimenters ran heat and temperature together in a single concept and how the split was achieved (Wiser &amp; Carey, in <em>Mental Models</em>, 1983, no DOI), and Carey's <em>The Origin of Concepts</em> (2009, no DOI) treats differentiation and coalescence as the basic operations of conceptual change in both children and the history of science. This annotation is a positive one: the essay's picture is correct, and the reader who wants to see it studied rather than illustrated with a detective story has somewhere to go."
+  }
+]

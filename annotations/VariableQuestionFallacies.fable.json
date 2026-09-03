@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Many of the words we use are really functions of implicit variables supplied by context.",
+    "content": "This is Kaplan's theory of indexicals: the <em>character</em> of 'left', 'I', 'here' or 'now' is a function from contexts to contents, and the content is what gets a truth value ('Demonstratives', 1989, in <em>Themes from Kaplan</em>, no DOI). The C++ scope-resolution analogy the essay says is 'not widely known' is the standard analysis in philosophy of language since the 1970s. The provenance matters for the paragraphs that follow, because the philosophers who worked this out are the ones the essay is about to call sophomoric."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "This often confuses undergraduates (and postmodernist professors) who discover a sentence with more than one interpretation; they think they have discovered an unstable portion of reality.",
+    "content": "The relativism that is 'left as an exercise' has serious versions that the exercise does not touch. MacFarlane's assessment-sensitivity develops a formally rigorous truth-relativism for predicates of taste, epistemic modals and future contingents, with a semantics in which the very content, not just the context of utterance, is evaluated relative to a context of assessment (<a href=\"https://doi.org/10.1093/acprof:oso/9780199682751.001.0001\">MacFarlane 2014</a>). Whether any sentence is assessment-sensitive is disputed; that the position is 'sophomoric nitwittery' is not a view held by anyone who has read it. The essay's Hunga Huntergatherer example is the strawman version, and the diagnosis of an outgroup stands in for engagement with it, as in Book II."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It’s actually one heck of a pain, requiring one heck of a lot of work, to handle this kind of problem in an Artificial Intelligence program intended to parse language—the phenomenon going by the name of “speaker deixis.”",
+    "content": "It was, until it was not. Deixis and anaphora resolution, including the contextual variable-binding the essay describes, are handled routinely by large language models without any explicit machinery for it; the Winograd Schema Challenge, designed as a test of exactly this kind of context-dependent reference, was effectively solved by 2020 and its designers wrote its obituary (<a href=\"https://doi.org/10.1016/j.artint.2023.103971\">Kocijan et al. 2023</a>). The 'heck of a lot of work' was the hand-engineering the essay assumed was required; it was replaced by a method that does not resemble the essay's picture of how such problems are solved."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The correct formula is (I believe):",
+    "content": "It is correct. By the chain rule, H(X,Y,Z) = H(Z) + H(X|Z) + H(Y|X,Z), and substituting H(X|Z) = H(X) − I(X;Z) and H(Y|X,Z) = H(Y) − I(Y;Z) − I(X;Y|Z) gives the essay's formula. The naive formula fails by the interaction information I(X;Y;Z) = I(X;Y) − I(X;Y|Z), which here is 1 bit; adding it back gives 4 bits, as required. The derivation of the conditional-independence condition is also right. Nothing in the mathematics of this essay needs correcting."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Perhaps, given that a thing is “human,” then the probabilities of it speaking, wearing clothes, and having the standard number of fingers, are all independent.",
+    "content": "As a model of human categorization this was tested and rejected. People do not treat features as conditionally independent given the category; they use knowledge of causal relations among the features, so that a missing cause makes its effects less expected and a missing effect casts doubt on its causes even within a known category (<a href=\"https://doi.org/10.1016/j.cogpsych.2004.11.001\">Rehder &amp; Burnett 2005</a>; Rehder's causal-model theory generally). The essay's own Nude Nellie and Irving the IRCBot cases are the counterexamples: the essay notices that the dependencies do not vanish given the class, and then proposes that the mind pretends they do. The evidence is that it does not pretend; the central-node model of Network 2 is the wrong model of the thing it was drawn to model."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "As a matter of fact, if you use the right kind of neural network units, this “neural network” ends up exactly, mathematically equivalent to Naive Bayes.",
+    "content": "Half of it does. Naive Bayes with binary features yields a posterior that is a logistic function of a weighted sum, so the classification direction of Network 2 is a linear classifier with log-likelihood-ratio weights. But 'exactly equivalent' holds only if the weights are set generatively, from class-conditional frequencies. Train the same unit discriminatively, as a neural network is trained, and you get logistic regression, whose weights differ from naive Bayes's and which generally beats it once data are plentiful (Ng &amp; Jordan, 'On Discriminative vs. Generative Classifiers', NeurIPS 2001, no DOI). The 'logistic response sneaks in Bayesian reasoning' remark has it backwards: the logistic form arises for any exponential-family class-conditional, and what makes the network work is precisely that it does not commit to naive Bayes's independence assumption."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "And then you just know that the Bayesians are going to start explaining exactly how the algorithm works, what underlying assumptions it reflects, which environmental regularities it exploits, where it works and where it fails, and even attaching understandable meanings to the learned network weights.",
+    "content": "This prediction was made in 2008 and has not come true. The 'scruffy' networks did work, at a scale the essay did not anticipate, and the Bayesians did not explain them: why over-parameterized networks generalize remains an open problem (<a href=\"https://doi.org/10.48550/arXiv.1611.03530\">Zhang et al. 2017</a>), Bayesian deep learning remained a minority research program, and 'attaching understandable meanings to the learned network weights' became mechanistic interpretability, a laborious empirical craft of circuit-tracing and feature-finding (<a href=\"https://doi.org/10.23915/distill.00024.001\">Olah et al. 2020</a>) that its practitioners do not describe as deriving the network from Bayes. The essay's Artificial Addition was annotated in sequence M for the same reversal. 'Disappointing, isn't it?' turned out to describe the Bayesians' side of the ledger."
+  }
+]

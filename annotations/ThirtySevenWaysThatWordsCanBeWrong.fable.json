@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Personally, I think it quite justified to use the word “wrong” when:",
+    "content": "Thirty-seven items, and the evidential base for the list is one fictional dialogue about a tree, one syllogism nobody proposed with mortality in the definiens, a blood-type fad whose history the essay got wrong, and three genuine citations (Rosch, Tversky, Rips) from a 1978 volume. Not one of the thirty-seven 'ways' has been tested as a cause of bad reasoning, and no evidence is offered that the remedies (taboo, replace the symbol, dereference the pointer) improve anyone's judgment. The list is a philosophy of language, and a mostly sound one; it is Locke on the abuse of words, Mill on the syllogism, Wittgenstein on family resemblance, Quine on definition, Putnam on meaning, Kaplan on indexicals, Chalmers on verbal disputes, and Rosch and Lakoff on categories, restated with a barrel of eggs. The reader who wants the sources will not find them here."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Which sounds more plausible, “God did a miracle” or “A supernatural universe-creating entity temporarily suspended the laws of physics”?",
+    "content": "The point is correct and deserves its own note, because it reverses an argument the book makes elsewhere. Minimum description length is measured in an optimal code, not in English, so the brevity of 'God did it' says nothing about its complexity. But Book I's Occam essays argue that 'God' is a complex hypothesis because a mind takes many bits to specify, and that argument depends on the same unspecified choice of code: Kolmogorov complexity is invariant only up to an additive constant that depends on the reference machine, and the constant can be as large as any hypothesis under consideration (Book I annotations, after Sterkenburg 2016). The essay is right that short English is not simplicity. The book's own use of description length against theism needs the same warning."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "But one of the primary lessons of this gigantic list is that saying “There’s no way my choice of X can be ‘wrong’ ” is nearly always an error in practice, whatever the theory.",
+    "content": "Agreed, and it applies to the list. The essay's practical claim is that definitions can be wrong because they can fail to carve at the joints; the sequence's criterion for the joints (simple boundaries around high density in Thingspace) was shown in its own essays to depend on an unspecified metric and an unspecified description language. So the sequence establishes that definitions can be wrong without establishing a usable test for when they are, and the thirty-seven ways are, in the end, thirty-seven ways of saying 'check whether the inference you want to make actually goes through'. That is good advice. It was good advice before the sequence, and the sequence's contribution is a vocabulary for giving it, not a method for following it."
+  }
+]

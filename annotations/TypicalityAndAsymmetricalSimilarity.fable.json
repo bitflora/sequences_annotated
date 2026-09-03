@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "statements of set membership can be more or less true. (Note: This is not the same thing as being more or less probable.)",
+    "content": "Typicality and graded membership are different things, and the essay's evidence shows only the first. People rate a robin as a more typical bird than a penguin while agreeing that both are birds, full stop; and they give graded typicality ratings for categories with sharp boundaries, such as odd numbers (<a href=\"https://doi.org/10.1016/0010-0277(83)90012-4\">Armstrong, Gleitman &amp; Gleitman 1983</a>). <a href=\"https://doi.org/10.1080/15326900701326402\">Hampton (2007)</a> shows the two measures dissociate empirically. The fuzzy-set reading, on which membership is a degree, fails for conjunctions: a guppy is a poor fish and a poor pet but a good pet fish (<a href=\"https://doi.org/10.1016/0010-0277(81)90013-5\">Osherson &amp; Smith 1981</a>). So the conclusion that we 'don't even reason as if set membership is a true-or-false property' does not follow from reaction times and ratings, which are compatible with sharp membership plus a separate goodness-of-example judgment."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "A simpler interpretation is that people are using the (demonstrated) similarity heuristic as a proxy for the probability that a disease spreads, and this heuristic is (demonstrably) asymmetrical.",
+    "content": "This is the 1975 reading, and the field moved past it. The 'rationalization' the essay waves off, that spread depends on how many species the source resembles, is the 'coverage' term of the standard model of category-based induction (<a href=\"https://doi.org/10.1037/0033-295X.97.2.185\">Osherson et al. 1990</a>). More importantly, inductive strength depends on the property: anatomical properties follow taxonomic similarity, behavioral ones follow ecology (<a href=\"https://doi.org/10.1037/0278-7393.20.2.411\">Heit &amp; Rubinstein 1994</a>), and for disease in particular, people with domain knowledge reason about transmission routes and contact, not resemblance: tree experts project diseases along ecological and causal lines rather than similarity (<a href=\"https://doi.org/10.1037/0278-7393.26.4.811\">Proffitt, Coley &amp; Medin 2000</a>; <a href=\"https://doi.org/10.3758/BF03196515\">Medin et al. 2003</a>). The asymmetry Rips found is real. 'Similarity as a proxy for probability' is what novices do with a property they know nothing about."
+  }
+]

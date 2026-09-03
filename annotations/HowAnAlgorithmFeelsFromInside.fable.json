@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "has an extra dangling unit in the center, whose activation can still vary, even after we’ve observed every single one of the surrounding nodes.",
+    "content": "The next essay in the sequence says Network 2 is mathematically naive Bayes. In naive Bayes the central variable is a latent class, and after every feature is observed its posterior is a definite number. Nothing 'dangles': either the features determine the class, in which case there is no residual question, or they do not, in which case 'is it really a blegg?' is a genuine question about an unobserved variable, with a posterior strictly between 0 and 1. In the parable that variable has an obvious reading: which process produced the object. That is the essentialist's question, and for living kinds, diseases and manufactured goods it is usually well-posed and worth asking (Gelman, <em>The Essential Child</em>, 2003, no DOI). The essay's model does not show the leftover question is empty; it shows it is a question about a hidden cause."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Before you can question your intuitions, you have to realize that what your mind’s eye is looking at is an intuition—some cognitive algorithm, as seen from the inside—rather than a direct perception of the Way Things Really Are.",
+    "content": "The psychological mechanism proposed here, a residual category node that produces the feeling of a leftover question, is a hypothesis, and nothing in the essay or the sequence tests it. No experiment distinguishes it from the alternatives: that disputants believe a hidden fact is at stake (often correctly), that the dispute is about which public convention to adopt (Pluto), or that it is about moral status (personhood). The more general claim, that realizing an intuition is an algorithm lets you question it, is the debiasing-by-awareness hope that Book I and Book II annotations found unsupported. The essay supplies an appealing picture of why people argue; it does not supply evidence that the picture is the cause."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "And yes, there were people who said this was a fight over definitions",
+    "content": "Pluto is the wrong example for a leftover-question-with-nothing-at-stake. The 2006 IAU vote was forced by the discovery of Eris, which is more massive than Pluto, and the question was whether catalogues, textbooks and mission priorities would list nine planets, twelve, or fifty. Either answer had consequences, and the choice was made by the method the sequence ridicules four essays later, a vote of a legislating body. The dispute was a disguised query about how to organize a science, not a dangling neuron."
+  }
+]

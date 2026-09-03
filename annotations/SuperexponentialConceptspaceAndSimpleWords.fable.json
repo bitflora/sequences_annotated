@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "From this perspective, learning doesn’t just rely on inductive bias, it is nearly all inductive bias—when you compare the number of concepts ruled out a priori, to those ruled out by mere evidence.",
+    "content": "Correct, and the arithmetic checks: 108 conjunctive concepts plus the empty one, 2<sup>24</sup> arbitrary ones, 325 after adding Water, sixty-four examples for forty binary attributes in the conjunctive space. The thesis is Mitchell's 'The Need for Biases in Learning Generalizations' (1980, technical report, no DOI) and its formal cousin is Wolpert's no-free-lunch theorem (<a href=\"https://doi.org/10.1162/neco.1996.8.7.1341\">Wolpert 1996</a>). This is a positive annotation: the essay's central claim is a theorem and the essay states it accurately."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "So, here in the real world, where objects take more than 5 bytes to describe and a trillion examples are not available and there is noise in the training data, we only even think about highly regular concepts.",
+    "content": "The mechanism the essay draws from the theorem, a small hypothesis space searched by version-space elimination, is the 1997 textbook picture and is not how the systems that later worked operate. Deep networks have hypothesis classes vastly larger than their training sets; the same network that fits ImageNet will memorize the same images with random labels, so the class is expressive enough to represent noise (<a href=\"https://doi.org/10.48550/arXiv.1611.03530\">Zhang et al. 2017</a>), and yet it generalizes. The inductive bias is real but implicit, in architecture and in the optimizer, not in a restricted concept language. The essay's conclusion, that bias is everything, survives; its picture of what a bias looks like, a syntactically restricted concept space that a logarithmic number of examples pins down, is the picture the field abandoned."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The way to carve reality at its joints, is to draw simple boundaries around concentrations of unusually high probability density in Thingspace.",
+    "content": "'Simple' in which language? Goodman's grue problem (<em>Fact, Fiction, and Forecast</em>, 1955, no DOI) is exactly the observation that 'green' is simple and 'grue' is gerrymandered in English, while in a language with 'grue' and 'bleen' as primitives it is 'green' that requires a disjunction with a time index. Simplicity of a boundary is relative to the description language, and the essay offers no way to choose the language other than the one we have. The formal version of this is the reference-machine dependence of Kolmogorov complexity that Book I's annotations raised against Solomonoff induction (Sterkenburg 2016); it is the same gap, at the crux of the same argument. The essay concedes, a paragraph later, that the criterion is 'chicken-and-eggish'. It is, and the egg is the language."
+  }
+]

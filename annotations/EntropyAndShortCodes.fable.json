@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The moral is that short words are a conserved resource.",
+    "content": "Correct, and the empirical version is older and more precise than the essay lets on. Zipf's law of abbreviation, that frequent words are short, is from 1935. The refinement is that word length tracks a word's average <em>information content in context</em> better than its raw frequency (<a href=\"https://doi.org/10.1073/pnas.1012551108\">Piantadosi, Tily &amp; Gibson 2011</a>), which is closer to the essay's coding argument than frequency alone. The prefix-code explanation and the Minimum Description Length connection (<a href=\"https://doi.org/10.1016/0005-1098(78)90005-5\">Rissanen 1978</a>; <a href=\"https://doi.org/10.1093/comjnl/11.2.185\">Wallace &amp; Boulton 1968</a>) are accurate. This essay is the sequence at its best: a real theorem, correctly explained, with a real consequence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And it is no coincidence that the word for “chair” contains fewer syllables than either “recliner” or “furniture.”",
+    "content": "The basic-level result is Rosch's (<a href=\"https://doi.org/10.1016/0010-0285(76)90013-X\">Rosch et al. 1976</a>) and the observation that basic-level names are short is Brown's (<a href=\"https://doi.org/10.1037/h0041727\">Brown 1958</a>). Two qualifications the essay omits. The basic level moves with expertise: for birdwatchers, 'sparrow' and 'warbler' behave as the basic level and 'bird' becomes superordinate (<a href=\"https://doi.org/10.1016/0010-0285(91)90016-H\">Tanaka &amp; Taylor 1991</a>), so basic-ness is a fact about a speaker's use rather than about the structure of thingspace. And across languages and cultures the privileged rank for living things is the folk genus rather than a fixed level of abstraction (Berlin 1992). The tendency is real; the essay's 'the structure of the world sets the basic level, and word length follows' has a person-sized variable in the middle."
+  }
+]

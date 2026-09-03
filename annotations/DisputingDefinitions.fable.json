@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Whenever you feel tempted to say the words “by definition” in an argument that is not literally about pure mathematics, remember that anything which is true “by definition” is true in all possible worlds, and so observing its truth can never constrain which world you live in.",
+    "content": "Two of the most cited results in twentieth-century philosophy say otherwise. Quine argued that there is no principled line between truths 'by definition' and truths of fact, so that the class the essay wants to quarantine has no boundary (<a href=\"https://doi.org/10.2307/2181906\">Quine 1951</a>). Kripke argued that stipulative definition yields contingent truths: the reference-fixing definition of 'one metre' as the length of the standard bar makes 'the bar is one metre long' knowable a priori yet false in other possible worlds (<em>Naming and Necessity</em>, 1980, no DOI). The essay treats 'true by definition therefore true in all possible worlds therefore empirically empty' as a chain of trivialities; each link is disputed by the people whose job it is to check them."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I have watched more than one conversation—even conversations supposedly about cognitive science—go the route of disputing over definitions.",
+    "content": "The Standard Dispute is Locke's. Book III of the <em>Essay Concerning Human Understanding</em> (1690, no DOI), chapters ix–xi, 'Of the Imperfection of Words', 'Of the Abuse of Words', and 'Of the Remedies', describes disputants who agree on the things and differ on the names, diagnoses the belief that words 'stand for the reality of things', and prescribes defining terms by their simple ideas, which is the essay's 'unambiguous lower-level constituents'. The essay's evidence is the author's memory of some conversations; Locke's remedy chapter is the same remedy with three hundred years of priority."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "This remedy doesn’t destroy every dispute over categorizations. But it destroys a substantial fraction.",
+    "content": "'A substantial fraction' is the unsupported quantity on which the sequence's practical value rests. The tree-in-the-forest case is chosen because it dissolves; the cases people actually fight about (is a fetus a person, is a corporation a person, is this a war, is that speech) do not dissolve when the parties restate their positions in lower-level terms, because the parties disagree about what follows morally or legally, and 'alberzle' does not settle what the law should protect. Chalmers's method of elimination, the formal version of the essay's remedy, comes with the explicit caveat that some disputes bottom out in 'bedrock' terms that cannot be eliminated without loss (<a href=\"https://doi.org/10.1215/00318108-1263693\">Chalmers 2011</a>). The sequence generalizes from its easiest example and never counts."
+  }
+]

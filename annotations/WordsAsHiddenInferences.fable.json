@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The evidence doesn’t even argue this all that strongly: 19 is not a large sample size.",
+    "content": "It argues it more strongly than the 'dutiful patina of humility' suggests. By Laplace's rule of succession, after eleven egg-shaped objects that were all blue, the probability that the next is blue is 12/13, about 92 percent, before any prior knowledge that manufactured objects come in consistent colors is added. The point matters because the essay's theme is that the brain's fast categorical guess is epistemically reckless compared with the careful inductive reasoner. On the numbers, the fast guess and the careful reasoner agree, and the fast guess is right to be confident."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But—this is the problem—Aristotle knew perfectly well that Socrates was a human.",
+    "content": "There is no problem, because Aristotle never laid down the rules the essay attributes to him. Aristotle's account of how we know that a particular thing falls under a universal is perceptual: the universal is grasped in the perception of the particular, and general truths like 'all men are mortal' are reached by <em>epagōgē</em>, induction (<em>Posterior Analytics</em> II.19; <em>Prior Analytics</em> II.23, no DOI). That is the essay's own account of what 'the Aristotelians' really did, offered as a correction to them. The picture of Aristotelians who could only classify Socrates as human after his death is a picture of nobody; the essay is arguing against the medieval formula 'mortal rational animal' and crediting it to a man who classified dolphins as non-fish on the basis of observed lungs and milk."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Ask them whether it was a guess or a certainty, and they would say it was a certainty (if you asked before the sixteenth century, at least).",
+    "content": "Nothing happened in the sixteenth century to this question. The circularity of the mortality syllogism was argued by Sextus Empiricus in the second century, the nominalists of the fourteenth century denied that universals were anything but names, and the argument reached its modern form in Mill in 1843. If the intended landmark is 'the scientific revolution taught people that general claims are fallible', the essay's own examples elsewhere (Bacon, 1620) do not fit the date either. The sentence reads as history but is a placeholder for 'a long time ago'."
+  }
+]

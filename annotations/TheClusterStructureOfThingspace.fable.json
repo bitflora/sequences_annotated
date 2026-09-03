@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "If you think that’s extravagant, quantum physicists use an infinite-dimensional configuration space, and a single point in that space describes the location of every particle in the universe.",
+    "content": "Two spaces are run together. The configuration space of N particles is 3N-dimensional and finite; a point in it does describe every particle's location. The infinite-dimensional space is Hilbert space, whose points are wavefunctions, which do not describe 'the location of every particle' but assign amplitudes to every configuration at once. The slip is small, but the essay's whole device is that geometrical intuition transfers cleanly to abstract spaces, and this is an early sign that it does not."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Suppose we mapped all the birds in the world into thingspace, using a distance metric that corresponds as well as possible to perceived similarity in humans",
+    "content": "The previous essay showed there is no such metric. Human similarity judgments violate symmetry (Mexico is more similar to the United States than the reverse), violate minimality (an object is not always maximally similar to itself in identification tasks), and violate the triangle inequality, which is why Tversky replaced the geometric model with a feature-contrast model (<a href=\"https://doi.org/10.1037/0033-295X.84.4.327\">Tversky 1977</a>). A distance in any space is symmetric by definition. The sequence's visual model of concepts as glowing regions in a metric space is therefore incompatible with the asymmetry it used, one essay earlier, as its proof that categories are not classical. Both cannot be kept; the essay keeps both."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "First came the structure-in-the-world, the empirical distribution of birds over thingspace; then, by observing it, we formed a category whose intensional glow roughly overlays this structure.",
+    "content": "Half right, and the right half deserves a citation the essay does not give. Folk-biological classification does converge across cultures at the level of the genus, which supports the claim that the world has structure that categories track (Berlin, <em>Ethnobiological Classification</em>, 1992, no DOI; <a href=\"https://doi.org/10.1017/S0140525X98001277\">Atran 1998</a>). But 'the empirical distribution of birds over thingspace' has no density until dimensions are chosen and weighted, and the choice is made by the categorizer's goals and theories: Goodman's problem again, and Murphy and Medin's answer to it. The direction of explanation the essay insists on, world first and then concept, is exactly what is disputed. The family-resemblance idea itself, that a natural class may have no common property, is Wittgenstein's (<em>Philosophical Investigations</em> §§66–67, 1953, no DOI), and goes uncredited in the whole sequence."
+  }
+]

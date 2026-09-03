@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "(This example is historically plausible; Mesmer came before Faraday.)",
+    "content": "The history shows how boundaries actually get redrawn, and it is not by reflecting on clusters. Animal magnetism was excluded from the electromagnetic cluster in 1784, when the French royal commission (Franklin, Lavoisier, Bailly, Guillotin) ran blinded trials in which subjects responded to being told they were magnetized rather than to magnetization, one of the first placebo-controlled experiments. Light, on the other hand, would have been correctly excluded from 'eluctromugnetism' by any reasonable 1780 observer, and was only brought in by Faraday's rotation of polarized light in 1845 and Maxwell's equations in 1865. So the essay's 'wrong word' was, before Maxwell, the right word given the evidence, and became wrong only in hindsight. Carving at the joints is a description of where inquiry ended up, not a method for getting there."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Figuring where to cut reality in order to carve along the joints—this is the problem worthy of a rationalist.",
+    "content": "The image is Plato's (<em>Phaedrus</em> 265e, no DOI), which is worth knowing in an essay that mocks 'the floating essence of a word'. The modern doctrine the essay is restating is the natural-kinds literature: Quine's 'Natural Kinds' (1969, no DOI) and, closest to the essay's own view, Boyd's homeostatic property cluster account, on which a kind is a cluster of properties held together by causal mechanisms with no necessary and sufficient conditions (<a href=\"https://doi.org/10.1007/BF00385837\">Boyd 1991</a>). The sequence reinvents it, seventeen years later, without the mechanism part, which is the part that answers Goodman's question of why these properties cluster."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "You might be able to see those emotions lighting up an fMRI scan—I say this by way of emphasizing that emotions are not ethereal.",
+    "content": "You would not. Reading a specific emotion off an fMRI scan is the reverse-inference fallacy (<a href=\"https://doi.org/10.1016/j.tics.2005.12.004\">Poldrack 2006</a>): activation in a region is consistent with many mental states, and no region is selective for an emotion category. A meta-analysis of the imaging literature found no consistent, specific neural signature for discrete emotions at all (<a href=\"https://doi.org/10.1017/S0140525X11000446\">Lindquist et al. 2012</a>), and the constructionist view that emotions are not natural kinds with brain loci is now a major position in affective science. Emotions are not ethereal; they are also not the compact, scannable list the definition of art needs them to be."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Once upon a time it was thought that the word “fish” included dolphins.",
+    "content": "By whom? Aristotle classified dolphins with the cetaceans as air-breathing, milk-producing animals distinct from fish (<em>Historia Animalium</em> 489a–b, 566b, no DOI); the 'fish' that included whales was folk and lexical usage, the kind of usage the essay elsewhere says is not authoritative. The better irony is that by the essay's own standard 'fish' is still the wrong word. There is no clade containing salmon, guppies, sharks and trout that excludes cows: 'fish' is paraphyletic, and cladists have argued for retiring it for the same reason the essay retires 'eluctromugnetism'. The example chosen to illustrate a boundary that was fixed is one that the essay's criterion says remains broken."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Modern Art: Not art.",
+    "content": "The essay's own theory, applied to art, was worked out in 1956. Weitz argued that 'art' is an open concept in Wittgenstein's family-resemblance sense, with no set of necessary and sufficient conditions and a boundary that each new movement contests (<a href=\"https://doi.org/10.2307/427491\">Weitz 1956</a>); Dickie's institutional theory replied that membership is conferred by the art world rather than by properties of the work (<em>Art and the Aesthetic</em>, 1974, no DOI). The essay endorses Weitz's premise, that categories have no essences, and then supplies an essence anyway, 'aesthetic emotion plus intent', which excludes found objects and readymades and includes advertising. The extension list, in which a Serrano and 'Modern Art' are out and a programming language is in, is not a data set; it is a taste."
+  }
+]

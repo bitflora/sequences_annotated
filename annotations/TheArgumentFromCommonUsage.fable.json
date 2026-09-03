@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The phrase “authoritative dictionary” is almost never used correctly, an example of proper usage being The Authoritative Dictionary of ieee Standards Terms.",
+    "content": "The IEEE is not the exception; legislated meaning is routine wherever meaning matters. The International Astronomical Union defined 'planet' by vote in 2006, the International Commission on Zoological Nomenclature governs species names, IUPAC defines chemical terms, the BIPM defines the units, and statutes define 'minor', 'resident' and 'income' with binding force. In every domain where being wrong about a word has consequences, the community has installed legislators. The essay's 'historians, not legislators' is true of the OED and false as an account of how the words that matter get their meanings, and the essay's next paragraph, on public goods, explains why: coordination on meaning is valuable, and valuable coordination gets institutionalized."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If everyone believes that the red light in the sky is Mars the God of War, the dictionary will define “Mars” as the God of War. If everyone believes that fire is the release of phlogiston, the dictionary will define “fire” as the release of phlogiston.",
+    "content": "Phlogiston, for the seventh time in this edition, and again as the emblem of an empty word; it was a theory that made predictions, was tested, and lost, which is what the essay elsewhere says a good hypothesis does. On the substantive point: dictionaries do not record what 'everyone believes'; they defer. A modern dictionary defines 'gold' by atomic number and 'water' by composition because, as Putnam observed, ordinary speakers defer to experts about the extension of natural-kind terms, and lexicographers write down the deference (Putnam 1975, <a href=\"https://doi.org/10.1017/CBO9780511625251.014\">'The Meaning of \"Meaning\"'</a>). A dictionary is not an opinion poll; it is a record of who the community treats as authoritative, which is the essay's own IEEE point applied to everything."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If you want to know whether blacks are people, the dictionary can’t answer you.",
+    "content": "Neither can thingspace, and the essay's framing suggests it can. The essay lists 'any empirical proposition, or any moral proposition' together and then offers one tool, clustering for inference. Whether a group of humans are 'people' in the sense at stake, bearers of moral and legal standing, is not a question about density in a feature space; treating it as one, measuring the cluster and reading off the answer, is the exact form that scientific racism took. The right answer to the essay's question does not come from a better similarity metric. It comes from moral argument, which the sequence's apparatus does not touch, and the essay's own inclusion of the example shows that it knows the stakes and not the gap."
+  }
+]

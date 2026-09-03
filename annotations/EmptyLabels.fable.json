@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Here the illusion of inference comes from the labels, which conceal the premises, and pretend to novelty in the conclusion.",
+    "content": "This is Mill's argument that the syllogism is a <em>petitio principii</em> (<em>A System of Logic</em> II.iii, 1843, no DOI), and the essay stops where Mill started. Mill's answer to his own objection was that the general proposition is a memorandum of past inferences and the syllogism's function is to <em>check</em> an inference against that record, which is a real function even if it adds no information. Whether deduction adds information is a live question with a formal answer: Hintikka showed that for first-order logic, deduction can increase 'surface information' even though 'depth information' is constant, which is why proofs are worth doing (<a href=\"https://doi.org/10.2307/2214318\">Hintikka 1970</a>). The essay's 'looks less impressive now' would apply to every mathematical proof ever written, all of which are, in the essay's sense, complex renamings."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Let’s say that “human” is to be defined as a mortal featherless biped.",
+    "content": "The syllogism is strawmanned by putting the conclusion in the definiens. In the syllogism as it is actually taught, 'man' is not defined as mortal; 'all men are mortal' is a separate, empirical major premise, and the syllogism's job is to combine it with a minor premise. Replace 'human' by a definition that does not contain 'mortal' ('rational animal', 'featherless biped with broad nails') and the substitution trick no longer produces a tautology; it produces 'all [rational animals] are mortal; Socrates is a [rational animal]; therefore Socrates is mortal', which is exactly as informative as it was before. The illusion the essay dispels was built into the example by the essay."
+  }
+]

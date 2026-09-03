@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The jester reasoned thusly:",
+    "content": "The jester's reasoning is valid. Under the premise that the inscriptions obey the same rule as the day before, that exactly one is true, or even the weaker premise that the king wrote them to be consistent with the contents, the second box must hold the key. What the jester got wrong was not logic but a premise he never stated: that the inscriptions carry information about the boxes at all. In Smullyan's original (<em>What Is the Name of This Book?</em>, Prentice-Hall, 1978, no DOI), this is made explicit: the trick works because the second time no one guarantees the inscriptions. The essay's later gloss in 37 Ways, that the moral is a word failing 'to connect to reality', misdescribes its own parable. The moral is that an inference is only as good as its unstated premises, and that after being thrown in a dungeon by this particular king, a Bayesian jester should have revised the premise that the king was a cooperative communicator in Grice's sense (Grice, 'Logic and Conversation', in <em>Syntax and Semantics</em> 3, 1975, no DOI)."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I merely wrote those inscriptions on two boxes, and then I put the dagger in the second one.",
+    "content": "One thing the parable does not say: the first puzzle is sound. Working through the two cases (first inscription true, or second inscription true) both put the gold in the second box, so the jester's puzzle had a unique answer and the king simply opened the wrong box. The king punished a correct deduction and then set a rigged one. As a fable about logic this is fine. As a fable about how to reason under an adversary it points the other way from the sequence's use of it: the jester's error was insufficient paranoia about the source, which is a question of evidence about the king, not of what logic can do."
+  }
+]

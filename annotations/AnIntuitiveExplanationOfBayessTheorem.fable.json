@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It’s a real number. See Casscells, Schoenberger, and Graboys 1978;",
+    "content": "It is a real number from a study the essay does not cite, attached to studies that do not contain it. Casscells et al. (<a href=\"https://doi.org/10.1056/NEJM197811022991808\">1978</a>) asked sixty Harvard physicians and students a different problem (prevalence 1 in 1,000, false-positive rate 5 percent, no sensitivity given); eleven of sixty, 18 percent, were correct. Eddy (1982) reported that about 95 percent of physicians estimated 75 percent on the mammography problem, but this was an informal survey, not a published study with a method. Gigerenzer and Hoffrage (1995) tested <em>students</em>, not doctors. The '46 percent with natural frequencies' that the essay reports as the doctors' best performance comes from Hoffrage and Gigerenzer's later study of forty-eight physicians, in which 10 percent were correct with probabilities and 46 percent with frequencies (<a href=\"https://doi.org/10.1097/00001888-199805000-00024\">Hoffrage &amp; Gigerenzer 1998</a>), and that study is not in the footnotes. The phenomenon is real and replicated; the essay's 'see these three studies' is a citation to the wrong three."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "People do not employ Bayesian reasoning intuitively, find it very difficult to learn Bayesian reasoning when tutored, and rapidly forget Bayesian methods once the tutoring is over.",
+    "content": "The 'rapidly forget' claim was refuted before the essay was written. Sedlmeier and Gigerenzer taught Bayesian reasoning with frequency representations in under two hours and found performance around 90 percent that showed no decay at a three-month follow-up, whereas rule-based training of the kind the essay describes did decay (<a href=\"https://doi.org/10.1037/0096-3445.130.3.380\">Sedlmeier &amp; Gigerenzer 2001</a>). The essay cites Gigerenzer for the frequency effect and does not mention the same author's finding that the effect makes the skill durable. There is also a tension with the essay's later claim that cognitive scientists find mental phenomena have Bayesian structure: on that literature people <em>are</em> approximately Bayesian in everyday prediction (<a href=\"https://doi.org/10.1111/j.1467-9280.2006.01780.x\">Griffiths &amp; Tenenbaum 2006</a>), and the base-rate neglect studies are the exception the field argues about, not the rule."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Probably because saying “1 out of 100 women” encourages you to concretely visualize X women with cancer, leading you to visualize X women with cancer and a positive mammography, etc.",
+    "content": "The mechanism is disputed and the effect is smaller than the essay says. A meta-analysis of thirty-five papers found natural-frequency formats raise correct responding from about 4 percent to about 24 percent, not to 'around half' (<a href=\"https://doi.org/10.1037/bul0000126\">McDowell &amp; Jacobs 2017</a>), with large moderation by whether the problem is presented as a short menu and whether a pictorial aid is included. As for why: Gigerenzer's ecological-rationality account (the mind evolved to count) competes with the nested-sets account, on which any format that makes the subset structure transparent works, frequencies or not (<a href=\"https://doi.org/10.1017/S0140525X07001653\">Barbey &amp; Sloman 2007</a>). The essay's 'probably because you visualize women' is closer to the nested-sets view than to the source it cites, and it is a guess presented as the reason."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "the Bayesian method is as good as it gets—the Bayesian method defines the maximum amount of mileage you can get out of a given piece of evidence, in the same way that thermodynamics defines the maximum amount of work you can get out of a temperature differential.",
+    "content": "The optimality results for Bayesian updating (Dutch book, Cox, complete-class theorems) establish coherence, or optimality relative to the agent's own prior, on the assumption that the true data-generating process is among the hypotheses the prior covers. Drop that assumption, as any real problem does, and Bayesian inference can be inconsistent: for misspecified models it can converge to a wrong answer with growing confidence, and can be beaten by simple modifications that a strict Bayesian would reject (<a href=\"https://doi.org/10.1214/17-BA1085\">Grünwald &amp; van Ommen 2017</a>). 'As good as it gets' is a statement about the model-closed case. The thermodynamic analogy the book returns to repeatedly, in Book IV especially, imports a certainty the theorems do not provide."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "In cognitive science, Bayesian reasoner is the technically precise code word that we use to mean rational mind.",
+    "content": "'We' is the author, who is not a cognitive scientist, and the sentence is contradicted by the essay's own principal source. Gigerenzer, whose frequency-format results carry the essay's empirical weight, holds that Bayesian optimality is the wrong standard of rationality for bounded agents in uncertain environments, and built the ecological-rationality program on that rejection (Gigerenzer &amp; Selten, <em>Bounded Rationality</em>, 2001, no DOI). Inside cognitive science, the Bayesian-brain program has been criticized as unfalsifiable 'Bayesian just-so stories' (<a href=\"https://doi.org/10.1037/a0026450\">Bowers &amp; Davis 2012</a>) and as 'Bayesian Fundamentalism' (<a href=\"https://doi.org/10.1017/S0140525X10003134\">Jones &amp; Love 2011</a>). It is a productive research program and a contested one. It is not a code word."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "For example, when Einstein’s theory of General Relativity toppled Newton’s incredibly well-confirmed theory of gravity, it turned out that all of Newton’s predictions were just a special case of Einstein’s predictions.",
+    "content": "This example is the most famous <em>problem</em> for Bayesian confirmation theory, not an illustration of it. The evidence that most convinced physicists of general relativity was the anomalous perihelion advance of Mercury, which had been known since 1859. Old evidence, already in the background knowledge, has P(E) = 1 and cannot raise the probability of any hypothesis by conditioning, so on the essay's formalism Mercury should have confirmed nothing; that it confirmed a great deal is Glymour's 'problem of old evidence' (<em>Theory and Evidence</em>, 1980, no DOI; Earman, <em>Bayes or Bust?</em>, 1992, no DOI), which remains unresolved in the literature. The essay's account of how science is 'a special case of Bayes's Theorem' picks, as its example, the case that Bayesian philosophers of science use to show that the account is incomplete. Also, Newton's predictions are limits of Einstein's, not special cases; the perihelion prediction was simply wrong."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "Previously, the most popular philosophy of science was probably Karl Popper’s falsificationism—this is the old philosophy that the Bayesian revolution is currently dethroning.",
+    "content": "Bayesian confirmation theory was not new in 2003; Carnap's <em>Logical Foundations of Probability</em> (1950) and Howson and Urbach's <em>Scientific Reasoning: The Bayesian Approach</em> (1989) had made it the dominant framework in philosophy of science decades earlier, so there was no throne to take. The essay's Bayesian reconstruction of Popper is fair, but it omits Popper's reply: that a good theory has high content and therefore <em>low</em> prior probability, so that 'probability of a hypothesis' and 'scientific value of a hypothesis' pull in opposite directions (<em>The Logic of Scientific Discovery</em>, appendix *vii, no DOI). That objection is answered by Bayesians with expected-utility arguments about which experiments to run, not by the theorem alone. 'Special case of Bayes' does the work of an argument the essay does not make."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the problem that Steven Harnad once described as trying to learn Chinese from a Chinese/Chinese dictionary.",
+    "content": "The attribution is correct (<a href=\"https://doi.org/10.1016/0167-2789(90)90087-6\">Harnad 1990</a>), and the essay agrees with Harnad's solution, grounding in sensorimotor categories. The subsequent history is awkward for both. Language models trained only on text, the Chinese/Chinese-dictionary learner made real, turn out to encode the geometry of color space well enough that their representations of color words can be aligned to perceptual CIELAB coordinates (<a href=\"https://doi.org/10.18653/v1/2021.conll-1.9\">Abdou et al. 2021</a>), and the question whether such systems have meaning at all became a live dispute (<a href=\"https://doi.org/10.18653/v1/2020.acl-main.463\">Bender &amp; Koller 2020</a> against; <a href=\"https://doi.org/10.48550/arXiv.2208.02957\">Piantadosi &amp; Hill 2022</a> for). The essay's confident 'you need to point' has not been refuted, but the dictionary-only learner learned considerably more about what red is than the essay allows."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The actual intension of my “tiger” concept would be the neural pattern (in my temporal cortex) that inspects an incoming signal from the visual cortex to determine whether or not it is a tiger.",
+    "content": "This is a stipulation that settles, by fiat, the central dispute of twentieth-century philosophy of language. 'Intension' is Carnap's term for a semantic object, roughly a function from possible worlds to extensions. Whether that object is fixed by anything inside the head is what Putnam's Twin Earth argument denies: two people with identical brain states can have concepts with different extensions, because 'meanings just ain't in the head' (Putnam, 'The Meaning of \"Meaning\"', 1975, <a href=\"https://doi.org/10.1017/CBO9780511625251.014\">in <em>Mind, Language and Reality</em></a>). Kripke made the parallel case for names. The essay's neural-pattern intension is a defensible internalist position; it is presented as if it were the obvious meaning of a word the philosophers had merely been using carelessly, in a sequence that later scolds people for arguing about what words really mean."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I think I stole this example from S. I. Hayakawa",
+    "content": "The debt is larger than one example. Extensional versus intensional definition, 'the word is not the thing', 'the map is not the territory', the insistence that definitions are pointers to experience rather than essences: this is the apparatus of Korzybski's General Semantics (<em>Science and Sanity</em>, 1933, no DOI), which Hayakawa popularized in <em>Language in Thought and Action</em> (1949, no DOI). The sequence is, in large part, a restatement of General Semantics with a Bayesian vocabulary, and this passing mention is the only acknowledgment. That matters for the reader's calibration: General Semantics was a movement with an institute, a jargon, a founder's book that promised to cure unsanity, and a reputation among linguists as a pseudoscience with some good slogans. The good slogans are what the sequence kept."
+  }
+]

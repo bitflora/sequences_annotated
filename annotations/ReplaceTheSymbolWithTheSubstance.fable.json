@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You have to perform an Original Seeing.",
+    "content": "The term is Pirsig's, from <em>Zen and the Art of Motorcycle Maintenance</em> (1974, no DOI), where it names the brick-in-the-opera-house exercise. Book II's annotations already noted that the essay Original Seeing offers a novel as its evidence. Here the concept is promoted to a 'fundamental rationalist capacity' with no more evidence than before, and the reader should know that the source is a philosophical novel about Quality."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "you’re much more likely to notice that “school” currently seems to consist of sitting next to bored teenagers listening to material you already know, that a “degree” is a piece of paper with some writing on it, and that “education” is forgetting the material as soon as you’re tested on it.",
+    "content": "This is the author's autodidact experience generalized to 'school'. The evidence points the other way on both empirical claims. Each additional year of schooling raises measured intelligence by one to five points, with effects persisting across the lifespan, in a meta-analysis of natural experiments and policy changes (<a href=\"https://doi.org/10.1177/0956797618774253\">Ritchie &amp; Tucker-Drob 2018</a>). And the material is not forgotten as soon as it is tested: Bahrick found Spanish learned in school retained at substantial levels fifty years later with no rehearsal, the 'permastore' (<a href=\"https://doi.org/10.1037/0096-3445.113.1.1\">Bahrick 1984</a>). The signaling account the essay assumes (Caplan, <em>The Case Against Education</em>, 2018, no DOI) is a live position, but it is a position, and the essay presents a caricature as what Original Seeing reveals."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Students who understand math will do well on tests, but if you require schools to produce good test scores, they’ll spend all their time teaching to the test.",
+    "content": "The principle is Campbell's law (<a href=\"https://doi.org/10.1016/0149-7189(79)90048-X\">Campbell 1979</a>), uncredited, and the specific prediction was tested by No Child Left Behind. The best-identified estimates found real gains in fourth-grade mathematics that were not confined to the tested items, alongside some narrowing of instruction (<a href=\"https://doi.org/10.1002/pam.20586\">Dee &amp; Jacob 2011</a>). Book III's M annotations covered the NCLB evidence in detail. The lost-purpose mechanism is real; 'all their time' is not what happened."
+  }
+]

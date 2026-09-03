@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This academic paradigm, I think, was mostly a deranged legacy of behaviorism, which denied the existence of thoughts in humans, and sought to explain all human phenomena as “reflex,” including speech.",
+    "content": "This is false history. The imagery debate was between cognitivists. Pylyshyn, who argued the propositional side, was a founder of cognitive science and an anti-behaviorist; his claim was never that people lack images but that the <em>format</em> of the underlying representation is not depictive, and that rotation-time data can be explained by tacit knowledge of how objects rotate (<a href=\"https://doi.org/10.1037/h0034650\">Pylyshyn 1973</a>; <a href=\"https://doi.org/10.1017/S0140525X02000043\">Pylyshyn 2002</a>). Behaviorists were not party to it. The essay ridicules a debate it has misdescribed, and it does so while announcing that it is trying to avoid hindsight bias."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Today we can actually neuroimage the little pictures in the visual cortex. So, yes, your brain really does represent a detailed image of what it sees or imagines.",
+    "content": "Retinotopic activation of early visual cortex during imagery is real (<a href=\"https://doi.org/10.1038/378496a0\">Kosslyn et al. 1995</a>), and it does not settle the question, which is Pylyshyn's point: that the substrate is spatially organized does not show that reasoning operates on it depictively. The debate was declared over, by its participants, in 2015, seven years after the essay, and the resolution was a compromise, 'heterogeneity of mental representation' (<a href=\"https://doi.org/10.1073/pnas.1504933112\">Pearson &amp; Kosslyn 2015</a>). 'How spectacularly silly' was written about a live dispute in the year the essay called it settled."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "You may or may not have visualized it—if you haven’t done it yet, do so now—what, in your mind’s eye, does a “triangular lightbulb” look like?",
+    "content": "For a few percent of readers, nothing. Aphantasia, the absence of voluntary visual imagery, was named in 2015 (<a href=\"https://doi.org/10.1016/j.cortex.2015.05.019\">Zeman, Dewar &amp; Della Sala 2015</a>) and confirmed as a genuine perceptual difference by binocular-rivalry priming, which aphantasics fail to show (<a href=\"https://doi.org/10.1016/j.cortex.2017.10.012\">Keogh &amp; Pearson 2018</a>). Aphantasics perform mental-rotation and other 'imagery' tasks at normal levels, apparently by non-depictive routes. That is direct evidence that the propositional side of the debate the essay mocks was describing something real, and it means the essay's demonstration, 'visualize a triangular lightbulb, see how words drive paintbrushes', is a demonstration that a measurable minority of its readers cannot perform. The essay also grounds its claims in what 'my introspection could determine', two paragraphs after calling introspection 'a very bad forbidden activity' in scare quotes; Nisbett and Wilson's case that introspection does not report process was cited in Book II."
+  }
+]

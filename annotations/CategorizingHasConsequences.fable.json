@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "If you receive a blood transfusion containing an antigen you don’t have, it will trigger an allergic reaction.",
+    "content": "Nearly every medical detail in this paragraph is wrong. An ABO-incompatible transfusion causes an acute hemolytic reaction, complement-mediated destruction of the transfused cells by pre-existing antibodies; it is not an allergy. The '+ antigen' is the Rh D antigen, discovered by Landsteiner and Wiener in 1940, not part of the 1901 ABO discovery for which Landsteiner received the 1930 Nobel Prize. The mother in the essay's example does not 'acquire an allergic reaction'; she is alloimmunized, producing anti-D antibodies that cross the placenta and cause hemolytic disease of the fetus and newborn. The prophylaxis is not 'an allergic suppressant' but anti-D immunoglobulin, which prevents sensitization. And 'thus people learn their blood types before they marry' is offered without a source; in Japan, where the essay is set, Rh-negative frequency is about 0.5 percent."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The stereotypes must have arisen strictly from the mere existence of the labels.",
+    "content": "They did not, and the actual history is more instructive. The Japanese blood-type personality theory has an author, Furukawa Takeji, whose 1927 paper 'A Study of Temperament through Blood Type' was taken up by the military and colonial administration as a tool for ranking populations, including the Taiwanese, during the eugenic 1930s; it was discredited, then revived commercially by Nomi Masahiko's 1971 bestseller and its sequels. The stereotype did not arise from labels alone; it arose from a pseudoscientific research program, a state that wanted it, and a publishing industry that sold it. The empirical claim has been tested repeatedly and is null: a meta-analysis of large Japanese and American surveys found no blood-type–personality association (<a href=\"https://doi.org/10.4992/jjpsy.85.13016\">Nawata 2014</a>), as did an Australian sample (<a href=\"https://doi.org/10.1016/S0191-8869(02)00101-0\">Rogers &amp; Glendon 2003</a>)."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "So while I don’t mean to update on imaginary evidence, I would predict a positive result for the experiment: I would expect them to find that mere labeling had power over all things, at least in the human imagination.",
+    "content": "The experiment had been done, and the prediction is partly right with the wrong mechanism. For people, Tajfel's minimal group paradigm showed that assigning subjects to arbitrary labelled groups produces in-group favoritism (<a href=\"https://doi.org/10.1002/ejsp.2420010202\">Tajfel et al. 1971</a>). For the harvesting of spurious traits, the illusory-correlation paradigm found that people attribute distinctive behaviors to the smaller group, an effect driven by the co-occurrence of rare events, not by the label as such (<a href=\"https://doi.org/10.1016/S0022-1031(76)80006-6\">Hamilton &amp; Gifford 1976</a>). For non-social objects, learning a category boundary changes perceived similarity of the objects on either side of it (<a href=\"https://doi.org/10.1037/0096-3445.123.2.178\">Goldstone 1994</a>). Labels do have consequences. 'Mere labeling had power over all things' is not what any of these studies found; each identifies a specific mechanism, and none of them is 'the mind harvests similarities from any named group'."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Here in the West, a blood-type-based diet book called Eat Right 4 Your Type was a bestseller.",
+    "content": "For the record, the diet was tested. Adherence to each of the four 'blood-type diets' was associated with some cardiometabolic changes, and none of the associations depended on the subject's actual blood type (<a href=\"https://doi.org/10.1371/journal.pone.0084749\">Wang et al. 2014</a>). The bestseller is a fair example of the essay's point and the study is the citation the essay lacked."
+  }
+]

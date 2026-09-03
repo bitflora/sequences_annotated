@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "and so you will find—I am confident, though I haven’t actually checked—that calculating the entropy of (Y,Z) yields less total uncertainty than the sum of the independent entropies of Y and Z.",
+    "content": "There was nothing to check: mutual information is non-negative for every joint distribution, by Gibbs' inequality, so H(Y,Z) ≤ H(Y) + H(Z) always, with equality exactly at independence. The 'with all quantities necessarily positive' that follows should read 'non-negative', since I(Y;Z) is zero in the independent case the essay just worked. The arithmetic of the two tables is correct: both joint distributions have the stated marginals. These are the mathematical essays of the sequence, and the mathematics holds; the annotations here are about what is done with it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I leave it as an exercise to the reader to reconcile this with anything they were taught in logic class about how, if all ravens are black, being allowed to reason Raven(x) ⇒ Black(x) doesn’t mean you’re allowed to reason Black(x) ⇒ Raven(x).",
+    "content": "The reconciliation is short, and it cuts against the essay's implication. Mutual information is an <em>average</em> over all outcomes; it is symmetric. The evidence one particular observation provides is a likelihood ratio, and likelihood ratios are not symmetric: seeing a raven is decisive evidence of blackness (all ravens are black), while seeing a black thing is negligible evidence of ravenhood (most black things are not ravens). Logic class was right about the particular inferences; the symmetric quantity averages the strong inference in one direction against the weak one in the other. 'How different seem the symmetrical probability flows of the Bayesian' is a remark about the wrong quantity. The paradox the example touches, Hempel's ravens (1945), is about confirmation of the universal by a black non-raven, and is not resolved by anything here."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If green-eyes and black hair have no greater than default probability to be found together, nor does any other property occur at greater than default probability along with them, then the word “wiggin” is a lie",
+    "content": "By the essay's criterion 'wiggin' would be a legitimate word, because the antecedent is false. Eye and hair pigmentation share genetic architecture (OCA2/HERC2, SLC24A4, TYR, IRF4; <a href=\"https://doi.org/10.1038/ng.2007.13\">Sulem et al. 2007</a>) and both vary with ancestry, so green eyes and black hair are far from independent in any real population, and both predict other traits (skin phototype, geographic origin) above base rate. The example was meant to be an obviously empty conjunction; it is a mildly informative one. That is a small point about the example and a larger one about the criterion: almost nothing in a world of correlated traits fails it, so 'density in thingspace' licenses nearly every word, including the ones the sequence wants to forbid."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "And the way to carve reality at its joints is to draw your boundaries around concentrations of unusually high probability density in Thingspace.",
+    "content": "'Density' is not defined until a measure is chosen, and Thingspace has none. Probability density changes under reparametrization: a cluster that is dense in one coordinate system (mass, volume) is diffuse in another (log-mass, density, surface area), which is the lesson of Bertrand's paradox and of Jeffreys' work on invariant priors. 'Unusually high' needs a base measure to be unusual relative to, and the next essay concedes that Thingspace 'may be too poorly defined to have anything you could call a size'. So the criterion, as stated, is empty until someone specifies which dimensions, with what scaling, which is the Goodman–Murphy–Medin point: the joints are visible only after a description language has been chosen, and choosing it is most of the work."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "With the exception perhaps of very primitive words, like “red,” that we would use to send an entirely uncompressed description of our sensory experiences.",
+    "content": "'Red' is not primitive and not uncompressed, and it is the one place the essay's thesis was tested and passed. Color terms carve the spectrum differently across languages (<a href=\"https://doi.org/10.1037/0096-3445.129.3.369\">Roberson, Davies &amp; Davidoff 2000</a>), yet the carvings are not arbitrary: the color-naming systems of over a hundred languages are near-optimal partitions of perceptual color space given the number of terms (<a href=\"https://doi.org/10.1073/pnas.0610341104\">Regier, Kay &amp; Khetarpal 2007</a>), and sit close to the information-theoretic efficiency frontier that trades complexity of the code against accuracy of the message (<a href=\"https://doi.org/10.1073/pnas.1800521115\">Zaslavsky et al. 2018</a>). That is exactly the compression argument this essay makes, confirmed for the word class the essay exempts from it. The essay had its best evidence in hand and set it aside as an exception."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This is one of the nonstandard tools in my toolbox, and in my humble opinion, it works way way better than the standard one.",
+    "content": "It is a standard tool. Carnap called it explication; Chalmers formalized it as the 'method of elimination': bar the disputed term, restate the positions, and see whether a disagreement remains (<a href=\"https://doi.org/10.1215/00318108-1263693\">Chalmers 2011</a>). Chalmers also states the limit the essay omits: the method regresses until it reaches terms that cannot be eliminated without changing the subject, and disputes framed in those 'bedrock' terms are substantive whether or not either party can cash them out further. As for 'works way way better', no comparison was run; the claim is a report of the author's satisfaction with the author's tool."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Though mostly they won’t be able to answer at all, because it is mostly profession in the first place, and you cannot cognitively zoom in on an audio recording.",
+    "content": "The experiment has been done, and believers can answer. When Barrett and Keil removed the theological vocabulary and asked believers to recall and reason about stories involving God, subjects reliably used a concrete, anthropomorphic, one-place-at-a-time God concept that contradicted the omnipresent, atemporal God they professed when asked directly (<a href=\"https://doi.org/10.1006/cogp.1996.0017\">Barrett &amp; Keil 1996</a>). Tabooing 'God' does not produce silence; it produces a rich and consistent concept that differs from the creed. That is a better result for the essay's method than the essay predicts, and a worse one for its diagnosis, because 'mostly profession' is the wrong description of a belief that drives inference in the theologically incorrect direction."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I would advise Albert and Barry to describe what it is that they think people do, or do not have, without using the phrase “free will” at all.",
+    "content": "Experimental philosophy did this, with vignettes instead of the phrase, and found that the disagreement survives the taboo. Laypeople judge agents in deterministic scenarios responsible or not depending on how concretely the case is described and how emotionally charged it is (<a href=\"https://doi.org/10.1080/09515080500264180\">Nahmias et al. 2005</a>; <a href=\"https://doi.org/10.1111/j.1468-0068.2007.00666.x\">Nichols &amp; Knobe 2007</a>). The method works as a method; what it reveals is a substantive and unstable folk concept, not a namespace collision that dissolves on inspection. The essay's expectation that the free-will dispute is an alberzle/bargulum case is not what the data show."
+  }
+]

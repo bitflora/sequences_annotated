@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Once upon a time, the philosophers of Plato’s Academy claimed that the best definition of human was a “featherless biped.”",
+    "content": "'Featherless biped' comes from Plato's <em>Statesman</em> 266e, where the Eleatic Stranger produces it as a step in a method of division, and the dialogue itself treats the result as faintly comic. It was not offered as a set of necessary and sufficient conditions in the psychologists' sense. The plucked-chicken story is from Diogenes Laertius VI.40 (3rd century CE, no DOI), a compiler of anecdotes writing six hundred years after the event. The story is a good illustration; it is not evidence that anyone in the Academy held the theory of concepts the essay is refuting."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "With the right set of necessary-and-sufficient gene sequences you could single out all humans, and only humans",
+    "content": "You could not, and the reason strengthens the essay's own point. There is no gene sequence present in every human and absent from every non-human: any candidate locus has variants, deletions and pseudogenes in some people, and shared ancestry means chimpanzee alleles occasionally match human ones better than two human alleles match each other (incomplete lineage sorting). This is why the species concept in biology was reworked by Hull and Ghiselin into the view that species are historical individuals rather than kinds with essences (<a href=\"https://doi.org/10.1093/bjps/XV.60.314\">Hull 1965</a>). The essay reaches for a genetic essence in the sentence after denying that humans have any, and biology agrees with the denial."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If Aristotelian logic were a good model of human psychology, the Platonists would have looked at the plucked chicken and said, “Yes, that’s a human; what’s your point?”",
+    "content": "The essay's replacement theory, that a category is a similarity cluster, was itself found inadequate by the field that produced it. Goodman ('Seven Strictures on Similarity', 1972, no DOI) argued that any two objects share indefinitely many properties, so 'similar' is empty until one says similar in which respects, with which weights. <a href=\"https://doi.org/10.1037/0033-295X.92.3.289\">Murphy &amp; Medin (1985)</a> made this the founding argument of the 'theory' view of concepts: the respects and weights come from causal and explanatory knowledge, so similarity is a product of categorization rather than its basis. Ad hoc categories like 'things to carry out of a burning house' have graded typicality but no similarity structure at all (<a href=\"https://doi.org/10.3758/BF03196968\">Barsalou 1983</a>). The sequence adopts the 1978 Rosch picture and stops, and every later essay that says 'similarity cluster' inherits the gap."
+  }
+]
