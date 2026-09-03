@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "There’s an old trick for combating dukkha where you make a list of things you’re grateful for, like a roof over your head.",
+    "content": "The trick has been tested, and it works, modestly. The original gratitude-listing experiments (<a href=\"https://doi.org/10.1037/0022-3514.84.2.377\">Emmons &amp; McCullough (2003)</a>) found improvements in well-being relative to listing hassles; the meta-analyses that followed put the effect against active controls at around a fifth of a standard deviation on well-being and smaller for depression and anxiety (<a href=\"https://doi.org/10.1037/cou0000107\">Davis et al. (2016)</a>; <a href=\"https://doi.org/10.1007/s10902-020-00236-6\">Cregg &amp; Cheavens (2021)</a>), with the largest effects in the comparisons that used the weakest controls. So the essay’s premise, that a gratitude list does something, is sound, and the extension to a list of abilities is untested but not implausible. The annotation is here to record the size: this is a small, real effect, and the essay’s tone, in which the exercise is offered as a way to bind oneself “without disappointment” to a reductionist universe, promises more than the trick has delivered for the roof over one’s head."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The Ultimate Power. The user of this ability contains a smaller, imperfect echo of the entire universe, enabling them to search out paths through probability to any desired future.",
+    "content": "This is the book’s theory of general intelligence in costume: a single faculty, rare among life forms, that “comprehends” and thereby dominates every other power, so that “nothing can oppose the Ultimate Power except the Ultimate Power.” Book III’s annotations on The Power of Intelligence recorded what the subsequent history of machine learning did to the picture of intelligence as a unitary search over futures: the capable systems that arrived are not general searchers but pattern-completers trained on human output, their abilities are jagged across domains rather than a single scalar, and their “comprehension” of a domain does not confer the ability to act in it. The claim that any lesser power is “simply ‘comprehended’ by the Ultimate and disrupted in some inconceivable fashion” is the claim that intelligence dominates all other resources, and it is precisely the assumption that the debate over AI risk has since made contested (see, for instance, the exchange around Hanson’s and Yudkowsky’s <em>AI-Foom Debate</em>, 2013). The essay presents the assumption as a piece of whimsy about magical powers; the whimsy is the book’s thesis."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Perhaps because this connection is so intimate, the Ultimates regard one who loses their Ultimate Power permanently—without hope of regaining it—as schiavo, or “dead while breathing.”",
+    "content": "The word is a pun on Terri Schiavo, whose case had been resolved three years earlier, and it encodes a position on the persistent vegetative state that deserves more than a pun. The position, that a human who has permanently lost higher cognition is dead in the sense that matters, is one respectable view in bioethics and not the only one. The empirical point the pun skips is that the diagnosis is unreliable: studies of patients diagnosed as vegetative found that around forty per cent were in fact minimally conscious when assessed with standardized scales (<a href=\"https://doi.org/10.1136/bmj.313.7048.13\">Andrews et al. (1996)</a>; <a href=\"https://doi.org/10.1186/1471-2377-9-35\">Schnakers et al. (2009)</a>), and functional imaging later found covert command-following in a subset of behaviourally unresponsive patients (<a href=\"https://doi.org/10.1126/science.1130197\">Owen et al. (2006)</a>). “Without hope of regaining it” is a clinical judgment that was wrong two times in five in the relevant population. A book about binding feeling to fact might have paused before making the case a joke."
+  }
+]

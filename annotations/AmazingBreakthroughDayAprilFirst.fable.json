@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Note that every one of these headlines are true—they describe events that did, in fact, happen. They just didn’t happen yesterday.",
+    "content": "The first headline is not true. The bathtub story comes from Vitruvius (<em>De Architectura</em> IX, preface), writing two centuries after Archimedes, and it is about detecting silver in a gold crown by comparing displaced volumes; it has nothing to do with why boats float. The principle of buoyancy, that a floating body displaces its own weight of fluid, is in Archimedes’s <em>On Floating Bodies</em>, and no ancient source connects it to a bath or an exclamation. Worse for the headline, the method Vitruvius describes would not have worked: the difference in displaced water between a pure-gold crown and an adulterated one of the same weight is too small to measure by the overflow of a tub, which is why Galileo, in <em>La Bilancetta</em> (1586), argued that Archimedes must have used a hydrostatic balance instead, weighing the crown in water and in air. The third headline repeats Lavoisier’s error of locating combustion in the lungs, discussed in the annotation on Universal Fire. The essay’s proposal is a good one; the specimens it offers show why old science needs the same fact-checking as new."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Then point out that Reddit and Digg don’t link only to breaking news. They also link to short webpages that give good explanations of old science. Readers vote it up, and that should tell you something. Explain that if your newspaper doesn’t change to look more like Reddit, you’ll have to start selling drugs to make payroll.",
+    "content": "The newspapers did change to look more like Reddit, and the result was not Amazing Breakthrough Day. The intervening fifteen years ran the experiment of subordinating editorial judgment to engagement metrics, and what the metrics select for is now measured: false news diffuses farther, faster and more broadly than true news on the same platforms, because it is more novel and provokes stronger emotion (<a href=\"https://doi.org/10.1126/science.aap9559\">Vosoughi, Roy &amp; Aral (2018)</a>), and health and science content that spreads best is disproportionately the sensational and the wrong. The essay reasons from “readers vote up good explanations of old science” to “a voting system will surface good explanations of old science,” and the inference omits that readers vote up other things more. There is a real version of the essay’s proposal that worked, the explainer sites and video channels that treat settled science as content, and it worked by editorial choice within a platform, not by the platform. The sentence about selling drugs to make payroll turned out to be the accurate forecast."
+  }
+]

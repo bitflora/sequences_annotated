@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/ZombiesZombies.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/ZombiesZombies.fable.json",
+    "default": true
   }
 ]

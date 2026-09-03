@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "“Newsworthy” science is often based on the thinnest of evidence and wrong half the time—if it were not on the uttermost fringes of the scientific frontier, it would not be breaking news.",
+    "content": "The essay guessed, and the guess was close. The systematic replication projects that followed found that about a third of the sampled psychology findings replicated (<a href=\"https://doi.org/10.1126/science.aac4716\">Open Science Collaboration (2015)</a>) and about three-fifths of those in the top general-science journals (<a href=\"https://doi.org/10.1038/s41562-018-0399-z\">Camerer et al. (2018)</a>). The specific claim about newsworthiness has also been tested: newspapers preferentially cover initial studies rather than the later meta-analyses, the initial studies are disproportionately the ones later disconfirmed, and the disconfirmations are almost never reported (<a href=\"https://doi.org/10.1371/journal.pone.0172650\">Dumas-Mallet et al. (2017)</a>). So the essay’s advice, to prefer textbooks to press releases, was sound and is now supportable with data the essay did not have. The annotation below is on the other half of the advice."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Reading a well-written textbook, you get: Carefully phrased explanations for incoming students, math derived step by step (where applicable), plenty of experiments cited as illustration (where applicable), test problems on which to display your new mastery, and a reasonably good guarantee that what you’re learning is actually true.",
+    "content": "The guarantee is weaker than the essay thinks, and the book’s own examples show it. The standard textbook explanation of how a wing produces lift, the “equal transit time” story in which air over the curved top must go faster to meet the air underneath, is false, and has been identified as false in the physics-education literature for decades (<a href=\"https://doi.org/10.1088/0031-9120/38/6/001\">Babinsky (2003)</a>); the 747 that the essay Reductionism uses as its example of settled multi-level science flies for reasons that most textbooks misstate. Introductory psychology textbooks were audited and found to present as settled a list of findings that Book II’s annotations record as reversed or fabricated, the Stanford prison study and the Kitty Genovese story among them (<a href=\"https://doi.org/10.1007/s12144-016-9539-7\">Ferguson, Brown &amp; Torres (2018)</a>). The propagation of errors through textbooks is a recognized pathology with its own name in the history of science, the “textbook myth,” and the mechanism is exactly the one the essay praises: textbooks are written from other textbooks, by people who did not check. Settled science is the right thing to learn; “settled” is a claim about consensus, not about truth, and the two come apart more often in textbooks than the essay allows."
+  }
+]

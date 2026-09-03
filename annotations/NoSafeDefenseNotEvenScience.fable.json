@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Of the people I know who are reaching upward as rationalists, who volunteer information about their childhoods, there is a surprising tendency to hear things like, “My family joined a cult and I had to break out,” or, “One of my parents was clinically insane and I had to learn to filter out reality from their madness.”",
+    "content": "The sample is the author’s acquaintances who volunteered stories, and the theory built on it, that broken trust in one’s surroundings is what starts a rationalist, has a testable form that the evidence does not support. Childhood adversity and disrupted family environments are associated with elevated paranoia, conspiracy belief and what the attachment literature calls epistemic mistrust, a generalized inability to take in information from others that is a risk factor for psychopathology rather than a precondition of clear thinking (<a href=\"https://doi.org/10.1037/a0036505\">Fonagy &amp; Allison (2014)</a>); conspiracy belief correlates with feelings of powerlessness and anomie rather than with analytic skill. The essay’s mechanism, “you don’t bother putting in the hard work to be extra bonus sane, if normality doesn’t scare the hell out of you,” is a plausible story about a few people. The population-level relationship runs the other way, and the essay’s own book warns, in the essays on availability and on generalizing from one example, against the inference it is making here."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Not even Science can save you. The ideals of Science were born centuries ago, in a time when no one knew anything about probability theory or cognitive biases.",
+    "content": "Probability theory and the ideals of science are the same age. The Pascal–Fermat correspondence is from 1654, Huygens’s treatise from 1657, the Royal Society was chartered in 1662, Bernoulli’s <em>Ars Conjectandi</em> appeared in 1713 and Bayes’s essay in 1763, and Laplace, whose name the book’s ritual invokes, published the <em>Théorie analytique</em> in 1812 and the <em>Essai philosophique</em> in 1814, which contains a chapter on illusions in the estimation of probabilities that is a catalogue of what would now be called cognitive biases. Bacon’s Idols of the Tribe, Cave, Marketplace and Theatre (<em>Novum Organum</em>, 1620) are a taxonomy of systematic error in human judgment, published before the ideals the essay is describing were institutionalized, and the reason the Royal Society insisted on witnessing and replication was precisely its founders’ distrust of individual judgment. The essay needs its rival to be ignorant of what the essay knows; the rival wrote it down first."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Post Scriptum: On reviewing a draft of this essay, I discovered a fairly inexcusable flaw in reasoning, which actually affects one of the conclusions drawn. I am leaving it in.",
+    "content": "A flaw that affects a conclusion, left in a text unmarked, is a defect the reader is told exists and cannot check; the pedagogical intention does not change what the reader receives, which is an essay one of whose conclusions its author knows to be wrong. The annotator has recorded two candidates above, the inference from the author’s acquaintances to a general theory of rationalist formation and the claim that early science knew nothing of probability or bias, and has no way to tell whether either is the one intended. That is the practical consequence of the device: every flaw a reader finds can be waved away as “the one I left in,” and the genuine ones inherit its cover. The essay’s deeper point, that no procedure guarantees against error, is right and is also the standard fallibilist position from Peirce onward. Its way of teaching the point makes the essay unusable as an argument, which may be the intention, and is a cost."
+  }
+]

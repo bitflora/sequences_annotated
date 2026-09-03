@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "We’ll find Detector 1 going off twice, or Detector 2 going off twice, with equal frequency. (Assuming I’ve gotten the math and physics right. I didn’t actually perform the experiment.)",
+    "content": "The experiment was performed in 1987 and the essay’s prediction is correct for photons: this is the Hong–Ou–Mandel effect (<a href=\"https://doi.org/10.1103/PhysRevLett.59.2044\">Hong, Ou &amp; Mandel (1987)</a>), in which two indistinguishable photons entering a beam splitter from opposite ports always leave together, and the coincidence rate between the two detectors drops to zero. The effect is now a standard tool for measuring how indistinguishable two photons are, since any difference in polarization, frequency or arrival time restores coincidences in proportion to the distinguishability, which is exactly the essay’s point about configurations being defined by what particles are where and by nothing else. The essay could have cited it and did not, which is a pattern: the sequence prefers to derive from first principles what the laboratory already showed, and the derivation is then presented as more secure than the observation. Here the observation is on the essay’s side."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Configurations don’t keep track of where particles come from. A configuration’s identity is just, “a photon here, a photon there; an electron here, an electron there.” No matter how you get into that situation, so long as there are the same species of particles in the same places, it counts as the same configuration.",
+    "content": "This rule gives the wrong answer for electrons. Configurations are as the essay says, but the amplitude that flows to a configuration acquires a sign under exchange of identical particles, +1 for bosons and −1 for fermions, and the essay’s calculation silently assumes the boson case. Run the same two-particle beam-splitter experiment with electrons and the two paths to “one particle at each detector” add instead of cancelling, while the paths to “two at the same detector” cancel: fermions antibunch, and the electronic Hong–Ou–Mandel experiment confirmed it (<a href=\"https://doi.org/10.1126/science.1232572\">Bocquillon et al. (2013)</a>). So the sentence “an electron here, an electron there” describes a configuration correctly and the essay’s rule for what happens to it, applied to electrons, predicts the opposite of what happens. The exchange sign is the fact from which the Pauli exclusion principle, the periodic table and the stability of matter follow, which makes it a large thing to leave out of an account that claims to show “the way that reality itself must be treating configurations.” The essay’s conclusion, that the physics cannot be factored into individually real billiard balls, survives; the rule offered as the whole story is half of it."
+  }
+]

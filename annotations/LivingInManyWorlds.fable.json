@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Religions, anthropologists tell us, usually exhibit a property called minimal counterintuitiveness; they are startling enough to be memorable, but not so bizarre as to be difficult to memorize.",
+    "content": "This is Boyer’s hypothesis and it has experimental support: concepts that violate one intuitive expectation (a person who can walk through walls) are recalled better than either wholly ordinary or heavily counterintuitive ones, across cultures (<a href=\"https://doi.org/10.1207/s15516709cog2504_2\">Boyer &amp; Ramble (2001)</a>; Norenzayan et al., 2006, on folk tales). The essay uses it correctly and the contrast it draws, that physics is not tuned for memorability, is fair. The annotation is here to note the one place the contrast might be turned around: a theory on which one is “constantly splitting into zillions of other people,” while everything one can observe stays exactly as it was, is a paradigm of the minimally counterintuitive, one large violation of expectation on an otherwise ordinary background, and the essay’s own audience found it memorable enough to write in about. That is not evidence against the theory. It is a reason to be careful about the feeling that a theory one can remember is a theory one has understood."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Your decision theory should (almost always) be the same, whether you suppose that there is a 90% probability of something happening, or if it will happen in 9 out of 10 worlds.",
+    "content": "This is the conclusion of the Deutsch–Wallace argument, and the sequence’s final essay says its author is “rather suspicious” of that argument. The suspicion is well placed: what one should care about, if all branches are equally real, is the question of the “caring measure,” and the claim that it must be the Born measure is what the decision-theoretic derivation is for (<a href=\"https://doi.org/10.1016/j.shpsb.2004.04.006\">Greaves (2004)</a>). Without the derivation, the instruction to treat “9 out of 10 worlds” as “90%” is an instruction to adopt the Born rule as a caring rule by fiat; with it, one has accepted premises the author doubts. The same tension shows in the essay’s ethical aside: “average utilitarianism suddenly looks a lot more attractive” is a substantive inference from the theory to ethics, and the Everettian literature is divided on whether the theory has any ethical implications at all, Wallace holding that it changes nothing and others (Lewis’s “How Many Lives Has Schrödinger’s Cat?”, 2004) that it changes how one should regard risk of death. “It all adds up to normality” is either a theorem, if the Born measure is derived, or a slogan; the essay presents it as the former while its author, in the same sequence, treats the derivation as open."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "You will never catch a glimpse of another world out of the corner of your eye. You will never hear the voice of some other self. That is unambiguously prohibited outright by the laws. Sorry, you’re just schizophrenic.",
+    "content": "Hearing voices is not diagnostic of schizophrenia. Auditory verbal hallucinations occur in a substantial minority of the general population with no psychiatric disorder, with prevalence estimates in community samples running from about five to fifteen per cent depending on definition (<a href=\"https://doi.org/10.3109/09638237.2011.562262\">Beavan, Read &amp; Cartwright (2011)</a>; <a href=\"https://doi.org/10.1093/schbul/sbu005\">Johns et al. (2014)</a>), and the modern clinical view treats voice-hearing as a continuum rather than a symptom that entails a diagnosis. The line is a joke, and the physics point it makes, that no branch is observable from another, is correct on the theory. The joke’s premise is a folk psychiatry of the kind Book II’s annotations found the book using for its examples, and it is wrong in the same way."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Seven point five percent is the rational estimate given this evidence, not 7.4% or 7.6%. The laws of probability are laws.",
+    "content": "The exactness belongs to the toy problem, not to the law. The 7.5% follows from the three inputs by arithmetic, and in any real screening problem the three inputs are estimates with uncertainty: the base rate depends on age and population, the sensitivity and false-positive rate vary by centre, reader and machine, and each is known to a couple of significant figures at best. The rational estimate given the real evidence is an interval, not a point, and the width of the interval is itself a matter of judgment about the inputs. That is the imprecise-probability point the annotation on Beautiful Probability raised, and it is where the essay’s picture of a Way “with no flex or room for whims” meets practice: the flex is in the inputs, it is unavoidable, and the discipline the essay wants, of not moving the answer to suit oneself, is real but is not delivered by the theorem. “The laws of probability are laws” is true of the arithmetic and is repeatedly used in this book to lend the arithmetic’s certainty to the numbers fed into it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "In Science, when it comes to deciding which hypotheses to test, the morality of Science gives you personal freedom of what to believe, so long as it isn’t already ruled out by experiment, and so long as you move to test your hypothesis.",
+    "content": "No account of scientific method says this. Popper’s falsificationism is a norm for what may be asserted and published as science and for how theories are to be treated in the public record; it is silent on what an individual should privately believe, because that was not its subject. Bayesian philosophers of science, Carnap’s inductive logic, Jeffreys’s theory of probability (1939), Good, Lindley, all addressed exactly the question the essay says “Science” leaves open, which hypothesis is more probable in advance of the test, and they did so within what the essay would call Science. The essay has constructed “Science” as the demarcation criterion alone, faulted it for not being an epistemology, and then supplied the epistemology under a different name. The stricter Way the essay found in Jaynes and Kahneman was on the syllabus of the discipline it is contrasting itself with, which is why Jaynes was a physicist and Kahneman a psychologist."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "But if you try to use Bayes even qualitatively—if you try to do the thing that Science doesn’t trust you to do, and reason rationally in the absence of overwhelming evidence—it is like math, in that a single error in a hundred steps can carry you anywhere.",
+    "content": "This is the most important concession in the book, and the essay draws the wrong conclusion from it. If a single error in a hundred steps of private reasoning can carry the reasoner anywhere, then long chains of private reasoning are unreliable in proportion to their length, and the remedy is not to reason more carefully alone but to expose the chain to other people whose errors are uncorrelated with one’s own. That is the argument for the social organization of science as an epistemic device: Longino’s <em>Science as Social Knowledge</em> (1990), Mercier and Sperber’s argumentative theory (Book I’s annotations), and the plain observation that mathematicians, whose chains are the longest, submit every step to referees and still publish wrong proofs at a measurable rate. The essay instead concludes that one must “essay the vastly more difficult problem” of hearing tiny false notes oneself, which is the solitary-astronaut picture of self-correction that Book II’s annotations found the book returning to. The premise is right. A reasoner who accepts it should trust their own hundred-step derivations less than the essay goes on to trust its own, on many-worlds and on cryonics, in this same sequence."
+  }
+]

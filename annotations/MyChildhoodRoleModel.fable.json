@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Maybe Einstein has some minor genetic differences from the village idiot, engine tweaks. But the brain-design-distance between Einstein and the village idiot is nothing remotely like the brain-design-distance between the village idiot and a chimpanzee.",
+    "content": "The scale has no unit, and the one attempt to put the comparison on a shared footing does not support it. On a battery of physical-cognition tasks, two-and-a-half-year-old humans and adult chimpanzees perform about equally, with the human advantage confined to social learning (<a href=\"https://doi.org/10.1126/science.1146282\">Herrmann et al. (2007)</a>); on those tasks the human–chimpanzee distance is smaller than the distance between a toddler and an adult. And “village idiot,” if it means intellectual disability rather than the low end of normal variation, names conditions (trisomy 21, fragile X, hundreds of single-gene syndromes) whose effect on cognition is produced by changes far larger in kind than the regulatory differences that separate human from chimpanzee brains, which are mostly quantitative expansions of the same architecture. The essay’s picture, in which all human minds cluster at a point and the interesting scale begins outside it, is drawn to make room for the Jupiter brain, and Hofstadter’s objection, that the scale relevant to what intelligence achieves puts Einstein far from the idiot, is a disagreement about which scale is relevant, not a failure to have read science fiction. The essay presents it as a cultural gap. It is the substantive question."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Likewise the fact that the human brain must use its full power and concentration, with trillions of synapses firing, to multiply out two three-digit numbers without a paper and pencil.",
+    "content": "This is Moravec’s paradox with the sign reversed. The brain is bad at three-digit multiplication and effortlessly good at the things that turned out to be hard for machines, vision, locomotion, language in context, and the lesson Moravec drew (<em>Mind Children</em>, 1988) was that arithmetic is the wrong benchmark for a system evolved to do the other things. Measured by what it was built for, a brain running on twenty watts and performing on the order of 10<sup>15</sup> synaptic operations a second is not a poorly designed engine; it is an engine the essay is testing on a task it was not designed for and finding wanting. The essays on evolution in Book III made the point that the blind idiot god optimizes for reproduction, not for what a designer would want; the conclusion here, that the brain is therefore badly designed, needs a specification of what it should have been designed for, and the essay’s specification is “doing physics like a Bayesian superintelligence,” which is the essay’s dream and not evolution’s brief."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "“Jakob Bernoulli,” intoned the guide, and the walls replied:",
+    "content": "The litany of the Bayesian Conspiracy omits Bayes. It also omits Ramsey, de Finetti, Jeffreys, Savage and Cox, the people who built the subjective and logical interpretations the book defends, and it opens with two figures who belong, in the modern taxonomy, to the other side. Jakob Bernoulli’s <em>Ars Conjectandi</em> (1713) contains the first law of large numbers and founds the program of estimating a probability from observed frequencies; de Moivre’s <em>Doctrine of Chances</em> (1718) defines probability as a ratio of cases and derives the normal approximation to the binomial, the ancestor of every frequentist sampling distribution. Both had epistemic strands, as everyone before Venn did, but if one is going to hold a ritual in which the accursèd frequentists are the outgroup, one should not open it by invoking the two men whose theorems the frequentists teach first. Laplace and Jaynes belong. The list looks as though it was assembled from the names that sound old and probabilistic, which is the process the essay Cached Thoughts describes."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "“You are now a novice of the Bayesian Conspiracy.”",
+    "content": "The story enacts, with evident approval, the mechanism that Joy in Discovery called “the less charitable reading.” Brennan descends 256 steps behind a robed figure, is questioned by a hooded assembly, is humiliated, holds to his answer, and is rewarded with a ring and applause: an initiation ordeal of exactly the kind that the effort-justification and costly-signalling literatures predict will raise his valuation of the group and his commitment to it (Aronson &amp; Mills 1959; <a href=\"https://doi.org/10.1177/1069397103037002003\">Sosis &amp; Bressler (2003)</a>). The essay before this one proposed such rituals for science half in jest; this one writes the ritual out in full and gives it the aesthetic of a mystery cult. The test itself is the Asch paradigm with the sign reversed: a unanimous authority asserts a wrong answer (one-sixth) and the novice is rewarded for dissent. Asch found that a single dissenting ally almost abolished conformity, and that most responses were independent even without one; what his procedure never tested was what happens when the dissent is the thing the group is known to reward. A novice who has learned that the Conspiracy applauds those who contradict the guide will contradict the guide, which is conformity to a different cue. The story is charming and the arithmetic is right. What it models is a community selecting for a performance of independence, and the book’s later history is not free of that."
+  }
+]

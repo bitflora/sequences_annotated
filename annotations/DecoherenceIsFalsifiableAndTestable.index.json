@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/DecoherenceIsFalsifiableAndTestable.fable.json",
+    "default": true
+  }
+]
