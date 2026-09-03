@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "and that Jane would perceive the sarcasm",
+    "content": "The character is June. She becomes Jane twice and June again within the same paragraph, in an essay subtitled \"Why No One Understands You.\" More substantively, the essay runs together two different findings under one name. Keysar's work concerns the illusory transparency of <em>intention</em>: readers assume a message's intended meaning is evident from its words. The \"illusion of transparency\" proper is Gilovich, Savitsky and Medvec's finding that people overestimate how visible their internal states (nervousness, disgust, lying) are to observers (<a href=\"https://doi.org/10.1037/0022-3514.75.2.332\">Gilovich, Savitsky &amp; Medvec 1998</a>), which the essay does not cite and which is about leakage of feeling, not ambiguity of language. Both are real; they are not the same effect and have different explanations."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Additional subjects who overheard the explanation showed no such bias, expecting listeners to understand in only 56% of cases.",
+    "content": "Listeners actually understood 61 percent of the time, so overhearers who expected 56 percent were miscalibrated too, in the opposite direction, by five points against the speakers' eleven. \"No such bias\" is the essay's gloss, not the data's: the bystanders were pessimistic, the speakers optimistic, and neither was accurate. The essay's title promises that no one understands you; the finding is that people understood three times out of five and speakers thought it was closer to three and a half. An eleven-point overestimate is a real effect and a modest one, and the essay reports the numbers and then describes them as if they were larger."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The letter, phrased in polite diplomatese, was heard by Hitler as conciliatory—and the tanks rolled.",
+    "content": "The history is wrong, and Keysar and Barr should not have repeated it. Hitler had ordered preparations for the invasion of Poland in April 1939; Britain's guarantee to Poland had been public since 31 March; the Anglo-Polish treaty of mutual assistance was signed on 25 August, and Hitler responded by postponing the attack scheduled for 26 August, which shows he understood British intent perfectly well. He went ahead on 1 September because he judged Britain would not act effectively, not because a letter was too polite (Kershaw 2000, <em>Hitler 1936-1945: Nemesis</em>; Weinberg 1994, <em>A World at Arms</em>; books, no DOI). Ambiguity of phrasing played no role that any historian of the period has identified. The anecdote illustrates the illusion of transparency only in the sense that the psychologists who told it assumed the reader would not check."
+  }
+]

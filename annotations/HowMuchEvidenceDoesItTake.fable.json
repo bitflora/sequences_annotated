@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "On average, 131 losing tickets will pass such a test for every winner.",
+    "content": "Ten boxes at two bits each give twenty bits, a filter of 2<sup>20</sup> = 1,048,576 to one, and 131,115,984 losing tickets divided by 1,048,576 is 125, not 131. The essay divided by the round \"million to one\" in the quoted objection instead of by the filter strength it had just defined. The conclusion survives (the first all-beeps ticket is still overwhelmingly likely a loser), but the sentence \"that's not a pointless bureaucratic regulation; it's math\" sits next to arithmetic that was not checked. The rest of the essay's numbers (C(70,6) = 131,115,985; 2<sup>27</sup> slightly above it; 34 bits for under one percent error) are correct, and the bits-of-evidence framework itself is standard, originating in Turing's and Good's wartime work (<a href=\"https://doi.org/10.1093/biomet/66.2.393\">Good 1979</a>)."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Suppose you can use another black box to test combinations twice, independently.",
+    "content": "\"Independently\" is the assumption on which the whole multiply-the-odds pipeline rests, and it is the assumption real evidence almost never satisfies. Two witnesses who talked to each other, two tests that share a failure mode, two studies from one lab: their likelihood ratios do not multiply. The canonical disaster is the Sally Clark case, in which an expert multiplied the probability of one cot death by itself to get one in 73 million, ignoring that the deaths shared genetic and environmental causes; the conviction was overturned and the Royal Statistical Society issued a public rebuke (<a href=\"https://doi.org/10.1111/j.1365-3016.2004.00560.x\">Hill 2004</a>). The essay teaches the multiplication and never mentions the condition. A reader who leaves believing \"just multiply the likelihood ratios\" has learned the most common quantitative error in applied inference."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The larger the space of possibilities in which the hypothesis lies",
+    "content": "The size of \"the space of possibilities\" is not given by the world; it is a modelling choice, and different reasonable choices give different answers. The lottery has a natural space of 131 million equiprobable tickets, which is why the example works. For \"is this drug effective,\" \"did the defendant do it,\" or \"is General Relativity true,\" there is no canonical partition, and the prior, hence the evidence \"required,\" depends on which one you pick. This is the reference-class problem, and it is not solved by going Bayesian; it reappears as the choice of prior (<a href=\"https://doi.org/10.1007/s11229-006-9138-5\">H&aacute;jek 2007</a>). \"You cannot defy the rules; it's math\" is true of the update and false of the setup, and the setup is where all the disagreement lives."
+  }
+]

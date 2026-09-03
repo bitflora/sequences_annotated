@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Then there’s only a constant complexity penalty to design your own universal Turing machine",
+    "content": "The constant is unbounded, and for any finite body of data a choice of universal machine exists under which any hypothesis you like is the simplest. Universality therefore does not deliver a language-independent notion of simplicity; the justification of Occam's Razor by Solomonoff induction is circular, because the choice of reference machine is itself a prior that the framework cannot justify (<a href=\"https://doi.org/10.1086/687257\">Sterkenburg 2016</a>). Worse, some universal machines make the predictor behave arbitrarily badly on some environments (Leike &amp; Hutter 2015, \"Bad Universal Priors and Notions of Optimality,\" <em>Proc. COLT</em>, no DOI). \"Only a constant\" is what one says when the constant has been chosen small by convention. The essay's clean grounding of simplicity is the part of the theory its own developers regard as unresolved."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s enormously easier (as it turns out) to write a computer program that simulates Maxwell’s equations, compared to a computer program that simulates an intelligent emotional mind like Thor.",
+    "content": "Since 2017 the program that produces convincing intelligent, emotional conversation is a few hundred lines of transformer code; the complexity sits in learned weights and training data, which a Solomonoff description must include. But the same is true of the Maxwell simulator as an explanation of any actual lightning bolt: to predict this strike it needs the charge distribution of the entire storm, which is not short either. The Minimum Message Length calculus the essay invokes compares total message length, and for a single event both \"Maxwell plus boundary conditions\" and \"Thor plus what Thor did\" are dominated by the specification of the particular case. Simplicity separates theories only once there is enough data for the theory to compress; the essay shows this for the 0101 sequence and then forgets it for the thunderbolt."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The complexity of anger, and indeed the complexity of intelligence, was glossed over by the humans who hypothesized Thor the thunder-agent.",
+    "content": "Relative to a human brain, an agent hypothesis is cheap: the mind-modelling machinery is already built and runs for free, which is why agency detection is over-applied to weather, illness and noises in the dark (<a href=\"https://doi.org/10.1016/S1364-6613(99)01419-9\">Barrett 2000</a>; Guthrie 1993, <em>Faces in the Clouds</em>, book, no DOI). That is the actual explanation of Thor, and it is a fact about the prior humans carry, not a miscount of bits. To declare the Norse wrong on complexity grounds, the essay must measure complexity against a Turing machine rather than against the hearer's brain; but by the essay's own account complexity is relative to a reference machine, and there is no argument given for why a Turing machine is the right reference and a human cortex the wrong one."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "like saying “Phlogiston!”",
+    "content": "Phlogiston did not \"permit everything.\" It predicted that calxes heated with charcoal yield metals, that combustion in a closed vessel stops when the air is saturated, and that air freed of phlogiston supports vigorous burning, the prediction Priestley used to isolate oxygen (<a href=\"https://doi.org/10.1007/978-94-007-3932-1\">Chang 2012</a>). The sequence uses phlogiston repeatedly as the type specimen of an empty explanation, and each time the history is wrong. Note also the asymmetry in the essay's treatment: \"a witch did it\" is condemned because \"it\" is unspecified, but a specified witchcraft theory (she makes coins alternate) would compress the 0101 data as well as any other rule. The razor cuts explanations that don't compress, not explanations that mention agents."
+  }
+]

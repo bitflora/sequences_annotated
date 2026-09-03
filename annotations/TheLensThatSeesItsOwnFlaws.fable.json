@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Lest you think this a trivial ability, remember how rare it is in the animal kingdom.",
+    "content": "Rats, the essay's chosen contrast case give or take a species, monitor their own uncertainty: given the option to decline a perceptual test, they decline more often on trials they would have failed, and are more accurate on the trials they choose to take (<a href=\"https://doi.org/10.1016/j.cub.2007.01.061\">Foote &amp; Crystal 2007</a>); monkeys and dolphins show the same pattern (<a href=\"https://doi.org/10.1017/S0140525X03000116\">Smith, Shields &amp; Washburn 2003</a>). Whether this is metacognition in the full sense is debated, but the ability to represent \"my perception here is unreliable\" is not confined to humans. The distinct human capacity is the explicit theory of one's own perception, and it is worth less than the essay claims: knowing about the M&uuml;ller-Lyer illusion does not make the lines look equal, because early vision is cognitively impenetrable (<a href=\"https://doi.org/10.1017/S0140525X99002022\">Pylyshyn 1999</a>). What humans can do that rats cannot is distrust the picture. They cannot correct it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "then you can apply a reflective correction",
+    "content": "Knowing about a bias does not, in general, reduce it. People informed about a bias continue to exhibit it while rating themselves less susceptible than others, and this bias blind spot is unrelated to intelligence or cognitive sophistication (<a href=\"https://doi.org/10.1177/0146167202286008\">Pronin, Lin &amp; Ross 2002</a>; <a href=\"https://doi.org/10.1287/mnsc.2014.2096\">Scopelliti et al. 2015</a>). Reviews of debiasing find that education and warnings mostly fail, and that what works is structural: checklists, forced consideration of the opposite, changing the format of the problem (<a href=\"https://doi.org/10.1111/j.1745-6924.2009.01144.x\">Lilienfeld, Ammirati &amp; Landfield 2009</a>). A later essay in this book, <em>Knowing About Biases Can Hurt People</em>, concedes as much. The lens can see its flaws; the evidence is that seeing them is not the same as correcting them, and that the second-order correction the essay promises is mostly not available to the individual who understands his own mind."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Pondering this business of “performing replicable experiments to falsify theories,” we can see why it works.",
+    "content": "This is Popperian falsificationism offered as \"the whole idea of Science,\" and it is a position the sequence rejects a few essays later, where Traditional Rationality's falsifiable-prediction standard is said to be insufficient and Bayesian updating is offered instead. It is also not how science works on the record: theories are not abandoned on a failed prediction but protected by auxiliary hypotheses until a better theory exists, which is what the history of phlogiston, of Newtonian anomalies and of the neutrino shows (Lakatos 1970, in <a href=\"https://doi.org/10.1017/CBO9781139171434\">Lakatos &amp; Musgrave</a>). \"We can see why it works\" is asserted for a method the philosophy of science spent fifty years showing does not describe the practice, and which the author, in the same book, says he grew out of."
+  }
+]

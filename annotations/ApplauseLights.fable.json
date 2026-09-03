@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Something like the Human Genome Project—that was an internationally sponsored research project.",
+    "content": "The Human Genome Project had a conflict-resolution mechanism. The Bermuda Principles of 1996, negotiated among funders and sequencing centers, required release of sequence data within 24 hours and governed priority, credit and the public consortium's response to Celera's private effort, which was the project's central conflict (<a href=\"https://doi.org/10.1007/s10739-018-9538-7\">Maxson Jones, Ankeny &amp; Cook-Deegan 2018</a>). The speaker named a real model with a real rule. That he could not derive it at the microphone does not show the word \"democratic\" was empty for him; most political scientists could not give a one-sentence conflict-resolution mechanism for the United States either."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The substance of a democracy is the specific mechanism that resolves policy conflicts.",
+    "content": "This is a stipulation, and a minority one: Schumpeterian minimalism. Standard theory and measurement treat democracy as a bundle of participation, contestation, accountability, transparency and civil liberties (Dahl 1971, <em>Polyarchy</em>, book, no DOI; <a href=\"https://doi.org/10.1017/S1537592711000880\">Coppedge et al. 2011</a>). \"Democratic development of AI\" plausibly meant publicly accountable, non-secret, multi-stakeholder development, and the speaker's answer, an international public consortium with open data, was a specification along those dimensions. The essay redefined the word to its own narrow sense and then found the speaker had said nothing in that sense."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Since the reversal sounds abnormal, the unreversed statement is probably normal, implying it does not convey new information.",
+    "content": "The test is Grice's maxim of quantity (Grice 1975, in <em>Syntax and Semantics</em> 3, book chapter, no DOI) turned into an algorithm, and it has the defect the essay concedes a sentence later: propositions and speech acts differ. \"We will not torture prisoners\" reverses to something abnormal and is not an applause light when said by a government that has been torturing prisoners; its content is the commitment. The test has no base rate, so it flags every on-the-record commitment to an uncontroversial norm as vacuous, which is precisely the class of statement institutions most need to make. The name also collides with the \"reversal test\" of <a href=\"https://doi.org/10.1086/505233\">Bostrom &amp; Ord 2006</a>, a different and better-specified tool, published the year before."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I think it means that you have said the word “democracy,” so the audience is supposed to cheer.",
+    "content": "The concept is \"glittering generalities,\" one of the seven devices catalogued by the Institute for Propaganda Analysis in 1937 (Lee &amp; Lee 1939, <em>The Fine Art of Propaganda</em>, book, no DOI), and Orwell's \"Politics and the English Language\" (1946) covers the same ground. The essay coins a new name for a seventy-year-old concept without acknowledging it. The phenomenon is real: people rate vacuous statements as profound (<a href=\"https://doi.org/10.1017/S1930297500006999\">Pennycook et al. 2015</a>), though that work uses syntactically random sentences, whereas applause lights are maximally predictable ones. Their function is coordination and signaling of coalition membership, which is information, just not propositional information about AI. Calling it \"not a propositional statement\" is correct and does not make it empty."
+  }
+]

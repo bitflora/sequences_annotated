@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/Feeling-Rational.fable.json",
+    "default": true
+  }
+]

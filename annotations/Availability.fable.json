@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Men on flood plains appear to be very much prisoners of their experience",
+    "content": "The sentence is not from the paper the essay cites. The quoted words are Kates's, from his 1962 study of floodplain residents (<em>Hazard and Choice Perception in Flood Plain Management</em>, book, no DOI), quoted onward in the hazard literature of the 1970s; the cited 1993 article by Kunreuther, Hogarth and Meszaros concerns insurers' aversion to ambiguous risks and is about a different actor and a different question. The attribution appears to have been assembled from a secondary source. The phenomenon the quotation describes, that experienced floods set a ceiling on imagined ones, is real; the citation trail offered for it is not."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "events that have never happened are not recalled, and hence deemed to have probability zero",
+    "content": "The later evidence on flood insurance does not fit an \"absurdity bias.\" Take-up rises sharply after a flood, in the flooded community and in neighboring ones that did not flood, and then decays over about a decade, a pattern consistent with people updating on salient information and forgetting, not with assigning zero to unexperienced events (<a href=\"https://doi.org/10.1257/app.6.3.206\">Gallagher 2014</a>). Demand also responds to price and income like an ordinary good (<a href=\"https://doi.org/10.1023/A:1007823631497\">Browne &amp; Hoyt 2000</a>), and much non-purchase reflects expectations of federal disaster relief, a rational response to a subsidy the essay does not mention. Availability is part of the story. \"Probability zero\" is a caricature of what the purchasers were doing, offered in place of the incentives that explain most of it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "damage per flood is afterward so much greater that average yearly damage increases",
+    "content": "The \"levee effect\" (protection encourages development behind it) is real, but the causal claim that dams raise average annual damage is not what the cited source shows and is not supported by the damage record. Rising flood losses in the United States track growth in floodplain population and wealth; normalized for exposure, damage per unit of wealth shows no upward trend (<a href=\"https://doi.org/10.1175/1520-0442(2000)013%3C3625:PACIUS%3E2.0.CO;2\">Pielke &amp; Downton 2000</a>). Development behind levees is also a predictable response to lowered expected loss and to subsidized insurance and relief, which is an incentive story, not a cognitive one. The essay considers incentive failures for airports in the next installment and does not consider them here, where the same explanation is at least as good."
+  }
+]

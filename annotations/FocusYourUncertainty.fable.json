@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "it seems unlikely that bond prices will remain the same",
+    "content": "The parable's one concrete act of probabilistic judgment is wrong in the domain it chose. Bond yields respond to the <em>unexpected</em> component of a Federal Reserve announcement, not to the announcement itself, because the expected component is already priced (<a href=\"https://doi.org/10.1016/S0304-3932(01)00055-1\">Kuttner 2001</a>); a scheduled announcement is no reason to expect a move. Professional forecasters' directional calls on interest rates are not reliably better than a coin flip and typically fail to beat a no-change forecast (<a href=\"https://doi.org/10.1016/S0169-2070(02)00033-6\">Greer 2003</a>; <a href=\"https://doi.org/10.1016/j.jmacro.2006.05.005\">Mitchell &amp; Pearce 2007</a>). The pundit who \"focuses uncertainty\" on the announcement is doing exactly what the literature shows does not work. The essay picked an example where the correct allocation is close to uniform and used it to ridicule uniform allocation."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "pairs of numbers, right and left numbers, which you’d call DS for Dexter-Sinister",
+    "content": "This is a sneer at Dempster-Shafer theory, which really does use pairs of numbers (belief and plausibility) and is a serious formalism with a mathematical literature (<a href=\"https://doi.org/10.1214/aoms/1177698950\">Dempster 1967</a>; Shafer 1976, <em>A Mathematical Theory of Evidence</em>, book, no DOI), as is the broader programme of imprecise probability (Walley 1991, book, no DOI). The essay's alternative, that anticipation must behave like a single conserved quantity, is the conclusion of Cox's theorem, and Cox's theorem has known gaps: its assumptions are stronger than usually stated and there are counterexamples where they fail (<a href=\"https://doi.org/10.1613/jair.536\">Halpern 1999</a>). Whether uncertainty must be a single number is a live question in the foundations of probability. Mocking the notation is not an argument that it is settled."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "your utility function is logarithmic in time spent preparing the excuse",
+    "content": "This parenthesis does all the work. Under logarithmic utility the optimal allocation of preparation time is proportional to the probabilities (the Kelly rule), which is the essay's punchline. Under linear utility you put all 100 minutes on the single most probable outcome; under a threshold utility (an excuse is either ready or not) you cover as many outcomes as you can finish. So the moral that anticipation should be spread \"like money\" in proportion to probability is not a fact about probability at all; it is an artefact of a utility function slipped in as an aside and never defended. The parable presents a decision-theoretic result as if it were forced by the nature of uncertainty."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If only there were an art of focusing your uncertainty",
+    "content": "There is, and it has been tested, which the essay's rhetorical question does not anticipate. Forecasting tournaments show that explicit probabilistic forecasting, with training and feedback, does beat vague anticipation (<a href=\"https://doi.org/10.1177/0956797614524255\">Mellers et al. 2014</a>). But the gains came from a one-hour calibration course, team aggregation and selection of the top two percent, not from the bare insight that anticipation is a conserved quantity. Untrained individuals who assign numbers are badly overconfident (Lichtenstein, Fischhoff &amp; Phillips 1982, in Kahneman, Slovic &amp; Tversky, book chapter, no DOI). The parable's target, the person who refuses numbers, and the parable's hero, the person who uses them, perform about the same until the hero has been trained and scored against outcomes."
+  }
+]

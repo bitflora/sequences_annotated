@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/ScienceAsAttire.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/ScienceAsAttire.fable.json",
+    "default": true
   }
 ]

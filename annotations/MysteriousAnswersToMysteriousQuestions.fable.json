@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Lord Kelvin sure did get a tremendous emotional kick out of not knowing something.",
+    "content": "Kelvin's passage makes a physical claim: that the animal body does not act as a thermodynamic engine and that living matter directs particles in a way the fortuitous concurrence of atoms cannot. That claim was testable and was tested. The respiration calorimeter experiments of Atwater and Benedict (1899-1905) showed energy conservation holding in human subjects to within a fraction of a percent, and the whole apparatus of energy balance in physiology followed. Kelvin's vitalism was a false hypothesis about thermodynamics, not a curiosity-stopper, and it was refuted by measurement, which is what the essay says vitalists' beliefs could not be. The mind-reading (\"emotional kick\") is applied to a physicist who had spent his life quantifying things and who framed his vitalism as a claim about energy."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Wöhler’s later synthesis of urea",
+    "content": "Later than what? W&ouml;hler synthesized urea in 1828; Kelvin's remarks quoted above date from the 1890s and 1903. Vitalism in its strongest forms persisted for seventy-five years after the \"major blow,\" and the historians' verdict is that the blow is a textbook myth: W&ouml;hler's own contemporaries, including Berzelius and Liebig, did not take the synthesis to refute vitalism, and the doctrine declined slowly under a mass of results rather than falling to one (<a href=\"https://doi.org/10.1179/amb.2000.47.3.170\">Ramberg 2000</a>). The essay has the chronology reversed and the significance inflated. In an essay about the psychology of fake explanations, the history offered is the fake-explanation version of the history."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Second, the hypothesis has no moving parts",
+    "content": "By this sign, the most productive concept in the history of biology was a mysterious answer. The \"gene\" was, from Mendel's \"factors\" through Johannsen's coinage in 1909 and for four decades after, an inferred substance with no moving parts, explicitly defined as agnostic about its material basis (<a href=\"https://doi.org/10.1016/0039-3681(86)90024-5\">Falk 1986</a>). So was caloric, which gave Carnot the second law; the ether, in which Maxwell's equations were derived; the neutrino, Pauli's \"desperate remedy,\" a posited particle with no internal structure detected 26 years later; and dark matter today. Postulating a hidden carrier for a property, and working out its consequences before knowing what it is made of, is the standard successful move of theoretical science. The four signs flag it every time. A checklist that condemns the gene in 1900 is not a test for fake explanations; it is a test for explanations that are not finished."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "In a comedy written by Moliére",
+    "content": "Moli&egrave;re, not Moli&eacute;re. On the substance: the dormitive-virtue answer is the sequence's paradigm of vacuity, and it is not vacuous. It asserts that the sleep is caused by a property of the opium rather than of the patient, the hour, or the setting, which excludes real alternatives and can be tested by giving the drug to other patients and other things to this one. Dispositional explanations locate the cause, which is why medicine still uses them (\"the drug is sedative\") before the mechanism is known. Moli&egrave;re's joke was about pompous physicians dressing up a truism in Latin; it was not a discovery that locating a cause in a substance explains nothing, and the essay borrows the joke for a thesis it does not support."
+  }
+]

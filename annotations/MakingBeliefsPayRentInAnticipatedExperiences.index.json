@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/MakingBeliefsPayRentInAnticipatedExperiences.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/MakingBeliefsPayRentInAnticipatedExperiences.fable.json",
+    "default": true
   }
 ]

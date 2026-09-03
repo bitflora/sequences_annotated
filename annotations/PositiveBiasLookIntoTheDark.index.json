@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/PositiveBiasLookIntoTheDark.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/PositiveBiasLookIntoTheDark.fable.json",
+    "default": true
   }
 ]

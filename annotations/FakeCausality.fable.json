@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You couldn’t even use phlogiston theory to say what you ought not to see; it could explain everything.",
+    "content": "It prohibited things, and one of the prohibited things was observed, which is how it died. Phlogiston theory said burning bodies lose a substance, so calcined metals must lose weight; they gain weight, an anomaly the theory absorbed for decades with auxiliary hypotheses and finally could not. It predicted that combustion is impossible without air to absorb the phlogiston, which is correct, and that an air stripped of phlogiston would support unusually vigorous burning, the prediction Priestley used to isolate oxygen and call it \"dephlogisticated air.\" Cavendish identified hydrogen with phlogiston itself and predicted its flammability. These are advance predictions, some right and one fatally wrong (<a href=\"https://doi.org/10.1007/978-94-007-3932-1\">Chang 2012</a>). Fourth essay in this book to use phlogiston as the type specimen of an unfalsifiable theory; the history is wrong each time."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "if we already know that the sidewalk is wet, learning that the sidewalk is slippery tells us nothing more about whether it rained",
+    "content": "This is the causal Markov condition, and the claim that human cognition implements it is one of the better-tested predictions of the causal-Bayes-net programme, and one of the worst-supported. People systematically violate it: told that the intermediate cause is present, they still treat its effects as evidence about the root cause (<a href=\"https://doi.org/10.1016/j.cogpsych.2004.11.001\">Rehder &amp; Burnett 2005</a>), and a review of the literature finds the deviations pervasive and stable (<a href=\"https://doi.org/10.1037/a0031903\">Rottman &amp; Hastie 2014</a>). \"Modern research suggests that humans think about cause and effect using something like Bayes nets\" was a hypothesis in 2004; by 2014 the research suggested they do not, or only in a heavily qualified sense. The essay's diagnosis of phlogiston as a message-passing error presupposes the model that the data undermine."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "A properly designed AI would notice the problem instantly.",
+    "content": "Exact inference in Bayesian networks is NP-hard (<a href=\"https://doi.org/10.1016/0004-3702(90)90060-D\">Cooper 1990</a>), and Pearl's message-passing algorithm is exact only on singly-connected graphs; on any network with loops, which is any realistic causal model, the messages do circulate and double-count, and \"loopy\" belief propagation is an uncontrolled approximation. The problem the essay calls \"just correct bookkeeping\" is the central open problem of the field, and the double-counting the phlogiston theorists are accused of is what the exact algorithm itself does on a graph with a cycle. A \"properly designed AI\" with rigorous bookkeeping is one that cannot finish computing. The essay's contrast between the messy human and the clean machine is drawn from a textbook chapter on polytrees."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Speaking of “hindsight bias” is just the nontechnical way of saying that humans do not rigorously separate forward and backward messages",
+    "content": "This is the author's own theory of hindsight bias, presented as a translation. The hindsight literature explains the effect by memory reconstruction and knowledge updating: once the outcome is known, the original judgment is rebuilt from current knowledge rather than retrieved (<a href=\"https://doi.org/10.1037/0033-2909.107.3.311\">Hawkins &amp; Hastie 1990</a>), and it decomposes into at least three dissociable components, memory distortion, impressions of foreseeability, and impressions of inevitability, with different causes (<a href=\"https://doi.org/10.1016/j.cognition.2007.07.007\">Blank et al. 2008</a>). None of this is message contamination in a belief network, and no study has tested the message-passing account. \"Just the nontechnical way of saying\" turns a speculative reduction into a definition."
+  }
+]

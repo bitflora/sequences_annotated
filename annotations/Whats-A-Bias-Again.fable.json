@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "biases arise from machinery that is humanly universal",
+    "content": "Assumed, not shown. The heuristics-and-biases catalogue was built almost entirely from American undergraduates, and where it has been tested cross-culturally, supposedly universal effects vary or vanish: the M&uuml;ller-Lyer illusion is near-absent among San foragers, the fundamental attribution error is much weaker in East Asian samples, and overconfidence, fairness norms and even spatial cognition differ across populations (<a href=\"https://doi.org/10.1017/S0140525X0999152X\">Henrich, Heine &amp; Norenzayan 2010</a>). The essay's worked example, that Plato's preference for philosopher-kings arose from \"a universal adaptive political instinct for self-promotion,\" is a just-so story about a dead man's motives, which is offered as the model of how to identify a bias. \"Humanly universal\" is what the definition needs to distinguish bias from culture; it is the part with the least evidence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "for example, the machinery to win arguments in adaptive political contexts",
+    "content": "This speculation was later developed into a full theory, and the theory's conclusion inverts the sequence's programme. The argumentative theory of reasoning holds that human reasoning evolved to produce and evaluate arguments in dialogue, which explains why confirmation bias is strong in solitary reasoning and weak when evaluating others' arguments, and why groups arguing reach correct answers that individuals do not (<a href=\"https://doi.org/10.1017/S0140525X10000968\">Mercier &amp; Sperber 2011</a>). If that is the machinery, the remedy for bias is not the individual studying his own flaws and applying \"reflective corrections,\" which is the book's method, but exposure to disagreement. The essay guesses the mechanism correctly and draws from it the prescription the mechanism argues against."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Our brains are doing something wrong",
+    "content": "\"Wrong\" relative to a norm, and the choice of norm is where the dispute lies. Gigerenzer's critique of the programme is that many classic biases are measured against a standard (single-event probability, a particular reading of \"probable,\" independence from context) that is not the only reasonable one, and that under alternative norms the \"error\" often disappears (<a href=\"https://doi.org/10.1037/0033-295X.103.3.592\">Gigerenzer 1996</a>). The subsequent decade sorted the catalogue: anchoring, hindsight and the planning fallacy replicate; social priming, ego depletion and much of the embodiment literature do not. The essay's list (\"conjunction fallacies, overconfidence, availability, representativeness, base-rate neglect\") is the 1982 canon presented as an empirical cluster, without noting that what counts as a member depends on a normative choice and that the cluster has since lost members."
+  }
+]

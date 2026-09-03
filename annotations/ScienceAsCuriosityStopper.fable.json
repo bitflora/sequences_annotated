@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But because someone else knows, it devalues the knowledge in your eyes.",
+    "content": "The curiosity literature says the opposite. Curiosity is an information-gap response, and it requires the belief that the gap can be closed; people are most curious about questions whose answers exist and are nearly within reach, and least curious about questions they think unanswerable (<a href=\"https://doi.org/10.1037/0033-2909.116.1.75\">Loewenstein 1994</a>; <a href=\"https://doi.org/10.1111/j.1467-9280.2009.02402.x\">Kang et al. 2009</a>). \"Someone else knows\" is a signal that the gap is closable, and it raises curiosity, which is why trivia games work and why people look things up. The essay's psychology, in which the existence of an answer elsewhere makes the question less interesting, is asserted from introspection and contradicted by the experiments. What actually deflates curiosity is the belief that no answer is available, the condition the essay treats as maximally intriguing."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Is this not spite?",
+    "content": "It is prioritization, which the essay concedes two paragraphs later (\"Prioritize, if you must\") without noticing that the concession dissolves the argument. Under a division of cognitive labor, the marginal value of one more person investigating a solved problem is low, and a curiosity drive that allocated attention without regard to what is already known would be maladaptive; curiosity evolved to acquire useful information and is sensitive to its expected value (<a href=\"https://doi.org/10.2307/2026796\">Kitcher 1990</a>; <a href=\"https://doi.org/10.1016/j.neuron.2015.09.010\">Kidd &amp; Hayden 2015</a>). \"Somebody already knows why this elephant is here\" is a bad reason to walk past an elephant because the elephant is anomalous, not because someone knows; the light switch is not anomalous, and the different response to the two is correct."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "In school, one is taught that the password to the light bulb is “Electricity!”",
+    "content": "The illusion of explanatory depth is real: people are confident they understand how a zipper or a flush toilet works until asked to explain it, and their confidence drops sharply when they try (<a href=\"https://doi.org/10.1207/s15516709cog2605_1\">Rozenblit &amp; Keil 2002</a>). Two qualifications. The illusion is not specific to scientific labels; it applies equally to devices, procedures and policies, so \"Science!\" is not doing special work. And the same study shows the illusion is dispelled simply by asking for an explanation, which is a cheap fix that does not require retraining a \"curiosity-stopper.\" The essay's phenomenon exists; its mechanism (the word \"electricity\" as a spell) is not the one the research identifies, and its remedy (be intrigued by everything) is not the one that works."
+  }
+]

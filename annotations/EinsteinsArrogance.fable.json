@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A journalist asked Einstein what he would do if Eddington’s observations failed to match his theory.",
+    "content": "The source for the quotation is Ilse Rosenthal-Schneider, a student, who recalls Einstein handing her Lorentz's telegram reporting the eclipse results and, when she asked what he would have done had they come out otherwise, replying \"Then I'd have to feel sorry for the dear Lord; the theory is correct anyway\" (Rosenthal-Schneider 1980, <em>Reality and Scientific Truth</em>, book, no DOI). It was said after the confirmation arrived, to a student, about a counterfactual. No journalist, and no advance defiance of the test. An essay about how confident a theorist was before the experiment is built on a remark made after it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Of course, Einstein did turn out to be right.",
+    "content": "Right about General Relativity, but not by virtue of the 1919 test as the essay frames it. The eclipse plates were marginal: the Sobral astrographic plates favored the Newtonian half-deflection and were set aside, and historians have argued the 1919 data could not have decided the question (<a href=\"https://doi.org/10.2307/27757471\">Earman &amp; Glymour 1980</a>); later defenses of Eddington (<a href=\"https://doi.org/10.1063/1.3099578\">Kennefick 2009</a>) argue his choice was justified but concede the precision was poor. GR was accepted on Mercury's perihelion and on later, better light-deflection measurements. The essay's clean picture, one prediction, one decisive test, one vindicated theorist, is the textbook myth rather than the record."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Einstein must have had, already in his possession, sufficient observational evidence to single out the complex equations of General Relativity for his unique attention.",
+    "content": "He did not, and the record shows it directly. In 1913 Einstein published the \"Entwurf\" theory, defended it for two years, convinced himself it was uniquely correct, and it was wrong; the final field equations of November 1915 came only after he abandoned it, and the perihelion of Mercury, the one observational anomaly available, was computed as a check afterwards (<a href=\"https://doi.org/10.1002/andp.200410130\">Janssen 2005</a>). What located the theory was not observational bits but mathematical constraints: general covariance, the Newtonian limit, energy conservation. Einstein himself described the fundamental concepts of physics as \"free creations of the human mind\" that cannot be derived from experience (1933 Herbert Spencer lecture). The essay's model of hypothesis-location by entangled evidence is refuted by the case it uses to illustrate it: the same brain, with the same evidence, first singled out the wrong equations."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Einstein probably had overwhelmingly more evidence than would, in principle, be required for a perfect Bayesian to assign massive confidence to General Relativity.",
+    "content": "The argument proves too much. The same brain, with the same physics reading, was equally sure that quantum mechanics was incomplete (\"God does not play dice\"), that gravitational waves did not exist (1936 draft, withdrawn), that Schwarzschild singularities \"do not exist in physical reality\" (<a href=\"https://doi.org/10.2307/1968902\">Einstein 1939</a>), and that a unified field theory was within reach, on which he spent thirty years. If \"he could not have singled out GR without enough evidence to be damn sure\" were a valid inference, it would license the same confidence in each of these, and each was wrong. The essay reasons from the one confident intuition that survived and does not mention the ones that did not. It has selected on the outcome and called the result a law."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Suppose General Relativity is a 29.3-bit hypothesis.",
+    "content": "No meaning attaches to this number. The bit-count of a hypothesis depends on the description language, and under the Solomonoff prior the essay endorses in the next installment, the point of a simple hypothesis is that it has high prior already, so that little evidence is needed to raise it; the \"27 bits just to locate\" framing treats a hundred million alternatives as equiprobable, which is exactly the uniform prior Occam's Razor rejects. GR's alternatives are not a hundred million equiprobable theories; they are the handful that reduce to Newton and conserve energy, and most of the \"evidence\" that eliminated them was consistency, which is not observational. The essay's numbers are for the lottery of the previous essay, imported into a problem with none of the lottery's structure."
+  }
+]

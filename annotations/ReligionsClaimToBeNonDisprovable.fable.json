@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Back in the old days, people actually believed their religions instead of just believing in them.",
+    "content": "The history of religions says roughly the opposite. \"Belief\" as the defining feature of religion is a Christian and especially post-Reformation development; ancient Greek, Roman, Israelite and most non-Western religions were orthopraxic, organized around correct ritual rather than assent to propositions (Smith 1977, <em>Belief and History</em>; Ruel 1982, \"Christians as Believers\"; books, no DOI). Veyne argued that the Greeks held myth in a modality distinct from historical fact (<em>Did the Greeks Believe in Their Myths?</em>, 1988, book, no DOI), and cognitive work suggests this two-track structure is general (<a href=\"https://doi.org/10.1016/j.cognition.2014.08.015\">Van Leeuwen 2014</a>). The \"old days\" of straightforward factual belief are modern fundamentalism, itself largely a nineteenth-century reaction to modern science, projected backward."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "In not one single passage of the Old Testament will you find anyone talking about a transcendent wonder at the complexity of the universe.",
+    "content": "Psalm 8:3-4: \"When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; what is man, that thou art mindful of him?\" Psalm 19:1, Psalm 104 (an entire hymn to the natural order), Ecclesiastes 3:11, and Job 38-41, four chapters in which God answers Job with a catalogue of cosmological and zoological wonders whose whole point is that the universe exceeds human comprehension. This is checkable in minutes and false. It matters because the essay's thesis is that scripture only ever made checkable factual claims and had no register of wonder; the Wisdom literature is precisely the register the essay says does not exist."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "rabbits chewing their cud",
+    "content": "Leviticus 11:6 says the hare chews the cud. Hares and rabbits practice cecotrophy, re-ingesting soft caecal pellets for a second pass through the gut, and they visibly chew while doing so (<a href=\"https://doi.org/10.1046/j.1365-2907.2001.00079.x\">Hirakawa 2001</a>). A Bronze Age observer calling that \"chewing the cud\" is describing a real behavior with the categories available. This is not a defense of Leviticus as zoology. It is that an essay accusing others of not checking picks, as its example of self-evident scientific error, a case with an empirical basis, when actual errors were available (four-legged insects in the same chapter, the mustard seed as smallest of seeds)."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "enforced religious tolerance",
+    "content": "Rome suppressed the Bacchanalia in 186 BC with mass executions, outlawed the Druids, expelled Jews from the city under Tiberius and Claudius, executed Christians under Nero, required universal sacrifice on pain of death under Decius (<a href=\"https://doi.org/10.2307/300738\">Rives 1999</a>) and Diocletian, and burned Manichaeans. Roman policy was tolerance of cults that joined civic religion and suppression of those that would not, which describes precisely the communities whose scriptures the essay is discussing. \"Enforced religious tolerance\" inverts the record for the one case that matters to the argument."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the New Testament doesn’t claim big, showy, large-scale geopolitical miracles as the Old Testament routinely did",
+    "content": "Matthew 27:45-53: three hours of darkness over the whole land at midday, an earthquake, the Temple veil torn, and tombs opening with \"many\" dead saints walking into Jerusalem and being seen by many. No Roman, Greek or Jewish source records any of it, and Josephus, who wrote at length about Jerusalem in that period, does not mention it. Matthew 2:16 has Herod massacre the infants of Bethlehem, absent from Josephus's detailed catalogue of Herod's crimes; Revelation 17-18 narrates the fiery destruction of \"Babylon,\" universally read as Rome. The essay's mechanism, that Roman libraries constrained the evangelists to small miracles, is refuted by the passion narrative, which the essay could have read."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "The orthogonality of religion and factual questions is a recent and strictly Western concept.",
+    "content": "Origen (<em>De Principiis</em> IV, c. 230) called literal readings of the first days of Genesis absurd. Augustine's <em>De Genesi ad Litteram</em> (c. 415) warned that Christians who assert falsehoods about nature on scriptural authority bring scripture into contempt among those who know better. Maimonides' <em>Guide for the Perplexed</em> (c. 1190, written in Arabic in Cairo) held that where scripture conflicts with demonstrated truth, scripture must be read allegorically, and Averroes' <em>Decisive Treatise</em> (c. 1179, Cordoba) made the same argument for the Qur'an. The doctrine that scripture defers to demonstrated natural knowledge is about 1,800 years old and was worked out in Alexandria, Cairo and al-Andalus. The essay's \"Big Lie\" is the mainstream position of medieval Christian, Jewish and Islamic philosophy; the recent invention is the literalism the essay treats as religion's original state."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "Ethics is what’s left.",
+    "content": "This is the secularization thesis: religion retreats as science and the state advance. Its principal proponents abandoned it. Berger, its most cited author, recanted in <em>The Desecularization of the World</em> (1999, book, no DOI); Stark's \"Secularization, R.I.P.\" (<a href=\"https://doi.org/10.2307/3711936\">1999</a>) reviews the failed predictions; religious affiliation is growing in absolute terms and, outside Western Europe and East Asia, in share. The essay generalizes from the intellectual circles of secular Western countries to \"religion.\" It also contradicts itself: three paragraphs later it says the separate-magisterium view distorts \"what the majority of religious people on Earth still believe,\" so for the majority, by the essay's own account, ethics is not what's left."
+  }
+]

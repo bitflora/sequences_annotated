@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In our ancestral environment, there were no movies; what you saw with your own eyes was true.",
+    "content": "What you saw with your own eyes was not reliably true then and is not now. Eyewitness memory is reconstructive, is altered by the wording of later questions, and is the leading cause of wrongful convictions overturned by DNA evidence (<a href=\"https://doi.org/10.1016/0010-0285(75)90023-7\">Loftus 1975</a>; <a href=\"https://doi.org/10.1146/annurev.psych.54.101601.145028\">Wells &amp; Olson 2003</a>). And the ancestral environment was saturated with narrative: oral storytelling, myth and gossip were the main channels of information about anything not personally witnessed, so a mind that could not weigh secondhand and fictional accounts would have been at a disadvantage. The evolutionary just-so story here supports a claim about perception that perception research rejects, in aid of a distinction between seeing and reading that the essay itself then dissolves (\"photons and history books both descend by causal chains\")."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I should try to think as if everything I read about in history books had actually happened to me.",
+    "content": "Imagining that an event happened to you is the standard laboratory method for creating false memories: a single session of imagining a childhood event raises confidence that it occurred (<a href=\"https://doi.org/10.3758/BF03212420\">Garry, Manning, Loftus &amp; Sherman 1996</a>). The proposal also reproduces the error the essay opens by condemning. History books are narratives, selected and shaped for legibility, and the vivid, available historical analogy (Munich, Vietnam) is the best-documented source of policy error in the study of foreign-policy decision making, precisely because decision makers \"remember\" it as if they had lived it (Khong 1992, <em>Analogies at War</em>; Jervis 1976, <em>Perception and Misperception</em>; Neustadt &amp; May 1986, <em>Thinking in Time</em>; books, no DOI). The essay's remedy for insufficient availability of history is to manufacture the availability bias that its own citation on cognitive biases warns against."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "So many mistakes, made over and over and over again, because I did not remember making them, in every era I never lived",
+    "content": "The essay's model of historical error is amnesia: people repeat mistakes because they did not feel the earlier ones. The alternative, better-supported model is that people repeat mistakes because the lessons are ambiguous. The fall of Rome has been attributed to two hundred and ten distinct causes in the scholarly literature (Demandt 1984, <em>Der Fall Roms</em>, book, no DOI); \"the lesson of Munich\" and \"the lesson of Vietnam\" point in opposite directions and were both invoked, by people who remembered them vividly, to justify the Iraq war. Feeling history more strongly does not resolve which lesson it teaches; it makes whichever lesson is most available feel like a memory. The essay proposes intensity as a cure for a problem of interpretation."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You mean if I can make an Artificial Intelligence, it proves your religion is false?",
+    "content": "This begs the question. \"Only God can make a soul\" entails \"no AI\" only if intelligence requires a soul, so the man can consistently hold that whatever is built lacks a soul and is therefore not intelligent in his sense. That is not fast footwork; it is the content of his position, and its secular twin is the Chinese Room (<a href=\"https://doi.org/10.1017/S0140525X00005756\">Searle 1980</a>), which denies that behavioral success establishes understanding. The trap works only if the man has already granted a functionalist criterion of intelligence, which is the very thing in dispute. What the narrator calls making the hypothesis vulnerable to falsification is redefining it until it becomes vulnerable."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "starts talking about an emotional life that sounds like ours, that means your religion is wrong",
+    "content": "This test has now been run. Since 2022 language models trained on human text, not scripted, routinely produce fluent first-person talk about feelings; a Google engineer publicly concluded one was sentient and was dismissed, and a majority of surveyed adults attribute some experience to ChatGPT (<a href=\"https://doi.org/10.1093/nc/niae013\">Colombatto &amp; Fleming 2024</a>). No religion was falsified and nobody, Yudkowsky included, treats the result as decisive: both sides say the talk is not the thing. That is the response the dinner guest was mocked for, and it turned out to be the reasonable one. The \"prediction\" extracted at the party was never a prediction either party held; it was a debating maneuver, and the subsequent history of AI exposed it as empty."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If two people disagree with each other, at least one of them must be doing something wrong.",
+    "content": "Aumann's theorem (<a href=\"https://doi.org/10.1214/aos/1176343654\">1976</a>) requires common priors and common knowledge of one another's posteriors. The common-prior assumption is the contested part and is widely regarded as unjustified (<a href=\"https://doi.org/10.1017/S0266267100003382\">Morris 1995</a>); two Bayesians with different priors can disagree forever with neither doing anything wrong. Nor is what happened in the story Aumann convergence: no one's beliefs moved. The man withdrew to a claim that was never in dispute and the narrator declared agreement. The theorem was used to deny him the exit \"agree to disagree,\" then cited as vindicated when he took a different exit. By the narrator's own gloss, the man walking away still religious means someone was doing something wrong, and the theorem does not say which one."
+  }
+]

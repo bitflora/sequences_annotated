@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The claimant must have an accurate model of the situation somewhere in their mind, because they can anticipate, in advance, exactly which experimental results they’ll need to excuse.",
+    "content": "The inference is invalid, and the parable itself shows why: the claimant never anticipates anything in advance. Every excuse is produced after a specific test is proposed, which is exactly what motivated reasoning generates on demand. Given a conclusion to protect and a threat to it, people construct a rationalization for that threat with no prior model of the outcome (<a href=\"https://doi.org/10.1037/0033-2909.108.3.480\">Kunda 1990</a>). A generator of ad hoc excuses is indistinguishable from an \"accurate hidden model\" on the evidence the parable provides. The essay's central psychological claim, that the believer secretly knows, is projected onto the story, not derived from it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Some philosophers have been much confused by such scenarios",
+    "content": "The philosophers were not confused; they had already drawn the distinction more carefully. Sperber's account of \"reflective\" beliefs that are held as authoritative representations but do not feed inference the way intuitive beliefs do (<a href=\"https://doi.org/10.1111/1468-0017.00036\">Sperber 1997</a>) predates this essay by a decade and covers the dragon-claimant exactly. Gendler's \"alief\" (<a href=\"https://doi.org/10.5840/jphil20081051025\">Gendler 2008</a>) names behavior-guiding states that diverge from avowed belief, and Van Leeuwen's factual-belief/religious-credence distinction (<a href=\"https://doi.org/10.1016/j.cognition.2014.08.015\">Van Leeuwen 2014</a>) lists the diagnostic properties and tests them. \"As if the human brain only had enough disk space to represent one belief at a time\" mocks a field for missing what that field had articulated with more precision than the essay does."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "not unless they are unusually capable of acknowledging their own lack of virtue",
+    "content": "This clause immunizes the thesis: any person who does admit to believing in belief is reclassified as \"unusually capable,\" which is structurally the dragon being permeable to flour. And the exception is not rare. Evangelicals interviewed at length describe faith as a cultivated, chosen, \"as if\" practice that one works at because it is good to have (<a href=\"https://doi.org/10.1086/666529\">Luhrmann 2012</a>); the stance is doctrine, from \"Lord, I believe; help thou mine unbelief\" (Mark 9:24) to Pascal's advice to act as if one believed until belief follows. Believing that one ought to believe is openly avowed by a large religious population, not a hidden shame that only the exceptionally honest can face."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "you may remember a time period when you first began to doubt Santa Claus’s existence, but you still believed that you were supposed to believe in Santa Claus, so you tried to deny the doubts",
+    "content": "The one empirical literature that bears on this describes something else. Children typically abandon Santa through evidence and reasoning, and their reactions on discovery are predominantly positive or neutral, with parents reporting more sadness than the children (<a href=\"https://doi.org/10.1007/BF02253289\">Anderson &amp; Prentice 1994</a>); belief tracks the intensity of parental promotion rather than the child's own resistance to doubt (<a href=\"https://doi.org/10.1016/j.cogdev.2016.04.002\">Goldstein &amp; Woolley 2016</a>). The essay presents a personal memory as a developmental universal (\"depending on how your childhood went\" is doing all the work). The modal child does not go through a period of believing in belief about Santa; the modal child stops believing and is fine."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the dragon-claimant anticipates as if there is no dragon in their garage, and makes excuses as if they believed in the belief",
+    "content": "The essay calls this configuration \"a symptom of something much worse.\" Developmental and cross-cultural work finds it is the default: people at all ages hold natural and supernatural explanations of the same event at once and deploy each by context, in South Africa, Vanuatu, Madagascar and the United States alike (<a href=\"https://doi.org/10.1111/j.1467-8624.2012.01743.x\">Legare, Evans, Rosengren &amp; Harris 2012</a>); Spanish children give biological accounts of death in a medical frame and religious ones in a religious frame within the same interview (<a href=\"https://doi.org/10.1207/s15327647jcd0601_5\">Harris &amp; Gim&eacute;nez 2005</a>). The mind with one \"proper\" belief that all anticipation is reconciled to is the unusual case that needs explaining. The essay's taxonomy treats the ordinary architecture of human cognition as a pathology."
+  }
+]

@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/Making-History-Available.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/Making-History-Available.fable.json",
+    "default": true
   }
 ]

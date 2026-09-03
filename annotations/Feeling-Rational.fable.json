@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "our emotions arise from our models of reality",
+    "content": "Some do; the arrow also runs the other way, and the essay's model has no room for it. Bodily arousal from an unrelated cause is experienced as whichever emotion the situation suggests (<a href=\"https://doi.org/10.1037/h0046234\">Schachter &amp; Singer 1962</a>), and mood alters belief: subjects who read a sad news story raised their estimates of unrelated risks, and those who read a happy one lowered them (<a href=\"https://doi.org/10.1037/0022-3514.45.1.20\">Johnson &amp; Tversky 1983</a>). Emotions caused by caffeine, weather, hunger or a prior conversation then shape the \"model of reality\" the essay says produced them. A rule that classifies an emotion as rational when its generating beliefs are true cannot be applied when the belief was itself a product of the emotion, which is the case the bias literature is mostly about."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "That which the truth nourishes should thrive.",
+    "content": "The maxim assumes accuracy and flourishing point the same way, and the evidence is at best mixed. Mildly depressed subjects judged their control over outcomes more accurately than non-depressed ones, who overestimated it (<a href=\"https://doi.org/10.1037/0096-3445.108.4.441\">Alloy &amp; Abramson 1979</a>), and a large review argued that unrealistically positive self-views, exaggerated control and unrealistic optimism are characteristic of mental health rather than of its absence (<a href=\"https://doi.org/10.1037/0033-2909.103.2.193\">Taylor &amp; Brown 1988</a>). Both findings are contested (<a href=\"https://doi.org/10.1037/0033-2909.116.1.3\">Colvin &amp; Block 1994</a>; <a href=\"https://doi.org/10.1016/j.cpr.2012.05.004\">Moore &amp; Fresco 2012</a> find the depressive-realism effect small), but the dispute is live, and the sequence proceeds as if it were settled in favor of truth. The maxim is a slogan from a fantasy novel (Hodgell, <em>Seeker's Mask</em>, 1994), which is not a reason to reject it, but it is presented as a discovery about psychology, and psychology has not confirmed it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Since the days of Socrates at least, and probably long before, the way to appear cultured and sophisticated has been to never let anyone see you care strongly about anything.",
+    "content": "This is false for most of Western cultural history. Homeric heroes weep in public as a matter of course; Augustine's <em>Confessions</em> is a performance of caring; the eighteenth-century cult of sensibility made visible feeling the mark of refinement, and Romanticism made it the mark of genius; Victorian mourning culture was elaborate and public. The stoic affect the essay describes is one tradition among several, and in the period the essay names, Socrates' contemporaries thought the sophisticated thing was to be moved by tragedy. The generalization is drawn from the author's social circle and projected onto 2,400 years, in an essay about the difference between how the world is and how it feels."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "My sadness on waking is rational; there is no truth which destroys it.",
+    "content": "The criterion offered (an emotion is rational when the beliefs it rests on are true) cannot classify most emotions people have. Grief at the death of a fictional character rests on no belief that the character existed, and the puzzle of why we feel it has its own literature (<a href=\"https://doi.org/10.1093/aristoteliansupp/49.1.67\">Radford 1975</a>); moods have no propositional object at all; fear of a spider one knows to be harmless persists through the correct belief. \"Rational emotion\" as defined here is a category with no room for fiction, music, moods or phobias, which is to say for a large fraction of emotional life. The essay's real claim, that feeling strongly is permitted, is fine; the epistemology attached to it does not do the work it is asked to."
+  }
+]

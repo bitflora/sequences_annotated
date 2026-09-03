@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "For by instinct, we human beings only live in half the world.",
+    "content": "The generalization is drawn from a task designed so that the strategy fails. Wason's rule (\"ascending\") is far broader than any hypothesis the triple 2-4-6 suggests, and it is only when the true rule is broader than the hypothesis that positive tests cannot falsify. When the hypothesis is at least as broad as the truth, or when the target is rare, positive tests are the more diagnostic ones, and in most natural environments that is the situation, so the positive test strategy is close to optimal (<a href=\"https://doi.org/10.1037/0033-295X.94.2.211\">Klayman &amp; Ha 1987</a>). Nor is the 20 percent solution rate an \"instinct\": tell subjects there are two rules to discover (DAX and MED) and solution rates triple, because the framing makes negative instances informative (<a href=\"https://doi.org/10.1080/00335558008248231\">Tweney et al. 1980</a>; <a href=\"https://doi.org/10.1080/14640749308401096\">Wharton, Cheng &amp; Wickens 1993</a>). We live in the half of the world where positive tests usually work."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "but phlogiston theory could just as well have explained the flame not going out",
+    "content": "It could not. Phlogiston theory held that air has a finite capacity to absorb phlogiston; a flame in a sealed vessel must therefore go out, and a flame that burned indefinitely in a sealed vessel would have been an anomaly. This was the reasoning behind Priestley's experiments on mice and plants in closed jars and his discovery that a candle burned longer in \"dephlogisticated air\" (<a href=\"https://doi.org/10.1007/978-94-007-3932-1\">Chang 2012</a>). The essay's example of a theory that permits both outcomes is a theory that prohibited one of them. Fifth appearance of phlogiston as the type case of unfalsifiability in this book; the pattern is a fake explanation of the history of chemistry, offered by an essay about fake explanations."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I replied that non-superconductivity and non-ferromagnetism were also examples of emergence, which was the problem.",
+    "content": "The reply misreads the commenter's claim. \"Superconductivity is emergent\" is not a predicate applied to superconducting versus non-superconducting samples; it is a claim about the kind of explanation superconductivity has: a collective phase with an order parameter, insensitive to microscopic detail, appearing below a critical temperature. Both the superconducting and the normal phase are emergent phases, and the theory predicts which one obtains (<a href=\"https://doi.org/10.1126/science.177.4047.393\">Anderson 1972</a>). \"Non-combustion is also a chemical phenomenon\" does not show that \"chemistry\" is empty. The essay, in the paragraph after warning that positive bias is hard to spot in oneself, tests the commenter's claim by looking for what \"emergence\" fails to exclude, without asking what the commenter's actual claim excluded."
+  }
+]

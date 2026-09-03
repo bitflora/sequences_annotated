@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "undoubtedly saw themselves as heroes defending truth, justice, and the Islamic Way from hideous alien monsters a la the movie Independence Day",
+    "content": "\"Undoubtedly\" attaches to a claim about the private self-image of nineteen dead men, sourced to nothing. The research says something more specific and less cinematic: suicide campaigns follow an organizational strategic logic aimed at concrete political goals (<a href=\"https://doi.org/10.1017/S000305540300073X\">Pape 2003</a>), and recruits are psychologically ordinary people bound by small-group loyalty and institutional manipulation rather than a personal heroic narrative (<a href=\"https://doi.org/10.1126/science.1078854\">Atran 2003</a>). Casting the hijackers as the cast of <em>Independence Day</em> dresses the enemy in the narrator's own attire, which is the exact move the essay is warning against."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There are no quote marks you can use to talk about how the Enemy sees the world",
+    "content": "The unsayable sentence was said, in the most public venues, within a week. Bill Maher on ABC on 17 September 2001: \"Staying in the airplane when it hits the building, say what you want about it, it's not cowardly.\" Susan Sontag in <em>The New Yorker</em> on 24 September 2001: \"whatever may be said of the perpetrators of Tuesday's slaughter, they were not cowards.\" Both were denounced and Maher's show was cancelled the following year, which supports the attire thesis about cost. But the essay's stronger claim, that the sentence cannot be uttered, is false: a network host said it on air and the country's most prestigious magazine printed it. Attire is a price, not a prohibition, and the essay overstates what it correctly identifies."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Or so I suspect; I confess I’m not an expert here.",
+    "content": "The suspicion is that non-anticipatory belief cannot produce deep emotion. The evidence points the other way: religious ritual produces intense, measurable, shared emotion regardless of propositional content. Fire-walkers and their relatives in the crowd showed synchronized heart-rate dynamics (<a href=\"https://doi.org/10.1073/pnas.1016955108\">Konvalinka et al. 2011</a>), and high-ordeal ritual increased prosocial giving in both participants and observers (<a href=\"https://doi.org/10.1177/0956797612472910\">Xygalatas et al. 2013</a>). The \"fire\" comes from ritual, synchrony and belonging, which is the essay's own alternative, but the essay does not notice that this dissolves its taxonomy: if emotion never came from anticipation-belief, \"proper belief\" as the original source of religious passion is a fiction."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "But it’s not the same fire they had as a child.",
+    "content": "Children's religious belief is not anticipation-based faith later lost; it is testimony-based from the start and already hedged. Children rate God's existence with less confidence than germs or oxygen, which they also cannot see, and their confidence tracks how adults talk about each (<a href=\"https://doi.org/10.1111/j.1467-7687.2006.00465.x\">Harris et al. 2006</a>; <a href=\"https://doi.org/10.1111/j.1467-8624.2006.00886.x\">Harris &amp; Koenig 2006</a>), and they compartmentalize natural and supernatural explanations from early on (<a href=\"https://doi.org/10.1111/j.1467-8624.2012.01743.x\">Legare et al. 2012</a>). The childhood fire is a romantic construct the essay needs so that adult religion can be its degraded remnant."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Identifying with a tribe is a very strong emotional force. People will die for it.",
+    "content": "This is supported, with a qualification that undermines the metaphor. Arbitrary groups produce in-group favoritism (<a href=\"https://doi.org/10.1002/ejsp.2420010202\">Tajfel et al. 1971</a>), but the effect is a few points of allocation, not dying. The construct that predicts endorsing death for the group is identity fusion, in which personal and group identity merge (<a href=\"https://doi.org/10.1037/a0013668\">Swann et al. 2009</a>), and fusion is driven by shared, often painful, experience (<a href=\"https://doi.org/10.1038/srep44292\">Whitehouse et al. 2017</a>). Fusion is the opposite of attire: it cannot be taken off. The clothing metaphor fits the weak identification of the minimal-group lab and fails exactly on the die-for-it cases the essay uses to show how strong the force is."
+  }
+]

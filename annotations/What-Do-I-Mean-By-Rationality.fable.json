@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Rational agents make decisions that maximize the probabilistic expectation of a coherent utility function",
+    "content": "This is the von Neumann-Morgenstern theorem restated as a definition, and each of its axioms is rejected by decision theorists on grounds they regard as rational. The independence axiom is violated by considered choices in the Allais paradox (<a href=\"https://doi.org/10.2307/1907921\">Allais 1953</a>) and by ambiguity aversion in the Ellsberg paradox (<a href=\"https://doi.org/10.2307/1884324\">Ellsberg 1961</a>), and a substantial literature defends those violations as correct rather than as errors (Buchak 2013, <em>Risk and Rationality</em>, book, no DOI). Completeness is dropped by Aumann, who showed that without it no single utility function exists (<a href=\"https://doi.org/10.2307/1909888\">Aumann 1962</a>). The \"gold standard\" the essay appeals to is a contested position inside the field it borrows it from, presented here as the neutral vantage point from which psychologists convict human judgment."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "No one can actually calculate and obey the math, any more than you can predict the stock market by calculating the movements of quarks.",
+    "content": "The concession is larger than the essay treats it. If the standard is unattainable, then \"bias\" as deviation from it says nothing about whether the deviation is a defect, and a rival research programme holds that it often is not: simple heuristics that ignore information outperform Bayesian integration in many real environments because they are robust to estimation error (<a href=\"https://doi.org/10.1037/0033-295X.103.4.650\">Gigerenzer &amp; Goldstein 1996</a>; <a href=\"https://doi.org/10.1111/j.1756-8765.2008.01006.x\">Gigerenzer &amp; Brighton 2009</a>), a point made against unbounded optimization since Simon's original work (<a href=\"https://doi.org/10.2307/1884852\">Simon 1955</a>). The essay defines rationality as conformity to a norm no agent can follow, notes that no agent can follow it, and continues as if nothing had happened. The question the concession raises, what the right norm for a bounded agent is, is the central question of the field and the essay does not ask it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "the judgment that P(Bill plays jazz) is less than P(Bill plays jazz, Bill is an accountant) is labeled incorrect",
+    "content": "Whether it is incorrect depends on what the subject took \"probability\" to mean, and that is not a quibble. When the same problem is posed in frequencies (\"of 100 people like Bill, how many...\") the conjunction fallacy largely disappears, which indicates that many subjects read \"probable\" in its ordinary sense of plausible or typical, as Gricean pragmatics predicts (<a href=\"https://doi.org/10.1002/(SICI)1099-0771(199912)12:4%3C275::AID-BDM323%3E3.0.CO;2-M\">Hertwig &amp; Gigerenzer 1999</a>). Kahneman and Tversky disputed the interpretation (<a href=\"https://doi.org/10.1037/0033-295X.103.3.582\">1996</a>), Gigerenzer replied (<a href=\"https://doi.org/10.1037/0033-295X.103.3.592\">1996</a>), and the exchange remains one of the defining disputes of the field. The essay presents the labelling as a simple application of P(A) &ge; P(A,B). It is an application of that theorem plus a contested assumption about what the subject understood the question to be."
+  }
+]

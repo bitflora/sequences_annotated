@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Despite feedback through a thousand trials, subjects cannot bring themselves to believe that the situation is one in which they cannot predict.",
+    "content": "With adequate incentives and enough trials they can. When payoffs are made substantial and feedback is clear, the majority of subjects converge toward the maximizing strategy over a few hundred trials (<a href=\"https://doi.org/10.1002/bdm.413\">Shanks, Tunney &amp; McCarthy 2002</a>), and the residual matchers are not stupid: matching is what a pattern-detector does, and the subjects who match are the ones who find the pattern when the experimenter secretly puts one in (<a href=\"https://doi.org/10.1016/j.cognition.2008.09.007\">Gaissmaier &amp; Schooler 2008</a>). In an environment where sequences are usually not random and the experimenter usually has something up his sleeve, continuing to search is defensible for far longer than a thousand trials. The essay calls this \"the most important idea in all of rationality\"; the literature calls it a strategy that is optimal in some environments and suboptimal in the one Dawes describes."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Decision theory does not burst into flames and die when faced with an opponent who disobeys decision theory.",
+    "content": "It does not, and what it says to do against an opponent is, very often, randomize. The equilibrium of matching pennies, of rock-paper-scissors, of any zero-sum game without a pure saddle point, is a mixed strategy (<a href=\"https://doi.org/10.1073/pnas.36.1.48\">Nash 1950</a>); randomized algorithms beat deterministic ones on adversarial inputs; randomized controlled trials exist because randomizing the action is what makes the inference valid. The essay reaches its slogan (\"a random key does not open a random lock\") from a single-agent card task with a stationary distribution, then extends it to \"an opponent who breaks those laws,\" where the conclusion reverses. \"Lawful\" thought against an adversary is a law that tells you to flip a coin."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "How many theories of AI?",
+    "content": "The theories of AI that survived are the ones the essay's principle would refute. Stochastic gradient descent, the training procedure behind every large model, deliberately injects randomness into optimization (<a href=\"https://doi.org/10.1214/aoms/1177729586\">Robbins &amp; Monro 1951</a>); dropout randomly disables units to regularize; language models sample their outputs at a temperature above zero because greedy decoding produces worse text; exploration in reinforcement learning is randomized because deterministic policies get stuck. \"Randomizing your actions takes you further from the target\" is false as a general claim about optimization under uncertainty, and the subsequent history of the author's own field is the counterexample. The card task supports a narrow point about i.i.d. prediction; the essay generalizes it to a philosophy."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But what set humanity firmly on the path of Science was noticing that certain modes of thinking uncovered beliefs that let us manipulate the world.",
+    "content": "The history runs the other way for most of it. Metallurgy, agriculture, navigation, the steam engine, and most of the industrial revolution were achieved by craft knowledge with little or no input from science; thermodynamics was derived from the steam engine rather than the reverse (\"science owes more to the steam engine than the steam engine owes to science\"), and the systematic coupling of scientific theory to technological practice is a nineteenth-century development (Mokyr 2002, <em>The Gifts of Athena</em>; Rosenberg 1982, <em>Inside the Black Box</em>; books, no DOI). Greek natural philosophy, the actual origin of the scientific tradition, was pursued for centuries with almost no manipulative payoff. The essay's Baconian story, in which science began when people noticed that true beliefs are useful, is the myth the history of technology was written to correct."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "it has a special and admirable purity",
+    "content": "Curiosity has its own documented biases, which an essay introducing a book about biases might have mentioned. It is driven by information gaps and is strongest for questions that are nearly answered, so a curiosity-led agenda is tilted toward the easy and the almost-known (<a href=\"https://doi.org/10.1037/0033-2909.116.1.75\">Loewenstein 1994</a>); it drives people to seek information they know to be useless or painful (<a href=\"https://doi.org/10.1177/0956797616631733\">Hsee &amp; Ruan 2016</a>); and, as the essay itself notes two paragraphs later, it does not linger to verify. A motive that ranks questions by how they \"tickle your personal aesthetic sense\" is by construction not truth-tracking, since the aesthetic sense was not shaped by what is true. The purity attributed to it is the purity of a drive with no external check, which is the property the essay then praises pragmatism for supplying."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "(Thankfully not many have questioned what truth is.)",
+    "content": "The essay's whole framework, rationality as accurate map-territory correspondence, is a correspondence theory of truth, and the reason the question is asked is that correspondence has been hard to state without circularity: what relation, exactly, holds between a belief and a fact, and what are facts? Tarski's schema, which the sequence later quotes, is deliberately neutral among theories and does not settle it; deflationists hold the schema is all there is (Horwich 1998, <em>Truth</em>, book, no DOI), and pluralists hold that different domains (mathematics, ethics, physics) satisfy different truth properties (Lynch 2009, <em>Truth as One and Many</em>, book, no DOI). Being thankful that readers did not ask is a way of not having to say which of these the sequence assumes, in the essay that opens a book on how to have true beliefs."
+  }
+]

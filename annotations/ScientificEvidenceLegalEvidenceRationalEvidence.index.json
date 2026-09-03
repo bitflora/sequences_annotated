@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/ScientificEvidenceLegalEvidenceRationalEvidence.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/ScientificEvidenceLegalEvidenceRationalEvidence.fable.json",
+    "default": true
   }
 ]

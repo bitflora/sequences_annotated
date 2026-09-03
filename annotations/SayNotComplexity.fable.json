@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "advocating that the Internet would “wake up” and become an AI when it became “sufficiently complex.”",
+    "content": "The systems that eventually produced fluent, general-purpose intelligence-like behavior were built by training a generic architecture on the text of the Internet and scaling parameters, data and compute, with performance following smooth power laws in those quantities (Kaplan et al. 2020, arXiv:2001.08361, no DOI; Brown et al. 2020, <em>NeurIPS</em>, no DOI). No one first worked out \"how X might actually happen.\" Marcello's \"there's got to be some amount of complexity that does it\" was closer to the subsequent history than the essay's correction of it. The essay's closing warning about AI startups under \"huge pressure to sweep problems under the rug\" is not applied to the author's own institute, which at the time announced it was building a self-improving AI and had no more of a mechanism than Marcello did."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "How would an AI invent for itself the concept of an “operator,” or “macro,” which is the key to solving the Rubik’s Cube?",
+    "content": "The test problem was solved without the concept the essay called the key. A deep reinforcement-learning system trained from random scrambles solves the cube from any state with no hand-coded notion of operators, macros, or group structure, using a learned value function and search (<a href=\"https://doi.org/10.1038/s42256-019-0070-z\">Agostinelli et al. 2019</a>). The essay set the problem up as one that required conceptual insight and used it to sort candidates by whether they reached for \"complexity\" or for mechanism; the mechanism that worked was, in the essay's terms, complexity. The lesson the essay draws from the exchange is the one the exchange's own subject matter later contradicted."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "That was when I thought to myself, “Maybe this one is teachable.”",
+    "content": "The evidence of teachability is that the student repeated the teacher's terminology (\"like 'emergence'\") from the teacher's own essay, which the student had just been asked whether he had read. Two essays earlier this was named guessing the teacher's password: producing the phrase the teacher rewards, in place of an answer. Marcello had not shown he could solve the problem or that \"complexity\" was wrong in the sense he meant it; he had shown he could recognize which word earned the gold star. The essay does not notice that its pedagogical test is the one it just told readers to unlearn."
+  }
+]

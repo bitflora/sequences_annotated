@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Of course it matters who started the fight.",
+    "content": "The principal's rule is a policy, and the essay never engages its rationale. When initiation is unobservable, which is the normal case (two children, two stories, no witnesses), a rule keyed to continuation is enforceable, while a rule keyed to initiation rewards whichever child lies better and invites both to claim victimhood. Making the rule turn on the variable you can verify is standard mechanism design, not selfishness. The essay's own courtroom example cuts against it: the law does care who started it, but it also imposes proportionality and, in many jurisdictions, a duty to retreat, so it cares who ended it too. \"It doesn't matter who started it\" compresses \"I cannot verify who started it and I can verify who is still swinging,\" which is the very statement the essay says the principal should make."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "neutrality is a definite judgment",
+    "content": "The essay collapses a first-order judgment (\"the evidence is balanced\") into a second-order one (\"I have not weighed this evidence, or am not competent to\"). Only the first is attackable as a claim about the evidence; the second is a claim about oneself and is often true. The essay calls refusing to sum up evidence pretentious, but the best accuracy data available say the opposite: in Tetlock's twenty-year forecasting tournament (Tetlock 2005, <em>Expert Political Judgment</em>, book, no DOI) the \"hedgehogs\" who summed up the evidence into confident verdicts were beaten by the \"foxes\" who hedged, qualified and declined to commit, and the confident-verdict style was negatively associated with accuracy. Calibrated non-commitment is not a pose. It is what the well-calibrated do."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It’s common to put on a show of neutrality or suspended judgment in order to signal that one is mature, wise, impartial, or just has a superior vantage point.",
+    "content": "The premise is that balanced judgment is a <em>show</em> of wisdom. The empirical wisdom literature operationalizes wisdom as exactly these behaviors, recognizing the limits of one's knowledge, considering multiple perspectives and searching for compromise, and finds they improve with age and predict better reasoning about real social conflicts (<a href=\"https://doi.org/10.1073/pnas.1001715107\">Grossmann et al. 2010</a>; <a href=\"https://doi.org/10.1177/1745691616672066\">Grossmann 2017</a>). One can reply that psychologists have merely operationalized the pose, but then the burden is on the essay to show that people who suspend judgment do worse, and it offers nothing beyond the author's irritation with them. This is an armchair signaling story about a trait that has been measured and does not behave like a signal."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If someone says that both pro-life and pro-choice sides have good points and that they really should try to compromise and respect each other more, they are not taking a position above the two standard sides in the abortion debate.",
+    "content": "Here the essay slides from factual disputes, where \"the balance of evidence\" has meaning, to a value conflict, where it does not. Abortion is not settled by evidence; it is a disagreement about the weight of competing goods, and saying both sides have a point is a claim that both goods are real, which most careful writers on either side concede. The argument earlier in the essay only works on examples chosen so that one side is plainly right (natural selection versus intelligent design; the author's reading of Israel and Hamas). It then generalizes to cases lacking that structure, and treats the generalization as following from the examples."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Paolo Freire said",
+    "content": "An essay that opens by convicting Kennedy of misquoting Dante (correctly: Dante put the neutrals in the vestibule outside Hell, not in its hottest place) misspells Freire's first name in the body while spelling it correctly in the footnote. More substantively, the Freire line is the same \"neutrality is complicity\" doctrine the essay later admits is \"just as attackable as propounding any particular side.\" The standing objection is that it proves too much: every bystander to every conflict is by that rule a partisan of the stronger side, so \"not neutral\" applies to everyone and distinguishes no one. Quoted here as if self-evident, it is the essay's conclusion dressed as its premise."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Anyone reporting sudden chest pains should have been hauled off by an ambulance instantly.",
+    "content": "The model that generated the confusion was false, and the story that \"could not have happened\" describes a well-documented failure mode. A substantial share of EMS calls end in non-transport, and paramedic judgments that transport is unnecessary miss serious conditions at rates on the order of one in ten (<a href=\"https://doi.org/10.1080/10903120903144809\">Brown et al. 2009</a>); patients refusing or being released after evaluation for chest pain and later deteriorating is a recognized category (<a href=\"https://doi.org/10.1067/mem.2003.253\">Knight et al. 2003</a>). The narrator's \"they'd have hauled him off if there was the tiniest chance\" was not a correct model strained by an anomaly. It was an incorrect model that happened, this once, to face a fabricated report. The essay's lesson, trust the confusion, is drawn from a case where the confusion was itself a symptom of ignorance about how ambulances work."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And the Medical Establishment was always right. Every single time.",
+    "content": "An induction from a handful of personal visits, presented as a fact about medicine. About one in twenty outpatients experience a diagnostic error each year (<a href=\"https://doi.org/10.1136/bmjqs-2013-002627\">Singh, Meyer &amp; Thomas 2014</a>), and roughly two percent of patients with acute myocardial infarction presenting to emergency departments are mistakenly sent home, with doubled mortality (<a href=\"https://doi.org/10.1056/NEJM200004203421603\">Pope et al. 2000</a>). Chest pain is the textbook case of under-triage. The essay's error was not, as it says, excess deference to a correct establishment; it was treating a small personal sample as the establishment's base rate, which is the mistake the sequence elsewhere calls generalizing from too few examples."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It makes you wonder what’s the point of having economists if we’re just going to ignore them.",
+    "content": "The aside asserts a causal story (mandated treatment drives emergency-department closures) as if it were an economists' consensus. The federal mandate requires screening and stabilization, not treatment, and the closures of 1990-2009 were associated with for-profit ownership, competitive markets, safety-net status and low margins rather than with the mandate as such (<a href=\"https://doi.org/10.1001/jama.2011.620\">Hsia, Kellermann &amp; Shen 2011</a>); uncompensated care is a small fraction of hospital revenue. An essay about noticing when one's model doesn't fit contains, in passing, a confident political-economy model supported by nothing, offered as the obvious view of an expert class that did not hold it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Alas, belief is easier than disbelief",
+    "content": "The cited support is Gilbert's \"Spinozan\" model, on which comprehending a claim entails initially accepting it. Subsequent work found the effect depends on the reader having no relevant knowledge: when background knowledge is available, false statements are rejected as fast as true ones are accepted, with no window of automatic belief (<a href=\"https://doi.org/10.1037/a0014038\">Richter, Schroeder &amp; W&ouml;hrmann 2009</a>), and the neural signature of evaluating statements does not show the asymmetry the model predicts (<a href=\"https://doi.org/10.1111/j.0956-7976.2005.01576.x\">Hasson, Simmons &amp; Todorov 2005</a>). The narrator did not fail to disbelieve because disbelief is hard; by the essay's own account, he generated a specific rationalization to fit a story into a model he was attached to, which is motivated reasoning, not the Spinozan default."
+  }
+]

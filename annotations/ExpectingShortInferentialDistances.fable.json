@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In a world like that, all background knowledge is universal knowledge.",
+    "content": "The opposite of the anthropological record. Foraging societies distribute knowledge unevenly and deliberately: ritual and cosmological knowledge is restricted by age, sex and initiation grade and released in stages over decades (Barth 1975, <em>Ritual and Knowledge among the Baktaman</em>, book, no DOI); hunting skill depends on knowledge that takes twenty years to acquire, with returns peaking around age 45 long after physical strength does (<a href=\"https://doi.org/10.1016/j.jhevol.2006.05.003\">Gurven, Kaplan &amp; Gutierrez 2006</a>). The standard model of human cognitive evolution is cumulative culture, in which knowledge is precisely not universal but accumulated beyond any individual's capacity to derive it and transmitted by selective deference to the skilled (Henrich 2016, <em>The Secret of Our Success</em>, book, no DOI). A twenty-year-old and a master tracker were many inferential steps apart. The essay's ancestral world of one-step explanations is a premise invented for the argument."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "because it was a reliable invariant of the ancestral environment that this didn’t happen",
+    "content": "The developmental and comparative evidence says the machinery for \"maybe this person knows something I don't\" is present early and robust. Children by age three or four track which informants have been accurate and preferentially believe them, and defer to adults on claims they cannot check (<a href=\"https://doi.org/10.1111/j.1467-8624.2005.00849.x\">Koenig &amp; Harris 2005</a>); adults deploy a suite of \"epistemic vigilance\" mechanisms that calibrate trust to a source's competence and benevolence rather than to whether the claim is obvious (<a href=\"https://doi.org/10.1111/j.1468-0017.2010.01394.x\">Sperber et al. 2010</a>). Humans are, if anything, too willing to accept unsupported claims from prestigious sources. The essay posits a bias against believing unseen expertise, as an evolved invariant, in a species whose distinctive adaptation is learning from people who know things you do not."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "the legendary difficulty most scientists have in communicating with a lay audience",
+    "content": "The essay's diagnosis is the \"deficit model\" of science communication: the public rejects science because the inferential pathway was not laid out. That model has been tested for three decades and has largely failed. Knowledge of science predicts attitudes only weakly (<a href=\"https://doi.org/10.1177/0963662504042690\">Sturgis &amp; Allum 2004</a>), and on contested questions the best-informed members of the public are the most polarized, because they use their knowledge to defend the position their group holds (<a href=\"https://doi.org/10.1038/nclimate1547\">Kahan et al. 2012</a>). Recursing further back to shared premises does not move acceptance of evolution or climate science, because the disagreement is not about premises. The essay's prescription is the one the field started with and abandoned."
+  }
+]

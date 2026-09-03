@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "they do not anticipate any different experiences",
+    "content": "The parable is dissolved by verificationism: a dispute with no difference in anticipated experience is declared empty. Two paragraphs later the essay concedes verificationism is false, because atoms and floors are unobserved yet real, and it never says what distinguishes a legitimate unobservable (the floor) from an illegitimate one (phlogiston). That is the exact problem that sank logical positivism: every formulation of the empiricist criterion of meaning either excluded theoretical physics or admitted metaphysics (Hempel 1950, \"Problems and Changes in the Empiricist Criterion of Meaning,\" <em>Revue Internationale de Philosophie</em> 41, no DOI; <a href=\"https://doi.org/10.2307/2181906\">Quine 1951</a>). The essay helps itself to realism for the beliefs it likes and verificationism for the beliefs it dislikes, and offers no rule for telling which is which."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "this belief yielded no advance predictions",
+    "content": "Phlogiston theory predicted that metals gain a calx when burned and are restored by heating the calx with charcoal (a phlogiston-rich fuel), that combustion in a sealed vessel stops once the air is saturated, and that an air freed of phlogiston would support unusually vigorous burning, which is why Priestley isolated oxygen in 1774 and called it dephlogisticated air. Historians of chemistry treat phlogiston as a productive, predictive research programme that unified combustion, calcination and respiration and was arguably abandoned prematurely (<a href=\"https://doi.org/10.1007/978-94-007-3932-1\">Chang 2012</a>, ch. 1). The essay's paradigm case of a \"floating\" belief is a belief that paid rent for a century. If the diagnostic misfires on its own type specimen, its reliability elsewhere is an open question."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It is a uniquely human flaw among animal species",
+    "content": "Pigeons fed on a fixed interval developed idiosyncratic rituals with no connection to the reward, the classic demonstration of belief-like behavior unconnected to contingency in a non-human (<a href=\"https://doi.org/10.1037/h0055873\">Skinner 1948</a>); the later reinterpretation disputes the word \"superstition\" but not the disconnection (<a href=\"https://doi.org/10.1037/h0030305\">Staddon &amp; Simmelhag 1971</a>). More basically, the claim is unfalsifiable as stated: we cannot inspect the belief networks of other species to confirm they contain no floating nodes. The essay has just said that humans model the unseen \"better than any other species\"; a flaw that is the direct cost of that strength is not a \"perversion,\" it is the same capacity, and calling it a flaw is a moral label attached to whichever inferred causes the author rejects."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "what would definitely falsify this belief?",
+    "content": "The essay's example of an unfalsifiable belief was falsified. Vitalism predicted that organic compounds could not be made from inorganic ones, and W&ouml;hler's synthesis of urea was taken as a refutation (<a href=\"https://doi.org/10.1002/andp.18280880206\">W&ouml;hler 1828</a>), though historians show the \"W&ouml;hler killed vitalism\" story is itself a myth and the theory died slowly under accumulating results (<a href=\"https://doi.org/10.1179/amb.2000.47.3.170\">Ramberg 2000</a>). Driesch's entelechy was proposed <em>because</em> of a surprising experiment (separated sea-urchin blastomeres regulated into whole larvae) and predicted that damaged embryos would regulate, which they do, and which mechanism later explained. Vitalism was wrong, not empty. The essay repeatedly conflates \"false\" with \"floating,\" and its historical examples are beliefs that constrained experience and lost, which is science working as intended."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "If a belief turns deadbeat, evict it.",
+    "content": "Predictions come from conjunctions of beliefs, so a failed prediction never identifies which belief is the deadbeat (<a href=\"https://doi.org/10.2307/2181906\">Quine 1951</a>; Duhem 1906, <em>La th&eacute;orie physique</em>, book, no DOI). When Uranus's orbit failed to match Newton, astronomers did not evict gravitation; they postulated an unseen planet, and were right. Lakatos argued that protecting a theory's core by adjusting auxiliary assumptions is rational and normal (Lakatos 1970, in <a href=\"https://doi.org/10.1017/CBO9781139171434\">Lakatos &amp; Musgrave</a>). Le Verrier's \"there is a planet you have not seen\" and the next essay's \"the dragon is permeable to flour\" are the same logical move; what separated them was the subsequent independent test, which the slogan gives no way to anticipate."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "so you can regurgitate it on the upcoming quiz",
+    "content": "The quiz shows that floating belief is a property of rote learning, not of literary theory. Physics students who pass mechanics exams retain Aristotelian anticipations about motion (<a href=\"https://doi.org/10.1119/1.2343497\">Hestenes, Wells &amp; Swackhamer 1992</a>); across 6,000 students, traditional lecture courses moved conceptual scores by about a fifth of the available gain (<a href=\"https://doi.org/10.1119/1.18809\">Hake 1998</a>). For most such students \"F = ma\" is precisely a propositional token to be regurgitated, connected to other tokens and to no anticipation. By choosing an invented author and an invented term the essay makes the phenomenon look like a defect of a discipline it dislikes rather than of pedagogy in general, and makes the example impossible to check."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This required neurons to maintain a certain degree of quantum coherence, which was something you could look for, and find or not find.",
+    "content": "It was looked for, in the Traditional way, and not found: decoherence times for the relevant neural structures were computed to be ten to twenty orders of magnitude shorter than the timescales of neural processing (<a href=\"https://doi.org/10.1103/PhysRevE.61.4194\">Tegmark 2000</a>), the Penrose-Hameroff camp replied (<a href=\"https://doi.org/10.1103/PhysRevE.65.061901\">Hagan, Hameroff &amp; Tuszynski 2002</a>), and the field moved on. That is a falsifiable prediction being tested and failing, which is Traditional Rationality doing exactly what it advertises. The essay presents this episode as showing that Traditional Rationality \"wasn't enough\"; the record shows it settled the question by 2000, and nothing in the Way of Bayes contributed to the settlement. What the essay wanted was to be dissuaded before the test rather than by it, and the mechanism it proposes for that is a likelihood ratio against \"I don't know,\" which the next annotation takes up."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Do not attempt long chains of reasoning or complicated plans.",
+    "content": "The advice is not applied to the author's central argument. The case for an intelligence explosion (a system improves its own design, the improvement improves its capacity to improve, and so on to superhuman capability within a short time) is a long chain of reasoning about unobserved systems, every link of which is contestable and none of which is \"pinned down overwhelmingly\" in the essay's sense; Book III builds the whole of its later argument on it. Either the advice is wrong, or the chain that runs through the rest of this book is the mistake the advice warns against. The essay offers the advice as the chief lesson of the author's most embarrassing error, in a book whose remaining half is an exercise in the prohibited genre."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "if a hypothesis does not today have a favorable likelihood ratio over “I don’t know,”",
+    "content": "\"I don't know\" is not a hypothesis with a likelihood. A likelihood ratio compares two models that each assign a probability to the data; \"I don't know\" is either a maximum-entropy distribution, in which case any hypothesis that fits the data beats it trivially and the criterion excludes nothing, or a catch-all over all unconsidered alternatives, whose likelihood is undefined, a difficulty known in the literature since Shimony 1970 and unresolved (Sober 2008, <em>Evidence and Evolution</em>, ch. 1, book, no DOI). The Bayesian test the essay says would have saved it cannot be stated precisely enough to be run. The young Yudkowsky's error was believing a specific bad theory; the cure prescribed is a comparison that Bayesian confirmation theory does not know how to make."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Traditional Rationality doesn’t have the ideal that thinking is an exact art in which there is only one correct probability estimate given the evidence.",
+    "content": "Neither does Bayesianism. The \"uniqueness thesis,\" that a body of evidence licenses exactly one credence, is a contested position in epistemology, defended (<a href=\"https://doi.org/10.1111/j.1520-8583.2005.00069.x\">White 2005</a>) and denied (<a href=\"https://doi.org/10.1111/nous.12030\">Schoenfield 2014</a>), and Bayesian updating cannot deliver it, because two agents with different priors who update on the same evidence arrive at different posteriors with no rule violated. The ideal the essay attributes to \"the Way of Bayes\" is one the formalism explicitly lacks; the whole subjective-Bayesian tradition from Ramsey and de Finetti onward is built on the denial of it. The essay faults Traditional Rationality for tolerating disagreement, in the name of a method whose founders regarded the tolerance as a theorem."
+  }
+]

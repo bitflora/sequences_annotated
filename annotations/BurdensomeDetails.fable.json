@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A long series of cleverly designed experiments, which weeded out alternative hypotheses and nailed down the standard interpretation",
+    "content": "It did not nail it down; it started a thirty-year argument. Frequency formats reduce the fallacy dramatically (<a href=\"https://doi.org/10.1002/(SICI)1099-0771(199912)12:4%3C275::AID-BDM323%3E3.0.CO;2-M\">Hertwig &amp; Gigerenzer 1999</a>), Kahneman and Tversky contested that reading (<a href=\"https://doi.org/10.1037/0033-295X.103.3.582\">1996</a>), and later work found the effect is driven less by representativeness than by whether the added conjunct is confirmed by the evidence, which is a different mechanism from the one the essay states (<a href=\"https://doi.org/10.1016/j.cognition.2011.10.007\">Tentori &amp; Crupi 2012</a>). The fallacy is real in many conditions. \"Substitute representativeness for probability\" is one of several accounts still in contention, and the essay's confidence that the alternatives were weeded out is not shared by the researchers who proposed them."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "feel every added detail as a burden, even a single extra roll of the dice",
+    "content": "Followed consistently, this prefers every vague theory to every precise one. A theory with more content is less probable and more informative, and Popper's point was that science trades probability for content deliberately: \"the universe replicates for any reason\" beats Smolin's cosmological natural selection on probability and says nothing, and Newton's laws are less probable than \"bodies move somehow\" (Popper 1959, <em>The Logic of Scientific Discovery</em>, book, no DOI). The sequence's own <em>Occam's Razor</em> insists that fit must be weighed against complexity; this essay drops the fit. What the dice experiment shows is that people mistake representativeness for probability, which is a reason to compute when you can, not a reason to flinch from detail. The remedy the essay proposes would have penalized every specific hypothesis in the history of science in favor of its disjunction."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "where the absurdity is the log probability, so you can add it",
+    "content": "Only if the conjuncts are independent, and the essay's example is chosen so that they are not. \"Reagan supports unwed mothers\" and \"Reagan cuts support to local governments\" are correlated through his politics, so the joint improbability is not the sum of the parts, and the essay's own arithmetic (\"1 bit plus 4 bits, total 5\") commits the independence error that <em>How Much Evidence Does It Take?</em> also left unstated. The general account of why unpacking a scenario inflates its judged probability is support theory (<a href=\"https://doi.org/10.1037/0033-295X.101.4.547\">Tversky &amp; Koehler 1994</a>), which the essay does not cite and which predicts the futurist effect it describes. The correct instruction is not \"add the absurdities\" but \"compute the conditional,\" which is harder and which is why people substitute."
+  }
+]

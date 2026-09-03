@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "My younger self did not realize that solving a mystery should make it feel less confusing.",
+    "content": "It should not, as a general rule, and the best-confirmed theory in physics is the counterexample. The resolution of the black-body problem, the photoelectric effect and atomic spectra made light and matter <em>more</em> strange, not less: Feynman's \"nobody understands quantum mechanics\" is a report about a solved mystery. Relativity, entanglement, and the measurement problem all remain confusing to experts who can calculate them exactly. The essay's criterion, that a correct answer renders the phenomenon mundane, is a criterion the twentieth century failed, and it is the same reliance on a feeling (of mundanity, of understanding) that the sense-of-understanding literature finds to be a poor guide to explanatory success (<a href=\"https://doi.org/10.1086/341050\">Trout 2002</a>). Some mysteries get solved and stay weird."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Only then did I realize how reasonable vitalism had seemed at the time",
+    "content": "Three essays earlier the sequence said the vitalists \"took pride in their ignorance,\" \"bowed their necks in submission,\" \"cherished\" their mystery and \"worshipped\" it. Here vitalism \"seemed reasonable at the time,\" the author fell into its equivalent while knowing the history, and the fault is a universal cognitive default rather than a character flaw. Both cannot be the sequence's view. The second is the historically defensible one: vitalism was a mainstream position of serious scientists (Kelvin, Berzelius, Driesch) responding to real explanatory gaps, and was abandoned as those gaps closed. The first is the version the sequence needed when it was building a taxonomy of contemptible errors, and this essay quietly retracts it without noting that the earlier essay is still standing."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "right up until science finally solved them",
+    "content": "\"Life\" is on the list of mysteries science solved, and the origin of life is an open problem: no consensus exists on the pathway from chemistry to replication, and the field's own reviews describe the major questions as unresolved (<a href=\"https://doi.org/10.3390/life10030020\">Preiner et al. 2020</a>). The historical induction the essay relies on, that ancient mysteries were all eventually rendered mundane, is drawn from the mysteries that were, and omits consciousness, the origin of life, the interpretation of quantum mechanics, and the origin of the physical laws themselves, each as old as the solved ones and none solved. Selecting the successes and calling the pattern \"the lesson of history\" is the survivorship error the sequence warns about elsewhere; the lesson of the full record is that some mysteries yield and some have not, and there is no way from the armchair to tell which is which."
+  }
+]

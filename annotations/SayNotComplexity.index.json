@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/SayNotComplexity.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/SayNotComplexity.fable.json",
+    "default": true
   }
 ]

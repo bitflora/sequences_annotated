@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/FailingToLearnFromHistory.fable.json",
+    "default": true
+  }
+]

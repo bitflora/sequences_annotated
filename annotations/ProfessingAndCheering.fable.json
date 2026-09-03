@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "She spoke with… pride? Self-satisfaction? A deliberate flaunting of herself",
+    "content": "The entire essay is an inference about a stranger's mental state from her demeanor over five minutes, by a narrator who reports he was \"struggling for words\" and settles on three candidates with question marks. Reading emotion from expression is unreliable even for basic emotions with posed stimuli and worse in context, because the same display maps to many states (<a href=\"https://doi.org/10.1177/1529100619832930\">Barrett et al. 2019</a>). Everything that follows, including a new category of belief, rests on this reading. No question was put to her. The dataset is one person's impression of one unnamed woman, and the theory built on it is offered as a correction to Dennett."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But even the concept of “religious profession” doesn’t seem to cover the pagan woman’s claim to believe in the primordial cow.",
+    "content": "It is covered, by the ethnography of the community she belongs to. Studies of contemporary paganism find practitioners routinely hold myth as symbolic, aesthetic and identity-affirming rather than cosmological, and say so openly, exactly as this woman did when she \"explained away her own religion\" by Viking geography (Luhrmann 1989, <em>Persuasions of the Witch's Craft</em>; Magliocco 2004, <em>Witching Culture</em>; books, no DOI). Luhrmann's later work finds that even evangelicals describe belief as a cultivated \"as if\" practice (<a href=\"https://doi.org/10.1086/666529\">Luhrmann 2012</a>). The essay needed a fourth category because its taxonomy was built from the armchair to explain religion as failed factual belief, and each real religious person it meets fails to fit. The alternative reading of the puzzle is that the taxonomy is wrong, not that the woman is strange."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "most people are honest enough that, if they say a religious statement aloud, they will also feel obligated to say the verbal sentence into their own stream of consciousness",
+    "content": "This is an empirical claim about the form and frequency of inner speech, asserted from introspection. Descriptive experience sampling finds inner speech in about a quarter of sampled moments, with individual rates from near zero to nearly 100 percent (<a href=\"https://doi.org/10.1016/j.concog.2007.12.006\">Heavey &amp; Hurlburt 2008</a>); a substantial share of people report little or no verbal stream at all. The model here, belief as sentences recited to oneself, is also the model the previous essays rejected when they insisted belief must include \"unspoken anticipation-controllers.\" The essays' psychology alternates between the two as the argument requires."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "she was cheering for paganism, like holding up a banner at a football game",
+    "content": "\"Cheering\" as a category has partial support elsewhere. Partisans shown a photograph will knowingly report the smaller crowd as larger to support their side (<a href=\"https://doi.org/10.1093/poq/nfx042\">Schaffner &amp; Luks 2018</a>), and paying for accuracy shrinks partisan factual gaps (<a href=\"https://doi.org/10.1561/100.00014074\">Bullock et al. 2015</a>). But the boundary is fuzzy: on political rumors, people who say they believe mostly do, and expressive responding accounts for little (<a href=\"https://doi.org/10.1086/694258\">Berinsky 2018</a>). Cheering is real, but sorting a stranger into it from five minutes of demeanor, with no question asked, is not something the research licenses."
+  }
+]

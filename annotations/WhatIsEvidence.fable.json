@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "There has to be Shannon mutual information between the evidential event and the target of inquiry",
+    "content": "The \"technical\" gloss is the wrong quantity. Mutual information (<a href=\"https://doi.org/10.1002/j.1538-7305.1948.tb01338.x\">Shannon 1948</a>) is a symmetric property of a joint distribution over variables, averaged over all outcomes. Whether a particular event is evidence for a particular hypothesis is a property of that event: the likelihood ratio P(E|H)/P(E|&not;H), or equivalently the pointwise mutual information of that outcome. A variable can carry large mutual information with the target while a specific observed value of it is uninformative, and a variable with tiny mutual information can have one rare value that is decisive. The essay's own examples (the beeping box, the untied shoelace) are single events with likelihood ratios, which is the concept the next essay in the sequence correctly uses."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "a belief is only really worthwhile if you could, in principle, be persuaded to believe otherwise",
+    "content": "Taken as stated, this disqualifies belief in the theorems of arithmetic, in the laws of probability the sequence relies on, and in the principle itself, none of which its holders could in principle be persuaded to abandon by evidence. The essay's argument for the principle is an analogy to the retina, but the retina is a sensor and beliefs include the inference rules that interpret sensors; a rule that changed with every input would be no rule. There is a defensible version (empirical beliefs should be revisable) and an indefensible one (all beliefs should be), and the essay states the second while only arguing for the first. The rhetorical target, \"blind faith,\" is a caricature: most theological accounts of faith describe trust or commitment, not a retina wired to give the same output for every input."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Therefore rational beliefs are contagious, among honest folk who believe each other to be honest.",
+    "content": "This is the recipe for an information cascade. When honest people rationally update on the honest reports of other honest people, the population can lock onto a false belief after only a handful of early signals, because each later person's report reflects the cascade rather than private evidence (<a href=\"https://doi.org/10.1086/261849\">Bikhchandani, Hirshleifer &amp; Welch 1992</a>). Contagion transmits the fact that someone believes; it does not transmit their entanglement with the world, and the two come apart as soon as the second person's belief is itself partly caused by the first. The essay presents contagion among the honest as a mark of truth. The formal result is that it is a mechanism by which honest populations converge on error."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "that you believe for private reasons which are not transmissible",
+    "content": "Non-transmissible but reality-entangled belief is the normal condition of expert skill. Laboratories trying to reproduce a published measurement of the Q factor of sapphire failed for years, from a complete written description, until a physicist from the originating lab visited in person; the knowledge was real, entangled with the world, and could not be transmitted by report (<a href=\"https://doi.org/10.1177/030631201031001004\">Collins 2001</a>). Perceptual and clinical expertise, taste, and craft knowledge share the property. The essay's next installment concedes the point from the other side: science demands reproduction precisely because a report of belief, however honest, is not enough. \"My reasons are not transmissible\" can be a confession of a floating belief, or a description of tacit knowledge, and the essay gives no way to tell them apart."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "So go ahead and explain why the kind of thought processes you use systematically produce beliefs that mirror reality.",
+    "content": "This demands what no one can supply. Any explanation of why one's cognitive faculties are reliable is produced by those faculties, so the argument is circular for everyone, including the essay's author; this is the problem of the criterion, and the standard conclusion is that reliability of basic faculties cannot be established non-circularly, only presupposed (Alston 1993, <em>The Reliability of Sense Perception</em>, book, no DOI). The essay treats failure to meet the demand as grounds to \"stop believing,\" which, applied consistently, stops all belief. What it actually does is exempt its own answer (\"I use Bayesian updating, which mirrors reality\") from the demand, since that answer is also produced by a brain whose reliability is the thing in question."
+  }
+]

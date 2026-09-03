@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But experiment has shown that the more detailed subjects’ visualization, the more optimistic (and less accurate) they become.",
+    "content": "Detailed planning makes predictions more optimistic; it also makes people finish sooner, which the essay's Christmas example conceals because both groups finished at the same time. Forming implementation intentions (specifying when, where and how) raises goal completion with a medium-to-large effect across nearly a hundred studies (<a href=\"https://doi.org/10.1037/0003-066X.54.7.493\">Gollwitzer 1999</a>; <a href=\"https://doi.org/10.1016/S0065-2601(06)38002-1\">Gollwitzer &amp; Sheeran 2006</a>), and a direct test found that detailed planners both predicted optimistically and completed earlier (<a href=\"https://doi.org/10.1348/014466600164633\">Koole &amp; van't Spijker 2000</a>). The inside view is a bad forecaster and a good executor. The essay's advice to avoid it treats prediction and performance as the same problem, and sacrifices the one thing detailed planning is demonstrably good for."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Just ask how long similar projects have taken in the past, without considering any of the special properties of this project.",
+    "content": "\"Without considering any of the special properties\" is not the best-supported prescription. The reference-class method works, and has been adopted in public-project appraisal (<a href=\"https://doi.org/10.1177/875697280603700302\">Flyvbjerg 2006</a>), but the accuracy gains come from starting at the base rate and adjusting for the project's specific features; pure outside view is beaten by the combination (<a href=\"https://doi.org/10.1002/smj.1962\">Lovallo, Clarke &amp; Camerer 2012</a>). The method also inherits the reference-class problem: \"broadly similar projects\" can be drawn narrow or wide, and the choice determines the answer. \"This answer is true. Deal with it\" is a good line about a base rate; a base rate is a prior, and the essay's own epistemology says priors get updated."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Are they symptoms of bureaucracy or government incentive failures? Yes, very probably.",
+    "content": "More than \"very probably\": for the mega-projects the essay opens with, the cognitive account is the weaker one. Across 258 transport projects over seventy years, cost underestimation averaged 28 percent and did not improve at all with time, which is hard to reconcile with a bias that could be learned around and easy to reconcile with strategic misrepresentation, since promoters are rewarded for low estimates and rarely punished for overruns (<a href=\"https://doi.org/10.1080/01944360208976273\">Flyvbjerg, Holm &amp; Buhl 2002</a>). Denver, the Eurofighter and the Opera House were not planned by students estimating their essays; they were bid by parties with an interest in the number. The essay concedes the incentive story in a sentence and then spends the essay on the lab result, which explains the students and not the airports."
+  }
+]

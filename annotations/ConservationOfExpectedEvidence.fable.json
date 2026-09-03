@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "then the miracles described in the Bible must argue against the existence of God",
+    "content": "This does not follow, and the theorem does not say it does. Conservation holds for a fixed hypothesis and a fixed evidential proposition. The believer's hypothesis is a conjunction (a God who performed public miracles in one period and withholds them now), and \"no miracles now\" and \"miracle reports then\" are different observations about different times. Someone who holds that hypothesis is committed, correctly, to counting a public miracle today as evidence against it; they are not committed to counting reports from the earlier period against it, since the hypothesis predicts those. The essay's example changes the hypothesis between the two halves of the sentence and then invites the reader to feel the strain. The strain is real; it is the strain of an invalid application, dressed as an illustration of the theorem."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You might as well sit back and relax while you wait for the evidence to come in.",
+    "content": "The theorem says expected posterior equals prior. It does not say expected <em>confidence</em> is unchanged: the expected distance of the posterior from one half, and the expected value of acting on it, both rise with every informative experiment. That is why Bayesian experimental design is a field: one chooses the experiment that maximizes expected information gain (<a href=\"https://doi.org/10.1214/aoms/1177728069\">Lindley 1956</a>), and the expected utility of free evidence is never negative (<a href=\"https://doi.org/10.1093/bjps/17.4.319\">Good 1967</a>). A Bayesian cannot seek confirmation but must seek evidence, and should be anything but relaxed about which evidence to seek. The moral drawn here is the opposite of the practical content of the theorem."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "In any individual case, you would only hear one branch of the dilemma.",
+    "content": "The essay's remedy for the witch-trial dilemma is that scientists write predictions down in advance. In 2007 almost none did outside clinical trials, and where preregistration has since been adopted, adherence is poor: of the first generation of preregistered psychology studies audited, every one deviated from its plan and most did not disclose it (<a href=\"https://doi.org/10.1098/rsos.211037\">Claesen et al. 2021</a>); in clinical trials, prespecified outcomes are routinely switched after the fact (<a href=\"https://doi.org/10.1186/s13063-019-3173-2\">Goldacre et al. 2019</a>). The scientist who hears only one branch of the dilemma, and interprets it as confirmation, is not a hypothetical contrast to the inquisitor. The replication crisis is largely the discovery that Spee's decision tree was in use."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "You needn’t bother planning how to make any given iota of evidence confirm your theory",
+    "content": "The implied vice is the confirmation-seeking of Wason's rule-discovery task, which the sequence elsewhere treats as a design flaw. The standard reanalysis found that the \"positive test strategy\" is often the most efficient strategy available: when the hypothesis is more specific than the truth, tests that would confirm it are exactly the tests that can falsify it, and the strategy fails only in the special conditions Wason built (<a href=\"https://doi.org/10.1037/0033-295X.94.2.211\">Klayman &amp; Ha 1987</a>). Planning which observations bear on your theory is not a symptom of screwed-up psychology. It is the search-strategy question that conservation of expected evidence leaves entirely open, since the theorem constrains what you may expect, not what you should look at."
+  }
+]

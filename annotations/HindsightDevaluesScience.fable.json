@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "closely based on an excerpt from Meyers’s",
+    "content": "The author is David G. Myers, misspelled \"Meyers\" in the text and the footnote of an essay about the value of checking, and the footnoted Lazarsfeld article is \"The American Solidier.\" More substantively: the essay is a paraphrase of a textbook sidebar, and the empirical content is three items, one of which (Baratz 1983) is an unpublished dissertation that no one has been able to re-examine. The demonstration format the essay borrows, five reversed findings, is itself a rhetorical device from Lazarsfeld's 1949 review, not a study; there is no record of what fraction of readers actually \"would have predicted\" either version. The essay teaches that findings are less obvious than they seem, using materials whose own evidential status it does not examine."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "assign much higher probabilities they “would have” guessed for that answer",
+    "content": "\"Much higher\" overstates a modest effect. The meta-analysis of hindsight-bias studies finds a mean effect corresponding to a correlation of about .17, small by conventional standards, moderated by task type and outcome plausibility (<a href=\"https://doi.org/10.1080/01973533.2004.9646399\">Guilbault et al. 2004</a>). The bias is real and among the more replicable findings in the literature, which is worth saying in a sequence that leans on many that are not. But an effect that shifts probability judgments by a few points does not obviously carry the institutional weight of the title, and the essay does not report the size of the thing it is building on."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "We need to make a conscious effort to be shocked enough.",
+    "content": "This is the wrong advice for the field the essay is defending. When a hundred psychology findings were rerun, social-psychology effects replicated about a quarter of the time (<a href=\"https://doi.org/10.1126/science.aac4716\">Open Science Collaboration 2015</a>), and the best predictor of which would fail was how surprising researchers found them: prediction markets and peer surveys forecast replication success well, with counterintuitive results systematically losing (<a href=\"https://doi.org/10.1073/pnas.1516179112\">Dreber et al. 2015</a>; <a href=\"https://doi.org/10.1038/s41562-018-0399-z\">Camerer et al. 2018</a>). Schlesinger's \"ponderous demonstrations of common sense\" were, on the evidence, the reliable part of the literature. The calibrated response to a shocking social-science finding is not to be more shocked but to expect it to be false, which is the opposite of what the essay says to cultivate."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Do your thought processes at this point, where you really don’t know the answer, feel different",
+    "content": "The essay's detection method is introspection on one's own reasoning, which is the one instrument the bias literature says cannot see this bias. People do not have accurate access to the causes of their judgments and confabulate them (<a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Nisbett &amp; Wilson 1977</a>); hindsight bias in particular persists in full when subjects are told about it and instructed to avoid it (<a href=\"https://doi.org/10.1037/0096-1523.3.4.349\">Fischhoff 1977</a>; <a href=\"https://doi.org/10.1006/obhd.1996.0065\">Pohl &amp; Hell 1996</a>). \"Make a conscious effort\" is the debiasing technique that was tested first and found not to work. The technique with support is structured generation of reasons the opposite outcome could have occurred (<a href=\"https://doi.org/10.1037/0021-9010.73.2.305\">Arkes et al. 1988</a>), which the essay does not mention."
+  }
+]

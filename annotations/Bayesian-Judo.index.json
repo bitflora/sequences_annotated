@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/Bayesian-Judo.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/Bayesian-Judo.fable.json",
+    "default": true
   }
 ]

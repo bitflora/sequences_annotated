@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/ScienceAsCuriosityStopper.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/ScienceAsCuriosityStopper.fable.json",
+    "default": true
   }
 ]

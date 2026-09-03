@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Taken from Joachim Verhagen",
+    "content": "The founding anecdote of this sequence, presented as \"once upon a time there was an instructor,\" is sourced to a text file of science jokes. No such class is known to have been held; the students, their guesses, and their failure to say \"I don't know\" are a punchline. The sequence goes on to build a theory of human cognition (\"this is how human beings think by default\") on the behavior of fictional students in a joke. By the standard of <em>Making History Available</em>, which warns against generalizing from fictional evidence, this is a generalization from a joke."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It is anticipation-isomorphic to saying “magic.”",
+    "content": "\"Heat conduction\" is not anticipation-isomorphic to magic; it is wrong. Conduction from the radiator predicts the near side warmer, which is the opposite of what the students felt, so the answer is a falsifiable hypothesis that has just been falsified, not a maximum-entropy one. The same goes for \"convection\" and \"strange metals in the plate\": each predicts something (measure the plate's conductivity, look for air currents) and each can be tested. The essay conflates a false explanation with an empty one, and the sequence needs the conflation, because its thesis is about emptiness while its examples are mostly falsehoods. A student who says \"heat conduction\" has committed to a direction of heat flow and can be shown wrong; that is exactly what the sequence says a proper belief looks like."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Some students guessed convection of air currents, and others guessed strange metals in the plate.",
+    "content": "Generating candidate hypotheses from a few cues and testing them is how expert reasoning works, not a mark of fakery. Physicians and other experts reason forward from data to hypotheses within seconds and refine by testing, and this early hypothesis generation is a signature of expertise rather than of confusion (<a href=\"https://doi.org/10.1207/s15516709cog1001_4\">Patel &amp; Groen 1986</a>). The one response the essay endorses, \"I don't know\" or \"this seems impossible,\" is the response that generates no test. The students' error, if it is one, was not to suspect the instructor of a trick, which is a fact about their prior on being deceived by teachers, not about their grasp of physics. The essay's own hero, the \"physicist\" who announces the plate was turned two and a half minutes ago, gets there by measurements the students were not allowed to take, while the author concedes he is \"not physicist enough\" to say how many would be needed."
+  }
+]

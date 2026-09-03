@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Taken literally, that description fits every phenomenon in our universe above the level of individual quarks",
+    "content": "The essay refutes a Wikipedia sentence and ignores the technical literature. In physics \"emergent\" has a specific content: a property that is insensitive to microscopic details, governed by symmetry and renormalization, and exactly the same across systems with different constituents. The quantum Hall conductance is quantized to one part in a billion regardless of the sample's impurities; that exactness is the prediction \"emergent\" makes, and it is not derivable from the constituents without the collective theory (<a href=\"https://doi.org/10.1126/science.177.4047.393\">Anderson 1972</a>; <a href=\"https://doi.org/10.1073/pnas.97.1.28\">Laughlin &amp; Pines 2000</a>). In philosophy, \"weak emergence\" names properties derivable from the microdynamics only by simulation, a specific computational claim that distinguishes an ideal gas from a cellular automaton (<a href=\"https://doi.org/10.1111/0029-4624.31.s11.17\">Bedau 1997</a>). The word does not fit every phenomenon above the quark. It fits the ones for which universality holds, which is a fact about the world."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Human intelligence is a magical product of neurons firing.",
+    "content": "The substitution test fails because \"emergent\" and \"magical\" do not license the same inferences. \"Intelligence is emergent from neurons\" claims there is no single neuron or small circuit in which intelligence resides, that a level of description above the neuron has its own regularities, and that those regularities would survive replacing the neurons with functionally similar units; each of these has been contested (the grandmother-cell debate, single-neuron concept cells) and each could be false. \"Magical\" claims none of this. The sentence also illustrates the sequence's habit of testing a word by stripping it from a sentence chosen for having nothing else in it. Try the deletion on \"the quantized Hall conductance is an emergent property\": what is lost is the claim that it does not depend on the sample, which is exactly what was surprising."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I have lost track of how many times I have heard people say, “Intelligence is an emergent phenomenon!”",
+    "content": "Fifteen years later \"emergent abilities\" became a technical term for a specific, measured claim: that certain capabilities of language models appear abruptly at scale rather than improving smoothly (Wei et al. 2022, <em>Transactions on Machine Learning Research</em>, no DOI). The claim was falsifiable enough to be attacked: a subsequent analysis argued the discontinuities are artefacts of discontinuous metrics and vanish under continuous ones (Schaeffer, Miranda &amp; Koyejo 2023, <em>NeurIPS</em>, no DOI), and the dispute continues on the evidence. A word that can be the subject of a replication fight is not a curiosity-stopper. The essay's prediction that \"emergence\" would function only as a sacred mystery was tested in the one field the author cared most about, and the word turned out to carry enough content to be wrong."
+  }
+]

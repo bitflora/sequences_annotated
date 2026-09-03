@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Could I regenerate this knowledge if it were somehow deleted from my mind?",
+    "content": "By this test, nearly nothing anyone knows is truly part of them. No one can regenerate the date of Hastings, the structure of DNA, the germ theory of disease, or the existence of Australia; almost all knowledge is testimonial, and the epistemology of testimony treats this as the normal condition of knowing rather than a defect (Coady 1992, <em>Testimony</em>, book, no DOI; <a href=\"https://doi.org/10.2307/2027007\">Hardwig 1991</a>). Einstein did not regenerate Riemannian geometry; he learned it from Grossmann. The sequence's own <em>What Is Evidence?</em> says that honest testimony is evidence and that rational beliefs are contagious. An ideal of epistemic self-sufficiency in which every thought worth thinking has its source inside the thinker is, in the social-epistemology literature, neither attainable nor desirable, because the division of cognitive labor is what makes science possible (<a href=\"https://doi.org/10.2307/2026796\">Kitcher 1990</a>)."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "then you do not have any beliefs about beavers, true or false",
+    "content": "This is Davidson's holism about content, cited from a newspaper obituary, and it is the position the mainstream of philosophy of language rejected. On the causal theory of reference, a person can refer to beavers, and hold false beliefs about them, while being wrong about nearly everything except the causal chain linking their use of the word to the animal (Kripke 1980, <em>Naming and Necessity</em>; Putnam 1975, \"The Meaning of 'Meaning'\"; books, no DOI). A child told that beavers are white desert giants has a false belief about beavers, which is why she can be corrected. The Wittgenstein line quoted for support (\"a wheel that can be turned though nothing else moves with it\") is from the private-language argument (<em>Investigations</em> &sect;271) and concerns sensation words, not regenerable knowledge. The essay borrows two philosophers' authority for a thesis neither passage establishes."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If all proofs of the Pythagorean Theorem were deleted from my mind, could I re-prove it? I think so.",
+    "content": "\"I think so\" is the whole evidence, and it is the kind of evidence the illusion-of-explanatory-depth studies were designed to expose: people are confident they could reproduce an explanation until asked to do it, at which point most cannot (<a href=\"https://doi.org/10.1207/s15516709cog2605_1\">Rozenblit &amp; Keil 2002</a>). The regeneration test as proposed is a self-report of imagined regeneration, never run. Its results will be inflated for everyone, most for the fluent, and it cannot distinguish knowledge one could rebuild from knowledge one feels one could. A test of whether a belief is truly part of you that consists of asking yourself whether it is has the structure of the password-guessing the sequence just spent three essays condemning."
+  }
+]
