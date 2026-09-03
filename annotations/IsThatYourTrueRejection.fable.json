@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "then I suspect that the point at which the average person will actually start to grant credence overriding their initial impression, purely because of academic credentials, is somewhere around the Nobel Laureate level",
+    "content": "The persuasion literature has measured this and the threshold is far lower. Source credibility manipulations at the level of \"a physician\" versus \"a layman,\" or a named journal versus a mass-market magazine, shift agreement with counter-attitudinal claims by large margins (<a href=\"https://doi.org/10.1086/266350\">Hovland &amp; Weiss 1951</a>), and a review of five decades of work finds credentials among the most reliable levers of attitude change, strongest precisely for audiences unfamiliar with the topic (<a href=\"https://doi.org/10.1111/j.1559-1816.2004.tb02547.x\">Pornpitakpan 2004</a>). The essay's own last paragraph concedes the point in other words: the thing that raised the institute's credibility was \"famous people associating with the organization,\" which is credentials under another name. The claim that a PhD would not have mattered is a counterfactual the essay cannot test, asserted in the direction that spares its author six years."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But did the same people who said, “Come back when you have a PhD,” actually change their minds at all about molecular nanotechnology? Not so far as I ever heard.",
+    "content": "They did not change their minds because they raised technical objections, which the essay's framework recodes as pretexts. Smalley's \"fat fingers\" and \"sticky fingers\" arguments against positional chemistry, the Drexler–Smalley exchange in <em>Chemical &amp; Engineering News</em> in 2003, and the National Research Council's 2006 review of molecular manufacturing, which found the theoretical analyses insufficient to establish feasibility, are all object-level responses to <em>Nanosystems</em>. The framework here is unfalsifiable: if a stated reason is addressed and the rejection persists, the reason is declared fake; the possibility that the stated reason was one of several, all sincere, is not on the list. The essay's list of \"true sources\" of disagreement contains nine entries, all of them defects in the other party, and omits the case in which the other party has a better argument."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It has similarly been a general rule with the Machine Intelligence Research Institute that, whatever it is we’re supposed to do to be more credible, when we actually do it, nothing much changes.",
+    "content": "No measure of credibility is given, so the rule cannot be checked, and the two examples do not show what they are said to show. The demand \"do you develop code\" was met by affiliating with OpenCog, a project owned and led by someone else, and the credentials demand by appointing a Director of Research who later left; in each case the critic's request was answered with a substitute, and the essay concludes from the critic's continued reservation that the request was insincere. The alternative reading is that the critics noticed the substitution. Nor does the essay consider the mundane explanation of the pattern it reports, that reputations respond slowly and to many things at once, so that a single fixed objection is rarely the whole of anyone's rejection. \"Is that your true rejection?\" is a fair question; \"your rejection was not true, because I fixed the thing you named and you still reject me\" is not the answer to it."
+  }
+]

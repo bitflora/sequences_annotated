@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In Traditional Rationality, there is nothing wrong with the scientist who arrives at a pet hypothesis and then sets out to find an experiment that proves it.",
+    "content": "The tradition the essay names says the opposite. Popper's account begins with a conjecture, a pet hypothesis if you like, and demands that the scientist then seek the experiment most likely to refute it; a scientist who sets out to \"prove\" the hypothesis is the figure Popper wrote <em>Conjectures and Refutations</em> against. Reichenbach's distinction between the context of discovery and the context of justification, standard in Traditional Rationality since 1938, is precisely the point that where a hypothesis came from does not bear on how it is tested. The essay's dichotomy between forward and backward flow also does not map onto Bayesian confirmation, in which the support E gives H is the same whether H was formulated before or after E; whether prediction should count for more than accommodation is a live dispute (<a href=\"https://doi.org/10.1093/bjps/axn017\">Harker 2008</a>), and the essay's answer to it is asserted, not argued."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You cannot “rationalize” what is not already rational. It is as if “lying” were called “truthization.”",
+    "content": "The word was coined in its psychological sense by Ernest Jones in 1908 (<a href=\"https://doi.org/10.1037/h0070170\">Jones 1908</a>), and the suffix does what it does in \"legalize\" and \"normalize\": it means to make, or make appear, rational. \"Truthization\" would be the parallel of \"rationalization\" only if the verb meant to make something true, and it does not; the parallel is \"legitimize,\" which likewise names the manufacture of an appearance. The essay's proposed replacement, \"giant sucking cognitive black hole,\" is offered as a joke, but the point it is attached to is a confusion about morphology presented as a discovery about the concept. The distinction the essay wants is real and has a standard name: motivated reasoning, with a literature (<a href=\"https://doi.org/10.1037/0033-2909.108.3.480\">Kunda 1990</a>) that the essay could have cited instead of renaming."
+  }
+]

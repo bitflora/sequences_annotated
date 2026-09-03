@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But then the clever arguer can make you believe anything they choose, if there is a sufficient variety of signs to selectively report. That doesn’t sound right.",
+    "content": "The formal answer, worked out after the essay, is that it is partly right. A sender who can commit to a disclosure rule can move a fully Bayesian receiver who knows the rule, and can do so profitably in a large class of cases; this is the Bayesian persuasion result (<a href=\"https://doi.org/10.1257/aer.101.6.2590\">Kamenica &amp; Gentzkow 2011</a>). The receiver cannot be made to believe \"anything,\" since posteriors must average to the prior, but the essay's reassurance that conditioning on the algorithm neutralizes the arguer is wrong: it bounds the manipulation without removing it. The opposite result, that competition among interested parties reveals everything, holds only for verifiable information and a receiver who treats silence as adverse (<a href=\"https://doi.org/10.2307/2555625\">Milgrom &amp; Roberts 1986</a>). The essay's intuition sits between two theorems and states neither."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Between the prosecution and the defense, someone has a motive to present any given piece of evidence, so the court will see all the evidence; that is the theory.",
+    "content": "Most of the world's legal systems do not work on this theory; the civil-law tradition uses an investigating magistrate, the curious inquirer of the previous essay, and the comparison between the two is an empirical question with a mixed literature. Early laboratory work found that adversarial advocates search harder when the evidence is against their client, and later work found that adversarial preparation biases the testimony of the witnesses it prepares (<a href=\"https://doi.org/10.1037/0022-3514.39.2.320\">Sheppard &amp; Vidmar 1980</a>). The essay's premise also fails on its own terms: the two sides have a motive to present the evidence that helps them, which is not the same as all the evidence, and evidence that hurts both sides, or that neither can afford to develop, is presented by no one. \"Almost as good as one curious inquirer\" is an assertion about a system the essay has not examined."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "In a way, no one can really trust the theory of natural selection until after they have listened to creationists for five minutes; and then they know it’s solid.",
+    "content": "The evidence on exposure to weak counterarguments does not support the confident \"and then they know.\" Inoculation, in which a weak attack is presented together with its refutation, does strengthen resistance (<a href=\"https://doi.org/10.1080/03637751003758193\">Banas &amp; Rains 2010</a>), but that is exposure to the attack with the refutation attached. Exposure to a contrarian on his own terms has the opposite effect: presenting one dissenting expert alongside a consensus lowers lay estimates of the consensus and of the underlying claim even when the dissenter is described as a lone outlier (<a href=\"https://doi.org/10.1037/xap0000073\">Koehler 2016</a>). Five minutes of a fluent creationist makes many listeners less sure of evolution, and the listeners for whom it works as the essay describes are those who already had the refutations. The essay generalizes from a reader who knows the biology to readers who do not."
+  }
+]

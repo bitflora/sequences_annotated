@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "but if your current belief is 70%, you should be as ready to drop it to 69% as raising it to 71%",
+    "content": "Conservation of expected evidence does not say this. It says that the expected change in your probability is zero, and a zero expectation is compatible with, and for a 70 percent belief typically requires, an asymmetric distribution of moves: many small upward shifts when the expected evidence arrives and rare large downward shifts when it does not. A belief at 70 percent that could only move to 69 or 71 with equal readiness would be a belief about which nothing informative could be learned. The correct statement is that you should not be able to predict the direction of the average shift, which is a claim about the mean and not about symmetry. The essay's version is the one that sounds like fairness, which is the wrong instinct in this domain; the sequence's own Update Yourself Incrementally makes the point correctly, and this essay, paraphrasing it, turns a theorem about expectations into a rule about step sizes."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But you can’t produce curiosity just by willing it, any more than you can will your foot to feel warm when it feels cold.",
+    "content": "Curiosity is more manipulable than that, and the essay's own advice is one of the manipulations. The information-gap account holds that curiosity is produced by making salient a specific gap between what one knows and what one wants to know, and it is reliably induced by asking people to guess before they see the answer, by partial information, and by framing a question so that its answer is close (<a href=\"https://doi.org/10.1037/0033-2909.116.1.75\">Loewenstein 1994</a>); guessing first also improves later learning. The Book I annotations on curiosity-stoppers set out the evidence that the direction of the effect is the reverse of what the sequence assumed. The essay's suggestion to treat each point of inquiry as one whose answer you cannot predict is precisely a gap-creating procedure, and it works for that reason, not because of any theorem. The practical part of the essay is better than its theory of why the practice helps."
+  }
+]

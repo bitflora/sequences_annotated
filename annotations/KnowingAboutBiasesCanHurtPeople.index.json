@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/KnowingAboutBiasesCanHurtPeople.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/KnowingAboutBiasesCanHurtPeople.fable.json",
+    "default": true
   }
 ]

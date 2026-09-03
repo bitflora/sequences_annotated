@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The evolutionary reasons for this are so obvious as to be worth belaboring: In the ancestral environment, politics was a matter of life and death.",
+    "content": "Obviousness is not evidence, and the sequence's own rule, do not reason from what would make a satisfying story, applies. The essay offers no anthropological data on ancestral politics, no test of the adaptation it posits, and no consideration of the alternative that political reasoning is bad for present-tense reasons: identity-protective cognition, in which people reason to protect standing in groups they belong to now. The one thing the ancestral story predicts that the identity account does not is that reasoning ability should help, since a well-functioning adaptation should be overridable by training. The best-known data run the other way: on politically charged problems, the most numerate subjects were the most polarized (<a href=\"https://doi.org/10.1017/bpp.2016.2\">Kahan et al. 2017</a>). That finding has itself struggled under preregistered replication (<a href=\"https://doi.org/10.1016/j.cognition.2021.104768\">Persson et al. 2021</a>), which is a reason for caution about all confident stories here, the essay's included."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "People who would be level-headed about evenhandedly weighing all sides of an issue in their professional life as scientists, can suddenly turn into slogan-chanting zombies",
+    "content": "The picture of the political discussant as a zombie is drawn from the comment sections the essay was written in, and it does not describe what happens when people are studied talking politics under ordinary conditions. In deliberative polling and small-group deliberation experiments, participants change their policy opinions substantially and in the direction of the information presented, including on partisan issues (<a href=\"https://doi.org/10.1017/S0003055404041425\">Barabas 2004</a>), and simply prompting a shared national identity measurably reduces affective polarization (<a href=\"https://doi.org/10.1086/693987\">Levendusky 2018</a>). Opinion change on political questions is common; it is opinion change in hostile online argument that is rare. The essay generalizes from the worst forum in existence to the species."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Probably because the author just couldn’t resist getting in a good, solid dig at those hated Greens.",
+    "content": "The Nixon example was chosen for a reason the essay could have looked up. The \"Nixon diamond\" (Reiter &amp; Criscuolo 1981, <em>Proceedings of IJCAI</em>, no DOI) is a textbook case of conflicting defaults, and it uses Nixon because he was the one figure every reader knew to be both a Quaker and a Republican, so that both defaults are vivid and both are plausibly overridden; a made-up name would lose the intuition that the case is genuinely undecided. There is no dig in it, and Nixon's Quakerism was a matter of public record, not partisan lore. The essay imputes a motive to an author it has not read, on no evidence, in the course of warning readers not to impute motives. It also assumes Republicans are the \"Greens\" of the example, when the Republican is the one who is assumed to be non-pacifist, which was, at the time, the party's own self-description."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "it’s a terrible domain in which to learn rationality, or discuss rationality, unless all the discussants are already rational",
+    "content": "The prescription assumes that rationality learned on Louis XVI transfers to the minimum wage, and the training-transfer literature is pessimistic about that. Far transfer of cognitive skills from the domain of training to a dissimilar domain is generally small or absent (<a href=\"https://doi.org/10.1177/0963721417712760\">Sala &amp; Gobet 2017</a>), and the one debiasing intervention with measured transfer worked because it trained on the same biases it later tested (<a href=\"https://doi.org/10.1177/2372732215600886\">Morewedge et al. 2015</a>). If political reasoning is where people fail, avoiding political examples avoids the practice. Historical examples do not solve the problem either, since historical analogies are themselves partisan-coded and are chosen to flatter the chooser's side, a point the Book I annotations documented for \"making history available.\" The community norm this essay founded, that political examples are to be avoided, has the effect of never testing the method where it matters."
+  }
+]

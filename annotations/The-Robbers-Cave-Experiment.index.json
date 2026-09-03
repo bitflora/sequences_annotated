@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/The-Robbers-Cave-Experiment.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/The-Robbers-Cave-Experiment.fable.json",
+    "default": true
   }
 ]

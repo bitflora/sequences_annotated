@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "If I recall correctly, an average individual has two to ten somatically expressed mutations.",
+    "content": "The recollection is wrong under every reading, and the argument built on it conflates two different things. Each person carries roughly 60 to 70 new germline mutations relative to their parents, of which one or two typically fall in protein-coding sequence (<a href=\"https://doi.org/10.1038/nature11396\">Kong et al. 2012</a>), and somatic mutations number in the thousands per cell by adulthood. More important, dispositional variation does not come from new mutations at all. Temperament, anger proneness and aggression are polygenic traits with heritabilities near 0.5, built from common variants that every population carries, so a person two standard deviations above the mean in trait anger is not a \"mutant\" any more than a tall person is. \"There are more late buses in the world than mutants\" is a false dichotomy: the actual alternative to the situational explanation is ordinary, common, heritable variation, and the prior on that is high."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The “fundamental attribution error” refers to our tendency to overattribute others’ behaviors to their dispositions, while reversing this tendency for ourselves.",
+    "content": "The second half of this sentence is the part that did not survive. The correspondence bias for others is robust, with the well-documented qualification that it is weaker in East Asian and South Asian samples (<a href=\"https://doi.org/10.1037/0022-3514.46.5.961\">Miller 1984</a>; <a href=\"https://doi.org/10.1037/0033-2909.125.1.47\">Choi, Nisbett &amp; Norenzayan 1999</a>). But the actor–observer asymmetry, the claim that we explain our own behavior situationally and others' dispositionally, was tested in a meta-analysis of 173 studies and found to be essentially zero on average, appearing only for negative events and reversing for positive ones (<a href=\"https://doi.org/10.1037/0033-2909.132.6.895\">Malle 2006</a>). The vending-machine story that opens the essay, with its contrast between the anger we see in others and the late bus we see in ourselves, is the textbook illustration of an effect the textbook has since removed."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Yes, people do have dispositions—but there are not enough heritable quirks of disposition to directly account for all the surface behaviors you see.",
+    "content": "The person–situation debate this sentence takes a side in ended in a draw the essay does not report. Personality traits predict behavior across situations at correlations around 0.3, which Mischel treated as a ceiling proving that situations dominate; when the classic situational effects from social psychology were converted to the same metric they came out at the same size (<a href=\"https://doi.org/10.1037/0022-3514.44.1.107\">Funder &amp; Ozer 1983</a>). Within-person variability across situations is large, but the mean of each person's distribution is stable and distinctive (<a href=\"https://doi.org/10.1037/0022-3514.80.6.1011\">Fleeson 2001</a>). The correct correction for correspondence bias is therefore not \"ask what situation they were in\" instead of \"ask what they are like,\" but to hold both at about a third of the variance each. The essay overshoots into the situationism that the data it cites had already outgrown."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Perhaps I am a victim of false consensus; perhaps I overestimate how many people would press the green button if they saw the situation in those terms. But y’know, I’d still bet there’d be at least a substantial minority.",
+    "content": "The false consensus effect is real and replicated (<a href=\"https://doi.org/10.1016/0022-1031(77)90049-X\">Ross, Greene &amp; House 1977</a>), and the paragraph is a live specimen: the essay names the bias, applies it to itself, and then reasserts the original estimate unchanged. Two complications. Dawes showed that using one's own response as a datum about the population is Bayesian-correct, so that most of the measured effect is not \"truly false\" consensus at all (<a href=\"https://doi.org/10.1016/0022-1031(89)90036-X\">Dawes 1989</a>), which makes the residual bias smaller than the essay's usage implies. And the two-button example is constructed so that only one answer is possible, then used to suggest that the author's unusual commitments are a normal response to a situation; the situation has been described in terms that presuppose the commitments. That the author \"may have non-average views which call for explanation\" is conceded in a subordinate clause and then dropped."
+  }
+]

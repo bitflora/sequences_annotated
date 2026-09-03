@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Paul Ekman (a pioneer in the study of tiny facial muscle movements) could probably read off a sizeable fraction of the world’s lies right now, given a chance.",
+    "content": "He could not, and the claim had been tested before the essay was written. A meta-analysis of 206 deception-detection studies found average accuracy of 54 percent against a chance level of 50, with no advantage for experience, training or professional status (<a href=\"https://doi.org/10.1207/s15327957pspr1003_2\">Bond &amp; DePaulo 2006</a>). Ekman's own \"truth wizards,\" the handful of individuals reported to detect lies at high rates, are consistent with what one expects from testing thousands of people and keeping the top scorers (<a href=\"https://doi.org/10.1007/s10979-006-9016-1\">Bond &amp; Uysal 2007</a>), and the behavioral-screening program the Transportation Security Administration built on his microexpression work was found by the Government Accountability Office in 2013 to perform no better than chance. Neuroimaging lie detection, the essay's other hope, has not fared better: reviews find it unreliable, vulnerable to countermeasures, and inadmissible in the courts that have examined it (<a href=\"https://doi.org/10.1038/nrn3665\">Farah et al. 2014</a>). The Great Web is real; nobody can read it off a face."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But the Great Web is very commonly underestimated.",
+    "content": "The base rates suggest it is overestimated, at least by this essay. In diary studies, people report telling one or two lies a day, and almost none are detected (<a href=\"https://doi.org/10.1037/0022-3514.70.5.979\">DePaulo et al. 1996</a>); most lies concern feelings, opinions and minor facts that are entangled with nothing anyone will check. The essay's examples of exposure, paternity and rape convictions overturned by DNA, are cases where a physical trace exists and an institution was built to look for it, which is the exception that had to be engineered. \"Anyone who thinks that a non-God can tell a perfect lie, risk-free, is underestimating the tangledness\" is true as stated and misleading in effect, since the realistic risk of the ordinary lie is close to zero. The essay's own last paragraph retreats to \"not all lies are as safe as their liars believe,\" which is the modest claim the evidence supports."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "A student of evolutionary biology can see the design signature of natural selection on every wolf that chases a rabbit; and every rabbit that runs away; and every bee that stings instead of broadcasting a polite warning—but the deceptions of creationists sound plausible to them, I’m sure.",
+    "content": "Creationists are not, for the most part, deceiving anyone, and the essay's framework has no place for sincere error. Children across cultures and regardless of their parents' beliefs default to purpose-based, creationist explanations of living things, and the acceptance of natural selection is a late and effortful acquisition that requires overriding the default (<a href=\"https://doi.org/10.1006/cogp.2001.0749\">Evans 2001</a>). The plausibility of design to the untrained is not the product of a lie that must be protected; it is what the untrained mind produces on its own. This matters for the essay's thesis, since the \"contagion\" story requires an original act of deception from which the entangled falsehoods propagate. Where the false belief is the cognitive default, there is no first lie, and the network of supporting beliefs is not a cover-up but the ordinary structure of a folk theory."
+  }
+]

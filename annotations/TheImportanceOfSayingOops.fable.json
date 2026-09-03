@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Even hedonically, it is better to take one large loss than many small ones.",
+    "content": "This is a prediction of prospect theory and the descriptive evidence runs against it. Because the value function is concave for losses, integrating several losses into one should hurt less than experiencing them separately, and Thaler's hedonic-editing rule prescribes exactly the essay's advice (<a href=\"https://doi.org/10.1287/mksc.4.3.199\">Thaler 1985</a>). When people were asked which they would prefer, they chose to segregate losses over time rather than combine them, and later work found that a prior loss makes people more, not less, willing to gamble to break even (<a href=\"https://doi.org/10.1287/mnsc.36.6.643\">Thaler &amp; Johnson 1990</a>). So the normative theory sides with the essay and human preference sides with Enron. That is a useful thing to know, and it means the essay's \"even hedonically\" is a claim about what should feel better, not about what does, which is why the advice needs giving."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But there is less focus on speed, on giving up the fight as quickly as possible, integrating evidence efficiently so that it only takes a minimum of contrary evidence to destroy your cherished belief.",
+    "content": "Bayesian updating has no speed norm. A coherent agent moves exactly as far as the likelihood ratio warrants, no further and no faster, and \"giving up as quickly as possible\" is not a property of that agent; it is a correction aimed at people who under-update. The judgment literature finds the opposite error at least as common: people over-weight the strength of evidence and under-weight its reliability, so that a vivid but flimsy signal moves them too much (<a href=\"https://doi.org/10.1016/0010-0285(92)90013-R\">Griffin &amp; Tversky 1992</a>), and base-rate neglect is a failure of exactly the kind \"a minimum of contrary evidence\" would produce. The essay generalizes from the one large mistake it declines to describe, made by a temperament that conceded slowly, into a law for readers whose temperament it does not know. The Bayesian prescription, for both kinds of reader, is proportionality, and the essay's is haste."
+  }
+]

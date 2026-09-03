@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The experimental evidence for a purely genetic component of 0.6–0.8 is overwhelming",
+    "content": "The range is roughly right for adult IQ heritability in the populations studied, and the phrase attached to it is wrong. Heritability is a ratio of variances in a population, not a \"component\" of anyone's intelligence; it rises from about 0.2 in infancy to 0.6 or more in adulthood in the same samples (<a href=\"https://doi.org/10.1038/mp.2014.105\">Plomin &amp; Deary 2015</a>), which a fixed genetic component could not do. It also includes gene–environment correlation, in which genes act by selecting environments, and it varies with environment: in one well-known study heritability was near zero among poor families and high among affluent ones (<a href=\"https://doi.org/10.1111/1467-9280.02434\">Turkheimer et al. 2003</a>), an interaction that later replicated in American but not European samples (<a href=\"https://doi.org/10.1177/0956797615612727\">Tucker-Drob &amp; Bates 2016</a>). \"Purely genetic\" is the layman's reading the field has spent decades correcting. The birth lottery argument, as the essay itself notes, does not need the number at all."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Like all primates, humans have strong negative reactions to perceived unfairness",
+    "content": "The \"all primates\" claim rests on the capuchin cucumber-and-grape demonstration (<a href=\"https://doi.org/10.1038/nature01963\">Brosnan &amp; de Waal 2003</a>), and it did not hold up. Attempts to replicate inequity aversion in chimpanzees, bonobos, gorillas and orangutans found that the apes' refusals tracked what food was visible and expected, not what a partner received (<a href=\"https://doi.org/10.1098/rspb.2006.3693\">Bräuer, Call &amp; Tomasello 2006</a>), and the capuchin result itself has been attributed to frustrated expectation rather than social comparison in several follow-ups. Whether any nonhuman primate has a fairness norm remains contested. In humans the reaction is real and culturally variable in strength, as ultimatum-game work across small-scale societies shows. The essay uses the primate claim to naturalize a human tendency, and the naturalization is the part that failed."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "But, as a matter of simple fact, she’s still going to die.",
+    "content": "The essay distinguishes one-sided facts from many-sided policies and then treats the policy's consequence as a one-sided fact. Whether banned-product shops raise or lower deaths is an empirical question with a contested literature: Peltzman's analysis of the 1962 drug amendments argued that the regulation reduced the flow of new drugs without a measurable reduction in harm (<a href=\"https://doi.org/10.1086/260107\">Peltzman 1973</a>), and the counterfactual customer of the shop may otherwise have bought the same product from a less regulated source. The mother of five is also a rhetorical device the essay elsewhere warns against: an identified, vivid single victim moves judgment far more than statistical lives do (<a href=\"https://doi.org/10.1023/A:1007740225484\">Jenni &amp; Loewenstein 1997</a>; <a href=\"https://doi.org/10.1016/j.obhdp.2006.01.005\">Small, Loewenstein &amp; Slovic 2007</a>). The essay asks why readers heard an argument for regulation. It was because the essay constructed the identifiable-victim stimulus and called it an observation."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Can you imagine a politician saying that? Neither can I.",
+    "content": "The thing the essay says no one will say is said, in numbers, in every major regulatory decision in the United States. Federal agencies are required to value statistical lives, currently at around ten million dollars each, and to approve rules whose expected deaths are outweighed by expected benefits; the methodology is public, is debated in journals, and is applied to drugs, vehicles and pollutants. The point the essay wanted to make, that policy involves accepting deaths for benefits, is already institutionalized, and the \"real tough-mindedness\" it calls for is the routine content of a regulatory impact analysis. What politicians will not do is say it on television, which is a fact about television. The essay's sense that it is proposing something unspeakable is a sign of not having looked at the field it is describing."
+  }
+]

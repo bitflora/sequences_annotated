@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "a few centuries ago, saying this would have gotten you burned at the stake",
+    "content": "It would not have. That God's existence and nature cannot be established or refuted by evidence is one of the oldest positions in Christian and Jewish theology, not a modern retreat: the apophatic tradition from Pseudo-Dionysius through Maimonides held that nothing positive can be known of God at all; Tertullian's \"I believe because it is absurd\" and Pascal's wager are fideism, which makes faith explicitly non-evidential; and Aquinas, the church's own philosopher, taught that the existence of God is provable but the central doctrines, the Trinity and the Incarnation, are not and must be taken on faith (<em>Summa Theologiae</em> I q.32 a.1). No one was burned for saying that. The essay's point, that ordinary religious practice makes factual claims, is right, and a mother's prayer is a good example of it. The history attached to the point is invented, in an essay warning readers not to repeat what they have not checked."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s a good guess that the actual majority of human cognition consists of cache lookups.",
+    "content": "The hundred-step rule is from <a href=\"https://doi.org/10.1207/s15516709cog0603_1\">Feldman &amp; Ballard (1982)</a>, and it constrains the serial depth of a computation, not its kind; the lesson the connectionists drew from it was massive parallelism, not caching. A cache stores a previously computed result for reuse; what the brain's fast processes do is closer to pattern completion in a distributed network, which is computation, not lookup, and which is why the same network generalizes to inputs it has never stored. The dual-process literature that would be the natural home for the essay's claim describes the fast system as autonomous and associative rather than as retrieval (<a href=\"https://doi.org/10.1177/1745691612460685\">Evans &amp; Stanovich 2013</a>). The metaphor is serviceable for the essay's purpose of naming the habit of repeating received opinions. As a claim about how cognition works, it is a programmer's idiom offered as neuroscience, in an essay that concludes by asking whether the belief it has just installed is true."
+  }
+]

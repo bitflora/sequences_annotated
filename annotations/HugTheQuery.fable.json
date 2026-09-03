@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "he probably doesn’t have any apart from his own incredulity",
+    "content": "The Kelvin the essay argues against does not exist as described. The widely quoted \"heavier-than-air flying machines are impossible\" has no primary source; the closest documented statement is his 1896 letter declining membership of the Aeronautical Society, in which he said he had \"not the smallest molecule of faith in aerial navigation other than ballooning.\" The Wrights, for their part, were not amateurs who happened to be right: they built a wind tunnel, found that the accepted Smeaton coefficient was wrong, and derived their own lift and drag tables. So the example inverts the roles: the bicycle mechanics had the calculations and the authority had a remark. The essay's point, that a checkable argument beats a credential, survives; its evidence is a story assembled from an apocryphal quotation and a caricature of the people it praises."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you actually watch the plane fly, the calculations themselves become moot for many purposes, and Kelvin’s authority not even worth considering.",
+    "content": "Almost no one watched the plane fly. The December 1903 flights had five witnesses; the Wrights flew in near-secrecy at Huffman Prairie through 1905; the <em>Scientific American</em> and most of the aeronautical establishment disbelieved them until the public demonstrations at Le Mans in 1908. For five years the world's evidence that the plane flew was testimony from two bicycle mechanics and a handful of Ohio farmers, which is to say, authority, and a weak one. \"Hug the query\" is good advice for whoever can reach the query; the history the essay picks shows that for nearly everyone the query was out of reach and the choice was between authorities. That is the normal condition, and the essay treats it as the exception."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It’s a theorem of these causal graphs that you can never get more information from distant nodes, than from strictly closer nodes that screen off the distant ones.",
+    "content": "The theorem is the data-processing inequality, and it holds for nodes that screen off, not for nodes that are closer. Distance on a causal graph has no epistemic meaning; a distant node connected by a second path can carry information the near node does not, and whether a node screens off is a matter of d-separation, which the previous essay explained correctly. In the Wright example the calculations, which the essay calls a more distant node than the flight, are not screened off by watching one flight for the question that mattered, whether powered flight was generally achievable, since a single flight is compatible with a freak wind. \"Closeness to the issue\" is a heuristic that often tracks screening off, and the essay upgrades it to a theorem it is not."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Just as it is superior to argue physics than credentials, it is also superior to argue physics than rationality.",
+    "content": "This is correct and it is the sentence that most of the sequence fails to live by. The Book II essays are, overwhelmingly, arguments about the rationality of people who hold views the author rejects, creationists, lottery buyers, relativists, faithists, Republicans, Scientologists, rather than arguments about the object-level questions. By the essay's own rule those diagnoses should be made \"with a hollow feeling in your heart,\" and the volume in which they appear should feel hollow throughout. The rule also undercuts the sequence's sales pitch: if the virtue of a rationalist cannot directly cause a plane to fly, the value of a course in rationality is bounded by how much it improves object-level arguments, and that is the quantity the sequence never measures."
+  }
+]

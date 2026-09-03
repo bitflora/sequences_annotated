@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Usually, a Jew would somehow just-not-think-about the logical implication that God had permitted a tragedy.",
+    "content": "The grand-uncle was doing what the liturgy requires. On hearing of a death, a Jew is obligated to say <em>Baruch dayan ha-emet</em>, \"Blessed is the true Judge,\" explicitly attributing the death to God's judgment; the Mishnah (Berakhot 9:5) requires blessing God for bad news as for good, and the mourner's Kaddish praises God without mentioning the dead. Attributing a mother's death to God is the rule of the tradition, not a violation of it, and the essay's \"surprising prediction\" was built on not knowing the practice it claims to describe from the inside. The theology is also not what the essay says. The problem of the righteous sufferer occupies the Book of Job, the Talmud's discussions of <em>tzadik ve-ra lo</em>, and Maimonides' explicit limitation of individual providence in the <em>Guide</em> (III:17–18); \"God chooses every event\" is one strand among several, and the tradition's engagement with tragedy is its central theological literature, not a topic it avoids."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You don’t even ask whether the incident reflects poorly on God, so there’s no need to quickly blurt out “The ways of God are mysterious!”",
+    "content": "The rabbis asked. The Talmud has God rebuking the angels for singing at the drowning of the Egyptians, \"the work of My hands is drowning in the sea and you would sing?\" (Megillah 10b, Sanhedrin 39b); the abbreviated Hallel on the last days of Passover is traditionally explained by the same midrash; the spilled drops of wine the essay itself mentions are the ritual form of the objection; and the hardening of Pharaoh's heart, which removes his freedom to comply before the plagues that punish non-compliance, has a medieval commentary literature of its own. The essay claims that the slaying of the firstborn is the weak point \"just-not-thought-about,\" and then cites, as evidence of avoidance, a custom that exists because it was thought about. Whether the traditional answers are good is a fair question; that the question was never raised is false, and it was checkable in the sources the essay says it was forced to study."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The reason that educated religious people stay religious, I suspect, is that when they doubt, they are subconsciously very careful to attack their own beliefs only at the strongest points",
+    "content": "The empirical study of religious retention and deconversion does not find this mechanism, and the cognitive-style theory nearest to it failed replication. Retention is predicted overwhelmingly by social variables: family religiosity, in-group marriage, community participation and the cost of exit, with cognitive variables adding little. The claim that analytic thinking undermines belief, from experiments in which priming reflective thought reduced reported religiosity (<a href=\"https://doi.org/10.1126/science.1215647\">Gervais &amp; Norenzayan 2012</a>), was tested in a direct replication with a much larger sample and found no effect (<a href=\"https://doi.org/10.1371/journal.pone.0172636\">Sanchez et al. 2017</a>). People stay religious mainly because their lives are religious, not because they choose safe doubts. The essay's account, offered as a suspicion, is the author's own deconversion story generalized to the population, and its one data point, the grand-uncle, left for reasons the essay does not report."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Punch yourself in the solar plexus. Stick a knife in your heart, and wiggle to widen the hole.",
+    "content": "The nearest tested relative of this prescription works only in a structured form. \"Consider the opposite,\" in which subjects are instructed to ask how they would have evaluated the same evidence had it pointed the other way, reduces biased assimilation of evidence (<a href=\"https://doi.org/10.1037/0022-3514.47.6.1231\">Lord, Lepper &amp; Preston 1984</a>); an unstructured instruction to be fair and unbiased did not. Deliberately dwelling on the most painful material, without a procedure for evaluating it, is closer to rumination, which the clinical literature associates with worse outcomes and no gain in accuracy. The Gendlin passage that the essay rehearses in the face of the pain is from a psychotherapy self-help manual, not from research on belief revision. The essay is right that people avoid the strongest objections to their beliefs; its remedy is a feeling about how to be brave, not a method."
+  }
+]

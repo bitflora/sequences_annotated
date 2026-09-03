@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "They have failed to clear their minds; they could do significantly better by doubting anything the Bible said because the Bible said it.",
+    "content": "This is the genetic fallacy as the essay defined it three paragraphs earlier, rejecting content on the strength of its source, and the essay's attempt to distinguish the fallacy from the \"genetic heuristic\" does not save it. The heuristic is correct when it tracks a source's reliability per domain: a text that is unreliable about the age of the universe may be an ordinary, even a good, repository of a culture's accumulated practical ethics, because the processes that produced its cosmology and its ethics are different. \"Be extremely suspicious if you still believe the early suggestions of a source you later rejected\" treats the Bible as one source with one reliability, which no Bayesian would do for a document assembled over a millennium by many hands. The people the essay says have failed to clear their minds may simply have concluded that a source can be wrong about God and right about not bearing false witness. That is what domain-specific reliability looks like from the inside."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the chemist Kekulé first saw the ring structure of benzene in a dream",
+    "content": "The canonical example of a good idea from a disreputable source is itself of disreputable provenance. The dream story comes from Kekulé's own speech at the 1890 celebration of his theory, twenty-five years after the fact, and historians who have examined his notebooks and correspondence argue that the ring structure emerged from chemical reasoning about substitution isomers, with the dream a later ornament in a priority dispute with Loschmidt and Couper (<a href=\"https://doi.org/10.1080/00033798500200411\">Rocke 1985</a>). So the case used to illustrate that origin does not matter is one in which the reported origin is probably false, and the actual origin was the ordinary evidential kind. The essay's rule of thumb, be suspicious of genetic accusations against beliefs you dislike, applies here in mirror image: be suspicious of genetic anecdotes that make a favorite point."
+  }
+]

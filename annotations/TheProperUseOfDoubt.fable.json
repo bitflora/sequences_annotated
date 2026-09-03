@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Googling failed to confirm or refute these allegations.",
+    "content": "The source was in print for four and a half centuries. The Jesuit method for handling doubt is set out in the Rules for the Discernment of Spirits in Ignatius's <em>Spiritual Exercises</em> (1548, book, no DOI), and it is the reverse of what the listener described: in a time of \"desolation,\" the state in which faith and vocation seem doubtful, the exercitant is instructed never to change a decision made in a prior time of clarity, and to wait the desolation out. Novices are taught to expect doubt and to treat it as a condition to be endured rather than a question to be resolved, which is close to the essay's own \"desensitization\" hypothesis and nothing like \"doubt that your doubts may grow.\" The essay concedes it is discussing a possibly hypothetical practice and proceeds anyway; the actual practice was a library visit away and would have given the essay a real case of a tradition that explicitly manages doubt in the way the essay suspects."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "An unresolved doubt is a null-op; it does not turn the wheel, neither forward nor back.",
+    "content": "This contradicts the decision theory the sequence teaches. An unresolved doubt is a probability short of one, and a probability short of one changes what one does without ever being resolved: it is why people buy insurance, diversify, hedge, keep options open, and build margins into bridges, the last of which The Proper Use of Humility praised. A doubt that moves a credence from 0.99 to 0.9 has turned the wheel by exactly the expected-value consequences of the difference, whether or not anyone investigates further. The essay is right that a doubt that neither informs action nor prompts inquiry is idle, and right that displaying doubt is not the same as doubting. But \"every doubt exists to annihilate some particular belief\" describes only the doubts that get resolved, and most of the credences that govern a life are permanent, calibrated, unresolved doubts. The sequence elsewhere says that 0 and 1 are not probabilities; this essay says that any probability in between is a null-op."
+  }
+]

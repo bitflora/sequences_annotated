@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "They, too, were the heroes of their own stories, and they died for what they believed was right",
+    "content": "This is the essay's best-supported claim, and it could have been supported. The 9/11 hijackers and the broader jihadist sample were disproportionately educated and middle-class, not psychopaths, not the poor and desperate of the popular story (<a href=\"https://doi.org/10.1257/089533003772034925\">Krueger &amp; Malečková 2003</a>; Sageman 2004, <em>Understanding Terror Networks</em>, book, no DOI). What the research adds and the essay omits is that they were moved by sacred values that behave unlike ordinary beliefs about situations: offers of material compensation to give up a sacred value increase, rather than decrease, willingness to use violence (<a href=\"https://doi.org/10.1126/science.1144241\">Atran, Axelrod &amp; Davis 2007</a>). \"Heroes of their own story\" is right; \"acting from beliefs about their situation that would make violence a typically human response\" understates how far the relevant psychology departs from the typical."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If it took a mutant to do monstrous things, the history of the human species would look very different. Mutants would be rare.",
+    "content": "The implicit support is the situationist canon, and half of it has since collapsed. Milgram's obedience results replicated under modern ethics rules (<a href=\"https://doi.org/10.1037/a0010932\">Burger 2009</a>); the Stanford prison study, the other pillar, was shown from its own archive to have involved guards coached into cruelty and a participant faking his breakdown (<a href=\"https://doi.org/10.1037/amp0000401\">Le Texier 2019</a>). On the dispositional side, roughly half the variance in antisocial behavior is heritable (<a href=\"https://doi.org/10.1037/0033-2909.128.3.490\">Rhee &amp; Waldman 2002</a>), and a small fraction of the population accounts for most violent crime. Atrocities need no mutants because they need only the ordinary distribution, but the ordinary distribution has a right tail, and the perpetrators of massacres are not a random draw from it. Neither \"evil mutants\" nor \"anyone in that situation\" is what the evidence says."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "neurologically intact people with beliefs that have utterly destroyed their sanity (Scientologists or Jesus Campers)",
+    "content": "The essay has spent its length arguing that enemies act from beliefs about their situation, that no exceptional disposition is required, and that construing them as monstrous is a failure of prior probability. It then diagnoses two religious groups as having lost their sanity, on no evidence, in a parenthesis. Both groups are, on the essay's own account, heroes of their own stories acting on beliefs they were raised or recruited into, which is exactly the analysis given to the hijackers a paragraph later. \"Sanity\" here is doing the work that \"evil mutant\" did for the essay's imagined patriot: it marks the people whose beliefs the author finds alien as defective rather than mistaken. An essay warning that the Enemy grows horns in the telling gives its own enemies horns in the telling."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "It is the choice that every police officer makes, every day, to keep our neat little worlds from dissolving into chaos.",
+    "content": "Most police officers never fire their weapon on duty in an entire career; a Pew survey of American officers found about a quarter had ever done so. The sentence is decoration, but the surrounding argument depends on the deterrence claim it decorates: \"it may as well be the initiator of force, to discourage future violence and thereby minimize the total sum of death.\" Whether killing attackers deters future attackers is an empirical question, and the analogous literature on the death penalty, reviewed by the National Research Council in 2012, concluded that the existing studies are uninformative about any deterrent effect at all. The essay presents a contested consequentialist premise as an obvious tragedy accepted daily by every officer, which is neither."
+  }
+]

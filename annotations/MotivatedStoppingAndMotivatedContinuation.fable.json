@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "“Correlation is not causation,” he testified to Congress.",
+    "content": "Fisher never testified to Congress. He was British, and his interventions in the smoking controversy were two letters to the <em>British Medical Journal</em> in 1957, a letter and article in <em>Nature</em> in 1958, and a 1959 pamphlet, <em>Smoking: The Cancer Controversy</em>. The constitutional hypothesis he raised, that a genotype might predispose both to smoking and to cancer, was a legitimate confounding argument that could not be ruled out from the case-control data then available; it was answered by Cornfield's sensitivity bound, which showed how strong a confounder would have to be (reprinted as <a href=\"https://doi.org/10.1093/ije/dyp289\">Cornfield et al. 1959</a>). Fisher's consultancy for the Tobacco Manufacturers' Standing Committee began after his first public letters, which complicates the essay's hidden-motive story. The standard account of the episode is <a href=\"https://doi.org/10.1093/oxfordjournals.aje.a115848\">Stolley (1991)</a>, and the essay's version is assembled from memory in the way the essay itself is warning against."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "(Ad hominem note: Fisher was a frequentist. Bayesians are more reasonable about inferring probable causality.)",
+    "content": "The joke has a true premise and a false conclusion. Cornfield, who led the epidemiological case against Fisher, did become a prominent Bayesian; but the issue between them was confounding, and confounding is not resolved by any choice of statistical philosophy. Whether a correlation reflects causation cannot be settled from observational data alone under either interpretation of probability; it requires assumptions about the causal structure, which is why the modern causal-inference framework, from Cornfield's bound through Pearl, is neutral between Bayesian and frequentist statistics. A Bayesian with Fisher's prior on the constitutional hypothesis would have reached Fisher's conclusion. The essay treats a methodological disagreement about which the sequence has a side as though it explained a substantive error it did not cause."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Who can argue against gathering more evidence? I can. Evidence is often costly, and worse, slow, and there is certainly nothing virtuous about refusing to integrate the evidence you already have.",
+    "content": "The essay's distinction between motivated stopping and motivated continuation is useful, and it lacks the one ingredient that would make it a criterion rather than a suspicion: the value of information. Whether to gather more evidence before acting depends on the cost of the evidence, the reversibility of the action, and how much the decision would change with the answer; when the action is irreversible and the evidence cheap, waiting is optimal, and this is the theory of real options, not a disguise for cowardice. \"You can always change your mind later\" is false exactly for the decisions where continuation is rational. The essay's diagnostic, suspect stopping when cheap evidence remains and continuation when only expensive evidence remains, is the value-of-information calculation stated as a rule of thumb, and it would have been stronger stated as the calculation, which does not require any inference about hidden motives."
+  }
+]

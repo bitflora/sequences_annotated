@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It is somewhat inconsistent for your utility function to contain a negative term for anyone else’s utility function having a term for someone else’s utility function.",
+    "content": "There is nothing inconsistent about it. A preference about other people's preferences is a meta-preference, and meta-preferences are the ordinary machinery of ethics: the person who dislikes busybodies has a coherent preference that others not hold preferences over third parties' beliefs, and nothing in decision theory forbids a utility function from ranking states by what other agents value. Sen's \"Rational Fools\" (1977, <em>Philosophy and Public Affairs</em>, no DOI) is the standard treatment of preferences over preferences and finds them not only consistent but necessary to describe commitment. The essay calls the objection \"only a snappy comeback,\" which is right, but it also calls it \"inconsistent,\" which is the word for something it is not. The objector's position is simply a value the author does not share."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If there are any true Relativists or Selfishes, we do not hear them—they remain silent, non-players.",
+    "content": "This is the no-true-Scotsman in its purest form: anyone who argues for relativism thereby proves not to be a relativist, so the position has no defenders by construction. The self-refutation argument against relativism is as old as Plato's <em>Theaetetus</em>, and the standard reply is equally old: a relativist can judge relative to a framework and can argue for the framework, just as a person who thinks all prices are relative to a currency can still say which car is cheaper. \"If they were really selfish, they would get on with making money instead of arguing\" mistakes the cost of arguing, which is near zero for someone who enjoys it, for evidence about their values. The paragraph reads the opponent's motives off their behavior in the way that Correspondence Bias, three essays on, tells the reader not to do."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Let’s argue against bad ideas but not set their bearers on fire.",
+    "content": "The question the objectors asked was whether one person's beliefs are legitimately another's business, and the essay answers with a mission statement about the Future rather than an argument. The argument exists and is stronger than the one given. Clifford's \"The Ethics of Belief\" (1877, no DOI) holds that no one has the right to believe on insufficient evidence, because beliefs are not private: they are contagious, they become premises for action, and a habit of credulity in one person weakens the evidential standards of everyone around them. That is why your rationality is Clifford's business, and it survives James's reply only in the cases where the belief has consequences for others. The essay's version, \"each time a human being turns away from the truth, the unfolding story of humankind becomes a little darker,\" is a feeling reported as a fact, and it applies equally to the lottery buyer and to the person who overestimates their own driving, which is nearly everyone."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "each time a human being turns away from the truth, the unfolding story of humankind becomes a little darker",
+    "content": "This is an empirical claim about the effects of individual inaccuracy, and the literature on it does not go the essay's way. Mildly inflated self-assessment, exaggerated perceived control and unrealistic optimism are associated with better mood, persistence and social functioning, the \"positive illusions\" of <a href=\"https://doi.org/10.1037/0033-2909.103.2.193\">Taylor &amp; Brown (1988)</a>, and the population whose judgments of contingency are most accurate in the classic paradigm is the mildly depressed. A formal model finds that overconfidence is the evolutionarily stable strategy whenever the prize contested exceeds the cost of conflict (<a href=\"https://doi.org/10.1038/nature10384\">Johnson &amp; Fowler 2011</a>). The Book I annotations treated this at length. Whether truth at the margin nourishes or corrodes is a question with a mixed answer, and the essay's certainty that private self-deception darkens history is exactly the belief-chosen-for-comfort that the essay says it is against."
+  }
+]

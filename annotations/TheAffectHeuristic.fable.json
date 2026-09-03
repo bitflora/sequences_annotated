@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You should meditate upon this thought until you attain enlightenment as to how the rest of the planet thinks about probability.",
+    "content": "The contempt is aimed at people who were trading three cents. In the jelly-bean study the subjects were choosing between a 10 percent and a 7 percent chance of one dollar, so the expected cost of indulging the experiential preference was three cents per draw; when the gap was larger they mostly chose correctly, and they told the experimenters exactly what they were doing (<a href=\"https://doi.org/10.1037/0022-3514.66.5.819\">Denes-Raj &amp; Epstein 1994</a>). The ratio bias is real and robust, and it is strongly moderated by numeracy, with the highly numerate showing little of it (<a href=\"https://doi.org/10.1111/j.1467-9280.2006.01720.x\">Peters et al. 2006</a>), which means \"the rest of the planet\" is a description of the innumerate, not the species. A subject who knowingly pays three cents for a bowl that feels better is not confused about probability; they are buying a feeling at a price the experimenter set low enough to make the purchase look like a mistake."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "According to ordinary economic theory, return and risk should correlate positively",
+    "content": "Ordinary economic theory says that, and the data on individual stocks say otherwise. The cross-section of stock returns shows a flat or negative relation between volatility and subsequent return, the low-volatility anomaly, with the highest-volatility stocks earning the lowest returns (<a href=\"https://doi.org/10.1111/j.1540-6261.2006.00836.x\">Ang, Hodrick, Xing &amp; Zhang 2006</a>); the finding has held across decades and markets and is one of the best-documented departures from the capital-asset-pricing model. So Ganzach's analysts, who judged unfamiliar stocks as either good (low risk, high return) or bad (high risk, low return), were producing judgments that match the empirical cross-section better than the theory the essay calls conventional. The affect heuristic may still be the mechanism. But the essay's standard of correctness here is a model that the field had already found to fail on exactly this question."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Yamagishi showed that subjects judged a disease as more dangerous when it was described as killing 1,286 people out of every 10,000, versus a disease that was 24.14% likely to be fatal.",
+    "content": "This one holds up, and the reader should know the shape of it. Denominator neglect, in which frequencies are weighted by their numerators and percentages by their surface magnitude, is among the more reliable findings in risk perception, and it is the reason risk communication now prefers natural frequencies with a fixed denominator (<a href=\"https://doi.org/10.1016/j.lindif.2007.03.011\">Reyna &amp; Brainerd 2008</a>). What the essay does not mention is that Yamagishi's design was between-subjects, so no individual judged 1,286 in 10,000 as worse than 24 percent; each group saw one format, and the effect is a difference of means across groups that never saw the comparison. That is the evaluability point of the next essay, and it means the error is one of format, not of the kind of stupidity the essay enjoys diagnosing. Present the same person with both and they choose correctly."
+  }
+]

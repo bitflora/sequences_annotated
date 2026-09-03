@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "If you tell people a reactor design produces less waste, they rate its probability of meltdown as lower.",
+    "content": "The cited study did not test that. <a href=\"https://doi.org/10.1002/(SICI)1099-0771(200001/03)13:1%3C1::AID-BDM333%3E3.0.CO;2-S\">Finucane et al. (2000)</a> gave undergraduates short passages stressing the benefits or the risks of nuclear power, natural gas and food preservatives, and found that a benefit passage lowered the overall risk rating and a risk passage lowered the benefit rating; it measured global attitude scales, not estimates of any physical quantity, and the reactor-waste-to-meltdown link is the essay's extrapolation. The inverse correlation between perceived risk and benefit is well replicated, but Slovic's own group notes a rational component: in the world, technologies with high risk and low benefit are abandoned, so the set of technologies people encounter really does show a negative risk–benefit correlation, and using one to update on the other is not simply an error. The essay's conclusion, \"getting the wrong answer to physical questions with definite factual answers,\" is stronger than anything the study measured."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If Justitia must consider any more complex issue, she should relinquish her scales or relinquish her sword.",
+    "content": "By the sequence's own decision theory the opposite is true. Facts are not on sides, but a decision between policies is a single ordering over outcomes, and expected utility is exactly the operation that reduces many logically distinct considerations to one number; the scales are the last step of every choice, not a tool that complex issues forbid. What the essay has shown is that the notebook comes before the scales, which the multi-attribute utility literature has said since Keeney and Raiffa (1976, book, no DOI). The metaphor also fails in the case the essay concedes to it: the jury-decision research finds that jurors evaluating a binary question of guilt do not tally points at all but construct competing stories and pick the more coherent one (<a href=\"https://doi.org/10.1037/0022-3514.62.2.189\">Pennington &amp; Hastie 1992</a>). Scales misdescribe the binary case, and the essay's own framework requires them for the complex one."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "At the end of the debate, the speaker who has scored more points is, obviously, the winner; so everything that speaker says must be true, and everything the loser says must be wrong.",
+    "content": "No audience is described that reasons this way, and the essay offers none. It is a caricature standing in for evidence, in the same position that a cited study would occupy. The actual evidence on how audiences process debates, such as the work on the persuasive effects of televised debates, finds small and mostly reinforcing effects on prior opinions rather than the wholesale acceptance of one side's every claim. The essay is right that argument-as-combat is a poor model of inquiry, but the point could be made without inventing a listener stupider than any who has been observed. The sequence's own rule, argue against the strongest form, applies to imagined opponents as much as to real ones."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "While LTCM raked in giant profits over its first three years, in 1998 the inefficiences that LTCM were exploiting had started to vanish—other people knew about the trick, so it stopped working.",
+    "content": "That is not what happened to Long-Term Capital Management. The fund's convergence trades were bets that spreads between similar securities would narrow; in August 1998 the Russian default set off a flight to quality that widened those spreads to unprecedented levels, and the fund's leverage meant it could not meet the margin calls before the spreads came back. They did come back: the consortium that took over the positions in the rescue unwound them at a profit within about a year. The trades were not wrong, the returns had already fallen to 17 percent in 1997, Merton and Scholes were partners rather than the managers, and the figures the essay quotes for equity and leverage are from January 1998, before the losses. The failure was of leverage and liquidity, not of hope, and Lowenstein's <em>When Genius Failed</em> (2000, book, no DOI), which is the source the numbers come from, says so."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you set out to teach someone how to not turn little mistakes into big mistakes, it’s nearly the same art whether in hedge funds or romance",
+    "content": "The transfer literature disagrees. Skill at avoiding error is largely domain-specific: expert intuition is trustworthy in environments with regular structure and fast feedback and not elsewhere, and the experts of one such environment do not carry their calibration to another (<a href=\"https://doi.org/10.1037/a0016755\">Kahneman &amp; Klein 2009</a>); far transfer of general cognitive skills is small or absent across the training studies that have looked (<a href=\"https://doi.org/10.1177/0963721417712760\">Sala &amp; Gobet 2017</a>). LTCM's principals were as sophisticated about probability as anyone alive and misjudged the correlation of their positions under stress, which is a fact about markets, not about admitting defeat. \"Be ready to admit you lost\" is good advice, and the claim that it is nearly the whole of the art across professions is the sequence's standing overestimate of what a general discipline of rationality can supply."
+  }
+]

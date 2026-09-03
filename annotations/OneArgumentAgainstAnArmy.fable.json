@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Again, these three arguments outweigh the first (by three arguments against one argument), so you keep your belief that Sylvania is responsible.",
+    "content": "The error the essay identifies, rehearsing known support to avoid updating, is real and its diagnosis is correct. But the example smuggles in a second error the essay does not name: counting arguments. Three arguments do not outweigh one; three likelihood ratios multiply, and the three Sylvanian signs are not independent, since a Sylvania that expected meteor strikes for innocent reasons, say astronomers, would produce the border pattern, the market activity and the ambassador's remark together. The \"no space program\" objection is of a different kind altogether: it bears on the prior for the mechanism and could outweigh any number of correlational signs. The essay's corrected reasoner still tallies, and merely tallies more honestly. What the reasoner needed was not to downshift a little on each reply but to notice that one reply attacked the hypothesis's possibility and the other three merely its fit."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You encounter further arguments by the pro-Sylvania traitors—again, and again, and a hundred times again—but each time the new argument is handily defeated by 3 to 1.",
+    "content": "Read alongside the essay two places on, this example refutes the rule it illustrates. What Evidence Filtered Evidence? says that arguments from a motivated source must be conditioned on the source's selection algorithm, and a hundred arguments produced by \"traitors\" are exactly such a stream. An agent who downshifts on each one is running the algorithm an adversary wants: generate weak counterarguments without limit, the Gish gallop, and let the target's belief drift with the volume of output. The weight of the hundredth argument from the same interested party is nearly zero, and the fact that the best the traitors can do is a hundred weak points is itself evidence for one's own side. The essay is right that rehearsal double-counts; its prescription, always shift down on a new counterargument, double-counts in the other direction whenever the counterarguments have a common source."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Imagine a scientist who does an experiment with 50 subjects and fails to obtain statistically significant results, so the scientist counts all the data twice.",
+    "content": "This is a fair caricature of a real and widespread error. Treating non-independent observations as independent, pseudoreplication, was documented in nearly half of the ecological field experiments surveyed by <a href=\"https://doi.org/10.2307/1942661\">Hurlbert (1984)</a>, and the same mistake underlies much of the replication crisis in the form of multiple measures from the same subjects analyzed as separate trials. The point is worth extending in the direction the essay does not take: the same double-counting occurs when several published studies rest on the same dataset, the same lab, or the same theoretical assumption, and a reader who counts \"the literature\" as many independent confirmations is doing what the Freedonian does with the three Sylvanian signs. Meta-analyses that correct for this dependence routinely shrink effects by half."
+  }
+]

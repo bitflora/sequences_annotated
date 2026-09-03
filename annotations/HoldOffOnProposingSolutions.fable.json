@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It is easy to show that this edict works in contexts where there are objectively defined good solutions to problems.",
+    "content": "Dawes says it is easy to show and then reports, three sentences later, that he has \"no objective criterion\" for the groups he applied it to. The support for Maier's edict is one role-playing study from the 1950s and Dawes's impression. The group-decision literature does, independently, find that thorough problem analysis before solution generation predicts decision quality (<a href=\"https://doi.org/10.1177/104649640103200303\">Orlitzky &amp; Hirokawa 2001</a>), so the edict is in better shape than its citation. Two limits matter for the essay's use of it. The finding is about groups, where the mechanism is attachment to one's own proposal in front of others, and the essay extrapolates it to solitary thought without evidence. And for individual experts the evidence runs the other way: their first-generated option is usually their best, and delaying it to generate more makes their choices worse (<a href=\"https://doi.org/10.1016/S0749-5978(03)00027-X\">Johnson &amp; Raab 2003</a>). \"Even half a minute\" of suspension is good advice for a committee and untested advice for a person."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you’re an evolutionary biologist, anyone you meet can instantly solve any open problem in your field, usually by postulating group selection.",
+    "content": "The sneer was already out of date. The revival of multilevel selection, with Wade's experimental demonstrations in flour beetles and the Price-equation formalization that makes group and kin selection mathematically interchangeable, was decades old when the essay was written, and the same year saw the reconciling review by <a href=\"https://doi.org/10.1086/522809\">Wilson &amp; Wilson (2007)</a>; the Book III annotations cover the episode. The laypeople the essay mocks were proposing something that professional biologists were, at that moment, proposing in <em>The Quarterly Review of Biology</em>. The essay's broader point survives, that people solve hard problems in fifteen seconds, and it applies to its own example: \"group selection is the amateur's answer\" is a fifteen-second solution to a question the field spent fifty years on."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Humans detect social cheating with much greater reliability than isomorphic violations of abstract logical rules.",
+    "content": "The finding is real and its interpretation is not what the essay assumes. Subjects solve the Wason selection task far more often when the rule is a social contract than when it is abstract (<a href=\"https://doi.org/10.1016/0010-0277(89)90023-1\">Cosmides 1989</a>), but the cheater-detection module proposed to explain this has been challenged by demonstrations that the facilitation follows from the deontic form of the rule and from the relevance of the cases, and can be produced or abolished without any cheating at all (<a href=\"https://doi.org/10.1016/0010-0277(95)00666-M\">Sperber, Cara &amp; Girotto 1995</a>). The essay's larger move, that the laws of rationality are like the Second Law of Thermodynamics, overstates the standing of the norms it has in mind: conditionalization, regularity, common priors and the choice of prior are each contested within Bayesian epistemology, and Cox's theorem, the essay's usual route to the laws, has a known gap (see the annotations to 0 And 1 Are Not Probabilities). Physics has one Second Law. Rationality has a family of proposals, several of which the sequence picks for its readers without saying so."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "For example, one finds religious people defending their beliefs by saying, “Well, you can’t justify your belief in science!”",
+    "content": "The retort is treated as a tu quoque about fairness, and it has a serious form the essay does not answer. The regress of justification, Hume's problem of induction, and the impossibility of a non-circular defense of the reliability of one's basic methods are the standard problems of epistemology, and \"Nature is indifferent to pleading\" addresses none of them, since the question is not whether Nature will excuse anyone but whether the rationalist's own confidence in evidence has a foundation the theist's lacks. The honest answer, which the sequence elsewhere gives, is that it does not have a foundation but does have a track record, which is a pragmatic rather than a foundational reply, and it is available to the theist too. The essay's engine analogy is apt for its narrow point, that one design error does not excuse another. It does not touch the point the religious interlocutor was making, which is that the rationalist has not shown their own engine to be running."
+  }
+]

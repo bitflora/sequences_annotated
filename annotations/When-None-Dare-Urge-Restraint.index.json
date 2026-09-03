@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/When-None-Dare-Urge-Restraint.fable.json",
+    "default": true
+  }
+]

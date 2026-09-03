@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/IsThatYourTrueRejection.fable.json",
+    "default": true
+  }
+]

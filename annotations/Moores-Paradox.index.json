@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/Moores-Paradox.fable.json",
+    "default": true
+  }
+]

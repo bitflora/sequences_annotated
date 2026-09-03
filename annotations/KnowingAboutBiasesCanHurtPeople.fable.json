@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "So when an expert says they’re 99% confident, it only happens about 70% of the time.",
+    "content": "The figure is not about experts. Numbers of that shape come from the general-knowledge calibration studies of the 1970s, in which undergraduates answering trivia items were right about 70 to 80 percent of the time when they said 99 percent. Experts judging within their own domain are a different population: weather forecasters' precipitation probabilities are almost perfectly calibrated (<a href=\"https://doi.org/10.2307/2346866\">Murphy &amp; Winkler 1977</a>), and expert bridge players are calibrated where novices are not (<a href=\"https://doi.org/10.1016/0749-5978(87)90047-1\">Keren 1987</a>). Overconfidence is worst for hard, unfamiliar items and for experts opining outside their feedback loop; it is not a property of expertise. The essay's mother was handed a number that was wrong before it was misused."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Attitude polarization. Exposing subjects to an apparently balanced set of pro and con arguments will exaggerate their initial polarization.",
+    "content": "Of the six predictions, this is the one that did not survive, and the essay presents it as confirmed. The original polarization finding, from Lord, Ross and Lepper's 1979 capital-punishment study, appears when subjects are asked whether their attitude changed and disappears when attitude is measured directly before and after (<a href=\"https://doi.org/10.1037/0022-3514.64.4.561\">Miller et al. 1993</a>; <a href=\"https://doi.org/10.1111/j.1467-9280.1996.tb00340.x\">Kuhn &amp; Lao 1996</a>). Three preregistered experiments with large samples found that counter-attitudinal information moved people toward it, with no backlash on any of several issues (<a href=\"https://doi.org/10.1017/S0007123418000327\">Guess &amp; Coppock 2020</a>). Taber and Lodge's own attitude-change measures showed polarization only among the most sophisticated subjects on one issue. The other predictions concern how people process arguments and are better supported, subject to the prior-confound noted in the annotations to sequence E. The effect the essay's title most depends on, that balanced evidence makes people more extreme, is the one the field has withdrawn."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "one of the primary ways that people with high mental agility end up stupid, in Stanovich’s “dysrationalia” sense of stupidity",
+    "content": "Stanovich's own program found nearly the opposite of what is attributed to it here. Across the standard heuristics-and-biases tasks, cognitive ability correlates negatively with bias: smarter subjects are less susceptible to most of the classic errors (<a href=\"https://doi.org/10.1037/0022-3514.94.4.672\">Stanovich &amp; West 2008</a>). The one bias that is independent of intelligence is myside bias, the tendency to evaluate evidence in the direction of prior belief (<a href=\"https://doi.org/10.1177/0963721413480174\">Stanovich, West &amp; Toplak 2013</a>). \"Dysrationalia\" names the gap between intelligence and rational thinking, not a tendency of the intelligent to become stupid; the empirical claim is that intelligence does not protect against myside bias, which is weaker than the essay's \"primary way.\" Taber and Lodge's sophistication effect concerns political knowledge, not intelligence, and the two are confounded with attitude strength."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Whether I do it on paper, or in speech, I now try to never mention calibration and overconfidence unless I have first talked about disconfirmation bias, motivated skepticism, sophisticated arguers, and dysrationalia in the mentally agile.",
+    "content": "The prescription is untested and its nearest tested relative does not work. Warning people about a bias before exposing them to it, the forewarning approach, is the debiasing intervention with the weakest record; reviews find that telling people about biases rarely reduces them and sometimes produces the very counter-arguing the essay fears (<a href=\"https://doi.org/10.1111/j.1745-6924.2009.01144.x\">Lilienfeld, Ammirati &amp; Landfield 2009</a>). The essay's diagnosis, that learning about biases arms people against arguments they dislike, is likely right, since myside bias is unaffected by knowledge or ability; but the same fact predicts that thirty minutes of hammering on motivated skepticism will simply become another item in the armory. \"First, do no harm\" would counsel measuring whether the lecture order matters, which the essay does not report doing. The one remedy with some evidence, the bias blind spot notwithstanding, is structured procedure applied to one's own judgments, not sequencing of warnings."
+  }
+]

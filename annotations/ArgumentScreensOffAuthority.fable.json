@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "P(truth|argument, expert) = P(truth|argument).",
+    "content": "The equality is read off a graph the essay drew, and the graph is the conclusion. It holds only if the expert's belief is caused by nothing but the argument the listener has already seen. The realistic graph has the truth causing a body of evidence, of which the listener sees a selected fragment and the expert sees a different and larger fragment; in that graph the fragment does not d-separate the expert from the truth, the expert's belief carries information about the evidence the listener has not seen, and the title's claim is false. The essay concedes exactly this in its final paragraphs, \"good authorities are more likely to know about any counterevidence that exists,\" which is the statement that the argument node does not block the path. What remains true is the weaker claim that a complete argument screens off authority, and complete arguments are not a thing anyone receives."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Assuming that Arthur is knowledgeable enough to understand all the technical arguments—otherwise they’re just impressive noises",
+    "content": "The assumption is where the practical content lives, and it usually fails. Evaluating a technical argument requires knowing the field well enough to notice what it omits, and non-experts systematically cannot tell a valid technical argument from a fluent invalid one; in the calibration literature the least competent are the least able to recognize competence in others. The stronger empirical point is that lay evaluation of arguments is not merely noisy but manipulable by fluency, length and citation density, none of which the essay's Arthur can screen off. Under those conditions the expert's credential is a proxy for the very ability to evaluate that Arthur lacks, and discarding it because one has \"heard the argument\" trades a noisy signal for a signal one cannot read. The essay's parenthetical is not a caveat on the theorem; it is the reason the theorem rarely applies."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "But this slight strength of authority is only ceteris paribus, and can easily be overwhelmed by stronger arguments.",
+    "content": "\"Slight\" is asserted, not derived, and the essay's own machinery says it need not be slight. The weight of an expert's belief is a likelihood ratio: how much more likely the expert is to hold the belief if it is true than if it is false. For a claim in a mature field, where the expert has seen the counterexamples the layman has not, that ratio can be very large, and the essay's example of Jaynes versus its own author is a case where the ratio is exactly the kind that is not slight. The erratum the essay reports is a real phenomenon, algebra trumps authority, but a single erratum in a book of several hundred pages is also a measure of how strong the authority was. The number the essay needed here was the likelihood ratio, and it substituted an adjective."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The man was Francis Bacon, his Great Idea was the scientific method, and he was the only crackpot in all history to claim that level of benefit to humanity and turn out to be completely right.",
+    "content": "The Book I annotations dealt with the Baconian origin story and the verdict carries over. Bacon's method, induction by tables of presence and absence, is not the method any successful science used; Galileo, Kepler and Newton worked by hypothesis and mathematics, which Bacon distrusted, and Bacon himself discovered nothing. The claim that he \"may have been the first to realize the power\" overlooks Ibn al-Haytham's explicit experimental program in optics six centuries earlier and Roger Bacon's three centuries earlier. Bacon was right that organized inquiry would transform the world, and the essay is right that some ideas deserve enormous admiration. But the example of a Great Idea vindicated is a case in which the idea's stated content was wrong and its vindication came from people doing something else, which is also a fair description of what happens inside most happy death spirals."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You’re also denying Martine Rothblatt’s founding of United Therapeutics to seek a cure for her daughter’s pulmonary hypertension. (Successfully, I might add.)",
+    "content": "There is no cure for pulmonary arterial hypertension. United Therapeutics developed treprostinil, a prostacyclin analogue that dilates pulmonary vessels and slows progression; it is a treatment that patients take for life, and Rothblatt's daughter has lived with the disease on such treatment. The company has since pursued organ manufacturing precisely because the drugs do not cure. \"Successfully\" in the sense the essay needs, a cure sought and found, is false, and the essay is using it in the paragraph that says science is related to \"just about every important facet of human existence,\" a nice claim about science supported by an overstated example. The essay's own instruction, treat every additional nice claim as a burdensome detail, would have caught it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Cut up your Great Thingy into smaller independent ideas, and treat them as independent.",
+    "content": "This is the essay's best advice and it has independent support. Decomposing a global judgment into separately assessed components and recombining them mechanically is the core of the structured-judgment literature, from Meehl's clinical-versus-statistical comparison onward, and it beats holistic judgment in nearly every domain tested (<a href=\"https://doi.org/10.1037/1040-3590.12.1.19\">Grove et al. 2000</a>). The Marxist example is well chosen, since the labor theory of value, the class analysis and the eschatology have in fact been assessed separately by economists and historians with different verdicts on each. The one caution is that the components are rarely independent in the way the advice assumes, and treating correlated parts as independent is the double-counting error the earlier essay on one argument against an army described. Split the idea, but keep track of which pieces stand or fall together."
+  }
+]

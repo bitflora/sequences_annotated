@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A single fleeting image can be enough to prime associated words for recognition. Don’t think it takes anything more to set confirmation bias in motion.",
+    "content": "The essay begins with semantic priming, which is real and robust, and ends with a claim that belongs to social priming, which is not. That \"water\" speeds recognition of \"drink\" by a few tens of milliseconds has been replicated for fifty years (<a href=\"https://doi.org/10.1037/h0031564\">Meyer &amp; Schvaneveldt 1971</a>). That a fleeting exposure changes judgments, decisions and behavior is the claim of the behavioral-priming program, and that program collapsed: the elderly-words-slow-walking result failed direct replication and was traced to experimenter expectation (<a href=\"https://doi.org/10.1371/journal.pone.0029081\">Doyen et al. 2012</a>), money priming failed across large preregistered replications (<a href=\"https://doi.org/10.1037/xge0000091\">Rohrer, Pashler &amp; Harris 2015</a>), and Kahneman, who had built a chapter of his book on it, wrote to the field in 2012 warning of a \"train wreck.\" The lexical-decision effect measures milliseconds of recognition latency and has no demonstrated bearing on what anyone concludes."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But someone must be, because these signs have been shown to work, which is why stores keep putting them up.",
+    "content": "The citation is to Brian Wansink, whose research career ended in 2019 after seventeen retractions, a Cornell investigation that found academic misconduct, and his own 2016 blog post describing how a graduate student was directed to reanalyze a null dataset until it yielded publishable results. The 1998 purchase-quantity paper has not itself been retracted, but nothing from that laboratory can be cited as shown without independent replication, and the essay's inference, that stores keep the signs up so they must work, is the argument from revealed preference the lottery essays mocked. The point may still be true. It is not established by this source, and the essay's phrase \"have been shown\" is a cached thought about a paper whose author's other showings were not showings."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "confirmation bias is built directly into our hardware, associational networks priming compatible thoughts and memories",
+    "content": "The proposed mechanism would produce the opposite of what it is invoked to explain. Spreading activation in semantic networks is symmetric with respect to valence and direction: \"hot\" primes \"cold\" as reliably as it primes \"sun,\" because antonyms are among the most strongly associated pairs in the lexicon, and a concept activates its contrasts along with its confirmations. An associational network is therefore not a device for privileging compatible thoughts; it is a device for making the whole neighborhood available, contrary evidence included. Confirmation bias in the sense of biased evaluation of evidence has a large literature, and none of it locates the effect in lexical priming (<a href=\"https://doi.org/10.1037/1089-2680.2.2.175\">Nickerson 1998</a>). The essay reaches for a neural-sounding explanation of a judgment phenomenon, and the neural phenomenon it picks does not have the property required."
+  }
+]

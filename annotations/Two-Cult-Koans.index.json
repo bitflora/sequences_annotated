@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/Two-Cult-Koans.fable.json",
+    "default": true
+  }
+]

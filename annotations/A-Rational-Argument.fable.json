@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It is no longer possible for the voters to condition on the facts alone; they must condition on the additional fact of their presentation, and infer the existence of hidden evidence.",
+    "content": "And in the standard model they do. When a party is known to possess verifiable information and chooses what to disclose, a skeptical audience treats silence as bad news, so the campaign that publishes fifteen questions and omits the eleventh is inferred to have failed the eleventh; the outcome unravels until everything is disclosed (<a href=\"https://doi.org/10.2307/3003562\">Milgrom 1981</a>). The essay presents selective publication as crossing a line into deception, but on its own Bayesian premises the voters are not deceived, provided they know the questionnaire existed. The realistic failure is that voters do not know what was omitted, which is a fact about their information, not about the honesty of listing true answers. The standard the essay sets, that a campaign must publish what hurts it, is stricter than what the theory of evidence requires, and no campaign, party, journal or blog has ever met it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Whatever actually decides your bottom line, is the only thing you can honestly write on the lines above.",
+    "content": "This standard cannot be met by anyone, because people do not have access to what actually decided their bottom line. Subjects reliably report reasons for choices that demonstrably were not the causes, and the reports are confabulated from folk theories of what should have mattered (<a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Nisbett &amp; Wilson 1977</a>). The essay's honest campaign manager, who processes a checklist and then prints it, is printing a reconstruction; the checklist's weights were themselves chosen by a process the manager cannot observe. The sequence's earlier essay on correspondence bias concedes as much about others and this essay forgets it about oneself. What one can honestly do is publish the checklist as a checklist, and let readers judge it as an argument, which is what the essay's previous entry said a listener can do with any argument whose selection rule is known."
+  }
+]

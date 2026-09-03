@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/Priming-And-Contamination.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/Priming-And-Contamination.fable.json",
+    "default": true
   }
 ]

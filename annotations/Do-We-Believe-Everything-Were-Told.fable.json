@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Gilbert, Tafarodi, and Malone’s paper was entitled “You Can’t Not Believe Everything You Read.”",
+    "content": "The Spinozan model did not hold up as a general account of comprehension. When statements contradict what readers already know, they are rejected fast and without cognitive effort, and load does not make them more believed (<a href=\"https://doi.org/10.1037/a0014038\">Richter, Schroeder &amp; Wöhrmann 2009</a>); the asymmetry Gilbert found appears only for statements the reader has no basis to evaluate. The asymmetry also depends on the framing of the false statement: when \"false\" is informative about the world, it is encoded as readily as \"true\" (<a href=\"https://doi.org/10.1111/j.0956-7976.2005.01576.x\">Hasson, Simmons &amp; Todorov 2005</a>), and a large memory study found that the original results are better explained by how truth and falsity tags are stored than by any initial acceptance (<a href=\"https://doi.org/10.3758/s13421-012-0251-z\">Nadarevic &amp; Erdfelder 2013</a>). What survives is narrow: under load, novel, unverifiable statements labeled false are sometimes remembered as true. Descartes was not refuted; a special case was found in which Spinoza's model fits."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "These non-busy participants recommended 7.03 years versus 6.03 years for criminals whose reports falsely exacerbated or falsely excused.",
+    "content": "This is the essay's own evidence that the effect is a load effect, and it should have been the headline. Undistracted readers of the same reports showed a difference of one year, which was not significant; the near-doubling occurred only in subjects hunting for fives in a number stream while reading. The lesson, then, is not that we believe everything we read but that comprehension under divided attention leaves the rejection step unfinished, which is a claim about attention rather than about belief. The practical advice, be careful with the supermarket newspaper, is better supported by a different literature: corrected misinformation continues to influence reasoning even when the correction is understood and accepted (<a href=\"https://doi.org/10.1177/1529100612451018\">Lewandowsky et al. 2012</a>), and that effect does not require distraction. The essay reached a defensible conclusion through the wrong study."
+  }
+]

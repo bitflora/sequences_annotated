@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Even Harry Potter is superior to the Bible, both as a work of literary art and as moral philosophy.",
+    "content": "This is a bottom line with no search above it, in an essay about bottom lines with no search above them. No criterion of literary quality is stated, no comparison is made, and the ranking runs against the judgment of nearly every critic who has compared them, including secular ones: Auerbach's <em>Mimesis</em> opens with the Binding of Isaac as the founding example of a literary mode that Homer lacks, and the Psalms, Job, Ecclesiastes and the Joseph narrative are on any serious list of world literature. One may dislike the Bible's ethics and still concede its prose. The essay's method for detecting fake justification is to ask whether a conclusion could have come from a neutral search; applied to the sentence quoted, the answer is that it could not have, and the essay's own diagnosis, \"Ooh, shiny\" in reverse, fits."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s improbable that you used mistaken reasoning, yet made no mistakes.",
+    "content": "It is not improbable; it is the normal case for heuristics. A rule that is \"mistaken\" by the standard of the stated criterion routinely produces the same answer as the criterion: the take-the-best heuristic matched or beat multiple regression on twenty real-world prediction tasks (<a href=\"https://doi.org/10.1111/j.1756-8765.2008.01006.x\">Gigerenzer &amp; Brighton 2009</a>), and the recognition heuristic, which ignores almost everything, predicts tournament outcomes and city sizes about as well as informed judgment. The essay's principle would condemn every case in which an intuition was later vindicated by analysis, which is the ordinary description of expertise in the naturalistic decision-making literature. The correct suspicion is narrower: when the justification was constructed after the fact and the justifier had a stake, the coincidence between the conclusion of process Y and the optimum of criterion X is evidence that X was chosen to fit. That is a claim about the choice of criterion, not about the reliability of Y, and the essay's dice analogy conflates the two."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The standard atheist reply is given by Sam Harris: “You and I both know that it would take us five minutes to produce a book that offers a more coherent and compassionate morality than the Bible does.”",
+    "content": "The reply is offered as decisive and it answers a claim the believers did not make. Reverence for a text as a moral tradition is not a claim that the text is the best moral treatise available, any more than a constitution is revered for being the best possible legal code; it is a claim about a community's relation to a shared source, and the alternative books the essay proposes lack the property that makes the Bible function, which is that many people already share it. The essay's own theory of \"belief in belief\" from Book I would have supplied the better analysis: the post-believer's reverence is a social and identity commitment, not a literary judgment, and diagnosing it as a fake literary judgment mistakes what it is a claim about. Whether the commitment is worth keeping is a fair question; five minutes with Sam Harris does not answer it."
+  }
+]

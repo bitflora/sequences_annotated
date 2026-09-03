@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I was not half right or even the tiniest fraction right.",
+    "content": "The thirteen-year-old was more than a fraction right, and the essay's refusal to say so is its own thesis misapplied. Mapping each whole number to the set of positions of the ones in its binary expansion is a correct bijection between the natural numbers and the finite subsets of the natural numbers, a standard result that appears in the first week of a set-theory course; the only error was in thinking that the finite subsets were all the subsets. A student who rediscovers that the finite subsets are countable, and then finds by the diagonal argument that the infinite subsets are not, has done a piece of mathematics correctly. The essay also misstates what the diagonal argument shows, which is that the reals outnumber the naturals; the rationals enter only because they are countable. The lesson that one should not cling to a refuted idea is sound. The extra step, that a refuted idea must be treated as containing nothing, is a different claim, and here it is false."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I wonder how many people writing angry letters in green ink were thirteen when they made that first fatal misstep.",
+    "content": "The only systematic survey of the population suggests few. Dudley's <em>Mathematical Cranks</em> (1992, book, no DOI), the book the essay probably read, finds that cranks are typically adults who came to mathematics late, often from engineering or another technical trade, and that the characteristic pattern is an obsession with a single famous problem, trisection, Fermat, Cantor, encountered in maturity. The essay's origin story for crankery, a gifted child's first refuted idea, is the author's own biography offered as the modal case. The mechanism proposed, clinging from pride, is plausible; the developmental claim attached to it has no support, and the essay's phrasing, \"I wonder how many,\" is the honest form of a claim it then treats as a finding about promising minds."
+  }
+]

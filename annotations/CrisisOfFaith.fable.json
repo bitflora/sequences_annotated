@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I feel reasonably confident in venturing that Aumann must, at one point or another, have questioned his faith. And yet he did not doubt successfully.",
+    "content": "Aumann has said in print what he thinks, and it is not a failed doubt. In his long interview with Sergiu Hart he describes religion and science as different spheres of experience, says explicitly that he does not hold religious belief as a scientific hypothesis in competition with evidence, and locates its value in practice, community and a way of living (<a href=\"https://doi.org/10.1017/S1365100505050078\">Hart 2005</a>). That is the attitude the Book I annotations called religious credence and the Book II annotations traced through the essays on self-deception: an acceptance held in a different register from factual belief, by a man who is entirely clear about the difference. The essay reasons about a living scientist's inner history from the outside, in an essay whose central instruction is not to rehearse cached conclusions, and the cached conclusion is that any theist must have tried and failed to reason their way out. The one example named could have been read."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Many in this world retain beliefs whose flaws a ten-year-old could point out, if that ten-year-old were hearing the beliefs for the first time.",
+    "content": "The ten-year-old is the wrong witness. Children are intuitive theists: they attribute purpose and design to natural objects more readily than adults do, prefer teleological explanations of animals and rocks, and hold these preferences regardless of their parents' religion (<a href=\"https://doi.org/10.1111/j.0956-7976.2004.00672.x\">Kelemen 2004</a>); creationist explanations are the developmental default that education overrides (<a href=\"https://doi.org/10.1006/cogp.2001.0749\">Evans 2001</a>). A ten-year-old hearing about God for the first time is the audience most likely to find the idea natural, which is one reason religions recruit children. Premise Checker's remark, that only a weird person would invent God in the scientific age, may be true of adults trained out of the default, and it says nothing about what an unattached mind would find obvious. The essay's standard for a belief's absurdity is a mind that does not exist, imagined as agreeing with the author."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "On my more pessimistic days I wonder if the camel has two humps.",
+    "content": "The camel does not. The allusion is to Dehnadi and Bornat's 2006 preprint claiming that a simple pre-course test sorted students into two populations, those who could learn to program and those who could not, a paper widely circulated as evidence for a native aptitude that most people lack. Its senior author retracted it in 2014, writing that the claim was unfounded, that the bimodality had not held up, and that he regretted the harm the paper had done (Bornat 2014, \"Camels and Humps: A Retraction,\" unpublished, no DOI). The essay leans on it in the paragraph about people who cannot follow meta-level arguments, which is an argument about a native limitation in the audience, supported by a study that turned out to show no such thing. On the sequence's own terms this is a belief that should have been marked \"oops\" and was instead left in the book."
+  }
+]

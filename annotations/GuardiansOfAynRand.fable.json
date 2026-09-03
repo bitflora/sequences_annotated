@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Bayesian probability theory is the quantitative logic of which Aristotle’s qualitative logic is a special case",
+    "content": "It is not. The Cox–Jaynes derivation extends propositional logic, the calculus of \"and,\" \"or\" and \"not,\" to degrees of plausibility; Aristotle's syllogistic is a fragment of predicate logic, with quantifiers, and probability theory has no settled treatment of \"all\" and \"some\" that reduces syllogisms to a special case. The two systems answer different questions, one about validity of inference among general terms, the other about degrees of belief in propositions, and neither contains the other. The point being made, that Rand's philosophical equipment was antique, is fair enough, and the essay concedes the unfairness of blaming her for a field that barely existed in 1957. What it does not concede is that its own \"quantitative logic\" is a slogan from Jaynes's preface rather than a theorem, and that the essay is lording over Aristotle a claim the essay's author has not checked."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Actually, I think Shermer’s falling prey to correspondence bias by supposing that there’s any particular correlation between Rand’s philosophy and the way her followers formed a cult.",
+    "content": "The content of the philosophy specified the mechanism, and the essay's own example shows it. Rand's aesthetics, set out in <em>The Romantic Manifesto</em> (1969, book, no DOI), holds that a person's response to art reveals their \"sense of life,\" the subconscious metaphysical estimate that underlies their character; on that doctrine, a friend who enjoys Richard Strauss has disclosed a metaphysical defect, and Rand's reaction was the doctrine applied, not a personality quirk that any cause would have produced. \"Every cause wants to be a cult\" is a claim that dispositions and doctrines do not matter, which is the situationism the annotations to Correspondence Bias found the field had abandoned; doctrines that make taste, doubt or association morally diagnostic are a specific risk factor with a specific history, from Objectivism to Scientology. Shermer's account had a mechanism. The essay replaces it with entropy, and the Strauss anecdote it quotes is the evidence for Shermer."
+  }
+]

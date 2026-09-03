@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You know, given human nature, if people got hit on the head by a baseball bat every week, pretty soon they would invent reasons why getting hit on the head with a baseball bat was a good thing.",
+    "content": "The argument is the reversal test that Bostrom and Ord formalized a year earlier (<a href=\"https://doi.org/10.1086/505233\">Bostrom &amp; Ord 2006</a>), and they list the conditions under which it fails: when the status quo is the product of a long optimization, when transition costs are large, and when the parameter has been tuned by evolution. Death is arguably all three, so the test does not settle the question the essay uses it for; it shifts the burden. The psychology of \"death gives meaning to life\" also has a literature the essay does not engage, and it cuts both ways: terror-management theory claims that reminders of mortality drive worldview defense, which would support the essay's rationalization story, but its central mortality-salience effect failed a multi-site preregistered replication (<a href=\"https://doi.org/10.1525/collabra.35271\">Klein et al. 2022</a>). The essay's opponents at the lunch may have been rationalizing; the essay's account of why is as much folk psychology as theirs."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But my suspicion is that I came across as “deep” because I coherently violated the cached pattern for “deep wisdom” in a way that made immediate sense.",
+    "content": "The essay's data are two people who called its author deep, and the essay's hypothesis about why is one of several that the later research on perceived profundity distinguishes. Ratings of profundity are driven substantially by properties of the rater rather than the statement: less reflective listeners rate vague, syntactically well-formed statements as profound regardless of content (<a href=\"https://doi.org/10.1017/S1930297500006999\">Pennycook et al. 2015</a>). On that evidence, being called deep at a Silicon Valley lunch about death is weak information about the depth of what was said, and stronger information about the audience. The essay's advice for seeming deep, study nonstandard philosophies and stay within one inferential step, is plausibly right, and it is also a recipe for the fluent contrarianism that the same literature finds most reliably mistaken for insight. The essay half-knows this, which is why the title has \"seem\" before \"be.\""
+  }
+]

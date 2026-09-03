@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "If you want to argue against transhumanism or the intelligence explosion, you have to directly challenge the arguments of Nick Bostrom or Eliezer Yudkowsky post-2003.",
+    "content": "The rule is sound and the application is self-serving. The author names himself as the strongest advocate of his own position, sets the date after which his writings count, thereby excluding the earlier work he later disowned, and thereby makes a critique of anything the movement's members actually say inadmissible unless it engages him. The argumentation literature distinguishes the straw man from the \"weak man,\" attacking a real but feeble advocate, and warns that the demand to engage only the strongest advocate has its own pathology: it licenses a movement to disown every claim its members make in practice by pointing to a canonical text that does not make it (<a href=\"https://doi.org/10.1007/s10503-006-9017-8\">Talisse &amp; Aikin 2006</a>). What a movement's typical members argue is also evidence, about the movement if not about the idea. \"The least convenient path is the only valid one\" is stated in an essay whose author gets to define which path is least convenient."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Someone once said, “Not all conservatives are stupid, but most stupid people are conservatives.”",
+    "content": "Someone was John Stuart Mill, in the House of Commons in 1866: \"I never meant to say that the Conservatives are generally stupid. I meant to say that stupid people are generally Conservative.\" It is one of the more famous political remarks in English, and \"someone once said\" is not a citation. The demand that the claim seem \"completely irrelevant\" is also stronger than the essay's own theory of evidence permits. The next essay argues that who believes a thing is evidence about it whenever the arguments are not fully in hand, and by that standard the distribution of a belief across cognitive ability is weak evidence, not none. The empirical version of Mill's remark has been tested and gives small, dimension-dependent correlations (<a href=\"https://doi.org/10.1177/0956797611421206\">Hodson &amp; Busseri 2012</a>), which is what \"weak evidence\" looks like. The correct lesson is that ad hominem is weak, which is different from saying it is invalid."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "By the Bayesian definition of evidence, the observation “flying saucer cults exist” is not evidence against the existence of flying saucers.",
+    "content": "True of the cults' existence taken alone, and false of the observation as anyone actually makes it. What one observes is not merely that a cult exists but that the idea has attracted cranks and no one else: no astronomer, no defense analyst, no one with instruments. Under the essay's own next-essay logic, expert belief is evidence about truth through the arguments experts have seen, and the absence of expert endorsement for a claim that experts would be positioned to confirm is evidence against it, exactly as absence of evidence is evidence of absence in Book I. The likelihood ratio the essay computes holds the cults fixed and asks about aliens; the ratio that matters holds the whole pattern of who believes fixed, and it is not one. The principle that reversed stupidity is not intelligence is correct; the flagship example does not need it, because the stupidity is not the evidence."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Many New Agers have been made crazier by their personal apprehension of quantum mechanics.",
+    "content": "No one has measured this, and the claim would require a comparison the essay does not make: crazier than they would have been without quantum mechanics, or crazier than New Agers who took up a different idea. The sentence is a small instance of a habit that runs through the sequence, in which a diagnosis of the mental state of a disliked group is offered as an illustration of a principle about evidence. The principle here is that lunatics attached to an idea are not evidence against it, and the illustration is a claim about lunatics offered without evidence. The essay condemns the horns effect while attributing madness to its examples."
+  }
+]

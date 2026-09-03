@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I realize now that when I wrote “You cannot make yourself believe the sky is green by an act of will,” I wasn’t just a dispassionate reporter of the existing facts. I was also trying to instill a self-fulfilling prophecy.",
+    "content": "This is the admission that the sequence's previous essay was chosen for its consequences rather than its truth, which is the thing the sequence exists to condemn. A belief instilled because holding it makes self-deception harder is a belief held for its benefits; the essay's own vocabulary calls that belief in belief, and its own Litany of Tarski forbids it. The essay notices the tension, \"Is that the power of positive thinking, or the power of negative thinking?\", and resolves it by calling the practice a wise precaution. The empirical record for affirmation practices is also unpromising: repeating a self-statement helps people who already hold it and backfires for the people who need it (<a href=\"https://doi.org/10.1111/j.1467-9280.2009.02370.x\">Wood, Perunovic &amp; Lee 2009</a>). Whether repeating \"I can't fool myself\" reduces self-deception has not been tested, and by the essay's own account of what it is, it is a self-deception about self-deception."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Shouldn’t the gut-level realization, “Oh, wait, the sky really isn’t green” follow from the realization “My map that says ‘the sky is green’ has no reason to be correlated with the territory”?",
+    "content": "The essay answers its own question, \"apparently not,\" and the answer undermines the sequence more than it undermines Kurige. The central promise of the book is that reflective knowledge corrects belief: learn how your map was made and the map will change. Here the author finds that meta-level knowledge of a belief's origin does not propagate to the object level, and treats this as a puzzle about one Christian. It is not a puzzle; it is the general finding. Knowing that a belief is unfounded does not remove it, in the continued-influence effect for corrected misinformation, in the persistence of debunked beliefs after debriefing (<a href=\"https://doi.org/10.1037/0022-3514.32.5.880\">Ross, Lepper &amp; Hubbard 1975</a>), and in the bias blind spot, where knowledge of a bias leaves it intact. Kurige's doublethink is the human default that the sequence's method was supposed to overcome, observed in the wild, and the essay's response is to recommend a chant."
+  }
+]

@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/PolicyDebatesShouldNotAppearOneSided.opus.json",
     "default": true
+  },
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/PolicyDebatesShouldNotAppearOneSided.fable.json",
+    "default": true
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Alas, some unfortunate souls use the same word “evolution” to cover the naturally selected patterns of replicating life, and the strictly accidental structure of stars, and the intelligently configured structure of technology.",
+    "content": "The stars are a fair target; technology is not. The extension of selection theory to culture and technology is a mature research program, not a category error: dual-inheritance theory (Boyd &amp; Richerson 1985, book, no DOI), the Price equation applied to any population of replicators, and the cultural-evolution synthesis that proposes to treat cultural change with the tools of population genetics (<a href=\"https://doi.org/10.1017/S0140525X06009083\">Mesoudi, Whiten &amp; Laland 2006</a>) all rest on the observation that variation, inheritance and differential retention occur in artifacts and practices, whether or not anyone intends the outcomes. Intelligent configuration of individual artifacts does not remove selection at the population level, any more than deliberate breeding removes it from dogs. The essay's own intellectual milieu leans on memetics and on \"evolution\" of ideas constantly. The point about carburetors and radiators is right; the example chosen to make it is one where the person who \"studied the math\" is on the other side."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And don’t even get me started on people who think Wikipedia is an “Artificial Intelligence,” the invention of LSD was a “Singularity,” or that corporations are “superintelligent”!",
+    "content": "The third example became a standard analogy in the alignment literature the author's community produced: corporations as existing misaligned optimizers with superhuman capabilities in narrow domains, offered by Dennett, by Bostrom's discussion of collective superintelligence, and in countless introductions to the problem. Whether the analogy is apt is arguable; that it is an obvious confusion is not what the field concluded. More generally, the essay's insistence on narrow categories was, in the AI case, undone by the objects themselves: large language models are neither the \"narrow AI\" nor the \"general intelligence\" of the essay's vocabulary, and the sharp categories the essay says a rationalist needs turned out to be the ones the phenomena refused to respect. Narrowness is a virtue when the world is jointed where the words are. Whether it is jointed there is an empirical question, and the essay's examples were chosen before the answer came in."
+  }
+]

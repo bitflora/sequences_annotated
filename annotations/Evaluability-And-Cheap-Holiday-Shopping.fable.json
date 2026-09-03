@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Decide how much money you want to spend on impressing the recipient, then find the most worthless object which costs that amount.",
+    "content": "The advice optimizes a quantity that recipients do not use. Givers believe that appreciation tracks the price of a gift; recipients' reported appreciation is unrelated to price, both for gifts received and in controlled vignettes, and the asymmetry holds across several gift types (<a href=\"https://doi.org/10.1016/j.jesp.2008.11.003\">Flynn &amp; Adams 2009</a>). Hsee's scarf-and-coat result is a judgment made by third parties imagining a gift, not by recipients receiving one, and the essay extends it to recipients without noticing the change of subject. The evaluability effect itself is real and has been replicated across many domains (<a href=\"https://doi.org/10.1037/0033-2909.125.5.576\">Hsee et al. 1999</a>); it is the application that misfires. A recipient who receives a $25 candle has indeed received the most expensive candle; what the data say is that they will not care."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You can make a gamble more attractive by adding a strict loss! Isn’t psychology fun?",
+    "content": "It replicated. The finding that adding a small loss to a 7-in-36 chance of $9 raises its rated attractiveness was reproduced with a larger sample and extended to show that the effect depends on the loss being small enough to serve as a comparison point rather than a deterrent (<a href=\"https://doi.org/10.1002/bdm.558\">Bateman et al. 2007</a>). This is worth recording because so much of the book's evidence did not. Two qualifications. The effect appears in ratings and in hypothetical choice, and shrinks when the gambles are placed side by side, which is the essay's own concession; and the joke that follows, that no one who appreciates human intelligence wants to design a human-like AI, aged badly, since the systems that arrived were trained on human output and inherit human evaluability quirks along with everything else."
+  }
+]

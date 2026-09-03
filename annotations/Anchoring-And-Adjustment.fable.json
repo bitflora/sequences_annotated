@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Tversky and Kahneman recorded the estimates of subjects who saw the Wheel of Fortune showing various numbers.",
+    "content": "Anchoring is one of the few effects in this book that came through the replication crisis intact, and the reader should know that. The Many Labs project replicated four anchoring paradigms across 36 samples in several countries with large effects in every one (<a href=\"https://doi.org/10.1027/1864-9335/a000178\">Klein et al. 2014</a>); experts anchor too, as real-estate agents did on listing prices they were told to ignore (<a href=\"https://doi.org/10.1016/0749-5978(87)90046-X\">Northcraft &amp; Neale 1987</a>). Two corrections to the account here. The wheel was rigged to stop at 10 or 65, not \"various numbers,\" which Kahneman later acknowledged; and the adjustment story the essay gives as \"the current theory\" had already been displaced when it was written by the selective-accessibility account, as the next essay concedes. The phenomenon is real. The mechanism the essay teaches for it is the one the field had abandoned."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "try also to think of an anchor in the opposite direction—an anchor that is clearly too small or too large, instead of too large or too small—and dwell on it briefly",
+    "content": "This prescription was tested and it works, which makes it a rarity in the book. Asking subjects to generate reasons why the anchor might be wrong, the consider-the-opposite procedure, reduced anchoring by roughly half in both laboratory and expert-judgment settings (<a href=\"https://doi.org/10.1177/01461672002611010\">Mussweiler, Strack &amp; Pfeiffer 2000</a>), and the mechanism is the same selective accessibility that produces the effect: thinking about anchor-inconsistent information makes it available. The essay's first suggestion, to throw the anchor away and start over, is the one that has not worked, as the essay honestly notes; people cannot decline to be primed. The general lesson is the reverse of the sequence's usual one: the debiasing method that succeeded was a specific procedure that exploits the bias's own mechanism, not awareness, vigilance, or \"watching yourself thinking.\""
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/Update-Yourself-Incrementally.fable.json",
+    "default": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the proteins bound together by weak van der Waals forces instead of strong covalent bonds",
+    "content": "This is offered as a design flaw so obvious that a designer's advocate would have to lie about it, and it is not a flaw. Proteins fold and bind through weak, non-covalent interactions because function requires reversibility: enzymes must release their products, signaling molecules must dissociate from receptors, and regulatory proteins must be able to change shape. A protein held together covalently would be a rock. Any engineer designing molecular machines would use the same interactions for the same reason, and the field of protein design does. The retina and the recurrent laryngeal nerve are genuine examples of the kind the essay wants; this one is a biochemistry error dressed as an argument, in an essay about how lies about biology require lies about the rules of science."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "“Everyone has a right to their own opinion.” When you think about it, where was that proverb generated? Is it something that someone would say in the course of protecting a truth, or in the course of protecting from the truth?",
+    "content": "The essay answers a question about a proverb's origin with an insinuation, and three paragraphs later says that refuting a proposition by its inventor's intentions is forbidden on the Light Side. The proverb's actual pedigree is the liberal theory of toleration, from Locke's <em>Letter</em> through Mill's <em>On Liberty</em>, generated to protect dissenters from coercion by people certain of the truth. That is the essay's own principle from Your Rationality Is My Business, argue but do not burn, in its popular form. The proverb is misused when \"a right to an opinion\" is taken to mean \"immunity from argument,\" but that misuse is a confusion about rights, not the Dark Side, and the way to answer it is to distinguish the two senses. Attributing it to a cover-up is the genetic fallacy that a later essay in this book is named after."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "A single Lie That Must Be Protected can block someone’s progress into advanced rationality.",
+    "content": "The model predicts that protected false beliefs should produce a generalized impairment of reasoning, and the population-level data show at most a small one. The correlation between religiosity and measured intelligence is about −0.2 across meta-analyses (<a href=\"https://doi.org/10.1177/1088868313497266\">Zuckerman, Silberman &amp; Hall 2013</a>), the fraction of working scientists who report belief in God is large, and myside bias, the closest thing to the essay's \"rules of anti-thought,\" is independent of cognitive ability in everyone (<a href=\"https://doi.org/10.1177/0963721413480174\">Stanovich, West &amp; Toplak 2013</a>). Compartmentalization, in which a protected belief coexists with ordinary competence elsewhere, is what the Book I annotations found to be the default configuration of a human mind, not a pathology. The essay's picture of a single lie metastasizing through the meta-level is a vivid mechanism with no measured instance, offered in the same paragraph that disclaims Fully General Counterarguments."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Or you could just lie about evolutionary theory, which is the path taken by most creationists.",
+    "content": "Most creationists believe what they say. Purpose-based explanations of living things are the developmental default in children regardless of their parents' religion (<a href=\"https://doi.org/10.1006/cogp.2001.0749\">Evans 2001</a>), and the folk theory they grow into is shared by a majority of adults in many countries who have never been told to protect anything. The essay's vocabulary, lies, the Lie That Must Be Protected, Sith Lords, describes a population of deceivers, and then concedes in a late paragraph that \"the vast majority ... are more duped than duplicitous.\" If that concession is true, the essay's mechanism does not apply to its central example: there is no first lie from which the entangled falsehoods propagate, and the mistaken beliefs about evolution, the nature of theories and the meaning of scientific uncertainty are ordinary errors held sincerely. Sincere error and protected deception call for different responses, and the essay's dramatic framing chooses the wrong one for the case it names."
+  }
+]

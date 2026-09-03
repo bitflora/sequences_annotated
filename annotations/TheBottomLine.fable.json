@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Subjects instructed to say the color of printed pictures and shown the picture Green often say “green” instead of “red.”",
+    "content": "This is not what the Stroop experiment found. Subjects naming the ink color of an incongruent color word are slower, by several hundred milliseconds per item, and make occasional errors; they do not \"often\" say the word (<a href=\"https://doi.org/10.1037/h0054651\">Stroop 1935</a>; <a href=\"https://doi.org/10.1037/0033-2909.109.2.163\">MacLeod 1991</a>). Error rates in the standard task are a few percent. The essay is using the best-known demonstration in cognitive psychology as a metaphor for being misled by the shape of ink, and it has the result wrong in the way that makes the metaphor work. The Stroop effect shows that reading is automatic and interferes with a competing response, which is the opposite lesson: the literate subject cannot help extracting the meaning, and almost always reports the color anyway."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "So the handwriting of the curious inquirer is entangled with the signs and portents and the contents of the boxes, whereas the handwriting of the clever arguer is evidence only of which owner paid the higher bid.",
+    "content": "True of the ink as evidence about the arguer, and misleading about the ink as evidence for the listener. The clever arguer's listed facts are true facts; their evidential value to a listener depends on what the listener knows about the selection process, not on the arguer's motive, which is the point the very next essay makes and this one obscures. A listener who knows the arguer was hired can extract the information that the boxes' visible signs favor B at least this much, and can infer from what is omitted; the economics of verifiable disclosure shows that with a skeptical receiver, interested parties end up revealing nearly everything (<a href=\"https://doi.org/10.2307/2555625\">Milgrom &amp; Roberts 1986</a>). The essay's lesson about one's own reasoning is sound and is supported by the motivated-reasoning literature (<a href=\"https://doi.org/10.1037/0033-2909.108.3.480\">Kunda 1990</a>). Its picture of the argument itself as worthless because of its origin is the genetic fallacy that a later essay in this book warns against."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It may help to visualize a collection of worlds—Everett branches or Tegmark duplicates—within which there is some objective frequency at which box A or box B contains a diamond.",
+    "content": "The many-worlds scaffolding does no work and imports a frequentism the sequence elsewhere rejects. \"Objective frequency across Everett branches\" is a frequency interpretation of probability with the reference class relocated to the multiverse, and the sequence's official position, taken from Jaynes, is that probability is in the mind. The scaffolding also depends on physics the sequence treats as settled and the field does not: the Everett interpretation is one contender, and \"Tegmark duplicates\" is a cosmological speculation with no empirical support. None of this affects the essay's actual point, which can be stated in one sentence about causal history: a conclusion written before the evidence was examined is not caused by the evidence. Dressing that sentence in branches and duplicates makes it look like a result of physics, which it is not."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This cached thought has been around for three decades. Still no general intelligence. But, somehow, everyone outside the field knows that neural networks are the Dominant-Paradigm-Overthrowing New Idea",
+    "content": "The cached thought was right and the essay was wrong, and it is fair to say so because the essay offers the case as an example of pattern-completion masquerading as insight. Five years after it was written, a deep convolutional network won the ImageNet competition by a margin that ended the alternative approaches; ten years after, the transformer architecture produced the systems that now write, code and pass professional examinations, and the author's own institute reorganized its research around them. The outsiders who kept saying \"neural networks\" were repeating a cached thought, as the essay says; the thought happened to be the correct answer, which the essay elsewhere concedes is possible (\"2 + 2 = 4, yes, really, even though this is what everyone else thinks too\"). The lesson the essay draws, that originality requires departing from the consensus of the uninformed, is not supported by the one example it gives; the consensus of the uninformed was, in this case, ahead of the field."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Isn’t it funny how nonconformists all dress the same…",
+    "content": "The observation has an empirical basis that supports the essay. People adopt tastes and styles to signal membership in a group and abandon them when a disliked group adopts them, so divergence from the mainstream converges within the subculture (<a href=\"https://doi.org/10.1037/0022-3514.95.3.593\">Berger &amp; Heath 2008</a>); the uniform of the nonconformist is an identity signal, and identity signals have to be legible to be signals. What the essay adds is the claim that the same mechanism governs intellectual originality, that the person who wants an \"original mousetrap\" wants to be perceived as original. That is asserted from introspection about other people's motives. The venture-capital anecdote that follows is a single firm's rule reported secondhand, and the general evidence on contrarian investing is that it is not reliably profitable, since the herd is often right about which innovation is next. The essay is on solid ground about dress and on none about mousetraps."
+  }
+]

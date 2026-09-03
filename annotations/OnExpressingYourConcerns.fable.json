@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Together they become more optimistic than either would be on their own, each one’s doubts quelled by the other’s seemingly confident reassurance",
+    "content": "The mechanism described, politeness suppressing doubt, predicts that groups always drift toward optimism. The group-decision literature finds that groups drift toward whichever way their members initially lean: discussion amplifies the prevailing tendency, so groups of cautious individuals become more cautious and groups of risk-takers more reckless, the group polarization effect (<a href=\"https://doi.org/10.1037/0033-2909.83.4.602\">Myers &amp; Lamm 1976</a>). The mechanisms identified are persuasive-arguments pooling and social comparison, neither of which is the essay's politeness. Janis's groupthink model, the popular version of the essay's picture, fared poorly under test, with reviews finding only partial support for its antecedents and none for the causal chain as a whole (<a href=\"https://doi.org/10.1006/obhd.1998.2758\">Esser 1998</a>). The anecdote about the fourth guy is a case of a group with an optimistic lean polarizing, which the theory predicts; a group of four worriers would have talked itself out of the project."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "This is known as “pluralistic ignorance.”",
+    "content": "The concept is real and well documented, most famously in college drinking, where most students privately disapprove of the drinking norm and believe that most others endorse it (<a href=\"https://doi.org/10.1037/0022-3514.64.2.243\">Prentice &amp; Miller 1993</a>). Two things about it bear on the essay's use. The classic demonstrations concern attitudes and norms, not project estimates, and the correction that works is disclosure of the true distribution, which is a procedure rather than an act of individual courage. And the essay's practical conclusion, that there is no social difference between expressing a concern and disagreeing, is stated as a fact about \"how human beings are really wired\" from one meeting. The organizational literature on voice finds that framing matters a great deal: concerns raised as questions, as shared problems, or with a proposed remedy are received differently from concerns raised as objections, which is why the aviation and surgical checklists that reduced error rates train exactly that distinction. The rationalist's artifice the essay dismisses is a standard in the industries that measured it."
+  }
+]

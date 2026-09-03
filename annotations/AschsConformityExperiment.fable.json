@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Consistently within and across experiments, all-female groups (a female subject alongside female confederates) conform significantly more often than all-male groups.",
+    "content": "Not consistently. The sex difference in conformity is small, appears mainly in group-pressure paradigms, and is moderated by who ran the study: a meta-analysis found that the female-conformity effect was larger in studies with male authors and near zero in studies authored by women, which is not what a robust trait difference looks like (<a href=\"https://doi.org/10.1037/0033-2909.90.1.1\">Eagly &amp; Carli 1981</a>). Bond and Smith's meta-analysis, which the essay cites, also found that conformity in American samples declined steadily from the 1950s to the 1990s, so that the effect the essay treats as a fixed feature of human nature is partly a feature of mid-century America (<a href=\"https://doi.org/10.1037/0033-2909.119.1.111\">Bond &amp; Smith 1996</a>). The essay's conclusion that \"women are too agreeable and men are too disagreeable\" rests on the least stable moderator in the table."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Paul Crowley reminds me to note that when subjects can respond in a way that will not be seen by the group, conformity also drops, which also argues against an Aumann interpretation.",
+    "content": "This paragraph reinvents, without citing, the standard analysis of the field. The distinction between conformity that reflects updating on others' judgments and conformity that reflects the wish not to stand out is the distinction between informational and normative social influence, established by <a href=\"https://doi.org/10.1037/h0046408\">Deutsch &amp; Gerard (1955)</a>, whose private-response condition is exactly the manipulation the essay reports as a reader's reminder. Their finding was that both operate, that private responding reduces the normative component, and that the informational component remains and is larger when the task is harder, which matches the essay's observation about subtle diagrams. The essay is correct on the substance and presents fifty-year-old results as a fresh argument between commenters. The Aumann framing adds nothing the 1955 paper did not have, except the assumption of common priors, which the annotations to Book I found unsupported."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Do you think the Inquisition would have tortured witches, if all were ideal Bayesians?",
+    "content": "The Inquisition is the wrong example, because the Inquisition was the institution that stopped torturing witches. After the Logroño auto-da-fé of 1610 the Spanish Inquisition sent Alonso de Salazar Frías to investigate the Basque witch panic; he interviewed some 1,800 confessed witches, found the confessions incoherent and the physical evidence nonexistent, and his report led to the 1614 instructions that ended witch executions in Spain (Henningsen 1980, <em>The Witches' Advocate</em>, book, no DOI). The Roman Inquisition's 1620s instructions were similarly skeptical. The great witch-hunts, with their tens of thousands of executions, were conducted by secular and local courts in the Holy Roman Empire, Scotland and Switzerland, Protestant and Catholic alike. The essay's rhetorical question has a documented answer: the closest early-modern approximation to an evidential standard was applied by the Inquisition, and it worked."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "We call this evil, because it was done by deliberate human intent to inflict pain and death upon innocent human beings.",
+    "content": "The historiography of the Great Leap famine does not support \"deliberate intent to inflict death\" as its cause, and the alternative is a better example for the essay than the one it chose. The famine followed from grain-yield reports inflated at every level of the hierarchy by cadres who feared to report truthfully, from procurement quotas set on the fictional yields, and from a leadership that suppressed the information that would have corrected them (<a href=\"https://doi.org/10.1111/j.1728-4457.2011.00398.x\">Ó Gráda 2011</a>); intent to kill is asserted by some historians and denied by others, and the Ukrainian case is argued the same way. What is not contested is that tens of millions died of an epistemic failure: a system that punished accurate reports. That is the strongest possible illustration of the essay's thesis that muddled information kills, and the essay passes it by in order to insist on villainy, which is the horns effect it elsewhere condemns."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Orwell knew that muddled language is muddled thinking",
+    "content": "Orwell asserted it, and the assertion is the strong Whorfian hypothesis, which the field does not accept. Newspeak's premise, that removing the words removes the thought, was already an implausible reading of linguistic relativity when Orwell wrote, and the modern evidence supports only small, domain-specific effects of language on perception (<a href=\"https://doi.org/10.1073/pnas.0701644104\">Winawer et al. 2007</a>); no one has shown that a euphemism prevents its user from understanding what it names. The people who coined \"pacification\" knew what it meant; that is why they coined it. Muddled language is a symptom of a decision to conceal and an instrument for concealing from others, and the essay's thesis needs it to be a cause of self-deception, which is the part Orwell did not show and the evidence does not supply."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Except for a few natural catastrophes, every great woe has been driven by a stupidity.",
+    "content": "The sentence is unfalsifiable as written, since any woe can be traced to some decision that was in hindsight unwise, and it is false in the one reading that would give it content. The Black Death, the Columbian-exchange epidemics that killed most of the population of the Americas, and the Justinianic plague were not \"a few\" catastrophes but the largest mortality events in human history, and none was driven by a stupidity. The companion claim, that \"every great leap forward has been driven by a new clarity of thought,\" was addressed in the Book I annotations: most of the technology that made the modern world came before, and independently of, the science that later explained it. The closing line, \"this is a war, and we are soldiers,\" is the metaphor the previous essays in this sequence identified as the mind-killer."
+  }
+]

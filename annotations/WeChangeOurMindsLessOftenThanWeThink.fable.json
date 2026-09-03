@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I realized that once I could guess what my answer would be—once I could assign a higher probability to deciding one way than other—then I had, in all probability, already decided.",
+    "content": "The finding says the opposite of what the essay takes from it. Griffin and Tversky's colleagues assigned a modest 66 percent to their predicted choice and were right 96 percent of the time: they were underconfident about their own forecasts, which is a calibration failure in the direction the sequence otherwise never mentions. Nothing in the datum shows that deliberation had stopped when the guess was made; a good forecast of the outcome of a process is not evidence that the process is over, any more than predicting the winner of a chess game halfway through means no further moves matter. The essay's addition, that the guess arrives \"within half a second of hearing the question,\" is the author's introspection, and the study was of decisions between job offers made over days. What the datum supports is that people know themselves better than they think, which would have been a less useful moral for the sequence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Between hindsight bias, fake causality, positive bias, anchoring/priming, et cetera, et cetera, and above all the dreaded confirmation bias, once an idea gets into your head, it’s probably going to stay there.",
+    "content": "Belief perseverance is real (<a href=\"https://doi.org/10.1037/0022-3514.32.5.880\">Ross, Lepper &amp; Hubbard 1975</a>), and the generalization built on it here is contradicted by the same field. In choice-blindness experiments, people who have just chosen between two faces, and are handed the one they rejected, accept it as their choice in most trials and explain why they chose it (<a href=\"https://doi.org/10.1126/science.1111709\">Johansson et al. 2005</a>); the same manipulation works on moral and political attitudes. Twenty-four colleagues who knew which job they preferred are not evidence that ideas, once in the head, stay there; they are evidence that people who have thought about something for weeks have a view. Corrections to false political beliefs are generally accepted (<a href=\"https://doi.org/10.1007/s11109-018-9443-y\">Wood &amp; Porter 2019</a>). The essay reports the date and hour at which it changed its author's mind, in support of the claim that minds do not change."
+  }
+]

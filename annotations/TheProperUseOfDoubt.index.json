@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/TheProperUseOfDoubt.fable.json",
+    "default": true
+  }
+]

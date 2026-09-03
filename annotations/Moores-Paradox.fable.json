@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I don’t think this is correct—relatively young children can understand the concept of having a false belief, which requires separate mental buckets for the map and the territory.",
+    "content": "Children pass the false-belief task at about four (<a href=\"https://doi.org/10.1016/0010-0277(83)90004-5\">Wimmer &amp; Perner 1983</a>), but that task concerns other people's beliefs, and it does not show what the essay needs, that adults keep \"I believe X\" and \"X\" apart in their own case. The philosophical literature on Moore's paradox holds that the first person is special precisely because belief is transparent to its holder: the question \"do I believe it is raining?\" is answered by looking out of the window, not inward, so that \"I believe X\" and \"X\" are, for the speaker, assertable on the same grounds. That is why Moore's sentence is absurd to assert and not contradictory, and it is why the commenter's suggestion is closer to the standard analysis than the essay's rebuttal. The essay's own account, warm affect mistaken for credence, is one candidate mechanism among several and is offered on one case."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Many people may not consciously distinguish between believing something and endorsing it.",
+    "content": "The distinction the essay arrives at has a name and a literature, and in that literature it is not a confusion. Acceptance is a voluntary, context-bound policy of treating a proposition as true for the purposes of reasoning and action, distinct from belief, which is involuntary and context-independent; Cohen's <em>An Essay on Belief and Acceptance</em> (1992, book, no DOI) and <a href=\"https://doi.org/10.1093/mind/101.401.1\">Bratman (1992)</a> develop it, and it is what scientists do with a working hypothesis, lawyers with a client's case, and, arguably, religious practitioners with their creeds. \"I believe in democracy\" is acceptance plus endorsement, and the essay is right that the word covers both. What it misses is that holding a proposition by acceptance while doubting it as belief is a legitimate, sometimes rational, attitude rather than a Moore-paradoxical error. Kurige's two beliefs are reconcilable as an acceptance and a belief; the essay's demand that he say them as one \"single way-things-are\" insists that only one attitude is allowed."
+  }
+]

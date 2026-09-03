@@ -1,0 +1,9 @@
+[
+  {
+    "id": "fable",
+    "label": "Fable",
+    "code": "F",
+    "file": "annotations/The-Scales-Of-Justice-The-Notebook-Of-Rationality.fable.json",
+    "default": true
+  }
+]

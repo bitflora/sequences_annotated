@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This you cannot do. It is mathematically impossible.",
+    "content": "This is a theorem, the martingale property of conditional expectation, and the Fable annotations have no quarrel with it. What the essay does with it is another matter. The theorem is about the expected change in a probability before evidence arrives; it says nothing about how much any particular observation should move you, and the essay's \"shift downward a little\" advice requires knowing the likelihood ratio, which for a non-exact theory means knowing what the theory predicts. That is where Duhem and Quine enter: a probabilistic hit to a theory can be absorbed by an auxiliary assumption without any dishonesty, and which part of the web takes the hit is not determined by the observation. The dance metaphor, with the foot landing in exactly the right spot, assumes the spot is defined. For a theory with auxiliary hypotheses, it is not, and the honest and the motivated reasoner can shift different beliefs by the same observation and both be coherent."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Yet it is widely believed, especially in the court of public opinion, that a true theory can have no failures and a false theory no successes.",
+    "content": "No one is cited who believes this, and the scientific practice the essay treats as its foil does not. Kuhn's account of normal science and Lakatos's methodology of research programmes both describe scientists tolerating anomalies for decades, which is the opposite of the binary picture attributed to \"the court of public opinion\"; the annotations to The Proper Use of Humility give the Mercury and neutrino cases. The essay's contrast is between its own probabilism and a strawman, and it leaves out the third position that actually competes with it: qualitative rejection at a threshold, which is what significance testing, falsificationism and most working science use. That practice has known pathologies, but the sequence's claim that it \"rules out incremental progress\" is contradicted by the incremental progress it has produced. The choice is not between the dance and the citadel."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If the theory is true, supporting evidence will come in shortly, and the probability will climb again.",
+    "content": "Not in general. Evidence arrives at a rate set by the world, not by the truth of the theory, and for theories about rare events or slow processes the next relevant observation may be years away; the sequence's next-but-two essay, on motivated continuation, says that waiting for more evidence is itself a bias. The reassurance also elides that the downward shifts the essay is asking for are, in the cases people actually resist, not iotas. A counterargument to a cherished belief is typically a whole class of observations, and the essay's own example, the nineteen-to-one coin, is an instance in which single observations carry almost no weight, which is why no one minds them. The beliefs people defend as citadels are ones where a single admission carries a lot of weight, and \"shift downward a little\" is not the honest response to those."
+  }
+]

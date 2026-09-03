@@ -1,0 +1,312 @@
+===== Your-Rationality-Is-My-Business
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Your Rationality Is My Business
+ ❦
+Some responses to Lotteries: A Waste of Hope chided me for daring to criticize others’ decisions; if someone else chooses to buy lottery tickets, who am I to disagree? This is a special case of a more general question: What business is it of mine, if someone else chooses to believe what is pleasant rather than what is true? Can’t we each choose for ourselves whether to care about the truth?
+An obvious snappy comeback is: “Why do you care whether I care whether someone else cares about the truth?” It is somewhat inconsistent for your utility function to contain a negative term for anyone else’s utility function having a term for someone else’s utility function. But that is only a snappy comeback, not an answer.
+So here then is my answer: I believe that it is right and proper for me, as a human being, to have an interest in the future, and what human civilization becomes in the future. One of those interests is the human pursuit of truth, which has strengthened slowly over the generations (for there was not always Science). I wish to strengthen that pursuit further, in this generation. That is a wish of mine, for the Future. For we are all of us players upon that vast gameboard, whether we accept the responsibility or not.
+And that makes your rationality my business.
+Is this a dangerous idea? Yes, and not just pleasantly edgy “dangerous.” People have been burned to death because some priest decided that they didn’t think the way they should. Deciding to burn people to death because they “don’t think properly”—that’s a revolting kind of reasoning, isn’t it? You wouldn’t want people to think that way, why, it’s disgusting. People who think like that, well, we’ll have to do something about them…
+I agree! Here’s my proposal: Let’s argue against bad ideas but not set their bearers on fire.
+The syllogism we desire to avoid runs: “I think Susie said a bad thing, therefore, Susie should be set on fire.” Some try to avoid the syllogism by labeling it improper to think that Susie said a bad thing. No one should judge anyone, ever; anyone who judges is committing a terrible sin, and should be publicly pilloried for it.
+As for myself, I deny the therefore. My syllogism runs, “I think Susie said something wrong, therefore, I will argue against what she said, but I will not set her on fire, or try to stop her from talking by violence or regulation…”
+We are all of us players upon that vast gameboard; and one of my interests for the Future is to make the game fair. The counterintuitive idea underlying science is that factual disagreements should be fought out with experiments and mathematics, not violence and edicts. This incredible notion can be extended beyond science, to a fair fight for the whole Future. You should have to win by convincing people, and should not be allowed to burn them. This is one of the principles of Rationality, to which I have pledged my allegiance.
+People who advocate relativism or selfishness do not appear to me to be truly relativistic or selfish. If they were really relativistic, they would not judge. If they were really selfish, they would get on with making money instead of arguing passionately with others. Rather, they have chosen the side of Relativism, whose goal upon that vast gameboard is to prevent the players—all the players—from making certain kinds of judgments. Or they have chosen the side of Selfishness, whose goal is to make all players selfish. And then they play the game, fairly or unfairly according to their wisdom.
+If there are any true Relativists or Selfishes, we do not hear them—they remain silent, non-players.
+I cannot help but care how you think, because—as I cannot help but see the universe—each time a human being turns away from the truth, the unfolding story of humankind becomes a little darker. In many cases, it is a small darkness only. (Someone doesn’t always end up getting hurt.) Lying to yourself, in the privacy of your own thoughts, does not shadow humanity’s history so much as telling public lies or setting people on fire. Yet there is a part of me which cannot help but mourn. And so long as I don’t try to set you on fire—only argue with your ideas—I believe that it is right and proper to me, as a human, that I care about my fellow humans. That, also, is a position I defend into the Future.
+0 And 1 Are Not Probabilities
+Top
+Book
+Sequence
+Politics and Rationality(sequence)
+
+===== PoliticsIsTheMindKiller
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Politics is the Mind-Killer
+ ❦
+People go funny in the head when talking about politics. The evolutionary reasons for this are so obvious as to be worth belaboring: In the ancestral environment, politics was a matter of life and death. And sex, and wealth, and allies, and reputation… When, today, you get into an argument about whether “we” ought to raise the minimum wage, you’re executing adaptations for an ancestral environment where being on the wrong side of the argument could get you killed. Being on the right side of the argument could let you kill your hated rival!
+If you want to make a point about science, or rationality, then my advice is to not choose a domain from contemporary politics if you can possibly avoid it. If your point is inherently about politics, then talk about Louis XVI during the French Revolution. Politics is an important domain to which we should individually apply our rationality—but it’s a terrible domain in which to learn rationality, or discuss rationality, unless all the discussants are already rational.
+Politics is an extension of war by other means. Arguments are soldiers. Once you know which side you’re on, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side; otherwise it’s like stabbing your soldiers in the back—providing aid and comfort to the enemy. People who would be level-headed about evenhandedly weighing all sides of an issue in their professional life as scientists, can suddenly turn into slogan-chanting zombies when there’s a Blue or Green position on an issue.
+In Artificial Intelligence, and particularly in the domain of nonmonotonic reasoning, there’s a standard problem: “All Quakers are pacifists. All Republicans are not pacifists. Nixon is a Quaker and a Republican. Is Nixon a pacifist?”
+What on Earth was the point of choosing this as an example? To rouse the political emotions of the readers and distract them from the main question? To make Republicans feel unwelcome in courses on Artificial Intelligence and discourage them from entering the field? (And no, I am not a Republican. Or a Democrat.)
+Why would anyone pick such a distracting example to illustrate nonmonotonic reasoning? Probably because the author just couldn’t resist getting in a good, solid dig at those hated Greens. It feels so good to get in a hearty punch, y’know, it’s like trying to resist a chocolate cookie.
+As with chocolate cookies, not everything that feels pleasurable is good for you.
+I’m not saying that I think we should be apolitical, or even that we should adopt Wikipedia’s ideal of the Neutral Point of View. But try to resist getting in those good, solid digs if you can possibly avoid it. If your topic legitimately relates to attempts to ban evolution in school curricula, then go ahead and talk about it—but don’t blame it explicitly on the whole Republican Party; some of your readers may be Republicans, and they may feel that the problem is a few rogues, not the entire party. As with Wikipedia’s npov, it doesn’t matter whether (you think) the Republican Party really is at fault. It’s just better for the spiritual growth of the community to discuss the issue without invoking color politics.
+Politics and Rationality(sequence)
+Top
+Book
+Sequence
+Policy Debates Should Not Appear One-Sided
+
+===== PolicyDebatesShouldNotAppearOneSided
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Policy Debates Should Not Appear One-Sided
+ ❦
+Robin Hanson proposed stores where banned products could be sold. There are a number of excellent arguments for such a policy—an inherent right of individual liberty, the career incentive of bureaucrats to prohibit everything, legislators being just as biased as individuals. But even so (I replied), some poor, honest, not overwhelmingly educated mother of five children is going to go into these stores and buy a “Dr. Snakeoil’s Sulfuric Acid Drink” for her arthritis and die, leaving her orphans to weep on national television.
+I was just making a simple factual observation. Why did some people think it was an argument in favor of regulation?
+On questions of simple fact (for example, whether Earthly life arose by natural selection) there’s a legitimate expectation that the argument should be a one-sided battle; the facts themselves are either one way or another, and the so-called “balance of evidence” should reflect this. Indeed, under the Bayesian definition of evidence, “strong evidence” is just that sort of evidence which we only expect to find on one side of an argument.
+But there is no reason for complex actions with many consequences to exhibit this onesidedness property. Why do people seem to want their policy debates to be one-sided?
+Politics is the mind-killer. Arguments are soldiers. Once you know which side you’re on, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side; otherwise it’s like stabbing your soldiers in the back. If you abide within that pattern, policy debates will also appear one-sided to you—the costs and drawbacks of your favored policy are enemy soldiers, to be attacked by any means necessary.
+One should also be aware of a related failure pattern, thinking that the course of Deep Wisdom is to compromise with perfect evenness between whichever two policy positions receive the most airtime. A policy may legitimately have lopsided costs or benefits. If policy questions were not tilted one way or the other, we would be unable to make decisions about them. But there is also a human tendency to deny all costs of a favored policy, or deny all benefits of a disfavored policy; and people will therefore tend to think policy tradeoffs are tilted much further than they actually are.
+If you allow shops that sell otherwise banned products, some poor, honest, poorly educated mother of five kids is going to buy something that kills her. This is a prediction about a factual consequence, and as a factual question it appears rather straightforward—a sane person should readily confess this to be true regardless of which stance they take on the policy issue. You may also think that making things illegal just makes them more expensive, that regulators will abuse their power, or that her individual freedom trumps your desire to meddle with her life. But, as a matter of simple fact, she’s still going to die.
+We live in an unfair universe. Like all primates, humans have strong negative reactions to perceived unfairness; thus we find this fact stressful. There are two popular methods of dealing with the resulting cognitive dissonance. First, one may change one’s view of the facts—deny that the unfair events took place, or edit the history to make it appear fair. (This is mediated by the affect heuristic and the just-world fallacy.) Second, one may change one’s morality—deny that the events are unfair.
+Some libertarians might say that if you go into a “banned products shop,” passing clear warning labels that say Things In This Store May Kill You, and buy something that kills you, then it’s your own fault and you deserve it. If that were a moral truth, there would be no downside to having shops that sell banned products. It wouldn’t just be a net benefit, it would be a one-sided tradeoff with no drawbacks.
+Others argue that regulators can be trained to choose rationally and in harmony with consumer interests; if those were the facts of the matter then (in their moral view) there would be no downside to regulation.
+Like it or not, there’s a birth lottery for intelligence—though this is one of the cases where the universe’s unfairness is so extreme that many people choose to deny the facts. The experimental evidence for a purely genetic component of 0.6–0.8 is overwhelming, but even if this were to be denied, you don’t choose your parental upbringing or your early schools either.
+I was raised to believe that denying reality is a moral wrong. If I were to engage in wishful optimism about how Sulfuric Acid Drink was likely to benefit me, I would be doing something that I was warned against and raised to regard as unacceptable. Some people are born into environments—we won’t discuss their genes, because that part is too unfair—where the local witch doctor tells them that it is right to have faith and wrong to be skeptical. In all goodwill, they follow this advice and die. Unlike you, they weren’t raised to believe that people are responsible for their individual choices to follow society’s lead. Do you really think you’re so smart that you would have been a proper scientific skeptic even if you’d been born in 500 ce? Yes, there is a birth lottery, no matter what you believe about genes.
+Saying “People who buy dangerous products deserve to get hurt!” is not tough-minded. It is a way of refusing to live in an unfair universe. Real tough-mindedness is saying, “Yes, sulfuric acid is a horrible painful death, and no, that mother of five children didn’t deserve it, but we’re going to keep the shops open anyway because we did this cost-benefit calculation.” Can you imagine a politician saying that? Neither can I. But insofar as economists have the power to influence policy, it might help if they could think it privately—maybe even say it in journal articles, suitably dressed up in polysyllabismic obfuscationalization so the media can’t quote it.
+I don’t think that when someone makes a stupid choice and dies, this is a cause for celebration. I count it as a tragedy. It is not always helping people, to save them from the consequences of their own actions; but I draw a moral line at capital punishment. If you’re dead, you can’t learn from your mistakes.
+Unfortunately the universe doesn’t agree with me. We’ll see which one of us is still standing when this is over.
+Politics is the Mind-Killer
+Top
+Book
+Sequence
+The Scales of Justice, the Notebook of Rationality
+
+===== The-Scales-Of-Justice-The-Notebook-Of-Rationality
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+ ❦
+Lady Justice is widely depicted as carrying scales. A set of scales has the property that whatever pulls one side down pushes the other side up. This makes things very convenient and easy to track. It’s also usually a gross distortion.
+In human discourse there is a natural tendency to treat discussion as a form of combat, an extension of war, a sport; and in sports you only need to keep track of how many points have been scored by each team. There are only two sides, and every point scored against one side is a point in favor of the other. Everyone in the audience keeps a mental running count of how many points each speaker scores against the other. At the end of the debate, the speaker who has scored more points is, obviously, the winner; so everything that speaker says must be true, and everything the loser says must be wrong.
+“The Affect Heuristic in Judgments of Risks and Benefits” studied whether subjects mixed up their judgments of the possible benefits of a technology (e.g., nuclear power), and the possible risks of that technology, into a single overall good or bad feeling about the technology.1 Suppose that I first tell you that a particular kind of nuclear reactor generates less nuclear waste than competing reactor designs. But then I tell you that the reactor is more unstable than competing designs, with a greater danger of melting down if a sufficient number of things go wrong simultaneously.
+If the reactor is more likely to melt down, this seems like a “point against” the reactor, or a “point against” someone who argues for building the reactor. And if the reactor produces less waste, this is a “point for” the reactor, or a “point for” building it. So are these two facts opposed to each other? No. In the real world, no. These two facts may be cited by different sides of the same debate, but they are logically distinct; the facts don’t know whose side they’re on.
+If it’s a physical fact about a reactor design that it’s passively safe (won’t go supercritical even if the surrounding coolant systems and so on break down), this doesn’t imply that the reactor will necessarily generate less waste, or produce electricity at a lower cost. All these things would be good, but they are not the same good thing. The amount of waste produced by the reactor arises from the properties of that reactor. Other physical properties of the reactor make the nuclear reaction more unstable. Even if some of the same design properties are involved, you have to separately consider the probability of meltdown, and the expected annual waste generated. These are two different physical questions with two different factual answers.
+But studies such as the above show that people tend to judge technologies— and many other problems—by an overall good or bad feeling. If you tell people a reactor design produces less waste, they rate its probability of meltdown as lower. This means getting the wrong answer to physical questions with definite factual answers, because you have mixed up logically distinct questions—treated facts like human soldiers on different sides of a war, thinking that any soldier on one side can be used to fight any soldier on the other side.
+A set of scales is not wholly inappropriate for Lady Justice if she is investigating a strictly factual question of guilt or innocence. Either John Smith killed John Doe, or not. We are taught (by E. T. Jaynes) that all Bayesian evidence consists of probability flows between hypotheses; there is no such thing as evidence that “supports” or “contradicts” a single hypothesis, except insofar as other hypotheses do worse or better. So long as Lady Justice is investigating a single, strictly factual question with a binary answer space, a set of scales would be an appropriate tool. If Justitia must consider any more complex issue, she should relinquish her scales or relinquish her sword.
+Not all arguments reduce to mere up or down. Lady Rationality carries a notebook, wherein she writes down all the facts that aren’t on anyone’s side.
+Melissa L. Finucane et al., “The Affect Heuristic in Judgments of Risks and Benefits,” Journal of Behavioral Decision Making 13, no. 1 (2000): 1–17. ↩
+Policy Debates Should Not Appear One-Sided
+Top
+Book
+Sequence
+Correspondence Bias
+
+===== CorrespondenceBias
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Correspondence Bias
+ ❦
+The correspondence bias is the tendency to draw inferences about a person’s unique and enduring dispositions from behaviors that can be entirely explained by the situations in which they occur.
+—Gilbert and Malone1
+We tend to see far too direct a correspondence between others’ actions and personalities. When we see someone else kick a vending machine for no visible reason, we assume they are “an angry person.” But when you yourself kick the vending machine, it’s because the bus was late, the train was early, your report is overdue, and now the damned vending machine has eaten your lunch money for the second day in a row. Surely, you think to yourself, anyone would kick the vending machine, in that situation.
+We attribute our own actions to our situations, seeing our behaviors as perfectly normal responses to experience. But when someone else kicks a vending machine, we don’t see their past history trailing behind them in the air. We just see the kick, for no reason we know about, and we think this must be a naturally angry person—since they lashed out without any provocation.
+Yet consider the prior probabilities. There are more late buses in the world, than mutants born with unnaturally high anger levels that cause them to sometimes spontaneously kick vending machines. Now the average human is, in fact, a mutant. If I recall correctly, an average individual has two to ten somatically expressed mutations. But any given DNA location is very unlikely to be affected. Similarly, any given aspect of someone’s disposition is probably not very far from average. To suggest otherwise is to shoulder a burden of improbability.
+Even when people are informed explicitly of situational causes, they don’t seem to properly discount the observed behavior. When subjects are told that a pro-abortion or anti-abortion speaker was randomly assigned to give a speech on that position, subjects still think the speakers harbor leanings in the direction randomly assigned.2
+It seems quite intuitive to explain rain by water spirits; explain fire by a fire-stuff (phlogiston) escaping from burning matter; explain the soporific effect of a medication by saying that it contains a “dormitive potency.” Reality usually involves more complicated mechanisms: an evaporation and condensation cycle underlying rain, oxidizing combustion underlying fire, chemical interactions with the nervous system for soporifics. But mechanisms sound more complicated than essences; they are harder to think of, less available. So when someone kicks a vending machine, we think they have an innate vending-machine-kicking-tendency.
+Unless the “someone” who kicks the machine is us—in which case we’re behaving perfectly normally, given our situations; surely anyone else would do the same. Indeed, we overestimate how likely others are to respond the same way we do—the “false consensus effect.” Drinking students considerably overestimate the fraction of fellow students who drink, but nondrinkers considerably underestimate the fraction. The “fundamental attribution error” refers to our tendency to overattribute others’ behaviors to their dispositions, while reversing this tendency for ourselves.
+To understand why people act the way they do, we must first realize that everyone sees themselves as behaving normally. Don’t ask what strange, mutant disposition they were born with, which directly corresponds to their surface behavior. Rather, ask what situations people see themselves as being in. Yes, people do have dispositions—but there are not enough heritable quirks of disposition to directly account for all the surface behaviors you see.
+Suppose I gave you a control with two buttons, a red button and a green button. The red button destroys the world, and the green button stops the red button from being pressed. Which button would you press? The green one. Anyone who gives a different answer is probably overcomplicating the question.
+And yet people sometimes ask me why I want to save the world. Like I must have had a traumatic childhood or something. Really, it seems like a pretty obvious decision… if you see the situation in those terms.
+I may have non-average views which call for explanation—why do I believe such things, when most people don’t?—but given those beliefs, my reaction doesn’t seem to call forth an exceptional explanation. Perhaps I am a victim of false consensus; perhaps I overestimate how many people would press the green button if they saw the situation in those terms. But y’know, I’d still bet there’d be at least a substantial minority.
+Most people see themselves as perfectly normal, from the inside. Even people you hate, people who do terrible things, are not exceptional mutants. No mutations are required, alas. When you understand this, you are ready to stop being surprised by human events.
+Daniel T. Gilbert and Patrick S. Malone, “The Correspondence Bias,” Psychological Bulletin 117, no. 1 (1995): 21–38, http://wjh-www.harvard.edu/~dtg/Gilbert%20&%20Malone%20%28CORRESPONDENCE%20BIAS%29.pdf. ↩Edward E. Jones and Victor A. Harris, “The Attribution of Attitudes,” Journal of Experimental Social Psychology 3 (1967): 1–24, http://www.radford.edu/­~jaspelme/­443/­spring-2007/­Articles/­Jones_n_Harris_1967.pdf. ↩
+The Scales of Justice, the Notebook of Rationality
+Top
+Book
+Sequence
+Are Your Enemies Innately Evil?
+
+===== Are-Your-Enemies-Innately-Evil
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Are Your Enemies Innately Evil?
+ ❦
+We see far too direct a correspondence between others’ actions and their inherent dispositions. We see unusual dispositions that exactly match the unusual behavior, rather than asking after real situations or imagined situations that could explain the behavior. We hypothesize mutants.
+When someone actually offends us—commits an action of which we (rightly or wrongly) disapprove—then, I observe, the correspondence bias redoubles. There seems to be a very strong tendency to blame evil deeds on the Enemy’s mutant, evil disposition. Not as a moral point, but as a strict question of prior probability, we should ask what the Enemy might believe about their situation that would reduce the seeming bizarrity of their behavior. This would allow us to hypothesize a less exceptional disposition, and thereby shoulder a lesser burden of improbability.
+On September 11th, 2001, nineteen Muslim males hijacked four jet airliners in a deliberately suicidal effort to hurt the United States of America. Now why do you suppose they might have done that? Because they saw the USA as a beacon of freedom to the world, but were born with a mutant disposition that made them hate freedom?
+Realistically, most people don’t construct their life stories with themselves as the villains. Everyone is the hero of their own story. The Enemy’s story, as seen by the Enemy, is not going to make the Enemy look bad. If you try to construe motivations that would make the Enemy look bad, you’ll end up flat wrong about what actually goes on in the Enemy’s mind.
+But politics is the mind-killer. Debate is war; arguments are soldiers. Once you know which side you’re on, you must support all arguments of that side, and attack all arguments that appear to favor the opposing side; otherwise it’s like stabbing your soldiers in the back.
+If the Enemy did have an evil disposition, that would be an argument in favor of your side. And any argument that favors your side must be supported, no matter how silly—otherwise you’re letting up the pressure somewhere on the battlefront. Everyone strives to outshine their neighbor in patriotic denunciation, and no one dares to contradict. Soon the Enemy has horns, bat wings, flaming breath, and fangs that drip corrosive venom. If you deny any aspect of this on merely factual grounds, you are arguing the Enemy’s side; you are a traitor. Very few people will understand that you aren’t defending the Enemy, just defending the truth.
+If it took a mutant to do monstrous things, the history of the human species would look very different. Mutants would be rare.
+Or maybe the fear is that understanding will lead to forgiveness. It’s easier to shoot down evil mutants. It is a more inspiring battle cry to scream, “Die, vicious scum!” instead of “Die, people who could have been just like me but grew up in a different environment!” You might feel guilty killing people who weren’t pure darkness.
+This looks to me like the deep-seated yearning for a one-sided policy debate in which the best policy has no drawbacks. If an army is crossing the border or a lunatic is coming at you with a knife, the policy alternatives are (a) defend yourself or (b) lie down and die. If you defend yourself, you may have to kill. If you kill someone who could, in another world, have been your friend, that is a tragedy. And it is a tragedy. The other option, lying down and dying, is also a tragedy. Why must there be a non-tragic option? Who says that the best policy available must have no downside? If someone has to die, it may as well be the initiator of force, to discourage future violence and thereby minimize the total sum of death.
+If the Enemy has an average disposition, and is acting from beliefs about their situation that would make violence a typically human response, then that doesn’t mean their beliefs are factually accurate. It doesn’t mean they’re justified. It means you’ll have to shoot down someone who is the hero of their own story, and in their novel the protagonist will die on page 80. That is a tragedy, but it is better than the alternative tragedy. It is the choice that every police officer makes, every day, to keep our neat little worlds from dissolving into chaos.
+When you accurately estimate the Enemy’s psychology—when you know what is really in the Enemy’s mind—that knowledge won’t feel like landing a delicious punch on the opposing side. It won’t give you a warm feeling of righteous indignation. It won’t make you feel good about yourself. If your estimate makes you feel unbearably sad, you may be seeing the world as it really is. More rarely, an accurate estimate may send shivers of serious horror down your spine, as when dealing with true psychopaths, or neurologically intact people with beliefs that have utterly destroyed their sanity (Scientologists or Jesus Campers).
+So let’s come right out and say it—the 9/11 hijackers weren’t evil mutants. They did not hate freedom. They, too, were the heroes of their own stories, and they died for what they believed was right—truth, justice, and the Islamic way. If the hijackers saw themselves that way, it doesn’t mean their beliefs were true. If the hijackers saw themselves that way, it doesn’t mean that we have to agree that what they did was justified. If the hijackers saw themselves that way, it doesn’t mean that the passengers of United Flight 93 should have stood aside and let it happen. It does mean that in another world, if they had been raised in a different environment, those hijackers might have been police officers. And that is indeed a tragedy. Welcome to Earth.
+Correspondence Bias
+Top
+Book
+Sequence
+Reversed Stupidity Is Not Intelligence
+
+===== Reversed-Stupidity-Is-Not-Intelligence
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Reversed Stupidity Is Not Intelligence
+ ❦
+“… then our people on that time-line went to work with corrective action. Here.”
+He wiped the screen and then began punching combinations. Page after page appeared, bearing accounts of people who had claimed to have seen the mysterious disks, and each report was more fantastic than the last.
+“The standard smother-out technique,” Verkan Vall grinned. “I only heard a little talk about the ‘flying saucers,’ and all of that was in joke. In that order of culture, you can always discredit one true story by setting up ten others, palpably false, parallel to it.”
+ —H. Beam Piper, Police Operation1
+Piper had a point. Pers’nally, I don’t believe there are any poorly hidden aliens infesting these parts. But my disbelief has nothing to do with the awful embarrassing irrationality of flying saucer cults—at least, I hope not.
+You and I believe that flying saucer cults arose in the total absence of any flying saucers. Cults can arise around almost any idea, thanks to human silliness. This silliness operates orthogonally to alien intervention: We would expect to see flying saucer cults whether or not there were flying saucers. Even if there were poorly hidden aliens, it would not be any less likely for flying saucer cults to arise. The conditional probability P(cults|aliens) isn’t less than P(cults|¬aliens), unless you suppose that poorly hidden aliens would deliberately suppress flying saucer cults. By the Bayesian definition of evidence, the observation “flying saucer cults exist” is not evidence against the existence of flying saucers. It’s not much evidence one way or the other.
+This is an application of the general principle that, as Robert Pirsig puts it, “The world’s greatest fool may say the Sun is shining, but that doesn’t make it dark out.”2
+If you knew someone who was wrong 99.99% of the time on yes-or-no questions, you could obtain 99.99% accuracy just by reversing their answers. They would need to do all the work of obtaining good evidence entangled with reality, and processing that evidence coherently, just to anticorrelate that reliably. They would have to be superintelligent to be that stupid.
+A car with a broken engine cannot drive backward at 200 mph, even if the engine is really really broken.
+If stupidity does not reliably anticorrelate with truth, how much less should human evil anticorrelate with truth? The converse of the halo effect is the horns effect: All perceived negative qualities correlate. If Stalin is evil, then everything he says should be false. You wouldn’t want to agree with Stalin, would you?
+Stalin also believed that 2 + 2 = 4. Yet if you defend any statement made by Stalin, even “2 + 2 = 4,” people will see only that you are “agreeing with Stalin”; you must be on his side.
+Corollaries of this principle:
+To argue against an idea honestly, you should argue against the best arguments of the strongest advocates. Arguing against weaker advocates proves nothing, because even the strongest idea will attract weak advocates. If you want to argue against transhumanism or the intelligence explosion, you have to directly challenge the arguments of Nick Bostrom or Eliezer Yudkowsky post-2003. The least convenient path is the only valid one.
+Exhibiting sad, pathetic lunatics, driven to madness by their apprehension of an Idea, is no evidence against that Idea. Many New Agers have been made crazier by their personal apprehension of quantum mechanics.
+Someone once said, “Not all conservatives are stupid, but most stupid people are conservatives.” If you cannot place yourself in a state of mind where this statement, true or false, seems completely irrelevant as a critique of conservatism, you are not ready to think rationally about politics.
+Ad hominem argument is not valid.
+You need to be able to argue against genocide without saying “Hitler wanted to exterminate the Jews.” If Hitler hadn’t advocated genocide, would it thereby become okay?
+In Hansonian terms: Your instinctive willingness to believe something will change along with your willingness to affiliate with people who are known for believing it—quite apart from whether the belief is actually true. Some people may be reluctant to believe that God does not exist, not because there is evidence that God does exist, but rather because they are reluctant to affiliate with Richard Dawkins or those darned “strident” atheists who go around publicly saying “God does not exist.”
+If your current computer stops working, you can’t conclude that everything about the current system is wrong and that you need a new system without an AMD processor, an ATI video card, a Maxtor hard drive, or case fans—even though your current system has all these things and it doesn’t work. Maybe you just need a new power cord.
+If a hundred inventors fail to build flying machines using metal and wood and canvas, it doesn’t imply that what you really need is a flying machine of bone and flesh. If a thousand projects fail to build Artificial Intelligence using electricity-based computing, this doesn’t mean that electricity is the source of the problem. Until you understand the problem, hopeful reversals are exceedingly unlikely to hit the solution.
+Henry Beam Piper, “Police Operation,” Astounding Science Fiction (July 1948). ↩Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values, 1st ed. (New York: Morrow, 1974). ↩
+Are Your Enemies Innately Evil?
+Top
+Book
+Sequence
+Argument Screens Off Authority
+
+===== ArgumentScreensOffAuthority
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Argument Screens Off Authority
+ ❦
+Scenario 1: Barry is a famous geologist. Charles is a fourteen-year-old juvenile delinquent with a long arrest record and occasional psychotic episodes. Barry flatly asserts to Arthur some counterintuitive statement about rocks, and Arthur judges it 90% probable. Then Charles makes an equally counterintuitive flat assertion about rocks, and Arthur judges it 10% probable. Clearly, Arthur is taking the speaker’s authority into account in deciding whether to believe the speaker’s assertions.
+Scenario 2: David makes a counterintuitive statement about physics and gives Arthur a detailed explanation of the arguments, including references. Ernie makes an equally counterintuitive statement, but gives an unconvincing argument involving several leaps of faith. Both David and Ernie assert that this is the best explanation they can possibly give (to anyone, not just Arthur). Arthur assigns 90% probability to David’s statement after hearing his explanation, but assigns a 10% probability to Ernie’s statement.
+It might seem like these two scenarios are roughly symmetrical: both involve taking into account useful evidence, whether strong versus weak authority, or strong versus weak argument.
+But now suppose that Arthur asks Barry and Charles to make full technical cases, with references; and that Barry and Charles present equally good cases, and Arthur looks up the references and they check out. Then Arthur asks David and Ernie for their credentials, and it turns out that David and Ernie have roughly the same credentials—maybe they’re both clowns, maybe they’re both physicists.
+Assuming that Arthur is knowledgeable enough to understand all the technical arguments—otherwise they’re just impressive noises—it seems that Arthur should view David as having a great advantage in plausibility over Ernie, while Barry has at best a minor advantage over Charles.
+Indeed, if the technical arguments are good enough, Barry’s advantage over Charles may not be worth tracking. A good technical argument is one that eliminates reliance on the personal authority of the speaker.
+Similarly, if we really believe Ernie that the argument he gave is the best argument he could give, which includes all of the inferential steps that Ernie executed, and all of the support that Ernie took into account—citing any authorities that Ernie may have listened to himself—then we can pretty much ignore any information about Ernie’s credentials. Ernie can be a physicist or a clown, it shouldn’t matter. (Again, this assumes we have enough technical ability to process the argument. Otherwise, Ernie is simply uttering mystical syllables, and whether we “believe” these syllables depends a great deal on his authority.)
+So it seems there’s an asymmetry between argument and authority. If we know authority we are still interested in hearing the arguments; but if we know the arguments fully, we have very little left to learn from authority.
+Clearly (says the novice) authority and argument are fundamentally different kinds of evidence, a difference unaccountable in the boringly clean methods of Bayesian probability theory. For while the strength of the evidences—90% versus 10%—is just the same in both cases, they do not behave similarly when combined. How will we account for this?
+Here’s half a technical demonstration of how to represent this difference in probability theory. (The rest you can take on my personal authority, or look up in the references.)
+If P(H|E1) = 90% and P(H|E2) = 9%, what is the probability P(H|E1, E2 )? If learning E1 is true leads us to assign 90% probability to H, and learning E2 is true leads us to assign 9% probability to H, then what probability should we assign to H if we learn both E1 and E2? This is simply not something you can calculate in probability theory from the information given. No, the missing information is not the prior probability of H. The events E1 and E2 may not be independent of each other.
+Suppose that H is “My sidewalk is slippery,” E1 is “My sprinkler is running,” and E2 is “It’s night.” The sidewalk is slippery starting from one minute after the sprinkler starts, until just after the sprinkler finishes, and the sprinkler runs for ten minutes. So if we know the sprinkler is on, the probability is 90% that the sidewalk is slippery. The sprinkler is on during 10% of the nighttime, so if we know that it’s night, the probability of the sidewalk being slippery is 9%. If we know that it’s night and the sprinkler is on—that is, if we know both facts—the probability of the sidewalk being slippery is 90%.
+We can represent this in a graphical model as follows:
+Whether or not it’s Night causes the Sprinkler to be on or off, and whether the Sprinkler is on causes the sidewalk to be Slippery or unSlippery.
+The direction of the arrows is meaningful. Say we had:
+This would mean that, if I didn’t know anything about the sprinkler, the probability of Nighttime and Slipperiness would be independent of each other. For example, suppose that I roll Die One and Die Two, and add up the showing numbers to get the Sum:
+If you don’t tell me the sum of the two numbers, and you tell me the first die showed 6, this doesn’t tell me anything about the result of the second die, yet. But if you now also tell me the sum is 7, I know the second die showed 1.
+Figuring out when various pieces of information are dependent or independent of each other, given various background knowledge, actually turns into a quite technical topic. The books to read are Judea Pearl’s Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference1 and Causality: Models, Reasoning, and Inference.2 (If you only have time to read one book, read the first one.)
+If you know how to read causal graphs, then you look at the dice-roll graph and immediately see:
+ P(Die 1, Die 2) = P(Die 1) × P(Die 2)
+ P(Die 1, Die 2|Sum) ≠ P(Die 1|Sum) × P(Die 2|Sum).
+If you look at the correct sidewalk diagram, you see facts like:
+ P(Slippery|Night) ≠ P(Slippery)
+ P(Slippery|Sprinkler) ≠ P(Slippery)
+ P(Slippery|Night, Sprinkler) = P(Slippery|Sprinkler).
+That is, the probability of the sidewalk being Slippery, given knowledge about the Sprinkler and the Night, is the same probability we would assign if we knew only about the Sprinkler. Knowledge of the Sprinkler has made knowledge of the Night irrelevant to inferences about Slipperiness.
+This is known as screening off, and the criterion that lets us read such conditional independences off causal graphs is known as D-separation.
+For the case of argument and authority, the causal diagram looks like this:
+If something is true, then it therefore tends to have arguments in favor of it, and the experts therefore observe these evidences and change their opinions. (In theory!)
+If we see that an expert believes something, we infer back to the existence of evidence-in-the-abstract (even though we don’t know what that evidence is exactly), and from the existence of this abstract evidence, we infer back to the truth of the proposition.
+But if we know the value of the Argument node, this D-separates the node “Truth” from the node “Expert Belief” by blocking all paths between them, according to certain technical criteria for “path blocking” that seem pretty obvious in this case. So even without checking the exact probability distribution, we can read off from the graph that:
+ P(truth|argument, expert) = P(truth|argument).
+This does not represent a contradiction of ordinary probability theory. It’s just a more compact way of expressing certain probabilistic facts. You could read the same equalities and inequalities off an unadorned probability distribution—but it would be harder to see it by eyeballing. Authority and argument don’t need two different kinds of probability, any more than sprinklers are made out of ontologically different stuff than sunlight.
+In practice you can never completely eliminate reliance on authority. Good authorities are more likely to know about any counterevidence that exists and should be taken into account; a lesser authority is less likely to know this, which makes their arguments less reliable. This is not a factor you can eliminate merely by hearing the evidence they did take into account.
+It’s also very hard to reduce arguments to pure math; and otherwise, judging the strength of an inferential step may rely on intuitions you can’t duplicate without the same thirty years of experience.
+There is an ineradicable legitimacy to assigning slightly higher probability to what E. T. Jaynes tells you about Bayesian probability, than you assign to Eliezer Yudkowsky making the exact same statement. Fifty additional years of experience should not count for literally zero influence.
+But this slight strength of authority is only ceteris paribus, and can easily be overwhelmed by stronger arguments. I have a minor erratum in one of Jaynes’s books—because algebra trumps authority.
+Pearl, Probabilistic Reasoning in Intelligent Systems. ↩Judea Pearl, Causality: Models, Reasoning, and Inference, 2nd ed. (New York: Cambridge University Press, 2009). ↩
+Reversed Stupidity Is Not Intelligence
+Top
+Book
+Sequence
+Hug the Query
+
+===== HugTheQuery
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Hug the Query
+ ❦
+In the art of rationality there is a discipline of closeness-to-the-issue—trying to observe evidence that is as near to the original question as possible, so that it screens off as many other arguments as possible.
+The Wright Brothers say, “My plane will fly.” If you look at their authority (bicycle mechanics who happen to be excellent amateur physicists) then you will compare their authority to, say, Lord Kelvin, and you will find that Lord Kelvin is the greater authority.
+If you demand to see the Wright Brothers’ calculations, and you can follow them, and you demand to see Lord Kelvin’s calculations (he probably doesn’t have any apart from his own incredulity), then authority becomes much less relevant.
+If you actually watch the plane fly, the calculations themselves become moot for many purposes, and Kelvin’s authority not even worth considering.
+The more directly your arguments bear on a question, without intermediate inferences—the closer the observed nodes are to the queried node, in the Great Web of Causality—the more powerful the evidence. It’s a theorem of these causal graphs that you can never get more information from distant nodes, than from strictly closer nodes that screen off the distant ones.
+Jerry Cleaver said: “What does you in is not failure to apply some high-level, intricate, complicated technique. It’s overlooking the basics. Not keeping your eye on the ball.”1
+Just as it is superior to argue physics than credentials, it is also superior to argue physics than rationality. Who was more rational, the Wright Brothers or Lord Kelvin? If we can check their calculations, we don’t have to care! The virtue of a rationalist cannot directly cause a plane to fly.
+If you forget this principle, learning about more biases will hurt you, because it will distract you from more direct arguments. It’s all too easy to argue that someone is exhibiting Bias #182 in your repertoire of fully generic accusations, but you can’t settle a factual issue without closer evidence. If there are biased reasons to say the Sun is shining, that doesn’t make it dark out.
+Just as you can’t always experiment today, you can’t always check the calculations today. Sometimes you don’t know enough background material, sometimes there’s private information, sometimes there just isn’t time. There’s a sadly large number of times when it’s worthwhile to judge the speaker’s rationality. You should always do it with a hollow feeling in your heart, though, a sense that something’s missing.
+Whenever you can, dance as near to the original question as possible—press yourself up against it—get close enough to hug the query!
+Jerry Cleaver, Immediate Fiction: A Complete Writing Course (Macmillan, 2004). ↩
+Argument Screens Off Authority
+Top
+Book
+Sequence
+Rationality and the English Language
+
+===== Rationality-And-The-English-Language
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Rationality and the English Language
+ ❦
+Responding to my discussion of applause lights, someone said that my writing reminded them of George Orwell’s Politics and the English Language.1 I was honored. Especially since I’d already thought of today’s topic.
+If you really want an artist’s perspective on rationality, then read Orwell; he is mandatory reading for rationalists as well as authors. Orwell was not a scientist, but a writer; his tools were not numbers, but words; his adversary was not Nature, but human evil. If you wish to imprison people for years without trial, you must think of some other way to say it than “I’m going to imprison Mr. Jennings for years without trial.” You must muddy the listener’s thinking, prevent clear images from outraging conscience. You say, “Unreliable elements were subjected to an alternative justice process.”
+Orwell was the outraged opponent of totalitarianism and the muddy thinking in which evil cloaks itself—which is how Orwell’s writings on language ended up as classic rationalist documents on a level with Feynman, Sagan, or Dawkins.
+“Writers are told to avoid usage of the passive voice.” A rationalist whose background comes exclusively from science may fail to see the flaw in the previous sentence; but anyone who’s done a little writing should see it right away. I wrote the sentence in the passive voice, without telling you who tells authors to avoid passive voice. Passive voice removes the actor, leaving only the acted-upon. “Unreliable elements were subjected to an alternative justice process”—subjected by whom? What does an “alternative justice process” do? With enough static noun phrases, you can keep anything unpleasant from actually happening.
+Journal articles are often written in passive voice. (Pardon me, some scientists write their journal articles in passive voice. It’s not as if the articles are being written by no one, with no one to blame.) It sounds more authoritative to say “The subjects were administered Progenitorivox” than “I gave each college student a bottle of 20 Progenitorivox, and told them to take one every night until they were gone.” If you remove the scientist from the description, that leaves only the all-important data. But in reality the scientist is there, and the subjects are college students, and the Progenitorivox wasn’t “administered” but handed over with instructions. Passive voice obscures reality.
+Judging from the comments I get, someone will protest that using the passive voice in a journal article is hardly a sin—after all, if you think about it, you can realize the scientist is there. It doesn’t seem like a logical flaw. And this is why rationalists need to read Orwell, not just Feynman or even Jaynes.
+Nonfiction conveys knowledge, fiction conveys experience. Medical science can extrapolate what would happen to a human unprotected in a vacuum. Fiction can make you live through it.
+Some rationalists will try to analyze a misleading phrase, try to see if there might possibly be anything meaningful to it, try to construct a logical interpretation. They will be charitable, give the author the benefit of the doubt. Authors, on the other hand, are trained not to give themselves the benefit of the doubt. Whatever the audience thinks you said is what you said, whether you meant to say it or not; you can’t argue with the audience no matter how clever your justifications.
+A writer knows that readers will not stop for a minute to think. A fictional experience is a continuous stream of first impressions. A writer-rationalist pays attention to the experience words create. If you are evaluating the public rationality of a statement, and you analyze the words deliberatively, rephrasing propositions, trying out different meanings, searching for nuggets of truthiness, then you’re losing track of the first impression—what the audience sees, or rather feels.
+A novelist would notice the screaming wrongness of “The subjects were administered Progenitorivox.” What life is here for a reader to live? This sentence creates a distant feeling of authoritativeness, and that’s all—the only experience is the feeling of being told something reliable. A novelist would see nouns too abstract to show what actually happened—the postdoc with the bottle in their hand, trying to look stern; the student listening with a nervous grin.
+My point is not to say that journal articles should be written like novels, but that a rationalist should become consciously aware of the experiences which words create. A rationalist must understand the mind and how to operate it. That includes the stream of consciousness, the part of yourself that unfolds in language. A rationalist must become consciously aware of the actual, experiential impact of phrases, beyond their mere propositional semantics.
+Or to say it more bluntly: Meaning does not excuse impact!
+I don’t care what rational interpretation you can construct for an applause light like “AI should be developed through democratic processes.” That cannot excuse its irrational impact of signaling the audience to applaud, not to mention its cloudy question-begging vagueness.
+Here is Orwell, railing against the impact of cliches, their effect on the experience of thinking:
+When one watches some tired hack on the platform mechanically repeating the familiar phrases—bestial, atrocities, iron heel, bloodstained tyranny, free peoples of the world, stand shoulder to shoulder—one often has a curious feeling that one is not watching a live human being but some kind of dummy… A speaker who uses that kind of phraseology has gone some distance toward turning himself into a machine. The appropriate noises are coming out of his larynx, but his brain is not involved, as it would be if he were choosing his words for himself…
+What is above all needed is to let the meaning choose the word, and not the other way around. In prose, the worst thing one can do with words is surrender to them. When you think of a concrete object, you think wordlessly, and then, if you want to describe the thing you have been visualising you probably hunt about until you find the exact words that seem to fit it. When you think of something abstract you are more inclined to use words from the start, and unless you make a conscious effort to prevent it, the existing dialect will come rushing in and do the job for you, at the expense of blurring or even changing your meaning. Probably it is better to put off using words as long as possible and get one’s meaning as clear as one can through pictures and sensations.
+Charles Sanders Peirce might have written that last paragraph. More than one path can lead to the Way.
+George Orwell, “Politics and the English Language,” Horizon (April 1946). ↩
+Hug the Query
+Top
+Book
+Sequence
+Human Evil and Muddled Thinking
+
+===== Human-Evil-And-Muddled-Thinking
+
+SourceMarkdown · Talk
+HomeAboutSearchContents
+Human Evil and Muddled Thinking
+ ❦
+George Orwell saw the descent of the civilized world into totalitarianism, the conversion or corruption of one country after another; the boot stamping on a human face, forever, and remember that it is forever. You were born too late to remember a time when the rise of totalitarianism seemed unstoppable, when one country after another fell to secret police and the thunderous knock at midnight, while the professors of free universities hailed the Soviet Union’s purges as progress. It feels as alien to you as fiction; it is hard for you to take seriously. Because, in your branch of time, the Berlin Wall fell. And if Orwell’s name is not carved into one of those stones, it should be.
+Orwell saw the destiny of the human species, and he put forth a convulsive effort to wrench it off its path. Orwell’s weapon was clear writing. Orwell knew that muddled language is muddled thinking; he knew that human evil and muddled thinking intertwine like conjugate strands of DNA:1
+In our time, political speech and writing are largely the defence of the indefensible. Things like the continuance of British rule in India, the Russian purges and deportations, the dropping of the atom bombs on Japan, can indeed be defended, but only by arguments which are too brutal for most people to face, and which do not square with the professed aims of the political parties. Thus political language has to consist largely of euphemism, question-begging and sheer cloudy vagueness. Defenceless villages are bombarded from the air, the inhabitants driven out into the countryside, the cattle machine-gunned, the huts set on fire with incendiary bullets: this is called pacification…
+Orwell was clear on the goal of his clarity:
+If you simplify your English, you are freed from the worst follies of orthodoxy. You cannot speak any of the necessary dialects, and when you make a stupid remark its stupidity will be obvious, even to yourself.
+To make our stupidity obvious, even to ourselves—this is the heart of Overcoming Bias.
+Evil sneaks, hidden, through the unlit shadows of the mind. We look back with the clarity of history, and weep to remember the planned famines of Stalin and Mao, which killed tens of millions. We call this evil, because it was done by deliberate human intent to inflict pain and death upon innocent human beings. We call this evil, because of the revulsion that we feel against it, looking back with the clarity of history. For perpetrators of evil to avoid its natural opposition, the revulsion must remain latent. Clarity must be avoided at any cost. Even as humans of clear sight tend to oppose the evil that they see; so too does human evil, wherever it exists, set out to muddle thinking.
+1984 sets this forth starkly: Orwell’s ultimate villains are cutters and airbrushers of photographs (based on historical cutting and airbrushing in the Soviet Union). At the peak of all darkness in the Ministry of Love, O’Brien tortures Winston to admit that two plus two equals five:2
+“Do you remember,” he went on, “writing in your diary, ‘Freedom is the freedom to say that two plus two make four’?”
+“Yes,” said Winston.
+O’Brien held up his left hand, its back towards Winston, with the thumb hidden and the four fingers extended.
+“How many fingers am I holding up, Winston?”
+“Four.”
+“And if the party says that it is not four but five—then how many?”
+“Four.”
+The word ended in a gasp of pain. The needle of the dial had shot up to fifty-five. The sweat had sprung out all over Winston’s body. The air tore into his lungs and issued again in deep groans which even by clenching his teeth he could not stop. O’Brien watched him, the four fingers still extended. He drew back the lever. This time the pain was only slightly eased.
+I am continually aghast at apparently intelligent folks—such as Robin Hanson’s colleague Tyler Cowen—who don’t think that overcoming bias is important. This is your mind we’re talking about. Your human intelligence. It separates you from an ape. It built this world. You don’t think how the mind works is important? You don’t think the mind’s systematic malfunctions are important? Do you think the Inquisition would have tortured witches, if all were ideal Bayesians?
+Tyler Cowen apparently feels that overcoming bias is just as biased as bias: “I view Robin’s blog as exemplifying bias, and indeed showing that bias can be very useful.” I hope this is only the result of thinking too abstractly while trying to sound clever. Does Tyler seriously think that scope insensitivity to the value of human life is on the same level with trying to create plans that will really save as many lives as possible?
+Orwell was forced to fight a similar attitude—that to admit to any distinction is youthful naiveté:
+Stuart Chase and others have come near to claiming that all abstract words are meaningless, and have used this as a pretext for advocating a kind of political quietism. Since you don’t know what Fascism is, how can you struggle against Fascism?
+Maybe overcoming bias doesn’t look quite exciting enough, if it’s framed as a struggle against mere accidental mistakes. Maybe it’s harder to get excited if there isn’t some clear evil to oppose. So let us be absolutely clear that where there is human evil in the world, where there is cruelty and torture and deliberate murder, there are biases enshrouding it. Where people of clear sight oppose these biases, the concealed evil fights back. The truth does have enemies. If Overcoming Bias were a newsletter in the old Soviet Union, every poster and commenter of Overcoming Bias would have been shipped off to labor camps.
+In all human history, every great leap forward has been driven by a new clarity of thought. Except for a few natural catastrophes, every great woe has been driven by a stupidity. Our last enemy is ourselves; and this is a war, and we are soldiers.
+Orwell, “Politics and the English Language.” ↩George Orwell, 1984 (Signet Classic, 1950). ↩
+Rationality and the English Language
+Top
+Book
+Sequence
+Against Rationalization(sequence)
+

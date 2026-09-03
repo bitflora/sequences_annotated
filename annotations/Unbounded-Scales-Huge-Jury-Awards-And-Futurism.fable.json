@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But if these “time estimates” represent anything other than attitude expressions on an unbounded scale with no modulus, I have been unable to determine it.",
+    "content": "The diagnosis was later confirmed and it applies to the diagnostician. A study of 257 published AI timeline predictions found that expert and non-expert forecasts were statistically indistinguishable, clustered fifteen to twenty-five years ahead of whenever they were made, and showed no improvement with expertise (Armstrong &amp; Sotala 2012, <em>Beyond AI</em> conference proceedings, no DOI); a large expert survey found that the same respondents gave systematically different answers depending on whether they were asked for a year or a probability (<a href=\"https://doi.org/10.1613/jair.1.11222\">Grace et al. 2018</a>), which is the modulus effect the essay predicts. The essay's author had, in the years before it, published forecasts of a technological singularity around 2005 and then 2025, and the institute he founded issued dates on the same schedule. The observation that a number with \"years\" tacked on is an attitude expression is correct; the essay presents it as a fact about other people's numbers."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s not twice as much; more like eight times as much.",
+    "content": "About ten. Stevens's power law for loudness gives a subjective exponent near 0.3 on intensity, so that a doubling of perceived loudness requires roughly a tenfold increase in acoustic power, the familiar rule that ten decibels sounds twice as loud. The essay's opening claim is a psychophysics fact offered with a wrong number in an essay about how people produce numbers without a standard, and the error runs the way one would expect from someone recalling the result rather than looking it up. The point about magnitude estimation without a modulus is correctly stated and is the basis of the jury-award study, which is well designed and has been extended; the essay's extension to futurism is discussed above."
+  }
+]

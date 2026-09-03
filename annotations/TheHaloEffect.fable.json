@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Research has shown that we automatically assign to good-looking individuals such favorable traits as talent, kindness, honesty, and intelligence",
+    "content": "The meta-analysis Cialdini cites for this sentence says something narrower. Eagly and colleagues found that the attractiveness stereotype is strongest for social competence and moderate for adjustment and intellectual competence, and that for integrity and concern for others the effect is near zero (<a href=\"https://doi.org/10.1037/0033-2909.110.1.109\">Eagly et al. 1991</a>). \"Honesty\" is the trait the essay singles out as \"a clear example of bias,\" and it is the trait for which the essay's own cited review found almost no halo. The rest of the passage is a greatest-hits list of small studies, several unpublished or in low-tier journals: the Canadian election figure is from an unpublished thesis, the grooming-over-qualifications result comes from a journal with no impact factor, and the meta-analysis of attractiveness and legal judgments found small effects that vary by crime and vanish for some verdict measures (<a href=\"https://doi.org/10.1111/j.1559-1816.1994.tb01552.x\">Mazzella &amp; Feingold 1994</a>). The halo is real. The catalogue of horrors exaggerates it by selecting the largest reported instance of each."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And—I know you don’t think you have to do it, but maybe you should—be just a little more skeptical of the more attractive political candidates.",
+    "content": "The later research found that the face-based cue that predicts elections is not attractiveness. Snap judgments of competence from candidate photographs, made in a second by people who did not know the candidates, predicted about seventy percent of Senate and House races, and competence judgments did the predicting even after attractiveness was controlled (<a href=\"https://doi.org/10.1126/science.1110589\">Todorov et al. 2005</a>). Attractiveness contributes something in low-information races and little in high-information ones. So the advice is aimed at the wrong cue; a voter who wants to correct for face-based bias should be skeptical of candidates who look competent, which is a harder instruction to follow because competence-looking faces do not announce themselves as a bias. The essay's mechanism, positive traits bleeding into one another, is the right general idea, and the specific trait it named as the leak was not the one leaking."
+  }
+]
