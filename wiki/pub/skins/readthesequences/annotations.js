@@ -128,6 +128,7 @@
     // Remove any previously injected markers/notes so a toggle can re-render cleanly.
     function clear(wikitext) {
         wikitext.querySelectorAll('.margin-note').forEach(function (el) { el.remove(); });
+        wikitext.querySelectorAll('.annotation-ref').forEach(function (el) { el.remove(); });
         wikitext.querySelectorAll('.annotation-target').forEach(function (span) {
             var parent = span.parentNode;
             while (span.firstChild) parent.insertBefore(span.firstChild, span);
