@@ -137,7 +137,7 @@
         wikitext.normalize();
     }
 
-    function render(annotations, multiSet) {
+    function render(annotations) {
         var wikitext = document.getElementById('wikitext');
         if (!wikitext) return;
 
@@ -145,7 +145,7 @@
 
         annotations.forEach(function (ann, i) {
             ann._elId = 'annotation-' + ann._setId + '-' + ann.id;
-            ann._label = multiSet ? (ann._setCode + ann.id) : ('A' + ann.id);
+            ann._label = ann._setCode + ann.id;
         });
 
         // Inject inline markers from quotes
@@ -195,7 +195,7 @@
                     merged.push(ann);
                 });
             });
-            if (merged.length) render(merged, enabled.length > 1);
+            if (merged.length) render(merged);
         });
     }
 
@@ -253,9 +253,9 @@
             if (!data || !data.length) return;
             data.forEach(function (ann) {
                 ann._setId = 'default';
-                ann._setCode = 'A';
+                ann._setCode = 'O';
             });
-            render(data, false);
+            render(data);
         });
     }
 
