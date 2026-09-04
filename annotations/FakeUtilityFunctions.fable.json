@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Norman R. F. Maier: “Do not propose solutions until the problem has been discussed as thoroughly as possible without suggesting any.”",
+    "content": "Annotated at length in Book II (Hold Off On Proposing Solutions): Maier’s edict was a rule for running <em>group</em> discussions, its evidence was Maier’s own 1960s group-problem-solving studies, and the effect has no modern replication record. Here it is applied to individual theorists who “solve it extremely fast.” The essay does not say why a rule about groups anchoring on the first speaker’s proposal should govern a single person’s thinking, and the closest individual-level literature, on premature closure and need for cognitive closure (Kruglanski & Webster 1996), has a different mechanism and different remedies."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "We have every reason to believe that insofar as humans can said to be have values, there are lots of them—high Kolmogorov complexity.",
+    "content": "Kolmogorov complexity is uncomputable and defined only relative to a reference machine (Sterkenburg 2016; see the Book I annotations), so “high” is not a measurement, and no estimate is offered. The descriptive literature the essay says it is summarizing finds the opposite of high complexity: human motivations factor into a small, cross-culturally stable structure, whether Schwartz’s nineteen basic values on a circumplex (<a href=\"https://doi.org/10.1037/a0029393\">Schwartz et al. 2012</a>), five or six moral foundations (<a href=\"https://doi.org/10.1037/a0021847\">Graham et al. 2011</a>), or Reiss’s sixteen basic desires (<a href=\"https://doi.org/10.1037/1089-2680.8.3.179\">Reiss 2004</a>). Those are self-report factor analyses and may miss what people cannot articulate, but they are the descriptive theories, and they do not say “a thousand shards.” The sense in which the essay is right, that values cannot be written down in a short formula by hand, is true of any concept and does not need Kolmogorov."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "A human brain implements a thousand shards of desire, though this fact may not be appreciated by one who has not studied evolutionary psychology.",
+    "content": "The number is invented, and the appeal to evolutionary psychology settles less than it seems. The massive-modularity thesis that would ground “a thousand” separate motivational systems is contested inside the field (Fodor, <em>The Mind Doesn’t Work That Way</em>, 2000; Buller, <em>Adapting Minds</em>, 2005; defended by <a href=\"https://doi.org/10.1037/0033-295X.113.3.628\">Barrett & Kurzban 2006</a>), and its defenders count modules in the tens. Nothing in evolutionary psychology entails that the proximate motivational system is as fragmented as the list of adaptive problems; a small set of learning systems tuned by a small set of reward signals is also an evolutionary design, and it is the one the reinforcement-learning account of the basal ganglia describes."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "It is a descriptive fact about human beings that the love of a parent for a child, and the love of a child for a parent, and the love of a man for a woman, and the love of a woman for a man, have not been cognitively derived from each other or from any other value.",
+    "content": "No source is given for the “descriptive fact,” and the neuroscience runs against it. <a href=\"https://doi.org/10.1016/j.neuroimage.2003.11.003\">Bartels & Zeki (2004)</a> found maternal and romantic love activating overlapping reward-circuit regions and deactivating overlapping regions for social judgment; <a href=\"https://doi.org/10.1016/j.tics.2016.11.007\">Feldman (2017)</a> reviews the shared oxytocin–dopamine circuitry across maternal, paternal, romantic and filial attachment and argues they are one system with different inputs. <a href=\"https://doi.org/10.1007/s12110-998-1010-5\">Fisher (1998)</a> proposed that romantic attachment is the infant–caregiver system co-opted, which is a derivation of one of the essay’s four loves from another. Whether these bonds are “cognitively” derived is a question about phenomenology, not architecture, and the essay does not say which it means. Either way it is not a known fact; it is a claim."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Leave out just one of these values from a superintelligence, and even if you successfully include every other value, you could end up with a hyperexistential catastrophe, a fate worse than death.",
+    "content": "The evidence is a 1947 novelette (“With Folded Hands”), and Book II contains an essay titled The Logical Fallacy of Generalization from Fictional Evidence. The example is also incoherent as stated: an agent that “wants everything for us that we want for ourselves, except the human values relating to controlling your own life” cannot exist, because wanting to control one’s own life is one of the things we want for ourselves. The substantive thesis, that value is fragile under omission, is argued later in Value Is Fragile and assessed there; here it is asserted from fiction, in a sequence whose point is that fake justifications are recognizable by their form."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "Objection? Objection? Why would they be searching for possible objections to their lovely theory?",
+    "content": "The essay’s test for a fake morality, that the arguer justifies the Great Thingy by its consequences for the values he already holds, is a good one, and it applies to the essay’s own programme. Coherent extrapolated volition and the later Value Is Fragile are defended by showing that they preserve parental love, art, freedom and the rest, which is the form of argument this essay says reveals that the arguer really values the consequences and not the principle. The author’s reply, presumably, is that his principle is meant to be nothing but a pointer at those values, and so consequence-matching is the right test for it. Fine, but then the complexity theorist can say the same, and the essay needs a criterion beyond form to distinguish them. It offers motivated stopping, which is a fact about the theorist’s search process, and not observable from outside."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "You shouldn’t expect to be able to compress a human morality down to a simple utility function, any more than you should expect to compress a large computer file down to 10 bits.",
+    "content": "A “complex utility function” still assumes there is a function, that is, a consistent ranking of outcomes; the descriptive evidence the essay invokes says there may be none. Preference reversals (<a href=\"https://doi.org/10.1037/h0031207\">Lichtenstein & Slovic 1971</a>), framing effects, and the constructed-preference programme (<a href=\"https://doi.org/10.1037/0003-066X.50.5.364\">Slovic 1995</a>) show human choices violating the axioms that the representation theorem needs, so “a thousand shards” is compatible with no utility function at all, not merely a long one. The hindsight is mixed. <a href=\"https://arxiv.org/abs/1712.05812\">Armstrong & Mindermann (2018)</a> proved the essay’s point that preferences cannot be inferred from behaviour without normative assumptions; but the practical response to the compression problem was not to write the function, it was to learn a reward model from human comparisons (<a href=\"https://arxiv.org/abs/1706.03741\">Christiano et al. 2017</a>) and to train against a written constitution (<a href=\"https://arxiv.org/abs/2212.08073\">Bai et al. 2022</a>), and language models score well on moral-judgment benchmarks (<a href=\"https://arxiv.org/abs/2008.02275\">Hendrycks et al. 2021</a>) without anyone enumerating shards. Values were compressed after all, into the same corpus that compresses everything else humans say."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "ATP synthase is a molecular machine—one of three known occasions when evolution has invented the freely rotating wheel—that is essentially the same in animal mitochondria, plant chloroplasts, and bacteria. ATP synthase has not changed significantly since the rise of eukaryotic life two billion years ago.",
+    "content": "The rotary ATP synthase predates eukaryotes by a billion years or more, being present in the last universal common ancestor, so “since the rise of eukaryotic life” understates the age; and it has changed. The bacterial enzyme has eight subunit types; the mitochondrial enzyme has more than fifteen, dimerizes into rows that bend the inner membrane into cristae (<a href=\"https://doi.org/10.1073/pnas.1204593109\">Davies et al. 2012</a>), and the enzymes of trypanosomes, ciliates and green algae have evolved entire non-homologous peripheral stalks and dimer interfaces (<a href=\"https://doi.org/10.1146/annurev-biochem-013118-110903\">Kühlbrandt 2019</a>). The catalytic core is conserved; the machine around it is one of the more variable large complexes known. The essay picked its example of stasis from a family whose structural biology is a catalogue of divergence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "thanks to the way that evolution strongly conserves certain genes; once many other genes depend on a gene, a mutation will tend to break all the dependencies.",
+    "content": "This mechanism was tested and mostly failed. <a href=\"https://doi.org/10.1126/science.1068696\">Fraser et al. (2002)</a> reported that highly connected proteins in the yeast interaction network evolve more slowly, which is the essay’s claim; <a href=\"https://doi.org/10.1186/1471-2148-3-21\">Bloom & Adami (2003)</a> showed the correlation was driven by expression level, and <a href=\"https://doi.org/10.1073/pnas.0504070102\">Drummond et al. (2005)</a> established that expression level alone explains most of the variance in evolutionary rate, plausibly through selection against misfolding of abundant proteins, with connectivity adding little once it is controlled. The number of dependants is a weak predictor of conservation; how many copies of the protein a cell makes is a strong one. The folk-genetics account the essay gives is the one the field had by then set aside."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Any two AI designs might be less similar to each other than you are to a petunia.",
+    "content": "As a claim about the space of possible designs this is unfalsifiable and probably true; as a guide to the designs that got built it was wrong. Every capable system of the past decade is a transformer trained by gradient descent on human-generated data, and they resemble each other and their makers: independently trained models converge on similar internal representations (<a href=\"https://arxiv.org/abs/2405.07987\">Huh et al. 2024</a>), and their activations predict human neural responses to language better than any prior model (<a href=\"https://doi.org/10.1073/pnas.2105646118\">Schrimpf et al. 2021</a>; <a href=\"https://doi.org/10.1038/s41593-022-01026-4\">Goldstein et al. 2022</a>). The essay’s warning against anthropomorphizing AI was reasonable in the abstract; for the AIs that exist, which are trained to imitate humans, anthropomorphic prediction has been more accurate than the essay would have licensed. The design space is vast; the region reachable by the one process anyone uses is small and sits next to the petunia’s cousins."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Having a word for “AI” is like having a word for everything that isn’t a duck.",
+    "content": "The author’s own tradition treats intelligence as a natural kind with a scalar measure. <a href=\"https://doi.org/10.1007/s11023-007-9079-x\">Legg & Hutter (2007)</a> define universal intelligence as expected reward across a Solomonoff-weighted distribution of environments, a single number, and the book’s own “optimization power” is the same idea; AIXI, named two paragraphs later, is the maximizer of that measure. One cannot rank minds on a scalar and also hold that “AI” picks out no natural class. Either intelligence is a real dimension along which duck and non-duck alike can be placed, in which case AIs form a class after all, or the measure is arbitrary, in which case the book’s talk of “strength comparable to a human civilization” is empty."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "If we focus on the bounded subspace of mind design space that contains all those minds whose makeup can be specified in a trillion bits or less, then every universal generalization that you make has two to the trillionth power chances to be falsified.",
+    "content": "The count treats bitstrings as uniformly distributed, and almost every trillion-bit string is not a mind. The minds that exist are produced by processes, evolution or gradient descent on data, and the relevant measure is the one those processes induce, under which strong universal generalizations may hold. The author asserts several: instrumental convergence, that almost any goal implies acquiring resources and resisting shutdown (Omohundro 2008; <a href=\"https://doi.org/10.1007/s11023-012-9281-3\">Bostrom 2012</a>), is a universal generalization over minds, stated as a law, by the very tradition that here says to resist universal generalizations. The existential direction is equally empty: “there exists a mind such that X” is true for any consistent X and tells one nothing about what will be built. The essay’s moral is right, discuss what happens as a causal result of a mind’s makeup; the counting argument offered for it proves too much and is disowned on the next page."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "At the bottom of this vaster space, below even humans, is natural selection as it first began in some tidal pool: mutate, replicate, and sometimes die, no sex.",
+    "content": "Two details. The tidal pool is Darwin’s “warm little pond”; the current leading hypotheses put the origin of life at alkaline hydrothermal vents (<a href=\"https://doi.org/10.1098/rstb.2002.1183\">Martin & Russell 2003</a>), and the matter is open. “No sex” is right about meiosis but wrong about recombination: horizontal gene transfer appears to have been so pervasive in early life that Woese argued the universal ancestor was a community rather than a lineage (<a href=\"https://doi.org/10.1073/pnas.95.12.6854\">1998</a>), and gene exchange among replicators is the thing “mutate, replicate, and sometimes die” leaves out. Minor, but the essay is using the example to fix the “bottom” of optimization-process space, and the bottom was more mixed than that."
+  }
+]

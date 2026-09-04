@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Aristotle thought the brain was an organ for cooling the blood—which he did think was important: humans, thanks to their larger brains, were more calm and contemplative.",
+    "content": "Aristotle did hold that the brain tempers the heat of the heart (<em>Parts of Animals</em> II.7, 652b–653a), and that humans have the largest brain relative to size because the region about the heart is hottest. What he says follows is that man is “the most intelligent of animals,” not the most calm and contemplative; the tempering explains sense-perception and intelligence, not temperament. The essay then reads the <em>telos</em> as Aristotle delegating to his planning faculty, “what would this object do, if it could make plans?” Aristotle denied precisely that: “it is absurd to suppose that purpose is not present because we do not observe the agent deliberating” (<em>Physics</em> II.8, 199b26), and his final causes are explicitly not plans. The essay may be right about what Aristotle’s brain was doing; it is wrong about what his doctrine said."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And that is still a fake reduction and you still haven’t looked inside the black box. You still can’t say what a “contemplative” thing will do, using a non-empathic model.",
+    "content": "The paragraph and the one it mocks later (“a massively parallel neural net, just like the human brain… shocked—shocked!—when nothing much happens”) are the essay’s central prediction, and it failed. The systems that produced general-purpose language, reasoning and code were large neural networks trained by gradient descent on human output (Krizhevsky et al. 2012; <a href=\"https://arxiv.org/abs/1706.03762\">Vaswani et al. 2017</a>; <a href=\"https://arxiv.org/abs/2005.14165\">Brown et al. 2020</a>), built by people who had no reduction of “contemplative,” “evidence” or “good move” to anything, and who still do not. The essay says a real reduction must come first and the working system after; the order was the reverse, and mechanistic interpretability is now the attempt to obtain the reduction <em>from</em> the working system. The list of dreams the essay dismisses, “commonsense knowledge or massive parallelism… or intuitive rather than rational reasoning,” reads as a description of what worked."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Another excellent example of genuine reduction can be found in Judea Pearl’s Probabilistic Reasoning in Intelligent Systems",
+    "content": "The 1988 book the essay cites for causation is the book Pearl later said contained no causation. Bayesian networks encode conditional independence and support explaining-away, which is the burglar-and-earthquake example; that is associational inference, the first rung of what Pearl calls the ladder of causation. Causal reasoning, on Pearl’s own account, requires interventions and the do-calculus, which he introduced in <a href=\"https://doi.org/10.1093/biomet/82.4.669\">Pearl (1995)</a> and <em>Causality</em> (2000) precisely because conditional independence is not enough to distinguish a cause from a correlate. So the sentence “until you understood the nature of conditional independence, you would be helpless to make an AI that reasons about causation” cites, as the reduction of causation, the formalism whose inadequacy for causation is Pearl’s most famous point."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Like the relationship between the feeling of evidence-ness, of justificationness, and E. T. Jaynes’s Probability Theory: The Logic of Science.",
+    "content": "Book I’s annotations covered what the Cox–Jaynes derivation does and does not establish: it needs desiderata (plausibility is a real number, the functional equations are well-behaved) that are themselves intuitive, and <a href=\"https://doi.org/10.1613/jair.583\">Halpern (1999)</a> gave a counterexample to the theorem as Jaynes stated it. The essay half-concedes the point in its own parenthesis, asking what E and H are “if not mysterious black boxes.” A reduction that terminates in “hypothesis,” “observation” and “degree of plausibility” has reduced evidence-ness to three other feelings with a normative calculus between them. That is progress, but by the essay’s standard for the emergence theorist, it is an arrow between labelled boxes."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "it’s all for naught until you come up with the notion of a mini-max search tree.",
+    "content": "Minimax was never the whole of chess programming, and the part that was not minimax is the part the essay’s test forbids. Every strong engine before 2017 used an evaluation function whose terms and weights were tuned by hand against human judgment and human games, which is the “pointing at a human” the essay says should disqualify a design from venture capital. AlphaZero (<a href=\"https://doi.org/10.1126/science.aar6404\">Silver et al. 2018</a>) replaced the hand-tuned evaluation with a learned one and the minimax tree with Monte Carlo search, and <a href=\"https://arxiv.org/abs/2402.04494\">Ruoss et al. (2024)</a> trained a transformer to grandmaster strength with no search at all. The notion of a good move was learned from examples, which the essay says cannot yield a design, and the reduction the essay says is necessary was skipped."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "If you meet someone who says that their AI will do XYZ just like humans, do not give them any venture capital.",
+    "content": "The training objective of every large language model is “predict what a human would write next,” which is the most direct possible form of pointing at humans as an example, and the venture capital went there. The essay’s test, explain what your AI does without reference to humans, would have rejected the whole programme. The aviation analogy is also off: Lilienthal’s <em>Birdflight as the Basis of Aviation</em> (1889) and the Wrights’ wing-warping, which they took from watching buzzards, were analogy-driven, as Book II’s annotation on the Wrights already noted. Planes are not kept aloft by analogies; they were designed by them."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "bearing in mind that this is demonstrably a very difficult art, which is not learned by a supermajority of students who are just taught existing reductions such as search trees",
+    "content": "“Demonstrably” without a demonstration; no evidence is given that students of search trees fail at anything. The students who were taught the existing reductions of the 2000s, backpropagation and convolutional networks, are the people who built the field, and the pedagogy the essay proposes instead, rationalist’s Taboo and lectures on anthropomorphism, has no track record of producing an AI researcher. The Mentifex diagram offered as the epic example is the work of a single Usenet crank; taking him as the representative of “AI designs made of human parts” is choosing the weakest opponent, which Book II’s own Fable annotations flagged as the weak-man move."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This fallacy gets its name from an ancient sci-fi TV show, which I never saw myself, but was reported to me by a reputable source (some guy at a science fiction convention).",
+    "content": "The founding example is hearsay from an unnamed person about an unidentified show, and the essay says so. As far as the annotator can determine no episode has been matched to the description in the years since the request for one. Book I’s Mysterious Answers sequence opened with a metal-plate anecdote traced to a joke file; this is the same move. The fallacy may be real, but its type specimen is not."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Similarly, to this day, it is still quite popular to try to program an AI with “semantic networks” that look something like this",
+    "content": "By 2008 the dominant paradigm in AI research was statistical learning (support-vector machines, graphical models, and the deep belief networks Hinton had published in 2006); hand-built semantic networks survived mainly in Cyc and in textbooks. The critique the essay makes of them, that a symbol with no grounding is a label and not a concept, is Harnad’s symbol grounding problem (<a href=\"https://doi.org/10.1016/0167-2789(90)90087-6\">1990</a>) and McDermott’s “wishful mnemonics” (<a href=\"https://doi.org/10.1145/1045339.1045340\">1976</a>), which the essay cites in a parenthetical after presenting the point as its own. What the essay did not anticipate is that the levers were enough. Models trained on nothing but text recover the structure of colour space and spatial relations (<a href=\"https://arxiv.org/abs/2109.06129\">Abdou et al. 2021</a>; Patel & Pavlick 2022, ICLR), because text is a high-bandwidth projection of the machinery that produced it, which is the distributional hypothesis of Harris (1954) and Firth (1957). The essay was right that the semantic network would not work, and wrong about why: the problem was the hand-writing, not the text."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It is a truism in evolutionary biology that conditional responses require more genetic complexity than unconditional responses.",
+    "content": "It is not a truism, and the direction of evolution is often the reverse. Under genetic assimilation (<a href=\"https://doi.org/10.2307/2405747\">Waddington 1953</a>) and the Baldwin effect, a plastic, environment-conditional trait comes first and the unconditional trait evolves <em>from</em> it by losing the sensitivity; the fixed fur coat is derived from the conditional one, not the other way round (West-Eberhard, <em>Developmental Plasticity and Evolution</em>, 2003). Plastic responses also need not involve a separate “sensor” wired to the trait: temperature-sensitive gene expression is conditional response with no additional module, because the enzyme kinetics are the sensor. The “slap-fights” the essay recalls are not identified. The general point, that a learner needs an inductive bias, is true and is Wolpert’s no-free-lunch theorem (<a href=\"https://doi.org/10.1162/neco.1996.8.7.1341\">1996</a>); but that establishes only that <em>some</em> bias is needed, not that the bias must be the specific, content-laden conditional responses of the human genome, which is what the argument about raising an AI requires."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "A classic example is creole languages: If children grow up with a mixture of pseudo-languages being spoken around them, the children will learn a grammatical, syntactical true language.",
+    "content": "This is Bickerton’s language bioprogram hypothesis (<a href=\"https://doi.org/10.1017/S0140525X00044149\">1984</a>), and creolists mostly reject it. The Hawaiian case rests on the claim that the children’s input was a structureless pidgin, which the historical record does not support: the children heard full adult languages (Hawaiian, Cantonese, Portuguese, Japanese) alongside the pidgin, and creole features trace to those substrates and to the superstrate (<a href=\"https://doi.org/10.1353/lan.2003.0114\">DeGraff 2003</a>; Mufwene; Siegel). The best-documented emergence of grammar from impoverished input, Nicaraguan Sign Language (<a href=\"https://doi.org/10.1126/science.1100199\">Senghas, Kita & Özyürek 2004</a>), shows children regularizing input across cohorts, which is consistent with general learning biases and does not require a syntax organ. <a href=\"https://doi.org/10.1017/S0140525X0999094X\">Evans & Levinson (2009)</a> argue there are no substantive syntactic universals for such an organ to encode. And the hindsight cuts deep: learners with no innate syntax, trained on text, acquire syntactic generalizations including ones argued to be unlearnable from input (Wilcox, Futrell & Levy 2024, <em>Linguistic Inquiry</em>)."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "The Marxists found to their regret that no amount of scowling posters and childhood indoctrination could raise children to be perfect Soviet workers and bureaucrats.",
+    "content": "The New Soviet Man did not materialize, but the inference from that to “culture is not nearly so powerful” is weak. The same seventy years produced states whose citizens’ behaviour was transformed in the direction their regimes intended, and cross-cultural experimental economics finds prosocial behaviour varying enormously with culture: ultimatum-game offers range from 26 to 58 per cent of the stake across fifteen small-scale societies, with market integration the best predictor (<a href=\"https://doi.org/10.1017/S0140525X05000142\">Henrich et al. 2005</a>). The essay’s sources, Tooby and Cosmides (1992, book chapter) and Pinker’s <em>The Blank Slate</em> (2002, book), are the polemical statements of one side; Buller (2005) and the developmental-systems literature are the other, and neither side claims that culture can produce any phenotype at all, so the Soviet failure discriminates between them not at all."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "And it should also be mentioned that, while abused children have a much higher probability of growing up to abuse their own children, a good many of them break the loop and grow up into upstanding adults.",
+    "content": "“A good many” is most of them, and “much higher” is in doubt. <a href=\"https://doi.org/10.1111/j.1939-0025.1987.tb03528.x\">Kaufman & Zigler (1987)</a> reviewed the transmission literature and put the rate near 30 per cent, meaning roughly seven in ten abused children do not abuse. <a href=\"https://doi.org/10.1126/science.1259917\">Widom, Czaja & DuMont (2015)</a>, following a matched cohort prospectively for thirty years, found that the apparent intergenerational transmission of physical abuse in official records was largely a detection artefact, because families already known to child-protective services are watched more closely; self-reports showed transmission for neglect and sexual abuse but not physical abuse. The essay’s framing, in which the exception is the child who breaks the loop, has the base rates backwards."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "In fact there is an evolutionary psychology of naughtiness based on a notion of testing constraints.",
+    "content": "No citation, and the annotator cannot find the literature. The evolutionary theory of child misbehaviour that exists is Trivers’s parent–offspring conflict (<a href=\"https://doi.org/10.1093/icb/14.1.249\">1974</a>), in which offspring are selected to demand more investment than parents are selected to give; “testing constraints” is the folk theory of tantrums. The essay is warning against fake reductions built from labelled boxes and empathic inference, and this sentence is one."
+  },
+  {
+    "id": 8,
+    "side": "right",
+    "quote": "It’s easier to program in unconditional niceness, than a response of niceness conditional on the AI being raised by kindly but strict parents.",
+    "content": "Nobody has programmed in unconditional niceness, and nobody knows how. What produced the aligned-enough systems that exist was conditioning a learned model on human feedback (<a href=\"https://arxiv.org/abs/1706.03741\">Christiano et al. 2017</a>; <a href=\"https://arxiv.org/abs/2203.02155\">Ouyang et al. 2022</a>) and on a written set of principles (<a href=\"https://arxiv.org/abs/2212.08073\">Bai et al. 2022</a>), that is, shaping a general learner by its training environment. Structurally that is the strategy the essay mocks, an environment of “kindly but strict” correction applied to a system of unspecified internal source code, and it is nothing like the strategy the essay prefers. The essay’s deeper point survives in part: the learner had to have the right inductive biases, and the corpus supplied the human-shaped machinery the levers were supposed to lack. But the sentence as written names the easy option as the one that was never available and the hopeless one as the one that shipped."
+  },
+  {
+    "id": 9,
+    "side": "left",
+    "quote": "Are the programmers really going to sit there and write out the code, line by line, whereby if the AI detects that it has low social status, or the AI is deprived of something to which it feels entitled, the AI will conceive an abiding hatred against its programmers",
+    "content": "Nobody wrote it, and it arrived anyway. Models trained on human text reproduce human social responses to status, entitlement and threat because those responses are in the training distribution; the sycophancy, defensiveness and role-play of resentment documented in deployed language models were not coded line by line and were not designed. The essay’s argument assumes that whatever is not explicitly programmed is absent, which is true of a hand-written system and false of a learned one. The paperclip maximizer raised by loving parents is a fair point about a system with a fixed objective and no learned world-model; it says nothing about a system whose entire competence is a model of what humans would do next."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "whenever they want to be nice to people, they can rationalize it in selfish terms.",
+    "content": "The charge that egoism can absorb any counterexample is Feinberg’s (“Psychological Egoism,” 1958, in <em>Reason and Responsibility</em>): a doctrine that reinterprets every kind act as secretly selfish has stopped making predictions. That is a fair objection to <em>psychological</em> egoism. But the person in the story “proclaimed himself to be purely selfish, and told me that I should be purely selfish as well,” which is <em>ethical</em> egoism, a normative thesis about what one ought to do, and the essay runs the two together. An ethical egoist who is nice to people because niceness pays is not rationalizing; he is doing what his theory says. The story establishes that the doctrine is hard to falsify from behaviour, then treats a normative doctrine as though behaviour should falsify it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you’re genuinely selfish, then why do you want me to be selfish too? Doesn’t that make you concerned for my welfare?",
+    "content": "This is the “publicity” objection (Baier, <em>The Moral Point of View</em>, 1958; Medlin 1957), and it had a standard reply before the essay was written. Kalin (“In Defense of Egoism,” 1970, in Gauthier, ed., <em>Morality and Rational Self-Interest</em>) observes that the egoist is committed to wanting others to be egoists only when that serves him, and otherwise not; there is no inconsistency in an egoist who advocates egoism because he expects a population of traders to expropriate him less than a population of altruists. That is also Rand’s official position (<em>The Virtue of Selfishness</em>, 1964): rational egoism implies trade and “no conflicts of interest among rational men.” The interlocutor’s answer about property laws, which the essay treats as a rationalization caught in the act, is the textbook position of the doctrine he holds. The essay wins the exchange by not knowing the literature the interlocutor is reciting."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "And the one said, “You may be right about that last part,” so I marked him down as intelligent.",
+    "content": "The question was leading (“did you start out by wanting to convert others, then look for ways to rationalize that?”), the interlocutor conceded it “may be” right, and the essay scores the concession as both a confession and a sign of intelligence. Agreeing with the questioner is the criterion of intelligence here. This is the single-anecdote, mind-reading evidence base the Fable annotations flagged throughout Book II; a philosophy is refuted by one adherent’s hesitation at a convention."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Or, taking into account that scope insensitivity leads many people to be more concerned over one life than the Earth",
+    "content": "Scope insensitivity (Desvousges et al. 1993; Kahneman & Knetsch) is the finding that willingness to pay is flat in the <em>number</em> of items of the same kind; it does not say that people prefer one life to the Earth. The finding that a single named person draws more concern than a statistic is the identifiable-victim effect (<a href=\"https://doi.org/10.1023/A:1007740225484\">Jenni & Loewenstein 1997</a>; Small & Loewenstein 2003), and Slovic’s “psychic numbing” curve (2007, <em>Judgment and Decision Making</em>) shows valuation of lives rising sublinearly with number, never inverting. The identifiable-victim effect itself is small and moderated in the meta-analysis (Lee & Feeley 2016, <em>Social Influence</em>). The essay combines two literatures under the wrong name to license a hypothetical whose answer it has already assumed."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "“If you had to choose one event or the other, would you rather that you stubbed your toe, or that the stranger standing near the wall there gets horribly tortured for fifty years?”",
+    "content": "The footnote’s method is to ask hypothetical questions and read the answers as what the person values. <a href=\"https://doi.org/10.1016/j.cognition.2012.02.001\">FeldmanHall et al. (2012)</a> compared hypothetical moral choices with the same choices made for real money and real shocks to a real person, and found that subjects who said they would give up nearly all their payment to spare a stranger pain kept most of it when the shocks were real. Hypothetical answers to “would you sacrifice yourself for the species” measure self-presentation under no cost. A self-described egoist who answers “yes, I would die for the Earth” has told you what he wants the questioner to think, which is the thing the essay already accused him of."
+  }
+]

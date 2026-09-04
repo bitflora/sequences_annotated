@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "he argued that the joy of scientific discovery would soon be replaced by pills that could simulate the joy of scientific discovery",
+    "content": "This is Nozick’s experience machine (<em>Anarchy, State, and Utopia</em>, 1974, pp. 42–45; book, no DOI), the standard thought experiment against hedonism for thirty years before this conversation, presented here as a personal exchange with a futurist and never named. The omission matters because the experience machine has since been tested rather than merely intuited. <a href=\"https://doi.org/10.1080/09515080903532290\">De Brigard (2010)</a> told subjects they were <em>already</em> in a machine and could leave for reality: a majority chose to stay when the real life on offer was described as worse, and many stayed even when it was described as identical, so the “I would never plug in” intuition tracks status quo bias at least as much as a preference for reality. <a href=\"https://doi.org/10.1080/09515089.2012.757889\">Weijers (2014)</a> reduced the anti-hedonist majority further with a neutral third-person framing, and Hindriks and Douven (2018, <em>Philosophical Psychology</em>) found the same status-quo sensitivity. Book II taught the reversal test (<a href=\"https://doi.org/10.1086/505233\">Bostrom & Ord 2006</a>) for exactly this contamination; the essay does not apply it to its own intuition."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "One often sees ethicists arguing as if all human desires are reducible, in principle, to the desire for ourselves and others to be happy.",
+    "content": "One does not. Psychological hedonism has been a minority position in philosophy since Butler’s <em>Fifteen Sermons</em> (1726, Sermon XI) argued that we must desire the object before its attainment can please us, which is the essay’s own first objection two paragraphs down, stated 281 years earlier. The value theorists of the generation before this essay (Parfit’s <em>Reasons and Persons</em>, 1984, Appendix I; Griffin’s <em>Well-Being</em>, 1986; Scanlon’s <em>What We Owe to Each Other</em>, 1998) all reject hedonism, typically citing Nozick. The one “ethicist” named is Sam Harris in a book about religion and terrorism, whose reduction the essay itself calls a drive-by. The essay defeats a position its field abandoned and presents the field’s standard objections as its own."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "(I originally found this point in a Sober and Wilson paper, not sure which one.)",
+    "content": "The source is <em>Unto Others</em> (Sober & Wilson, 1998, Harvard University Press, Part II; book, no DOI), and the argument there is not the one the essay gives. Sober and Wilson argue that a pluralistic motivational architecture would have been favoured by selection because a desire for the welfare of one’s children is a more <em>reliable</em> proximate mechanism than a desire for the pleasure that caring produces; they do not claim hedonism requires pleasure to be the “only consequent” of action. That test is wrong on its face: hedonism is a thesis about ultimate <em>ends</em>, and no hedonist has denied that taking ibuprofen also has the consequence of reducing inflammation. Stich, Doris and Roedder (2010, in <em>The Moral Psychology Handbook</em>) argue that even Sober and Wilson’s reliability argument fails, because a hedonist mechanism with the right learned associations could be equally reliable; the empirical case against hedonism rests on Batson’s experiments (below), not on this argument."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "this would make it difficult to explain how we could care about anyone else’s happiness—how we could treat people as ends in themselves, rather than instrumental means of obtaining a warm glow of satisfaction.",
+    "content": "This was settled, to the extent it can be, in the laboratory rather than the armchair, and the essay does not mention the work. <a href=\"https://doi.org/10.1037/0022-3514.40.2.290\">Batson et al. (1981)</a> and two decades of follow-ups manipulated ease of escape from a suffering confederate and found that high-empathy subjects helped even when they could walk away, which a warm-glow account predicts they would not. <a href=\"https://doi.org/10.1037/0022-3514.73.3.481\">Cialdini et al. (1997)</a> replied that empathy induces a sense of self–other merging, so that helping is self-directed after all; Batson answered with further controls, and the exchange is unresolved but informative. The essay reaches the right conclusion by an inference from what would be “difficult to explain,” which is the reasoning style Book I warned against, when the experimental literature was available and would have given it the same answer with error bars."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "The various states and countries that still outlaw oral sex make a good example",
+    "content": "<em>Lawrence v. Texas</em>, 539 U.S. 558 (2003), had struck down every remaining American sodomy statute four years before this essay was written; the laws still on the books in a dozen states were unenforceable. Countries, yes; states, no. A small point, but the essay offers it as its only worked example of moralists going astray by valuing something other than happiness, and the example was already moot."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "If I claim to value art for its own sake, then would I value art that no one ever saw? A screensaver running in a closed room, producing beautiful pictures that no one ever saw? I’d have to say no.",
+    "content": "This concession is larger than the essay notices. Moore’s <em>Principia Ethica</em> (1903, §50) asked whether a beautiful world no one ever sees is better than a heap of filth no one ever sees, and answered yes; the essay answers no, which puts it on the “experience requirement” side of the debate (Griffin 1986, Sumner 1996), the view that nothing has value unless it enters some experience. But the essay then says it would object to a holodeck even if it took a pill to forget, and that it values people getting somewhere “as a result of their own efforts” even when they cannot tell the difference. Those are values in states of affairs that no experience tracks, which is what it just denied having. The essay wants an experience requirement for screensavers and none for puppet masters, and gives no principle that separates the cases beyond the fact that one involves people."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "Which means that my decision system has a lot of terminal values, none of them strictly reducible to anything else.",
+    "content": "The evidence for this claim about the author’s cognitive architecture is the author’s report of what he would refuse. <a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Nisbett & Wilson (1977)</a> showed that people’s reports of the reasons for their choices are constructed after the fact and often wrong about the causes; <a href=\"https://doi.org/10.1111/j.0963-7214.2005.00355.x\">Wilson & Gilbert (2005)</a> showed that people systematically mispredict how they will value states they have not been in. A refusal to take a pill one has never taken is an affective forecast, and the literature says such forecasts overweight the imagined loss. None of that shows the author’s values <em>are</em> reducible to happiness; it shows that the method used here cannot tell. Note too that “terminal values” imports the utility-function vocabulary that the fourth essay in this sequence will say human motivation does not fit."
+  }
+]

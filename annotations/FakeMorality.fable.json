@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "God, say the religious fundamentalists, is the source of all morality; there can be no morality without a Judge who rewards and punishes.",
+    "content": "Two theses are fused here. The first, that God is the source of morality, is divine command theory, a claim about what makes acts right; the second, that no one would behave without reward and punishment, is a motivational claim. The Euthyphro problem the essay reinvents with Omega was put to the first thesis by Plato, and the theistic response since Adams (“Divine Command Metaethics Modified Again,” 1979, <em>Journal of Religious Ethics</em> 7) and Quinn explicitly grants that non-believers have reliable moral perception; the modified theory says God’s commands <em>constitute</em> obligation, not that fear of God is how anyone <em>detects</em> it. Craig’s debating formula, that the question is not whether one must believe in God to be moral but whether there is objective morality without God, is the standard fundamentalist-adjacent position, and it already concedes everything the bathroom example proves. The essay has refuted the motivational thesis, which its named opponents disown, and left the metaethical one untouched."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The very fact that a religious person would be afraid of God withdrawing Its threat to punish them for committing murder shows that they have a revulsion of murder that is independent of whether God punishes murder or not.",
+    "content": "The inference does not go through. The fundamentalist’s worry in the first paragraph is about <em>other people</em>: “what would stop people from murdering each other.” A perfectly self-interested believer with no revulsion of murder would still fear the withdrawal of a threat that deters his neighbours from murdering him. The essay’s Omega example changes the subject to the agent’s own conduct (would <em>you</em> fear losing the bathroom threat?), where the inference works, and then applies the conclusion to the original argument, where it does not. Fear of deregulation is prudence, not a moral compass, and the essay needs to rule prudence out before it can say the compass was there all along."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If we did not fear hell and yearn for heaven, then what would stop people from murdering each other left and right?",
+    "content": "There is an empirical literature on this question, and the essay answers it with a thought experiment about bathrooms. <a href=\"https://doi.org/10.1371/journal.pone.0039048\">Shariff & Rhemtulla (2012)</a> found that national belief in hell predicts lower crime rates and belief in heaven predicts higher, controlling for income and inequality; <a href=\"https://doi.org/10.1080/10508619.2011.556990\">Shariff & Norenzayan (2011)</a> found that subjects who described God as punishing cheated less in the lab. <a href=\"https://doi.org/10.1038/nature16980\">Purzycki et al. (2016)</a> found across eight field sites that belief in moralizing, punishing gods predicted fairer play toward distant coreligionists. On the other side, the flagship claim that moralizing gods drove the rise of complex societies (<a href=\"https://doi.org/10.1038/s41586-019-1043-4\">Whitehouse et al. 2019</a>) was retracted in 2021 after the treatment of missing data was shown to have produced the result, and the most secular countries have among the lowest homicide rates. The honest summary is a small, real deterrent effect of punitive belief on some behaviours, which is neither the fundamentalist’s catastrophe nor the essay’s “no.”"
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "You don’t hear religious fundamentalists using the argument: “If we did not fear hell and yearn for heaven, then what would stop people from eating pork?”",
+    "content": "One hears exactly this argument, and from the tradition’s central texts. The Sifra on Leviticus 20:26 has Rabbi Elazar ben Azariah say that a person should not say “I do not want to eat pork” but rather “I want to, but what can I do, my Father in heaven has decreed it”; the command, not one’s own revulsion, is offered as the sole reason. The same tradition classifies commandments into <em>mishpatim</em>, which reason would have discovered unaided, and <em>chukim</em>, which it would not; Yoma 67b lists idolatry, sexual immorality, bloodshed, robbery and blasphemy as laws that “had they not been written, they should have been written,” and pork among those the evil inclination argues against. That is the essay’s distinction between murder and sneezing, drawn by the rabbis eighteen centuries earlier and with the essay’s own conclusion: murder is wrong independently of the decree and pork is not. The fundamentalist the essay imagines is less sophisticated than the fundamentalists’ own literature."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the strategy that fares best is Tit for Tat with initial cooperation. People don’t like jerks. Nice guys really do finish first.",
+    "content": "The essay puts this in a straw philosopher’s mouth, but the claims are the ones its readers will take as background fact, and they are dated. Tit for Tat won Axelrod’s tournaments (1984) against the strategies that happened to be entered; <a href=\"https://doi.org/10.1038/364056a0\">Nowak & Sigmund (1993)</a> showed that win–stay, lose–shift beats it under noise, and <a href=\"https://doi.org/10.1073/pnas.1206569109\">Press & Dyson (2012)</a> showed that extortionate zero-determinant strategies can force a cooperating opponent to accept an unfair share. On “nice guys finish first,” <a href=\"https://doi.org/10.1037/a0026021\">Judge, Livingston & Hurst (2012)</a> found across four large samples that agreeable men earn substantially less than disagreeable men, the penalty holding after controls. The “studies show” sentence about meaning and happiness is cross-sectional and confounded in the direction the second philosopher would least like: happy people volunteer more."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "So which of these two is the actual altruist? Whichever one actually holds open doors for little old ladies.",
+    "content": "The essay has spent its length arguing that what a person <em>appeals to</em> when justifying a recommendation reveals what they value, and then, in the last line, switches to a different criterion: what they <em>do</em>. The two can disagree, which is why the question was interesting, and the essay does not say which wins when they do. The particular behaviour chosen is also unfortunate. Door-holding is governed by a distance-and-effort rule that Santamaria and Rosenbaum (2011, <em>Psychological Science</em>) modelled as joint cost minimization, is performed for strangers of any age, and is the sort of low-cost courtesy that the moral-licensing literature finds people use to excuse themselves from costlier altruism. If behaviour is the test, the test should be behaviour that costs something."
+  }
+]
