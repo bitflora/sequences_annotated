@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But then won’t people be bored?",
+    "content": "There is direct evidence on this and it mostly supports the essay, with a twist that changes the design implications. Involuntary unemployment reduces life satisfaction far beyond the loss of income — Winkelmann and Winkelmann's panel analysis (<em>Economica</em> 65, 1998) found the non-pecuniary cost several times the pecuniary one, and Clark and Oswald's work found the effect large and persistent. But the mechanisms identified in that literature are loss of social contact, time structure, status, and identity, not the absence of difficulty as such; and voluntary retirement, which removes the work while keeping the status and the social ties, shows small or positive effects on well-being. So the datum is that being cast out of work hurts, not that effort is what people miss. A future that removed labour while preserving status, structure, and company is not obviously the bored dystopia the essay pictures."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "So this is the ultimate end of the prophecy of technological progress",
+    "content": "The reductio has been run as an experiment by the games industry, twice, with opposite results. Idle and incremental games — which are almost literally a screen that accrues points while you do nothing — became a large and durable genre with tens of millions of players, so the predicted terminus is real and people do choose it. And simultaneously the most celebrated design movement of the same period ran the other way, toward deliberately punishing difficulty that players seek out precisely because it can be failed. The market did not converge on either pole, which is evidence against the essay's assumption that easier reliably means more fun, and against the assumption that the drift is all in one direction. What the games actually show is heterogeneity: the same person wants the difficult thing on some evenings and the automatic thing on others."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "what is a computer game except synthetic work?",
+    "content": "The essay is reconstructing, without citing it, the best-supported psychology on this exact question. Csikszentmihalyi's flow research identifies the conditions under which effortful activity is experienced as intrinsically rewarding — challenge matched to skill, clear goals, immediate feedback — and its most striking result is the paradox of work: experience-sampling studies found people reporting flow far more often at work than in leisure, while simultaneously reporting that they would rather be doing something else (Csikszentmihalyi and LeFevre, <a href=\"https://doi.org/10.1037/0022-3514.56.5.815\"><em>Journal of Personality and Social Psychology</em> 56, 1989</a>). Self-determination theory's account of games, in which enjoyment tracks satisfaction of competence and autonomy needs rather than reward rate, points the same way. That people systematically mispredict which activities will engage them is a much stronger foundation for the essay's thesis than the introspective argument offered."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Timothy Ferris is worth quoting",
+    "content": "For a claim about what makes life worth living, the authority invoked is a lifestyle-design bestseller whose method is the author's own biography and whose central recommendations — outsourcing one's inbox, mini-retirements, selective ignorance — have never been tested. The substitution of \"what would excite me?\" for \"what do I want?\" is offered as an insight, and the psychological literature on affective forecasting says something more interesting and less flattering: people are poor at predicting both what will excite them and how long it will last (Wilson and Gilbert on impact bias). The name is also misspelled — it is Timothy Ferriss. In an essay arguing that our intuitions about future satisfaction need correcting, the supporting citation is one whose entire evidence base is one man's intuitions about his own satisfaction."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "How much of the human brain could you eliminate, apart from the pleasure centers, and still keep the subjective experience of pleasure?",
+    "content": "The neuroscience has a sharper answer than the essay expects, and it undercuts the \"pleasure centers\" framing the question relies on. Berridge and Kringelbach's work on hedonic hotspots found that the regions capable of amplifying \"liking\" are remarkably small — roughly cubic-millimetre sites in the nucleus accumbens shell and ventral pallidum in rats — and that most of what was historically called the brain's pleasure system, including the dopamine pathways, mediates \"wanting\" rather than \"liking,\" which double-dissociate. Stimulating the classic reward pathways produces craving without enjoyment. So the wireheading picture the essay is arguing against, in which a stripped-down brain could sit in bliss, is not straightforwardly available: the machinery that makes experiences pleasant is not the machinery that makes an organism pursue them, and it is far more localized and fragile than the folk model assumes."
+  }
+]

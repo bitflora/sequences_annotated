@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This is the anti-pattern I call Passing the Recursive Buck",
+    "content": "The resolution being reached for here is the standard one, and it has a name and a century of discussion: Carroll's regress is taken to show that rules of inference cannot be assimilated to premises, so that a system's inferential dispositions are not further propositions it believes. Ryle made this the centrepiece of \"Knowing How and Knowing That\" (1945), arguing that intellectualism about skill generates exactly this regress, and Thomson's \"What Achilles Should Have Said to the Tortoise\" (<em>Analysis</em> 21, 1960) works through the formal version. It is worth knowing that the conclusion is contested rather than obvious: Stanley and Williamson's \"Knowing How\" (<a href=\"https://doi.org/10.2307/2678403\"><em>Journal of Philosophy</em> 98, 2001</a>) argues at length that the regress does not go through and that knowing-how is a species of propositional knowledge. The essay presents the dynamic/data distinction as something a programmer can simply see; philosophers who looked at the same argument have not all seen it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There is no way to write a dynamic on a piece of paper, because the paper will just lie there.",
+    "content": "As stated this is false in the sense that matters to the argument, and computer science is the demonstration: a Turing machine's transition table is a dynamic written down, and a universal machine is precisely a device that reads someone else's dynamics as data and enacts them. The von Neumann architecture's founding observation is that code and data are the same kind of thing in the same store. What is true is the weaker and still sufficient claim: the regress must terminate somewhere in an interpreter that is not itself further data, so <em>something</em> must be already in motion — but that something can be arbitrarily thin, and everything above it can be written on paper. The distinction the essay wants is between the base interpreter and the rest, not between dynamics and data."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "(A) If a toddler is on the train tracks, then pulling them off is fuzzle.",
+    "content": "The fuzzle argument is the Humean theory of motivation — that beliefs alone never move an agent, and a desire is always needed — asserted as an engineering truism. It is one side of a live debate. Motivational internalists, from Nagel's <em>The Possibility of Altruism</em> (1970) through McDowell and the modern neo-Aristotelians, hold that recognizing a reason is itself motivating for a properly constituted agent, and Smith's <em>The Moral Problem</em> (1994) is a book-length attempt to reconcile the two sides. The empirical evidence usually brought to bear cuts both ways: acquired sociopathy after ventromedial prefrontal damage is cited as showing that moral belief can survive intact while motivation is destroyed, but the same patients' moral judgments also change, which is what internalists predict. Building an agent that separates the two is a design choice, not a proof that the separation is necessary."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The phrase that once came into my mind to describe this requirement is that a mind must be created already in motion.",
+    "content": "The formulation is a good one and the point is correct as far as it goes; the question it leaves untouched is the one that matters for the sequence's argument. Granting that no argument moves a rock, human beings are not rocks, and they demonstrably do change their beliefs and their goals in response to argument — that is what the preceding four books are for. So the interesting claim was never that some conceivable system is unmoved, but which arguments move which minds and why, and that is an empirical question about actual cognitive architectures rather than a conceptual one about the space of all possible ones. Having established that universal compulsion is impossible, the essay treats the matter as closed, when the residual question — what makes a mind persuadable, and to what — is the entire subject."
+  }
+]

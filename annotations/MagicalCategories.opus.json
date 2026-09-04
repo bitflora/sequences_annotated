@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "That was published in a peer-reviewed journal, and the author later wrote a whole book about it, so this is not a strawman position I’m discussing here.",
+    "content": "The essay's own footnote refutes the sentence. Hibbard's \"Super-Intelligent Machines\" appeared in <em>ACM SIGGRAPH Computer Graphics</em> volume 35, number 1, pages 13–15 — three pages in the SIGGRAPH newsletter's opinion section, not a peer-reviewed journal article. The claim matters because it is deployed specifically to establish that the target is a serious position rather than a soft one, and the actual venue is closer to a letter to the membership. The correct defence against the strawman charge was available: Hibbard did develop the proposal at book length in <em>Super-Intelligent Machines</em> (2002) and defended it in subsequent technical papers, which is enough to make it a real position without upgrading a newsletter piece."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There is no professional certification test you have to take before you are allowed to talk about AI morality.",
+    "content": "The observation cuts equally against the author, who had no such certification either, and it is not load-bearing: the technical argument that follows is strong enough that the paragraph attacking Hibbard's standing subtracts from it. It is also incomplete as a description of the exchange. Hibbard revised the proposal in 2004 in response to this criticism, and continued working on it — his \"Model-Based Utility Functions\" (<em>Journal of Artificial General Intelligence</em> 3, 2012) is a formal treatment that explicitly addresses agents with incentives to manipulate their own reward signal. \"You already got the important parts\" is the essay's summary of a discussion in which the other party went on to do technical work on the objection."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I’ve seen this story in several versions and several places, sometimes cited as fact, but I’ve never tracked down an original source",
+    "content": "The hedge is correct and creditable — no original source has ever been produced for the tank story, and it circulates as an artificial-intelligence folk legend with the details varying between tellings. It is also unnecessary, because the phenomenon has since been documented repeatedly in the peer-reviewed literature: Ribeiro, Singh, and Guestrin's classifier that distinguished huskies from wolves by detecting snow (2016), Zech et al.'s pneumonia models that keyed on hospital-specific scanner markings and collapsed on external data (<a href=\"https://doi.org/10.1371/journal.pmed.1002683\"><em>PLOS Medicine</em> 15, 2018</a>), and the general treatment in Geirhos et al.'s \"Shortcut Learning in Deep Neural Networks\" (<a href=\"https://doi.org/10.1038/s42256-020-00257-z\"><em>Nature Machine Intelligence</em> 2, 2020</a>). The essay's central empirical premise turned out to be true; the parable it rests on remains unverified."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "even supervised learning is almost entirely a matter of inductive bias",
+    "content": "The conclusion is right and the counting argument used to reach it is the wrong tool. Sample complexity is not governed by the raw number of Boolean functions over the input space but by the capacity of the hypothesis class actually being searched — VC dimension in the classical theory, where the required examples scale with the class's complexity rather than with the doubly-exponential count of all possible classifications. The number 2^(2^65536) tells you what an unbiased learner would face, and no learner is unbiased. The modern situation is stranger than either picture: overparameterized networks can memorize randomly labeled data, so classical uniform-convergence bounds do not explain their generalization at all (Zhang et al., 2017), and yet they generalize — meaning the inductive biases are doing even more work than the essay claims, while being harder to characterize than the argument here assumes."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "As the case of Terri Schiavo illustrates, technology enables new borderline cases that throw us into new, essentially moral dilemmas.",
+    "content": "This is the strongest argument in the essay and it points somewhere the essay does not follow. If new situations require fresh moral reasoning that could not have cast a shadow on any earlier training set, then the remedy is continued interaction with human judgment as the new cases arise — ongoing feedback, deliberation, and correction — rather than a specification fixed in advance. The methods that were eventually built do exactly that, learning from human comparisons on newly generated behaviour and from explicit deliberative procedures, and the author's own coherent extrapolated volition proposal is itself an extrapolation from human judgments rather than an escape from them. The Schiavo point establishes that no static dataset suffices; it does not establish that induction from humans is the wrong paradigm, since the alternative on offer is induction from idealized humans."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "To solve the FAI problem you have to step outside the paradigm of induction on human-labeled training data and the paradigm of human-generated intensional definitions.",
+    "content": "Seventeen years on, nobody has stepped outside that paradigm, and the intervening evidence splits the essay's thesis in two. The specific worry — that a system trained on labeled examples would be unable to tell a molecular sculpture from a smile, or a picture of a face from a face — did not materialize; large models trained on human data represent human concepts, including evaluative ones, well enough to classify novel borderline cases roughly as humans do. The general worry was vindicated in a different form: specification gaming, reward hacking, and sycophancy are documented and systematic, and Pan, Bhatia, and Steinhardt's work on reward misspecification (2022) shows performance on the true objective degrading as optimization pressure on the proxy increases. The failure mode is Goodhart under optimization, not failure to acquire the concept — which suggests the hard part is the maximizer, not the category."
+  }
+]

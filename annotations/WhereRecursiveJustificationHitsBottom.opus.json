@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Here’s how I treat this problem myself",
+    "content": "The position that follows — that using induction to vindicate induction is legitimate, because the alternative is stepping outside a mind one cannot step outside of — is rule circularity, and it has a substantial literature that the essay does not cite. Braithwaite defended inductive justifications of induction in 1953, Van Cleve gave the reliabilist version in \"Reliability, Justification, and the Problem of Induction\" (1984), and Alston's \"Epistemic Circularity\" (<em>Philosophy and Phenomenological Research</em> 47, 1986) is the standard statement of both the case for it and the trouble with it. The trouble is specific and has a name: on this licence, a clairvoyant may use clairvoyance to establish that clairvoyance is reliable, and a reader of the paper sheet may use the sheet. That is the easy-knowledge or bootstrapping problem set out by Vogel (\"Reliabilism Leveled,\" 2000) and Cohen (\"Basic Knowledge and the Problem of Easy Knowledge,\" 2002), and it is the exact objection the rest of this essay tries to answer by feel."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you think the urn-maker generated a uniform random number between 0 and 1, and used that number as the fixed probability of each ball being red, then the answer is 4/11 (by Laplace’s Law of Succession).",
+    "content": "The arithmetic is right — Laplace's rule gives (3+1)/(9+2) = 4/11, and the sampling-without-replacement urn leaves 7 red among 11, hence 7/11 — and the example is the clearest thing in the essay. It is worth being precise about what it establishes: that the posterior depends on the prior, which is not itself the problem of induction but the observation that Bayesian updating is a conditional rule. This is also where Hume's original argument bites hardest and where the essay's response is weakest, since a defender of the anti-Laplacian prior can run the parallel loop: their prior tells them that failure predicts success, and their own past failures thereby confirm it. The essay treats that as an absurdity, and it is one; it does not explain what makes it absurd other than that we do not have that prior."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Natural selection would have quickly eliminated brains so completely unsuited to reasoning, so anti-helpful, as anti-Occamian or anti-Laplacian priors.",
+    "content": "Selection optimizes fitness, not calibration, and where the two come apart it takes fitness — which is why error management theory predicts, and finds, systematically miscalibrated priors wherever the costs of the two error types are asymmetric (Haselton and Nettle, <a href=\"https://doi.org/10.1207/s15327957pspr1001_3\"><em>Personality and Social Psychology Review</em> 10, 2006</a>). The book the reader has just spent four volumes on is a catalogue of the resulting failures. So the premise proves less than it needs to: it rules out priors so bad that they kill their bearers, which is compatible with priors that are badly wrong in every case where being wrong was cheap or useful. The argument also does not distinguish itself from the response available to the theist a few paragraphs later — \"my faculty was installed by a process that would not have produced an unreliable one\" is the same move, differing in which process is named."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Which would violate the Second Law of Thermodynamics by generating information from nowhere.",
+    "content": "This overreaches. Nothing in thermodynamics forbids a belief from being true without having been caused by what it is about: a lucky guess about the mass of a helium atom violates no physical law, and the mutual information between a brain state and the world can be positive by coincidence in any single case. What the Second Law actually constrains, via Landauer's principle and the Maxwell's-demon analyses, is the energy cost of erasing information and the impossibility of a process that <em>reliably</em> extracts work or correlation without paying for it. The correct objection to the self-validating sheet of paper is reliability — there is no mechanism by which it would track the mass of helium across possible worlds — and the essay states that objection perfectly well in the next two paragraphs. Invoking entropy adds physics-sounding authority to a point that stands without it."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "if it had not said that grasshoppers had four legs or that the universe was created in six days",
+    "content": "The grasshopper example does not survive reading the passage. Leviticus 11:20–23 addresses winged swarming creatures that go \"upon all four,\" and then immediately exempts those \"which have legs above their feet, to leap withal\" — that is, the text explicitly distinguishes the jumping legs from the four walking legs before permitting locusts, crickets, and grasshoppers. \"All four\" is doing the work of \"on all fours,\" a manner of locomotion, which is why the same phrase is used elsewhere of four-legged animals with no implication of a total count. There are plenty of clean empirical errors in the Hebrew Bible to draw on, and this essay would have lost nothing by citing one; using a misreading as the paradigm of a checkable falsehood is a poor advertisement for checking."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "The point is not to be reflectively consistent. The point is to win.",
+    "content": "\"Winning\" cannot be the criterion that breaks the regress, because identifying what will win requires predicting the consequences of one's methods, which requires induction — the thing under examination. The essay is entitled to say that this circle is unavoidable; what it is not entitled to is the suggestion that appealing to success rather than to coherence escapes the problem, since success is only ever assessed inductively and retrospectively. Notice also that the same sentence is doing double duty across this book: here it licenses trusting one's own reasoning under circularity, and in \"Newcomb's Problem\" it licenses discarding a decision theory. A criterion elastic enough to settle both of those is not constraining either of them very much."
+  }
+]

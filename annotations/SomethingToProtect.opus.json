@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Of course I’m not saying all this to generalize from fictional evidence.",
+    "content": "The disclaimer arrives after four paragraphs that have already done the generalizing, and the generalization is about two civilizations, sourced to a manga and to superhero comics. Book I's essay on fictional evidence makes the case against this precisely: stories are selected for narrative satisfaction, so the frequency of a motif in a genre is evidence about what audiences enjoy, not about how motivation works. The specific East/West contrast also does not survive contact with either canon — Western literature from the <em>Iliad</em> to the Batman origin is largely organized around protecting or avenging someone, and Japanese fiction has no shortage of protagonists who acquire power first and find a use for it later. Saying \"I am not generalizing from fiction, but here is the concept the fiction conveys\" leaves the fiction as the only support the concept has."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Historically speaking, science won because it displayed greater raw strength in the form of technology, not because science sounded more reasonable.",
+    "content": "For the first two centuries of the story this is backwards. The Royal Society's Baconian programme promised practical improvement and delivered strikingly little for over a hundred years; the transformative technologies of the industrial revolution ran ahead of the sciences that later explained them, with Newcomen's and Watt's engines preceding thermodynamics by a century — Carnot wrote his memoir in 1824 to explain machines already at work — and Jenner's vaccination preceding immunology by nearly as long. The period when science began systematically generating technology is the second half of the nineteenth century, in synthetic chemistry and electrical engineering, long after the authority of experiment had been established in natural philosophy. Whatever won the argument in the seventeenth century, it was not a track record of superior gadgets."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Being the lone voice of dissent in the crowd and having everyone look at you funny is much scarier than a mere threat to your life, according to the revealed preferences of teenagers who drink at parties and then drive home.",
+    "content": "Peer presence really does increase adolescent risk-taking under controlled conditions — Gardner and Steinberg found risky driving in a simulator rose sharply when peers were watching, and only among adolescents (<a href=\"https://doi.org/10.1037/0012-1649.41.4.625\">2005</a>). But the inference from behaviour to a ranking of fears is the weakest available reading of that data. Teenagers driving home drunk are, by construction, making the decision while cognitively impaired, and the developmental account attributes the effect to reward sensitivity and immature cognitive control rather than to a considered preference for death over embarrassment. The behavioural trend also moves with policy rather than with human nature: US teenage drinking-and-driving rates fell by more than half between the early 1990s and the 2010s under graduated licensing and enforcement, which is not what one expects of a revealed preference deep enough to build a theory of motivation on."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "you may feel more impelled to shut up and multiply—to notice that you have an 80% chance of saving her in the first case, and a 90% chance of saving her in the second",
+    "content": "The arithmetic is right and this is the best argument in the whole sequence for the utilitarian conclusion — better than the aggregation arguments three essays earlier, because it does not require summing across persons at all. It is the ex ante form of the case: each of the 500 individually prefers the gamble, so the choice is unanimously preferred behind the veil, which is Harsanyi's route to utilitarianism rather than the additive one. Worth noticing that this is a different argument with a different scope. Diamond's objection to Harsanyi shows ex ante and ex post reasoning come apart on fairness grounds elsewhere, and the ex ante argument does nothing at all for the googolplex-of-hiccups case, where no individual prefers the aggregate."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "I only began to grow further as a rationalist once I had something terribly important that I needed to do.",
+    "content": "This is a single retrospective self-report about a causal claim in the author's own development, offered as the load-bearing evidence for a general thesis about where skill comes from. It also runs against the main body of motivation research. Self-determination theory's central finding, replicated across domains for four decades, is that autonomous motivation predicts persistence and performance better than pressured or introjected motivation, which predicts burnout — and the meta-analytic estimate is that intrinsic motivation predicts quality of performance robustly (Cerasoli, Nicklin, and Ford, <a href=\"https://doi.org/10.1037/a0035661\"><em>Psychological Bulletin</em> 140, 2014</a>). \"Desperate need\" is exactly the pressured form. The essay may be describing something real about itself; the general prescription is contradicted by the largest relevant literature."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "No one masters the Way until more than their life is at stake.",
+    "content": "As an empirical claim about expertise this is false in the ordinary sense of the word \"mastery.\" The best-studied model of skill acquisition is deliberate practice — sustained, effortful, feedback-rich, and characteristically undertaken by people whose lives are not at stake — and the domains with the clearest records of mastery, chess, music, and mathematics, are not domains where the master was under existential pressure. The sentence is also unfalsifiable as used: anyone who mastered something without desperation is reclassified as not having really mastered it. Note too that the authority invoked is a seventeenth-century swordsman's treatise on winning duels, in an English translation whose fidelity specialists dispute, being applied to epistemology."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "then there are evidential updates too difficult for even a superintelligence to compute",
+    "content": "The conclusion is correct but the premise cited is the wrong one. P ≠ NP concerns worst-case asymptotic hardness of decision problems and is in any case unproven; the result that actually establishes the intractability of Bayesian updating is Cooper's proof that exact inference in general Bayesian networks is NP-hard — in fact #P-hard, since it amounts to counting — together with Dagum and Luby's demonstration (<em>Artificial Intelligence</em> 60, 1993) that even approximating the posterior to within a fixed factor is NP-hard in general. The distinction matters for the essay's larger argument, because those results also identify the escape routes: bounded treewidth, structured independence, and sampling schemes that are tractable in practice. \"The Law is too expensive to compute\" is right; the reason is more specific and better established than an unresolved conjecture about polynomial time."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "To be specific, I would advise, in most cases, against using non-numerical procedures to create what appear to be numerical probabilities. Numbers should come from numbers.",
+    "content": "This is the essay's central prescription, and it has since been tested directly. The Good Judgment Project's forecasting tournaments required thousands of ordinary people to attach explicit numbers to exactly the kind of one-off geopolitical question that has no base rate to compute from, and found that a short probabilistic-reasoning training measurably improved accuracy, that the best forecasters were well calibrated, and — most damaging to this passage — that rounding forecasts to coarser scales made Brier scores worse, meaning the fine-grained numbers carried real information (Mellers et al., <a href=\"https://doi.org/10.1177/0956797614524255\"><em>Psychological Science</em> 25, 2014</a>). Making up a number from a gut feeling is the practice that produced the best available record on unrepeatable questions. The advice given here would have excluded it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I object to the air of authority given to these numbers pulled out of thin air.",
+    "content": "The numbers were not pulled out of thin air, and the paper being criticized is about precisely that objection. Ord, Hillerbrand, and Sandberg's \"Probing the Improbable\" (<em>Journal of Risk Research</em> 13, 2010) argues that when a safety argument concludes that catastrophe is essentially impossible, the decision-relevant quantity is dominated by the probability that the argument itself is flawed, and it estimates that quantity from empirical data on error rates in published scientific and mathematical work — retraction and erratum rates, historical rates of mistaken proofs, and the frequency of undetected errors found in code and calculation audits. One may dispute those base rates; they are base rates, derived by exactly the numbers-from-numbers procedure the essay endorses two paragraphs earlier. The characterization of the argument is the part that has no foundation."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I cannot be sure of this statement, of course, but it has a probability of 75%.",
+    "content": "This is a verbal gut feeling converted into a number by a non-numerical procedure, in an essay whose thesis is that one should not do that, four paragraphs after the prohibition and one paragraph after accusing others of it. The joke is presumably deliberate, but it lands on the argument rather than on the target: if a made-up 75% about the counterfactual behaviour of conference speakers is a legitimate rhetorical move, then a made-up 1-in-1,000 about the reliability of a physics paper cannot be disqualified on the grounds of its provenance alone. What distinguishes the two is not that one number came from numbers, since neither did. The essay needs a criterion here and offers a preference."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "I would be substantially more alarmed about a lottery device with a well-defined chance of 1 in 1,000,000 of destroying the world, than I am about the Large Hadron Collider being switched on.",
+    "content": "The inconsistency the essay admits here is the whole substance of the dispute, and declining to resolve it concedes the opposing argument. If one cannot honestly make a million independent statements as confident as \"the LHC will not destroy the world\" and be wrong about once, then one's credence in LHC catastrophe exceeds one in a million, and by the essay's own Dutch-book framework the two attitudes cannot both guide action. The refusal to \"wave a magic wand\" is reasonable as a statement about not faking resolution — but the practical question was whether to switch the machine on, and a decision was made, so some effective credence was used. The passage declines to say what it was."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "a device which destroyed the world if the Judeo-Christian God existed",
+    "content": "Comparing this to a one-in-a-billion lottery device asserts that P(the Judeo-Christian God exists) is below 10⁻⁹, which is a numerical probability produced by an entirely non-numerical procedure, on a question with no base rate, in the middle of the essay forbidding that. It is also a strikingly confident number: on any of the standard treatments — a prior over metaphysical hypotheses, deference to the distribution of considered opinion among philosophers of religion, or the reference-class problem for existence claims of this kind — getting nine orders of magnitude of confidence requires an argument, and none is given. The example is chosen because the reader is expected to share the intuition, which is what the essay elsewhere calls naive realism about seemings."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "Any numerical founding at all is likely to be better than a vague feeling of uncertainty; humans are terrible statisticians.",
+    "content": "This concession is larger than the essay seems to notice, because it is the finding of the strongest literature in the area. Meehl's 1954 survey and the meta-analysis by Grove et al. (<a href=\"https://doi.org/10.1037/1040-3590.12.1.19\"><em>Psychological Assessment</em> 12, 2000</a>) covering 136 studies found mechanical prediction equal or superior to clinical judgment in the great majority of comparisons, and Dawes showed that even improper linear models with arbitrary unit weights beat the experts whose judgments generated the variables. The pattern is that crude explicit numbers outperform trained intuition, which is the reverse of the essay's practical advice. The defensible residue of the argument is narrower: do not let a made-up number's precision be mistaken for evidence — not that the gut should be left in charge because its output has no digits."
+  }
+]

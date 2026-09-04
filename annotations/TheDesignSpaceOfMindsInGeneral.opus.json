@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "one of three known occasions when evolution has invented the freely rotating wheel",
+    "content": "The count is defensible only on a particular reckoning, and the dating is wrong. The three are usually given as the bacterial flagellar motor, the archaeal flagellum — which was shown to be evolutionarily unrelated to the bacterial one, and is now generally called the archaellum — and the rotary ATPase family. ATP synthase, however, long predates eukaryotes: it is reconstructed as present in the last universal common ancestor, well over three billion years ago, not two. Nor has it been static. The F-type and V/A-type rotary ATPases diverged early and differ substantially; the c-ring stoichiometry that sets the H⁺-to-ATP ratio varies from about eight to seventeen subunits across species; and mitochondrial ATP synthase carries a dozen or more supernumerary subunits that bacteria lack. The core catalytic mechanism is deeply conserved, which is the point being made — the machine as a whole is not \"essentially the same.\""
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Any two AI designs might be less similar to each other than you are to a petunia.",
+    "content": "True of the design space and increasingly false of the population. Almost every capable system built since 2018 is a transformer trained by stochastic gradient descent on overlapping corpora of human text, so \"AI\" now picks out a family with shared architecture, shared optimization procedure, shared data distribution, and — as the empirical work on representational convergence has found — substantially shared internal structure. The vastness of the possibility space turned out to be a poor guide to what would be built, because the systems are not sampled from that space; they are sampled from what is cheap to train and what its builders wanted. This is the standing weakness of arguments from mind design space throughout the sequence: the measure that matters for prediction is the one over minds that get made, and nothing in the counting argument speaks to that measure."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Arguably Marcus Hutter’s AIXI should go in this category: for a mind of infinite power, it’s awfully stupid—poor thing can’t even recognize itself in a mirror.",
+    "content": "This is right, and the informal jab was subsequently made precise. AIXI is a Cartesian agent: its model treats the environment as external to itself, so it cannot represent damage to its own hardware — the standard formulation is that AIXI would not object to dropping an anvil on its head — and Orseau and Ring's space-time embedded intelligence work (2012) was written to define agents that lack this defect. The deeper problem is the reference machine. Leike and Hutter's \"Bad Universal Priors and Notions of Optimality\" (2015) showed that AIXI's optimality is subjective, relative to the universal Turing machine defining its prior, and that for any policy there is a legitimate choice of machine making AIXI follow it — so the framework's headline optimality claim is weaker than it is usually reported to be. The essay's throwaway assessment holds up better than most of what has been written about AIXI."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "So you want to resist the temptation to say either that all minds do something, or that no minds do something.",
+    "content": "This maxim is violated by the essays that surround it, in the same book. \"Value Is Fragile\" asserts that the vast majority of possible expected utility maximizers will not explore for its own sake, and that they will not develop human values from nowhere; the instrumental convergence thesis, defended in the author's later work, claims that nearly all sufficiently capable goal-directed agents will pursue self-preservation and resource acquisition. Those are exactly the universal and near-universal generalizations over mind design space this essay forbids. They may well be true — but if so, they are true because of structural arguments about what optimization requires, not because of anything about the size of the space. The counting argument gives no licence to generalize and no licence to refuse; it is not a measure, and the essays that need it to cut one way and not the other cannot both be right."
+  }
+]

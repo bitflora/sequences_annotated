@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Which makes it an audacious assertion of mine, that the usual way of visualizing the Prisoner’s Dilemma has a severe flaw",
+    "content": "The assertion is less audacious than advertised, because it is the standard caveat in the field. A Prisoner's Dilemma is defined by a preference ordering over outcomes, and the payoffs in the matrix are utilities, not dollars or prison years; a laboratory setup in which subjects have other-regarding preferences over the material payoffs is therefore not implementing the game, and game theorists from Luce and Raiffa onward have said so explicitly. Binmore has spent much of a career making exactly this point against experimenters who conclude from cooperation in the lab that game theory is refuted. The observation is correct and important, and it belongs to the textbook rather than to the dissenting margin."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "a neurologically intact human being cannot pretend to be genuinely, truly selfish",
+    "content": "The behavioural evidence supports the weaker version of this and complicates the strong one. Sally's meta-analysis of over a hundred experiments (<em>Rationality and Society</em> 7, 1995) found cooperation in one-shot dilemmas averaging around 40–50%, well above the selfish prediction, and other-regarding preferences are among the better-replicated findings in experimental economics. But a substantial part of that cooperation is not other-regarding at all: Burton-Chellew, El Mouden, and West showed that cooperation persists when subjects play against computers whose payoffs they cannot affect, and that it decays sharply with experience of the game, implying that confusion about the incentives explains much of the initial generosity (<em>PNAS</em> 113, 2016). So people are not perfectly selfish, and they are also not as reliably prosocial as the raw cooperation rates suggest; some of what looks like altruism is failure to understand the payoff structure — which is a different obstacle to the thought experiment than the one described here."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "the result of our ancestors’ adapting to play the iterated Prisoner’s Dilemma",
+    "content": "This is the received popular account and it is not the current state of the field. Axelrod's tournaments established that Tit for Tat does well in a particular round-robin against submitted programs, not that it is evolutionarily stable: it fails under noise, where Win-Stay Lose-Shift outperforms it (Nowak and Sigmund, <em>Nature</em> 364, 1993), and Press and Dyson's zero-determinant strategies (<em>PNAS</em> 109, 2012) showed the iterated game has extortionate strategies nobody had noticed for thirty years. The origin of human prosociality is likewise contested among partner-choice and mutualism accounts (Baumard, Tomasello), cultural group selection (Boyd and Richerson), and kin-plus-reciprocity models, with the ethnographic and experimental evidence not clearly favouring any one. \"Adapted to play the iterated Prisoner's Dilemma\" names one hypothesis in that dispute as though it were the settled explanation."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I’ve chosen this payoff matrix to produce a sense of indignation at the thought that the paperclip maximizer wants to trade off billions of human lives against a couple of paperclips.",
+    "content": "The admission identifies why the replacement scenario does not isolate the structure any better than the original. The classic setup was faulted for smuggling in other-regarding preferences; this one deliberately smuggles in indignation, plus the stipulation that the opponent has no experiences and so is not a moral patient at all. Readers who defect here may be responding to the dominance structure, or to a judgment that an agent trading lives for paperclips deserves nothing, or to the belief that nothing is lost when a non-sentient optimizer loses — three different reasons producing the same choice. A cleaner construction would pit us against an opponent we regard as fully a moral patient whose interests happen to be opposed, which is harder to write and would test the intuition the essay wants to test."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "I think there are situations where two agents can rationally achieve (C,C) as opposed to (D,D), and reap the associated benefits.",
+    "content": "This promissory note was subsequently cashed, and the result is one of the more solid technical contributions to come out of this line of thinking. Tennenholtz's program equilibrium (<em>Games and Economic Behavior</em> 49, 2004) showed that when agents submit programs that can read each other's source code, mutual cooperation is an equilibrium of the resulting meta-game — the simple version being a program that cooperates if and only if the opponent's source is identical to its own. Barasz, Christiano, Fallenstein, Herreshoff, LaVictoire, and Yudkowsky's \"Robust Cooperation in the Prisoner's Dilemma\" (2014) strengthened this using provability logic, exhibiting agents that cooperate with each other and with a broader class of opponents while defecting against unconditional defectors, with Löb's theorem doing the work that would otherwise be an infinite regress of simulation. The result requires mutual access to source code, so it does not apply to humans in a locked room; within its assumptions it is a theorem rather than an intuition."
+  }
+]

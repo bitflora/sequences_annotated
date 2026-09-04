@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Most people will rather play 2 than 1. But if you ask them to price the bets separately",
+    "content": "Preference reversal between choice and pricing is one of the sturdiest findings in the field: Grether and Plott set out to destroy it with economists' methods — real incentives, no deception, an incentive-compatible elicitation procedure — and reproduced it (<em>American Economic Review</em> 69, 1979). What the follow-up work found, though, is that the reversal is not a preference cycle. Tversky, Slovic, and Kahneman's decomposition (\"The Causes of Preference Reversals,\" <em>American Economic Review</em> 80, 1990) attributed most of it to overpricing of the high-payoff bet — a scale-compatibility effect in which the response mode, dollars, makes the dollar attribute salient — rather than to intransitivity. That is a failure of procedure invariance, which is a real defect, but it is a different defect from the one the money-pump story requires."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Or to paraphrase Steve Omohundro: If you would rather be in Oakland than San Francisco, and you would rather be in San Jose than Oakland, and you would rather be in San Francisco than San Jose, you’re going to spend an awful lot of money on taxi rides.",
+    "content": "The taxi argument is about intransitivity, and the two phenomena this essay is discussing are not intransitivity. The Allais pattern involves preferences over two disjoint pairs of lotteries with no cycle in them, and the Lichtenstein–Slovic reversal involves a discrepancy between two elicitation procedures rather than a ranking that loops. Real exploitation also requires the victim to keep paying: when Chu and Chu ran the pump on subjects who had to hand over money on each cycle, the reversals disappeared within two or three rounds (\"The Subsidence of Preference Reversals in Simplified and Marketlike Experimental Settings,\" <em>American Economic Review</em> 80, 1990). Being pumpable once, for two cents, until you notice, is a weaker charge than being a perpetual motion machine for money."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "My books are packed up for the move, but I believe that one experiment showed that a shift from 100% probability to 99% probability weighed larger in people’s minds than a shift from 80% probability to 20% probability.",
+    "content": "The essay flags that this is from memory, and the memory is wrong in a way that matters. Every estimated probability-weighting function — Tversky and Kahneman's, and the parametric fits in Gonzalez and Wu's \"On the Shape of the Probability Weighting Function\" (<em>Cognitive Psychology</em> 38, 1999) — is steep near the endpoints and shallow in the middle, but the middle is not <em>that</em> shallow: under standard estimates the decision weight drops by roughly a twentieth from 1.00 to 0.99 and by roughly a third across the whole 0.80-to-0.20 span. The real finding of this shape is the Zeckhauser Russian-roulette intuition, that people pay more to remove the last bullet than one of four. The essay's stated version would require the weighting function to be almost perfectly flat between 0.2 and 0.8, which no fit to the data supports."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "On one occasion, gamblers in Las Vegas played these kinds of bets for real money, using a roulette wheel.",
+    "content": "The transcript is footnoted to Poundstone's popular book and to an edited collection, not to the study itself, which is Lichtenstein and Slovic's \"Reversals of Preference Between Bids and Choices in Gambling Decisions\" follow-up run at the Four Queens casino and published in the <em>Journal of Experimental Psychology</em> in 1973. The detail matters because the persuasive force of the passage comes from the setting — real gamblers, real money, a real wheel — and the sourcing chain passes through two retellings before reaching it. It is also one subject. A transcript of one stubborn person is a vivid illustration; the essay uses it as evidence about how people in general respond to having their incoherence demonstrated, and the same literature reports that many subjects do revise."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "if you offer someone a certainty of $400, or an 80% probability of $500 and a 20% probability of $300, they’ll usually take the $400",
+    "content": "This one has held up. Framing effects of exactly this reflection form replicate at large effect sizes in adversarial multi-lab settings — the Asian disease problem was among the successes in the Many Labs project (<a href=\"https://doi.org/10.1027/1864-9335/a000178\">Klein et al. 2014</a>), unlike much else from the same era of social psychology. Reference dependence, in which the same final wealth state is evaluated differently depending on the described starting point, is about as well established as anything in behavioural economics. Note what it costs the essay's own framework, though: if valuation depends on the reference point, then utilities over \"final outcome states of the world\" are not what human beings have, and the advice three paragraphs later to compute utilities over total asset values is advice to use a quantity people cannot introspect."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "As for calculating the utility of money, I would suggest using an approximation that assumes money is logarithmic in utility.",
+    "content": "Log utility over total assets cannot do the job it is given here. Rabin's calibration theorem (\"Risk Aversion and Expected-Utility Theory,\" <em>Econometrica</em> 68, 2000) shows that any concave utility over lifetime wealth calibrated to explain ordinary aversion to modest-stakes gambles implies absurd aversion at large stakes — refusing a coin flip that loses $100 or gains $110 at every wealth level implies refusing a flip that loses $1,000 and gains any amount whatsoever. So the recommended approximation is either too flat to reproduce the reader's actual attitudes toward $24,000 or too curved to survive extrapolation. The essay has already, and correctly, shown that curvature is irrelevant to the Allais pattern; it then offers curvature as the practical tool."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "You cannot feed a probability of 1 into a utility function. It makes no sense.",
+    "content": "It makes sense as soon as outcomes are individuated more finely, which is a standard and much-discussed move rather than a confusion. If the description of an outcome may include how it was obtained — \"received $24,000 having faced no risk\" versus \"received $24,000 having risked getting nothing\" — then a utility function over those outcomes is well defined, and the Allais pattern is representable. Broome's <em>Weighing Goods</em> (1991 — a book, no DOI) devotes a chapter to exactly this individuation problem and shows that the substantive question is not whether certainty can enter a utility function but which differences between outcomes are allowed to count as rational justifiers. The essay treats a type error as decisive when the underlying dispute is about outcome individuation, and that dispute cannot be settled by pointing at the notation."
+  },
+  {
+    "id": 8,
+    "side": "right",
+    "quote": "But what if it were 24,000 lives at stake, instead of $24,000? The certainty effect is even stronger over human lives.",
+    "content": "No citation is offered for the comparative claim, and it is doing real work: the essay's practical moral is that certainty effects are most dangerous exactly where the stakes are highest. There is relevant evidence — lives-saved framings do produce large certainty and reflection effects — but \"stronger than over money\" requires a within-study comparison of the two domains on a common scale, which is not a comparison these experiments make. The essay is asking the reader to accept an unsourced empirical premise at the point where it is about to demand the greatest revision of intuition, and the surrounding argument would be unaffected if the certainty effect over lives were merely as strong as over money."
+  }
+]

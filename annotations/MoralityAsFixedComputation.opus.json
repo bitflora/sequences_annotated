@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You perceive, of course, that this destroys the world.",
+    "content": "This example has aged well, and deserves credit for it. The failure mode described — an optimizer with an incentive to modify the preferences it is supposed to satisfy, because satisfied preferences are easier to manufacture than satisfying ones — is now a recognized technical problem with a formal literature: reward tampering and feedback tampering in the causal-incentives framework (Everitt et al., \"Reward Tampering Problems and Solutions,\" <em>Synthese</em> 198, 2021), auto-induced distributional shift, and the study of recommender systems that shift users' preferences toward more predictable states. It also has empirical instances outside of thought experiments, in recommendation and engagement optimization. Written in 2008, before any of that vocabulary existed, the diagnosis is essentially correct and precisely stated."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you try to make it so that the AI can’t modify the programmer, then the AI can’t talk to the programmer (talking to someone modifies them).",
+    "content": "This is the step that carries the sweeping claim that no patch is possible, and it is a false dichotomy that the subsequent technical work dissolved. The distinction between influencing someone through legitimate channels and tampering with them is not a matter of forbidding all causal contact; it is formalizable as a path-specific objective, in which the agent optimizes the outcome that would obtain if its influence flowed through some causal paths and not others — the approach developed by Farquhar, Carey, and Everitt and related work on current-reward-function optimization and counterfactual objectives. Whether those constructions are adequate is an open engineering question. That they exist means the argument here — no patch can distinguish talking from tampering, therefore the design class is hopeless — was too quick, and the general rule stated twice in this essay was not established."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "So “I should X” does not mean that I would attempt to X were I fully informed.",
+    "content": "Toby Ord's proposed summary is rejected and the replacement offered is a list of the things the author's own moral question is about, followed by an ellipsis standing for roughly a thousand more. Both formulations are stipulations, and the replacement is harder to evaluate than the one it rejects: an ideal-advisor analysis of the kind Ord suggested has a literature, known objections, and determinate consequences — Railton's and Smith's versions were built precisely to handle the cases raised here — whereas \"the question I am in fact asking, whose content I cannot print out\" cannot be checked against any case, because its content is unavailable in principle. That is a defensible position about human self-opacity. It is not a competitor to the analysis it dismisses, since it makes no predictions the analysis could contradict."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "is a fixed question, or perhaps a fixed framework",
+    "content": "The individuation problem is left untouched and it is fatal to the reading that avoids relativism. Whose computation is the fixed question — this author's, the reader's, humanity's? If it is the individual's, the theory is subjectivism with a longer derivation, and two people in moral disagreement are, as on the Pebblesorter model, merely computing different functions and talking past each other. If it is a species-wide aggregate, no individual implements it, human moral variation across cultures and individuals is large and well documented, and no procedure for aggregating is specified. The essay's answer to \"anything anyone wants is right\" is that the question is fixed, but a question fixed by a particular brain's contingent structure delivers exactly the species-level relativism that the Pebblesorter parable was written to accept — while this essay presents itself as having escaped it."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the calculator has no insight into its own transistors; it cannot print out the question, which is extremely complicated and has no simple approximation",
+    "content": "\"No simple approximation\" is the complexity-of-value thesis, and it is asserted rather than argued at the point where the whole edifice needs it. There is now evidence bearing on it, and it points both ways: models trained on human text predict human moral judgments across a wide range of scenarios far above chance (Hendrycks et al.'s ETHICS benchmark, 2021), which is what one would expect if a usable approximation exists; while the underdetermination results — that an agent's values cannot be inferred from its behaviour without prior assumptions about its rationality (Armstrong and Mindermann, 2018) — show that no amount of observation pins down the exact function. The honest position is that approximations are cheap and exactness is impossible, which is a different claim from either \"value is simple\" or \"value cannot be approximated.\" The essay needs the strong version and offers introspection for it."
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/MagicalCategories.opus.json",
+    "default": true
+  }
+]

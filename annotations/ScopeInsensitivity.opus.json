@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "three groups of subjects were asked how much they would pay to save 2,000 / 20,000 / 200,000 migrating birds",
+    "content": "The founding datum of this essay is a contingent-valuation study: subjects were asked, in a survey, what they would hypothetically pay. No money moved, and no bird was saved. That matters here more than usual, because the Desvousges et al. experiment was run inside the contingent-valuation wars as a demonstration that the method produces meaningless numbers — the design was built to embarrass the instrument, and the authors' conclusion was about the survey technique, not about the human mind. Whether hypothetical willingness-to-pay measures anything at all is exactly what <a href=\"https://doi.org/10.1257/jep.26.4.43\">Hausman (2012)</a> and <a href=\"https://doi.org/10.1257/jep.26.4.27\">Carson (2012)</a> spent a symposium disagreeing about, and Carson's review of the same literature reports that a large majority of split-sample scope tests using well-specified goods <em>do</em> find willingness-to-pay rising with scope. The essay borrows the number without inheriting the controversy attached to it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "residents of four western US states would pay only 28% more to protect all 57 wilderness areas in those states than to protect a single area",
+    "content": "A less-than-proportional response is not by itself evidence of a cognitive defect. Standard consumer theory predicts sharply diminishing willingness-to-pay across nested goods: 57 wilderness areas are close substitutes for each other, the budget is fixed, and the marginal value of the fifty-seventh protected area is genuinely small once the first is protected. Carson and Mitchell — cited three footnotes later in this same essay — argued precisely that the embedding and nesting results follow from ordinary substitution and income constraints rather than from insensitivity. To convert sub-proportionality into a bias you need the response to be <em>flat</em>, and a 28% increase is not flat; the argument here needs the strong version of the finding and is given the weak one."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The usual finding is that exponential increases in scope create linear increases in willingness-to-pay",
+    "content": "No source is given for this generalization, and it is doing the essay's real work: it converts scattered results into a quantitative psychophysical law. Contingent-valuation meta-analyses find substantial heterogeneity in scope response across goods, elicitation formats, and whether the good is described concretely enough for respondents to price it. The essay then offers two mechanisms — valuation by prototype and purchase of moral satisfaction — and treats them as rival hypotheses, but none of the studies cited discriminates between them; Kahneman and Knetsch proposed the second and Kahneman, Ritov, and Schkade the first, and both were fitted to the same body of data after the fact. Two unfalsified stories about one flat curve is not a mechanism."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Increasing the alleged risk of chlorinated drinking water from 0.004 to 2.43 annual deaths per 1,000—a factor of 600—increased willingness-to-pay from $3.78 to $15.23.",
+    "content": "This is offered as insensitivity, but a fourfold increase in stated payment is sensitivity — logarithmic sensitivity, which the essay itself has just described as the usual finding. The stronger reading requires that people ought to have paid 600 times more, and that assumes willingness-to-pay should be linear in mortality risk, which is false for anyone with a finite income: the upper end of the scale runs into the budget long before it runs into the arithmetic. A risk of 0.004 deaths per 1,000 per year is also below the level at which any respondent has evidence, experience, or an action available. Reading a bounded, income-constrained, hypothetical payment scale as a direct readout of how much people value lives is the modelling assumption, not the finding."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "A proposed health program to save the lives of Rwandan refugees garnered far higher support when it promised to save 4,500 lives in a camp of 11,000 refugees, rather than 4,500 in a camp of 250,000.",
+    "content": "This result is real and has held up, but it is not the phenomenon the essay is describing. Fetherstonhaugh et al.'s manipulation holds the number saved constant and varies the <em>denominator</em>, so what it demonstrates is proportion dominance — sensitivity to the fraction rescued — which is the opposite of ignoring numbers; subjects are attending closely to a ratio. Weber's law is invoked as an analogy rather than tested: no psychophysical function is fitted, and a preference for saving a larger share of an identified group is equally well explained by reference-group framing and by beliefs about tractability (a program that saves 41% of a camp sounds like it works). The essay needs a single mechanism, \"psychophysical numbing,\" to cover both flat scope response and proportion dominance, and these pull in different directions."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "Baron and Greene found no effect from varying lives saved by a factor of 10.",
+    "content": "Baron and Greene's paper is titled for its <em>determinants</em>: their point was that quantity insensitivity varies with contribution framing, warm glow, budget constraints, availability, and prominence, several of which restore sensitivity. This matters for the moral drawn at the end, because scope neglect is overwhelmingly a separate-evaluation phenomenon — subjects shown one option price the prototype; subjects shown two options side by side use the numbers, as Hsee's work on evaluability (<em>OBHDP</em> 67, 1996) and Kogut and Ritov's joint-versus-separate identified-victim studies both found. Real altruistic budgeting is a joint-evaluation task with the numbers written down, which is the condition under which people are least insensitive. The practical advice survives; the diagnosis that humans simply cannot multiply does not."
+  }
+]

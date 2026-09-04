@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "for hunter-gatherers often play Iterated Prisoner’s Dilemmas, the solution to which is reciprocal altruism",
+    "content": "Two claims here, both weaker than stated. Tit for Tat is not \"the solution\" to the iterated dilemma — it is unstable under noise, where Win-Stay Lose-Shift outperforms it (Nowak and Sigmund, <em>Nature</em> 364, 1993), and Press and Dyson's extortionate strategies showed the game had unexplored structure as late as 2012. More importantly, the ethnographic record on forager sharing does not fit dyadic reciprocity well: Gurven's review of the food-transfer data (\"To Give and to Give Not,\" <em>Behavioral and Brain Sciences</em> 27, 2004) found contingent reciprocity present but far from sufficient, with tolerated scrounging, demand sharing, risk-pooling, and costly signalling all carrying substantial explanatory weight, and large game typically distributed widely regardless of past giving. The dialogue's confident \"no mystery\" is standing on a literature that is still arguing."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And Mohandas Gandhi, who really did turn the other cheek?",
+    "content": "Gandhi is the essay's proof case for principle carried to its limit, and the historical record is considerably more complicated than the icon. His public counsel to German Jews in <em>Harijan</em> in 1938 was that they should offer themselves to \"the butcher's knife\" in collective non-violent suicide, and he wrote to Hitler as \"Dear friend\"; his early South African campaigning was explicitly for Indian rights as against Africans, whom he described in terms he never publicly retracted; his treatment of his wife and eldest son is documented and harsh. None of this shows he was not extraordinary, and the essay's argument survives with a different example. But an essay whose method is to demand causal explanations for surprising data should not select its most surprising datum from hagiography, and \"really did turn the other cheek\" is a description of the legend rather than of the man."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "by imitating certain mating signs of bees, as it happened",
+    "content": "This describes sexual deception, and it is a rare specialization rather than the general story of flowers. Pseudocopulatory mimicry — flowers imitating the appearance and, decisively, the sex pheromones of female insects so that males attempt to mate with them — is documented in a handful of lineages, most famously the <em>Ophrys</em> orchids of the Mediterranean, and represents a small fraction of angiosperm pollination systems. The overwhelming majority of flowers advertise an honest reward, nectar or pollen, and their colour and pattern evolved as signals of that reward; the ultraviolet nectar guides mentioned in the next clause are precisely such honest advertising, not mating mimicry. The passage takes the most vivid case in the literature and reports it as what happened generally."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "so is it any wonder that humans evolved to be attracted to flowers?",
+    "content": "It is the kind of wonder that requires evidence, and none exists for this hypothesis. The flowers-as-cue-to-fertile-land story is an untested adaptationist narrative of exactly the form Book III's essays on evolutionary psychology tell readers to distrust: no comparative data, no cross-cultural test, no developmental evidence, no proposed mechanism, and no competitor considered — the obvious rival being that flowers are attractive because they are colourful, symmetric, and novel, properties that engage general perceptual preferences with no need for a floral module. What testing has been done is thin and equivocal. That the argument appears inside a dialogue whose whole rhetorical strategy is to answer \"how could that be?\" with a confident evolutionary story makes the omission conspicuous."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "3.85 billion years ago, in some little tidal pool",
+    "content": "The date and the setting are both contested, more so now than when this was written. The 3.85-billion-year figure derives from carbon-isotope signatures in Isua and Akilia metasediments (Mojzsis et al., 1996), and the biological interpretation of those graphite grains has been challenged on grounds of metamorphic alteration and abiotic isotope fractionation; the oldest widely accepted evidence for life is roughly 3.5 billion years, from Australian stromatolites and microfossils, with the 3.7-billion-year Isua structures still disputed. The \"little tidal pool\" is Darwin's warm little pond, and it now competes with the alkaline hydrothermal vent hypothesis, which has the better chemistry for the proton gradients that all life uses and is at least as well supported. Neither the date nor the pool is established; the passage's rhetorical force does not depend on either being right."
+  }
+]

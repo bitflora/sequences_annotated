@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "They couldn’t tell you why some heaps were correct, and some incorrect.",
+    "content": "The parable is engineered to make its own conclusion inevitable, and then quietly cheats. Every heap the Pebblesorters endorse — 23, 29, 19, 101, 103, 2, 3 — is prime, and every heap they scatter is composite: 91 is 7 × 13, the war was fought over 1957, which is 19 × 103, and the stupid Pebpanzee heap is 9. So the species is in fact converging on a mind-independent mathematical property, its history really is progress rather than a random walk, and a superintelligence really would see the answer at a glance — exactly as the complacent Pebblesorters expect and against everything the story is told to demonstrate. Read literally, the story shows a civilization discovering primality without a concept for it. If the analogy holds, moral inquiry is discovery of something real; if it does not hold, the story tells us nothing about morality."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The Heap Relativists claim that their philosophy may help prevent future disasters like the Great War of 1957",
+    "content": "The Heap Relativists are given a position no metaethical relativist actually holds. Harman's relativism is a claim about the truth conditions of moral judgments relative to implicit agreements, Wong's is pluralistic and explicitly allows some moral systems to be better than others, and Prinz's sentimentalism accommodates within-framework criticism and reform — none of them says that opinion is a random walk with no coherence, and none is committed to denying progress. The version presented here, that all views are equally good and change is mere fashion, is the undergraduate caricature. It is also close to the position the sequence itself will arrive at four essays later: that \"right\" names a particular vast computation which humans happen to instantiate and other species need not, which is a form of relativism at the level of species even while it is realist within one."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It is not in our interest to create AI, unless all the computers have bombs strapped to them",
+    "content": "This is offered as the relativists' absurdity, but it is close to the AI containment and control research that the author's own institute would go on to pursue: boxing, tripwires, off-switches, capability restrictions, and the corrigibility work discussed in \"Ethical Injunctions.\" The parody's target is not the physical precaution but the reason given for it — that the AI's different values would be no more wrong than ours — and those come apart. One can hold that a system's values are objectively bad and still think the practical remedy is a shutdown mechanism rather than an argument. Having the naive Pebblesorters dismiss containment as unnecessary because a smart enough mind will see the truth is, in fact, the essay's own view of the mistake; the relativists are made to hold the sensible engineering position and mocked for the metaethics attached to it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "the Pebblesorters pour full speed ahead on their project to throw together lots of algorithms at random on big computers until some kind of intelligence emerges",
+    "content": "This is a 2008 caricature of AI research, and the intervening history fits neither the caricature nor the argument built on it. What actually produced general-purpose capability was not random algorithm soup but scaled gradient descent on human-generated text, which yields systems whose dispositions are drawn from the human corpus rather than sampled from mind design space — closer to the Pebblesorters' complacent expectation than to the essay's warning, though for reasons neither side anticipated. The orthogonality thesis being defended here remains defensible in principle: nothing guarantees that capability brings any particular values. But the specific mechanism the essay assumes throughout — a fixed utility function that an agent contemplates rewriting — has not described any of the systems that were actually built, and the prediction that value-alignment would have to be programmed explicitly rather than learned from data has not held up in the form given."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Smarter minds equal smarter heaps. Why would that trend break?",
+    "content": "The question is meant as a reductio, but it deserves the empirical answer the essay does not give. Human moral variation is not the random walk the parable implies: Curry, Mullins, and Whitehouse's ethnographic survey of sixty societies (<em>Current Anthropology</em> 60, 2019) found seven cooperative moral rules — help your family, help your group, reciprocate, be brave, defer to superiors, divide resources fairly, respect property — positively valued in every society examined and negatively valued in none. Historical convergence on the abolition of slavery, judicial torture, and chattel status for women is likewise not obviously a fashion cycle. Whether that convergence is discovery of a moral fact or the working out of a shared human game-theoretic situation is precisely the question at issue, and the parable settles it by stipulating a species whose values have no structure at all."
+  }
+]

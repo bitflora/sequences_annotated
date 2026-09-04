@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Such neurons have been directly recorded in primates, and consistent neuroimaging evidence has been found for humans.",
+    "content": "Mirror neurons were recorded in macaque premotor cortex, and Mukamel et al. found neurons with mirror properties in human medial frontal and temporal cortex during epilepsy monitoring (<em>Current Biology</em> 20, 2010) — but the inferential leap from there to empathy is where this literature became a cautionary tale. Hickok's \"Eight Problems for the Mirror Neuron Theory of Action Understanding\" (<a href=\"https://doi.org/10.1162/jocn.2009.21189\"><em>Journal of Cognitive Neuroscience</em> 21, 2009</a>) and his subsequent book document that monkeys with premotor lesions still recognize actions, that human action understanding survives motor impairment, and that the neuroimaging evidence does not distinguish mirroring from ordinary associative learning. The \"broken mirror\" account of autism, the most testable prediction the framework generated, failed to replicate; Hamilton's review (<em>Developmental Cognitive Neuroscience</em> 3, 2013) found no consistent support. Mirror neurons exist; the explanatory theory built on them is a paradigm case of over-extension."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "then we would be unable to invent good hypotheses in our mere mortal lifetimes",
+    "content": "\"The only possible way\" is one side of a thirty-year debate that the essay does not mention. Simulation theory, associated with Gordon and Goldman, says we predict others by running our own machinery offline; theory theory, associated with Gopnik, Wellman, and Baron-Cohen, says we deploy a learned or innate body of causal knowledge about minds, no mirroring required. The developmental evidence has never cleanly favoured either, and most researchers now hold a hybrid. The strong claim has also been tested by construction since: large language models predict human behaviour, attribute mental states, and pass many false-belief tasks without any architecture that forces itself into the state being modelled — which is theory theory implemented in silicon, and is exactly the \"model the other mind directly\" option this essay says an AI would use. That it works is evidence that empathy is not the only route, which the essay grants; that it works well is evidence against the premise that minds are too complex to model any other way."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "it does look to me like sympathy, among humans, is “on” by default",
+    "content": "The evidence is stated as \"my admittedly limited knowledge of anthropology,\" which is honest, and the picture from the field is less binary. The dominant finding is parochialism rather than a global default: in-group generosity coexists with out-group indifference or hostility, and Choi and Bowles's models of parochial altruism (<em>Science</em> 318, 2007) treat the two as co-evolved rather than as a default and an override. Henrich and colleagues' cross-cultural economic games found large variation in generosity toward strangers, correlated with market integration and community size, suggesting that fair dealing with strangers is substantially a cultural achievement rather than a species default. The \"cultures that eat strangers\" contrast is also less secure than it reads — Arens's <em>The Man-Eating Myth</em> (1979) challenged most ethnographic cannibalism reports as second-hand, and the reliable evidence is largely archaeological."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "“Happiness” is an idiom of policy reinforcement learning, not expected utility maximization.",
+    "content": "The distinction is real but the architectures do not stay in their lanes, and the systems built since blur it thoroughly: actor-critic methods maximize expected return using a learned value function, reinforcement learning from human feedback trains a reward model and then optimizes against it, and model-based planners embed learned value estimates in explicit search. Whether anything in such a system deserves to be called affect is unresolved, and stipulating that a maximizer cannot have hedonic states settles by definition a question about implementation. There is also a consequence the essay's own later work draws out and this passage does not: a maximizer that models humans in enough detail to predict them may instantiate the mental states it is modelling — Bostrom's \"mindcrime\" — so the picture of a paperclip agent coolly modelling humans as levers may be less clean than it appears."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Such aliens would be varelse, not ramen—the sort of aliens we can’t relate to on any personal level, and no point in trying.",
+    "content": "The taxonomy is Card's, from a novel, and it is worth noticing what it does when imported as analysis. In <em>Speaker for the Dead</em>, the classification of another species as varelse is precisely the mistake the plot is about: the label is what licenses xenocide, and the book's argument is that the category is nearly always an artifact of failed understanding rather than a discovered fact. Using it here as a settled category, and concluding that with such minds there is \"no point in trying,\" adopts the terminology while inverting the moral. The substantive claim underneath — that a mind without any mirroring architecture could be a reliable treaty partner but never a friend — is plausible and entirely untested, since the only unsympathetic optimizers we have met so far are ones we built."
+  }
+]

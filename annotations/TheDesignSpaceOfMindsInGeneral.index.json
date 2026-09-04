@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/TheDesignSpaceOfMindsInGeneral.fable.json",
     "default": true
+  },
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/TheDesignSpaceOfMindsInGeneral.opus.json",
+    "default": true
   }
 ]

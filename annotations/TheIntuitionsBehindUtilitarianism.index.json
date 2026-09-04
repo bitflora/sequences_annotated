@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/TheIntuitionsBehindUtilitarianism.opus.json",
+    "default": true
+  }
+]

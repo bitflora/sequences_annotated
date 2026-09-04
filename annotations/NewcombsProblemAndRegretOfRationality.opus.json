@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the dominant consensus in modern decision theory is that one should two-box, and Omega is just rewarding agents with irrational dispositions",
+    "content": "\"Dominant consensus\" overstates a plurality. The PhilPapers surveys of professional philosophers put two-boxing ahead of one-boxing but nowhere near consensus — roughly 31% two-box against 21% one-box in 2009 with nearly half declining both options, and roughly 39% against 31% in the much larger 2020 survey. Evidential decision theory has never lacked defenders, and the field has since produced a range of intermediate positions, from Wedgwood's benchmark theory to Ahmed's book-length defence of evidential decision theory (<em>Evidence, Decision and Causality</em>, 2014). The rhetorical setup of this essay — a lone dissenter against a settled orthodoxy that reveres reasonableness over winning — describes a discipline more unanimous than the one that exists."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "if you build an AI that two-boxes on Newcomb’s Problem, it will self-modify to one-box on Newcomb’s Problem, if the AI considers in advance that it might face such a situation",
+    "content": "True, and the qualification carries the weight: it self-modifies only for predictions made <em>after</em> the modification. A predictor that examined the agent's original code, or that is simulating the agent as it was at the moment of the original commitment, still predicts two-boxing, so the self-modifying causal decision theorist does not thereby become a one-boxer in the problem as posed. This is the known result that a CDT agent modifies into \"Son of CDT,\" an agent that is neither CDT nor evidential nor timeless, and whose behaviour depends on the arbitrary time at which it happened to become reflective. That an agent's recommendations depend on when it was asked is a real defect in CDT; it is not the same thing as an argument for one-boxing."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Rational agents should WIN.",
+    "content": "As a criterion for selecting a decision theory this is incomplete without an account of which problems count, and no such account is given here or in the later literature. For any decision theory it is trivial to construct a scenario in which it loses: an Omega that fills the box only for agents who two-box, or that rewards agents who are provably not using functional decision theory, will impoverish the favoured theory just as reliably as the standard Newcomb problem impoverishes CDT. Decision theorists therefore restrict the comparison to \"fair\" problems, ones that reward decisions rather than the procedure used to reach them — and whether Newcomb's predictor satisfies that constraint, given that it predicts by examining the agent's dispositions, is exactly the point in dispute. The essay asserts that Omega only cares about the decision; the predictor's access to the algorithm is what makes the prediction possible."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "It was argued by McGee that we must adopt bounded utility functions or be subject to “Dutch books” over infinite times.",
+    "content": "The reply — that the utility function is not up for grabs — misidentifies what the boundedness results show. The problem with unbounded utility is not that a fussy formalism disapproves of it; it is that expected utility becomes undefined or divergent, so there is no verdict to follow: the St. Petersburg lottery has infinite expectation and Nover and Hájek's Pasadena game has no expectation at all, while Arntzenius, Elga, and Hawthorne (<em>Mind</em> 113, 2004) construct sequences of individually-preferred choices leading to certain loss. Beckstead and Thomas's impossibility result (<em>Noûs</em>, 2023) sharpens this: any agent must accept fanaticism about tiny probabilities of enormous value, or timidity about arbitrarily large values, or give up transitivity or dominance. \"Toss out the losing ritual, don't change the definition of winning\" is not an option here, because without a well-defined expectation the theory returns no ranking at all, and there is nothing left to win with."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "It is, I would say, a general principle of rationality—indeed, part of how I define rationality—that you never end up envying someone else’s mere choices.",
+    "content": "Kavka's toxin puzzle is the standing counterexample, and it is older than this essay: you are paid a fortune this morning for <em>intending</em> tonight to drink a mildly unpleasant toxin tomorrow, with no requirement that you actually drink it. Everyone would like the intention; almost nobody can form it, because intentions are not directly choosable in the way acts are, and knowing that you have no reason to drink undermines the intention as you try to form it. \"Just do the act you envy\" therefore does not generalize: there are situations where the enviable thing is a disposition, and a disposition is not an act. The same structure appears in transparent-box Newcomb variants, where the agent who sees an empty box cannot make it full by choosing differently, and where the essay's own criterion gives no clear verdict."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "I do have a proposed alternative ritual of cognition that computes this decision, which this margin is too small to contain",
+    "content": "The 2015 edit is honest about the sequel, and the sequel is worth following further than the edit does. Timeless and functional decision theory were written up and circulated, and they have since received published philosophical criticism: Schwarz's \"On Functional Decision Theory\" (2018) and MacAskill's critique (2019) argue that FDT gives clearly wrong verdicts in cases such as Bomb — where it prescribes stepping into a fire that will certainly kill you — that its notion of subjunctive dependence between an agent and a predictor's model of the agent is not adequately specified, and that its treatment of the \"fairness\" of problems is question-begging in the way noted above. None of this settles the matter against one-boxing. It does mean that the promised theory has been examined rather than merely awaited, and that it has the standard difficulties rather than none."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "If it ever turns out that Bayes fails—receives systematically lower rewards on some problem, relative to a superior alternative, in virtue of its mere decisions—then Bayes has to go out the window.",
+    "content": "This is admirable as an attitude and unfalsifiable as a criterion, because \"rationality\" has now been defined twice — as winning and as Bayescraft — with the essay reserving the right to reinterpret any apparent failure as a misunderstanding of one or the other. It is also not the case that the laws governing winning \"have proven to be math\" in the relevant sense: the theorems usually cited, the Dutch book and complete class results, are derived under the assumption that acts do not carry evidence about states, which is precisely the assumption Newcomb's problem violates. There is no theorem showing that Bayesian decision theory maximizes returns in Newcomblike environments, and the fact that this essay exists is the reason why. The honest version of the claim is that the math has worked well where it has been tested, which is a narrower and better-supported statement."
+  }
+]

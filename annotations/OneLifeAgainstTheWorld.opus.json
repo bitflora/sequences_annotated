@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Whoever saves a single life, it is as if he had saved the whole world.",
+    "content": "The Mishnah passage (Sanhedrin 4:5) is not a theory of aggregation and is not competing with consequentialism. It is an instruction delivered to witnesses in a capital trial, warning them of the weight of their testimony, and it is preceded by the derivation from Adam: one man was created alone so that no one could say \"my father is greater than yours,\" and so that each person may say the world was created for their sake. The manuscript tradition is also divided — many witnesses to the Babylonian text read \"a single soul <em>of Israel</em>,\" a reading the Jerusalem Talmud and several Mishnah manuscripts lack — so the maximally universal version quoted here is itself a textual choice. Using it as the epigraph for a doctrine it was not making, and then correcting it, sets up an opponent the tradition did not field."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "essentially I managed to turn someone’s whole life around by leaving an anonymous blog comment",
+    "content": "This is a single uncorroborated self-report about an unnamed person, an unspecified comment, and an unmeasured outcome, offered as the empirical premise that helping one person feels as good as helping the world. The book elsewhere is severe about exactly this class of evidence. And the causal claim is the one most vulnerable to the biases catalogued earlier in these volumes: a stranger's report that a comment changed their life is filtered through their own narrative reconstruction, and the author's estimate of the size of the effect is anchored on the emotional intensity of learning about it. Nothing here is checkable, which is a strange foundation for an essay whose thesis is that feelings are a bad guide to magnitude."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I agree that one human life is of unimaginably high value. I also hold that two human lives are twice as unimaginably valuable.",
+    "content": "This is asserted, not argued, and it is the whole point at issue. Whether the values of separate lives sum is the subject of a substantial literature the essay does not mention: Taurek's \"Should the Numbers Count?\" (<em>Philosophy &amp; Public Affairs</em> 6, 1977) argues that no one suffers the combined loss, since each death is a loss to one person only; Parfit, Kamm, and Scanlon have each replied with arguments the essay could have used. Additivity also has known costs — Parfit's Repugnant Conclusion follows from taking it seriously across population sizes — and the essay commits to the premise without paying them. \"Obvious, like six billion dollars being worth more than one dollar\" is not an argument; money is additive by construction, and that is why nobody disputes it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "But (I call back) I already saved one child from the train tracks, and thus I am “unimaginably” far ahead on points.",
+    "content": "The Diet Pepsi case is rhetorically effective and refutes almost nobody. No deontologist, virtue ethicist, or satisficing consequentialist holds that a duty of rescue is discharged by having rescued once when a second rescue is available at the same trivial cost; the duty of easy rescue is stated as applying to each case one faces. What the anti-aggregative positions actually deny is that one is required to trade off strangers' lives against each other at a distance in proportion to headcount — the situation of the philanthropist two paragraphs later, not the situation of the man on the embankment. The example works by replacing the disputed case with an undisputed one."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Whoever knowingly chooses to save one life, when they could have saved two—to say nothing of a thousand lives, or a world—they have damned themselves as thoroughly as any murderer.",
+    "content": "This equates failing to maximize with killing, which requires that the doing/allowing and intending/foreseeing distinctions carry no moral weight at all — a position that needs the argument it isn't given here. It also generates the demandingness objection in its harshest form: on this principle every reader is a murderer many times over each day, since almost any expenditure could have been a donation, a conclusion Williams and later Scheffler (in <em>The Rejection of Consequentialism</em>, 1982) took as a reason to admit an agent-centred prerogative. Most sharply, it contradicts this sequence's own later position: \"Ethical Injunctions\" argues that humans running on corrupted hardware should obey bright-line deontological rules rather than their own consequence calculations. One of these two essays is wrong about what a human being should do."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "the same money has an equal probability of producing a cure for a less spectacular disease that kills 10% of 100,000 people",
+    "content": "The stipulated equal probability is doing all the work, and in the real cases this argument is aimed at it is usually false in the direction that weakens the conclusion: research cost does not scale with prevalence, rare monogenic diseases have often proved more tractable per dollar than common polygenic ones, and the fixed cost of the first cure in a class buys knowledge that transfers. The health-economics literature that actually does this arithmetic — cost per QALY, with explicit equity weights — also has a name for the intuition the essay is dismissing, the \"rule of rescue\" (Jonsen, 1986), and continues to argue about whether it is a bias or a value. The essay is right that comparative effectiveness matters; it treats as a thought experiment the very estimates that are contested in practice."
+  }
+]

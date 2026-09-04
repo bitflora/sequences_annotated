@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Suppose I proved that all utilities equaled zero.",
+    "content": "Three distinct hypotheses are being run together in one paragraph, and the essay's own machinery from the previous essay is what separates them. \"Nothing is moral\" is Mackie's error theory: moral claims purport to describe objective prescriptions, there are none, so the claims are systematically false — and Mackie, having argued this, went on to write a book about which conventions we should adopt, because the falsity of moral realism leaves preferences, projects, and social arrangements exactly where they were. \"All utilities equal zero\" is a completely different supposition, a claim that you want nothing, which is not entailed by any metaethical thesis and could not be established by tearing apart a moral philosophy. Losing the one-place property does not empty out the two-place function; the thought experiment gets its force by asking the reader to imagine both at once."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I know that Your-Moral-Philosophy is as true and undisprovable as 2 + 2 = 4.",
+    "content": "As a rhetorical device this is a conditional whose antecedent every reader is expected to reject and whose consequent every reader is expected to answer identically — of course you would still drag the child off the tracks. But an experiment that every hypothesis predicts distinguishes nothing. Error theorists, expressivists, constructivists, divine command theorists, and moral realists all predict that ordinary people would go on behaving much as before, for their own respective reasons, so the near-universal answer is not evidence for the naturalistic metaethics the sequence is building toward. Book I's essay on conservation of expected evidence makes exactly this point about arguments whose outcome is known in advance. The thought experiment is a good way to loosen an attachment; it is not a test."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "What would you do, if nothing were right?",
+    "content": "There is empirical evidence on the nearest testable version of this question, and it supports the essay's implied answer while undermining the alarm around it. Vohs and Schooler's much-cited 2008 finding that inducing disbelief in free will increased cheating became a standard illustration that metaphysics changes conduct — and it did not survive: multi-laboratory replications failed to reproduce it, and Genschow and colleagues' meta-analysis of free-will belief manipulations (<em>Personality and Social Psychology Review</em> 27, 2023) found no reliable downstream effect on behaviour. Persuading people that the foundations of agency or morality have been removed appears not to change what they do, which is the essay's own prediction. It also removes most of the urgency from the project of supplying lines of retreat before revising someone's metaethics."
+  }
+]

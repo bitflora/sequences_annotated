@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Every Utopia ever constructed—in philosophy, fiction, or religion—has been, to one degree or another, a place where you wouldn’t actually want to live.",
+    "content": "The universal quantifier is doing a lot of work and there are standing counterexamples, one of them directly in this essay's own genre. Iain M. Banks published Culture novels from 1987 onward that are set in a post-scarcity civilization most readers report wanting to live in, and that generate stories anyway — by locating the drama at the civilization's edges, in its dealings with less fortunate societies and in the moral costs of intervention. Le Guin's <em>The Dispossessed</em> is subtitled \"An Ambiguous Utopia\" precisely because she was attacking the assumption that a good society is dramatically inert. The literary problem the essay poses is real; the claim that no one has ever solved it is a claim about a large literature, offered without a survey of it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the way humans are constructed now, it is just easier to produce pain than pleasure",
+    "content": "The asymmetry is real and better supported than the essay's evidence for it, which is an inference from torture instruments and a remark about a community the author says he has no experience of. The relevant literature is negativity bias: Baumeister, Bratslavsky, Finkenauer, and Vohs's \"Bad Is Stronger Than Good\" (<em>Review of General Psychology</em> 5, 2001) assembles the pattern across impressions, learning, relationships, and emotion, and Rozin and Royzman's \"Negativity Bias, Negativity Dominance, and Contagion\" gives the theoretical treatment. Both accounts explain the asymmetry as adaptive — the cost of missing a threat exceeds the cost of missing an opportunity — which matters for the essay's argument, since it means the imbalance is a design feature with a function rather than an arbitrary bug, and removing it has consequences the abolitionist proposal has to address."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "hurts between 2 and 2.5 times as much as the equivalent gain",
+    "content": "This coefficient, from Tversky and Kahneman's cumulative prospect theory paper, is among the parameters that have not held up as a constant of human nature. Gal and Rucker's \"The Loss of Loss Aversion\" (<a href=\"https://doi.org/10.1002/jcpy.1047\"><em>Journal of Consumer Psychology</em> 28, 2018</a>) reviews the evidence that the effect is far weaker and more context-dependent than the textbook figure, Yechiam's reviews find loss aversion absent in many designs with small or symmetric stakes, and Walasek and Stewart showed experimentally that the measured coefficient tracks the range of gains and losses the experimenter happens to present — meaning that λ ≈ 2 is partly an artifact of the stimulus set. The endowment effect, its close relative, was shown by Plott and Zeiler (<em>American Economic Review</em> 95, 2005) to disappear under procedures that control for subject misconceptions. The qualitative asymmetry survives; the number does not."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "This was George Orwell’s hypothesis for why Utopia is impossible in literature and reality",
+    "content": "Orwell's contrast hypothesis is testable and the strong version is false. If happiness were only relief from prior pain, well-being would return to a common baseline after every event and would not differ stably between people, and both predictions fail: Lucas, Clark, Georgellis, and Diener's panel studies found that adaptation to unemployment, divorce, and severe disability is incomplete, with permanent shifts in baseline, and Diener's revisions to set-point theory document that baselines differ substantially across individuals and can move. Some people are durably happier than others without any contrasting misery to thank for it. That is direct evidence for the feasibility of the abolitionist project the essay goes on to consider — not proof that it would work, but proof that the argument from contrast does not rule it out."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "I never heard that insufficient pleasure becomes intolerable to them.",
+    "content": "The inference is weak but the case has since become much more interesting. Congenital insensitivity to pain leaves the rest of the negative-affect system — fear, grief, anxiety, disgust — entirely intact, so these patients are not a test of what happens when the floor of the utility function is removed; and they fare badly, with repeated unnoticed injuries, joint destruction, and shortened life expectancy, which is the essay's own point about pain serving a purpose. The closer case is the woman described by Habib et al. (<em>British Journal of Anaesthesia</em> 123, 2019), whose microdeletion in the FAAH-OUT pseudogene left her with lifelong painlessness together with unusually low anxiety, elevated mood, and rapid wound healing, and who reported no compensating dissatisfaction. One person is not a research programme. It is the first documented human instance of the configuration Pearce's project requires, and it did not produce a new intolerable floor."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "David Pearce (The Hedonistic Imperative) is very probably right about the feasibility part",
+    "content": "\"Very probably\" is a strong credence to place, on no cited evidence, in a claim about unbuilt neurotechnology, in an essay whose surrounding argument is that we do not know the Law here. The state of the evidence two decades on is that individual variants affecting pain and mood have been identified in humans, that no sustained elevation of hedonic baseline has been demonstrated in any mammal without functional cost, and that the wanting/liking dissociation makes \"gradients of bliss\" harder to engineer than the proposal assumes — a motivational system built on graded liking still needs a wanting system to move the organism, and those are separate circuits. Pearce's thesis remains a research programme with no experimental core. Endorsing its feasibility while professing agnosticism about its desirability gets the epistemic order backwards: the desirability is the part we can reason about now."
+  }
+]
