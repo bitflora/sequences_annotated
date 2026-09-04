@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/FightingARearguardActionAgainstTheTruth.opus.json",
+    "default": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Did I win? Why yes, I did.",
+    "content": "The AI-Box Experiment is the central worked example of this essay and of a claim repeated throughout these books, and no transcript of any run has ever been published — by explicit condition of the protocol, agreed in advance by the winning party. What is on the record is one participant's report of the outcome, plus later confirmations from the other players, plus, by the author's own count later in this essay, three additional games of which he lost two. That gives three wins in five, in a game with a $10 or $20 incentive for the gatekeeper, a two-hour commitment, and no independent observer. As evidence that a sufficiently persuasive agent can talk its way out of confinement, this is a demonstration that a motivated human sometimes beats a bored one at a text game. The essay treats it as a proof of concept about superintelligence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "One of the key Rules For Doing The Impossible is that, if you can state exactly why something is impossible, you are often close to a solution.",
+    "content": "The history of mathematics reads the other way. Being able to state exactly why something is impossible is usually the point at which you have proved that there is no solution: Abel and Galois on the quintic, Lindemann on squaring the circle, Gödel on completeness, Arrow on aggregating preferences, Rice on deciding program properties, Bell on local hidden variables. In every case the exact statement was the theorem, not a step toward a workaround, and the productive response was to change the problem — which is a real move, but not the one the rule describes. The version that survives is weaker and true: if you can say exactly why your <em>current approach</em> fails, you have localized the obstacle. Confusion about a domain and a proof of impossibility feel different from the inside, and the essay's rule tells you to treat them the same."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "You might even be justified in refusing to use probabilities at this point.",
+    "content": "The reason given — that the chance depends heavily on the author's own future choices and on unknown unknowns — is not a reason to refuse. Dependence on your own action is what a decision-theoretic probability is <em>for</em>: you condition on each available act and compare, which this corpus argues for at length elsewhere. And the empirical record on \"unforecastable\" questions is not encouraging for the refusal: the Good Judgment Project elicited quantified forecasts on geopolitical questions widely held to be unquantifiable and found reliable individual differences, trainable improvement, and Brier scores well above chance. The selective application is the sharper problem. Probabilities are declined here, for the author's own project, and asserted freely elsewhere in these books for other people's beliefs — one part of Book V puts the probability of God below one in a billion."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "the general rule is that you can’t do it because Friendly AI is impossible",
+    "content": "A rule that rejects proposals by their apparent effort level rather than their content, announced in the same breath as \"describing the specific flaws would be a whole long story in each case.\" The two proposals named as obviously inadequate — keeping an AI in a box, and arranging multiple untrusted AIs to check each other — are now two of the more active research programmes in the field, as control evaluations and containment on one side and debate, recursive oversight and adversarial critique on the other. They may yet fail. But they were dismissed here without argument, on the grounds that a solution which looks like ordinary work cannot be a solution to a problem defined as impossible, which is a rule that guarantees its own confirmation and licenses declining to read."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "I won the first, and then lost the next two.",
+    "content": "Reported honestly, and it changes the earlier claim more than the essay acknowledges. The two published games were the ones cited for years as the demonstration; the three later games, with larger stakes, produced one win and two losses and were never written up — \"I never got around to adding in.\" The composite record is three of five, and the stakes are confounded with the ordering: the players who bet thousands were, on the author's own description, curious rather than convinced, which should if anything have made them easier. A result set where the publicized subset is the winning subset, disclosed in passing five years later, is the canonical shape of the file-drawer problem. The candour is real. It also means the AI-Box Experiment never had the evidential status it was given."
+  }
+]

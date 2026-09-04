@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "As David Stove observes, most “great thinkers” in philosophy, e.g., Hegel, are properly objects of pity.",
+    "content": "Stove's <em>The Plato Cult</em> is a work of polemic, and citing its verdict as an observation is the move this book warns against elsewhere — borrowing a conclusion from an author who shares your priors and reporting it as a finding. Stove is a real philosopher with real arguments, particularly against idealism and against the Popperian account of induction; he is also the author of essays arguing for the intellectual inferiority of women and of a defence of racial and other \"antagonisms\" that his own admirers describe as indefensible. Reading his dismissal of Hegel as settled requires accepting his standard of what philosophy is for. The narrower and defensible version of the point — that unfalsifiable systematizing about the mind is a common failure mode — does not need his authority."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "To the best of my knowledge there is no true science that draws its strength from only one person.",
+    "content": "This is right, and it is the most valuable sentence in the sequence, so it is worth stating what supports it and what it implies here. Merton's work on multiple independent discovery — the same result arriving simultaneously from unconnected researchers, which he documented across hundreds of cases — is the structural evidence that scientific findings are properties of a field's state rather than of a person; the norms of organized skepticism and communalism exist to make that so. The implication for the present case is one the essay does not draw. This corpus is six books by one author, its community is named for his website, and its central technical claims — the decision theory, the metaethics, the account of what alignment requires — were developed largely outside the peer literature and have circulated mostly among readers of these essays. The warning is correct and it is aimed away from the nearest instance."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "You’d develop the rest of the Art in the course of trying to do something.",
+    "content": "The essay ends on a bet and allows the alternative — that the next leg might come from direct, specific investigation of rationality itself — while doubting it. The intervening record favours the alternative. The pieces of the art that were subsequently developed and validated came from researchers studying them directly: forecasting calibration and its trainability from Tetlock's tournaments, implementation intentions and mental contrasting from Gollwitzer and Oettingen, transferable debiasing from Morewedge and the IARPA programme that funded it. The deficits this essay names most keenly — defeating akrasia, coordinating groups, teaching and verification — are precisely the ones where that direct research programme delivered and where the by-product-of-a-hard-problem route did not. The bet was reasonable in 2009 and it lost."
+  }
+]

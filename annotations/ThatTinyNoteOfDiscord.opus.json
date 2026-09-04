@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "smart people who are stupid because they’re skilled at defending beliefs they arrived at for unskilled reasons",
+    "content": "This is one of the most-repeated claims in these books and the evidence for it is weaker than its prominence. <a href=\"https://doi.org/10.1037/0022-3514.94.4.672\">Stanovich and West (2008)</a> ran a large battery of biases against cognitive ability and found myside bias to be one of the few that is essentially <em>uncorrelated</em> with intelligence — smart people are not measurably better at defending bad positions than anyone else, and not measurably worse either. Kahan's motivated-numeracy result, the main study pointing the other way, has had a mixed replication record. The honest summary is that ability neither protects against nor amplifies motivated reasoning much, which is a duller thesis than \"smart people dig deeper holes\" and does not license reading a person's four-year error as a consequence of their talent."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "what if genuine lie detectors are invented before the Singularity, sometime over the next thirty years?",
+    "content": "Roughly two thirds of that window has elapsed and there is no such device. The National Research Council's 2003 review concluded that polygraph accuracy is well below what security screening requires and that its theoretical basis is weak; fMRI-based deception detection has not been shown to work at the individual level outside cooperative laboratory conditions, and US courts have excluded it, notably in <em>United States v. Semrau</em> (2012). Unaided human accuracy sits at 54%, barely above chance, per <a href=\"https://doi.org/10.1207/s15327957pspr1003_2\">Bond and DePaulo's (2006)</a> meta-analysis of nearly 25,000 judgments. The honesty policy described here is admirable and the expected-utility justification offered for it rests on a technology that has not arrived and shows no sign of arriving."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Maybe the passage in the Old Testament, “Thou shalt not boil a young goat in its mother’s milk.”",
+    "content": "The verse is offered as the nearest available expression of \"someone who helps you out of altruism shouldn't regret helping,\" and no reading of it in the interpretive tradition is about the giver's regret. Exodus 23:19 has been read as a polemic against a Canaanite fertility rite — a derivation that rested on a reconstructed line in the Ugaritic text KTU 1.23 that specialists now generally reject — as a cruelty prohibition on the model of not taking a mother bird with her young (Philo, and Maimonides in the <em>Guide</em>), and as a boundary rule keeping the categories of life and death apart, which is Milgrom's reading. It is also the textual basis of the entire rabbinic separation of meat and milk. Quoting scripture for a sentiment it has never been taken to express is the same move the annotations to Book V flag at the four-legged grasshoppers."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Actions screen off justifications.",
+    "content": "The second appearance of this maxim, and here it is put to load-bearing use: the essay concludes that \"his reasons for pursuing this course of action—those don't matter at all.\" Two paragraphs later it says \"there's a lesson in his being a perfectionist,\" which is a lesson about a disposition that generates reasons, and therefore about the thing just declared irrelevant. Both cannot be right. Screening off is also a real conditional-independence relation and this is not one: knowing what someone did last time does not make their reasons uninformative about what they will do next time, which is exactly why the essay can extract a transferable lesson from the perfectionism at all."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "you should always be ready to have your thoughts broadcast to the whole world at any time, without embarrassment",
+    "content": "Held here as a personal standard and later softened, which is the right direction, because the empirical record on enforced transparency is not encouraging. <a href=\"https://doi.org/10.1111/j.1540-5907.2004.00088.x\">Stasavage (2004)</a>, comparing open and closed bargaining settings, finds that publicity systematically pushes negotiators toward posturing for their audience and away from conceding to good arguments — the observable behaviour improves while the deliberation degrades. The finding has an obvious application to a community that adopted radical intellectual transparency as a norm: the cost is not dishonesty but the loss of the ability to hold a position tentatively, and tentative holding is what the rest of this book asks for."
+  }
+]

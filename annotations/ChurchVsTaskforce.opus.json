@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "That listening to the same person give sermons on the same theme every week (“religion”) is not optimal;",
+    "content": "The list treats the costly and apparently pointless features of congregational life as inefficiencies to be engineered away, and the economics of religion argues that they are the mechanism. <a href=\"https://doi.org/10.1086/230409\">Iannaccone (1994)</a> models strictness as a screening device: seemingly gratuitous demands — dress codes, dietary rules, sacrificed Sunday mornings, prohibitions on outside activity — impose a cost that the marginally committed will not pay, which raises the average commitment of those who remain and thereby the quality of the club good everyone receives. His cross-denominational data show strictness predicting attendance, giving and retention, and the liberal denominations that removed the pointless demands losing exactly the participation the essay wants to reproduce. Optimizing a community by deleting its costs is a well-specified way of destroying it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the Internet does not seem to be an acceptable substitute at the current stage of the technology",
+    "content": "Fifteen years and several technology generations later this has held up better than the surrounding optimism. Online ties do sustain identity, coordination and information flow — the community this essay addresses is itself principally an internet phenomenon and remains one — but the specific good under discussion, the reliable practical support of a congregation, does not transfer well: the literature on online social support finds it effective for informational and emotional support and weak for instrumental support, which is the brownies and the babysitting. Video conferencing, which the previous essay hoped might help, became universal in 2020 under conditions approximating an experiment, and the resulting literature on remote work and remote worship found weakened weak ties and reduced spontaneous contact rather than a substitute for presence."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Strong communities built around worthwhile purposes: That would be the shape I would like to see for the post-religious age",
+    "content": "The proposal has a long record of attempts that the essay does not consult. Comte's Religion of Humanity built actual churches with actual calendars in the 1850s; the Ethical Culture movement was founded in 1876 on precisely the premise that the community and the moral seriousness could be kept while the theology was dropped; the secular Sunday Assembly launched in 2013, expanded to dozens of cities within two years, and then contracted sharply. The scholarship on these — Blankholm's work on secular congregations, Cimino and Smith on organized atheism — converges on a common finding: purpose-built secular congregations recruit well and retain badly, because a community organized around a task disperses when members' views of the task diverge, which is the failure mode a shared ritual is designed to survive."
+  }
+]

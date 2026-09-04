@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I consider it drop-dead obvious that the task of verifying acquired skills and hence the power to grant degrees should be separated from the institutions that do the teaching",
+    "content": "It is not obvious, and the separation has been tried at scale for long enough to have a record. External examination boards have governed Indian and much of British secondary assessment for over a century, and professional licensure — the bar, the medical boards, the actuarial and accountancy exams — already separates certification from instruction in exactly the proposed way. What follows is not clean verification but a displacement of the gaming: institutions optimize teaching toward the external test, curricula narrow to what is examined, and a coaching industry grows in the gap. The essay names this failure two paragraphs later as its own general principle. Whether separation improves matters depends on how gameable the external instrument is, which returns you to the original problem rather than escaping it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you have a verification method that can be gamed, the whole field adapts to game it, and loses its purpose.",
+    "content": "This is Campbell's law, stated in 1979 in almost these words — \"the more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor\" (<a href=\"https://doi.org/10.1016/0149-7189(79)90048-X\">Campbell 1979</a>) — and its better-known sibling Goodhart's law, from 1975. Both are named nowhere in these six books, although the principle is used repeatedly, and the accompanying literature on multitasking under incentive contracts (Holmström and Milgrom) supplies the formal result that the essay's examples gesture at: when effort is divisible across measured and unmeasured dimensions, strengthening the incentive on the measured one reliably degrades the rest."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "So I now put to you the question—how do you verify rationality skills?",
+    "content": "The question is posed as one of the Big Important Foundational Questions and left open; an answer covering all three levels arrived within a few years, from a programme these books cite elsewhere. Forecasting tournaments score calibrated probability judgments against outcomes using a proper scoring rule, which cannot be gamed by confidence because the rule penalizes it — that is the organizational level. Tetlock's Good Judgment Project ran randomly assigned training and team-structure arms across thousands of participants over four years, which is the experimental level, and it found trainable, persistent individual differences. Public track records give the reputational level. The verification instrument the essay could not imagine is a Brier score, and its main limitation is the honest one: it measures calibration on resolvable questions, not the whole art."
+  }
+]

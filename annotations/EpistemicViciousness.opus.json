@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the degeneration of martial arts after the decline of real fights",
+    "content": "Remembered from Russell's essay and, as the passage concedes, not actually in it — which matters, because the historical claim is shakier than the borrowed authority suggests. Most of the codified arts were <em>created</em> in peacetime rather than degenerating from battlefield practice: Japanese jujutsu schools proliferated during the Tokugawa peace, judo was assembled by Kanō in the 1880s explicitly as education, and karate's kata tradition developed in an Okinawa where private duelling was rare. What changed in the 1990s was not the return of lethal combat but the arrival of a common testing venue with few rules, which is a much cheaper thing to build than a war and delivered the same information. That is the encouraging version of the point, and it is available to a rationality dojo in a way that \"wait for real fights\" is not."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "His students would actually fall over when he used ki attacks",
+    "content": "The case is documented and identifiable: Yanagi Ryūken, whose students collapsed on cue to his no-touch technique for years, offered a standing cash challenge, and in 2006 was knocked down repeatedly within seconds by a mixed-martial-arts fighter who accepted it; the footage is public. It is one of the cleaner natural experiments in the literature on self-deceiving expertise, and its structure is worth stating precisely, because the essay's gloss — \"self-hypnosis or something\" — under-describes it. The students were not hypnotized; they were participants in a demonstration whose expected response they had learned, and neither they nor the teacher had any incentive or occasion to run the test that would distinguish a real effect from a compliant one. Everything needed for the belief to persist was present, and nothing needed to break it was."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Every single one of these risk factors transfers straight over to any attempt to start a “rationality dojo.”",
+    "content": "Correct, and the prediction has since been tested by the founding of such an organization three years later. The risk factors named here — a sacred teacher and canon, techniques whose effectiveness cannot be checked, deference to founding figures, and continuing to act as though one lives in evidential luxury while living in data poverty — are, essentially item for item, the criticisms subsequently made of the rationality-training community by its own members and by outside observers. The essay closes by asking what can be done about it, and neither it nor the two essays that follow proposes a mechanism that does not reduce to \"measure outcomes,\" which is the thing the next essay argues cannot be done. This is the sharpest piece of self-diagnosis in the book, and it goes unanswered."
+  }
+]

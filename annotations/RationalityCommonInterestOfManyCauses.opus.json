@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Not just the obvious causes like atheism, but things like marijuana legalization",
+    "content": "The premise of the essay is that a set of political conclusions follows from thinking well, with the author's own preferred basket offered as the obvious examples — and the empirical literature on reasoning about politics says this is the pattern to distrust rather than the reward to expect. <a href=\"https://doi.org/10.1038/nclimate1547\">Kahan et al. (2012)</a> found that greater numeracy and science literacy predicted stronger polarization along cultural lines, not convergence; the follow-up work on motivated numeracy found the most numerate subjects making the largest errors when correct arithmetic produced a politically uncongenial answer. Whatever the merits of drug policy reform, the claim that it is what a more rational population would converge on is a political claim wearing an epistemological hat, in a book with an essay titled <em>Politics Is the Mind-Killer</em>."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "you have to be willing to agree to shut up about the disagreement",
+    "content": "A norm of suppressing public disagreement about priorities, in order to present a united front to potential recruits, proposed four essays after <em>Why Our Kind Can't Cooperate</em> identified the suppression of visible dissent as the defining mechanism of the groups it calls the Dark Side, and eleven after <em>Evaporative Cooling of Group Beliefs</em> described what happens to a community whose disagreements move to private channels. The essay is aware enough to offer an escape valve — specialized subforums out of the way of the mainstream discourse — which is exactly the arrangement under which pluralistic ignorance is known to develop, since the newcomer sees only the agreement. Nemeth's finding that groups reason better under visible dissent applies here as it did there."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Saying, “This is the best thing” doesn’t add much motivation beyond “This is a cool thing.”",
+    "content": "This has since been tested directly and the result is more interesting than the essay's version. <a href=\"https://doi.org/10.1016/j.jebo.2016.12.011\">Karlan and Wood (2017)</a> randomized whether a charity's fundraising letters included rigorous evidence of impact, across tens of thousands of recipients, and found the effect depended on the donor: large prior donors gave more when shown the effectiveness information, while small prior donors gave <em>less</em>. The interpretation the authors favour is that emphasizing impact crowds out warm-glow motivation among those giving for warm glow and reinforces it among those giving for impact. So the essay's advice is right for the mass audience it is worried about and exactly wrong for the major donors — which means \"this is the best thing\" should be said in some venues and not others, rather than dropped as a habit."
+  }
+]

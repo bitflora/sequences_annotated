@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/EpistemicViciousness.opus.json",
+    "default": true
+  }
+]

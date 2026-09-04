@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "all those awful consequences which technophiles argue to follow from various kinds of government regulation are more or less correct",
+    "content": "Offered as a concession the mature author still stands by, and it is an empirical claim with no evidence attached in either direction. The economics of regulation and innovation is genuinely mixed: environmental regulation has repeatedly been found to induce rather than suppress innovation in the affected industries — the Porter hypothesis, which has survived a fair amount of testing — while the developmental-state literature on Korea and Taiwan documents heavy state direction alongside the fastest sustained growth on record. The claim that the technophobes were empirically right about the downsides and the technophiles empirically right about the downsides of the downsides is a way of conceding nothing while sounding balanced."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Eliezer2001 hadn’t read up on the Manhattan Project and wasn’t familiar with the similar argument that Leó Szilárd had with Enrico Fermi.",
+    "content": "The episode is real — Szilárd pressed for voluntary secrecy on fission research from early 1939, Fermi resisted as contrary to scientific practice — but it is being cited as a settled lesson in favour of secrecy, and the history does not deliver that verdict. Szilárd's secrecy campaign largely failed: Joliot-Curie's group in Paris published the secondary-neutron results anyway in April 1939, and the information was public. More damagingly for the moral, the Soviet bomb programme was accelerated principally by espionage from inside the secret Manhattan Project, by physicists who had been cleared into it. Compartmentalization did not prevent the transfer it was designed to prevent; it merely determined who had to be recruited."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "In the art of rationality it’s far more efficient to admit one huge mistake, than to admit lots of little mistakes.",
+    "content": "This contradicts the normative standard the rest of these books defend. Bayesian conditionalization is exactly the incremental procedure being disparaged: updating on evidence as it arrives, in whatever order and however finely divided, converges to the same posterior as one lump update, and there is no theorem recommending the watershed. It also contradicts <em>Leave a Line of Retreat</em> in Book II, which prescribes precisely the gradient-smoothing that this essay blames for a four-year delay, on the grounds that a mind which cannot contemplate the conclusion cannot evaluate it. The essay wants both the psychological device and the epistemology it undermines, and the resolution offered — do it, but faster — is not a rule anyone can follow."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "There’s some kind of instinct humans have, I think, to preserve their former strategies and plans",
+    "content": "Here the guess is well supported, and the relevant literature is named nowhere in this book. Escalation of commitment to a failing course of action is one of the more robust findings in organizational psychology, demonstrated by <a href=\"https://doi.org/10.1016/0030-5073(76)90005-2\">Staw (1976)</a>, where subjects who had personally chosen a failing investment allocated substantially more to it than subjects inheriting the same situation — responsibility for the prior choice, not the sunk money, drove the effect. <a href=\"https://doi.org/10.1037/0033-2909.125.5.591\">Arkes and Ayton (1999)</a> add the striking comparative point that non-human animals largely do not show the sunk-cost effect while humans reliably do, which suggests the mechanism is the overapplication of a learned rule about not wasting rather than an ancient instinct. That distinction matters for the remedy: rules can be retrained."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "it’s akin to the convulsive effort required to seriously clean house, after an adult religionist notices for the first time that God doesn’t exist",
+    "content": "The analogy is chosen to license the demand for a single convulsive revision, and the empirical literature on deconversion describes almost the opposite process. Streib and colleagues' interview studies across several countries, and the earlier work of Hunsberger and Altemeyer, find that leaving a religion is typically gradual, extending over years, with an accumulation of small doubts and social shifts rather than one collapse — and that the retrospective narrative of a sudden break is constructed afterwards, by the same reconstructive process the annotations to this sequence keep flagging. If the paradigm case of belief-system replacement is itself incremental, the standard being applied to Eliezer2001 is a standard no one meets."
+  }
+]

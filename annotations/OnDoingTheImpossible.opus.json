@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "having calculated the planetary death rate at 55 million per year or 150,000 per day",
+    "content": "The arithmetic is right — global deaths were around 55 million a year at the time, which is about 150,000 a day — and the use made of it is a one-sided expected-value calculation. \"If I could make the intelligence explosion happen one hour earlier, that was a reasonable return on investment\" prices only the deaths averted by acceleration and assigns zero probability to the outcome that acceleration destroys everyone, which is the conclusion the same author reached four essays earlier in this very sequence and now organizes his life around. The essay reports the calculation as a demonstration of drive rather than flagging it as the error it was. A death rate is a compelling number and it is not, by itself, an argument for haste in either direction; the sign of the term that was omitted is the whole question."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I had overestimated the difficulty of almost every single important problem",
+    "content": "This directly contradicts the lesson of Book I's essay on the planning fallacy, which reports the opposite general finding and endorses it: <a href=\"https://doi.org/10.1037/0022-3514.67.3.366\">Buehler, Griffin and Ross (1994)</a> found students completing their theses in an average of 55 days against a best guess of 34, with only about 30% finishing within their own predicted time, and the effect holds across domains and for both self and other predictions. Both claims are offered as general lessons about how humans misjudge difficulty, and they point in opposite directions. The reconciliation the essay does not attempt is that its sample is selected: the problems it counts are the ones its author kept working on until they yielded, and the ones abandoned as too hard, or still unsolved after twenty years, are not in the tally."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "And I realized that the word “impossible” had two usages:",
+    "content": "The distinction is useful and the list is missing the categories that matter most for the problems at issue. Between \"proved impossible from axioms\" and \"I cannot see how\" lie at least two others: physically impossible given known laws, and computationally infeasible — which is not ignorance but a theorem about resources. Many of the obstacles in this domain are of the third and fourth kinds. Rice's theorem makes every non-trivial semantic property of programs undecidable in general; exact Bayesian inference is #P-hard; Arrow's and Gibbard–Satterthwaite's results forbid certain aggregations of preference outright. \"Query returned null\" is a good diagnosis for confusion in a young field and a bad one for a proved lower bound, and the essay's two-item taxonomy makes them look alike."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Richard Hamming used to go around asking his fellow scientists two questions",
+    "content": "The talk is \"You and Your Research\" (1986), and Hamming's advice is correctly reported. It is also, unusually for this book, a claim with a controlled test behind it. <a href=\"https://doi.org/10.1111/j.1756-2171.2011.00140.x\">Azoulay, Graff Zivin and Manso (2011)</a> compared life scientists funded by the Howard Hughes Medical Institute — long grants, tolerant review, explicit permission to fail — against closely matched NIH-funded controls, and found the HHMI investigators produced substantially more high-impact papers, and also more papers with no impact at all, along with more work outside their prior field. That is the shape of the claim made here, measured: the important-problems strategy raises variance and raises the top of the distribution, and it does so by wasting more attempts, which is the cost the essay is honest about."
+  }
+]

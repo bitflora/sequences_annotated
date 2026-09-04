@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In the correct version of this story, the mathematician says, “I have two children,” and you ask, “Is at least one a boy?,” and she answers, “Yes.” Then the probability is 1/3 that they are both boys.",
+    "content": "The analysis is right and the moral drawn from it is not. That the answer depends on the protocol by which the information reached you — 1/3 when you asked, 1/2 under a symmetric-mention model when she volunteered — is a standard result, worked out for exactly this puzzle by <a href=\"https://doi.org/10.1016/0010-0277(82)90021-X\">Bar-Hillel and Falk (1982)</a> two decades before the conversation described. It is also not a point of division between schools. No frequentist text instructs the reader to set the probability of the utterance to 1; conditioning on how the data were generated is the design-based reasoning that frequentists insist on most loudly, and it is the basis of their objection to the likelihood principle. The anonymous interlocutor is being made to stand for a discipline that would have agreed with the author."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Memory is a fragile thing, and mine seems to have become more fragile than most, since I learned how memories are recreated with each recollection",
+    "content": "The underlying science is real — <a href=\"https://doi.org/10.1038/35021052\">Nader, Schafe and LeDoux (2000)</a> showed that a consolidated fear memory in rats becomes labile again on retrieval and requires new protein synthesis to persist, which is the finding behind the popular claim — though the strong version, that human memories are rewritten wholesale at each recall, goes beyond what reconsolidation experiments establish. The admission matters more than the citation. This is the eighth essay of a sequence whose entire content is the author's recollection of his own beliefs and reasons across a twelve-year span, and it here concedes that he cannot reliably order the events, has already been corrected by witnesses, and cannot bear to consult the contemporaneous written record that exists. Everything the sequence reports should be read at that discount, including its diagnoses."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If you tried to approximate The Rules because they were too computationally expensive to use directly, then, no matter how necessary that compromise might be, you would still end up doing less than optimal.",
+    "content": "This is true only against a benchmark that ignores the cost of thinking, and that benchmark is the wrong one for any agent that has to act. Once computation is priced, the optimal policy is not \"approximate Bayes as closely as you can afford\" but a different object entirely — the subject of rational metareasoning, where the value of further deliberation is itself estimated and traded against the cost of delay. <a href=\"https://doi.org/10.1111/cogs.12101\">Vul, Goodman, Griffiths and Tenenbaum (2014)</a> show the sharp version: under a plausible cost of time, drawing a <em>single</em> sample from the posterior and acting on it is the optimal strategy, and averaging more samples makes the agent worse off. Exact Bayesian inference is also #P-hard in general, so \"less than optimal\" describes every physically realizable reasoner, including the superintelligence the essay is designing for."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Reading Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference,",
+    "content": "The best-chosen example in the essay, and it carries an irony the essay does not register. Pearl's 1988 book is indeed the case where precision saved a field decades of ad-hoc nonmonotonic logics, and citing it as the model of \"the only correct way you can do this\" is fair. But Pearl's own next book, <em>Causality</em> (2000), argues at length that probability theory is <em>not</em> sufficient — that no amount of conditionalization on observed distributions can express an intervention, that causal claims require a separate calculus built on a different formal object, and that treating Bayesian conditioning as the whole of inference was the mistake his own earlier work encouraged. The author whose precision converted this essay's author to probability-as-The-Rules spent the following decade arguing that The Rules are incomplete."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "It’s a hard problem just to find a standard high enough to make you actually start thinking!",
+    "content": "The claim of this essay is that a standard of near-mathematical precision, adopted in about 2003, is what makes hard problems tractable, and unlike most claims in this sequence it has had two decades to produce a checkable record. The research programme it launched has yielded real technical results — the Löbian obstacle, logical induction, program equilibrium, several formalizations of embedded agency — and no Friendly AI design, no decision theory accepted outside its own community, and no influence on the systems that were actually built. Meanwhile the capabilities that arrived came from a research culture with the opposite methodology: try the scruffy thing at scale, measure it, and derive the theory afterwards if at all. The standard defended here may still be right for its problem. It is not supported by the outcome data, which is the kind of evidence the next sequence but one demands of everyone else."
+  }
+]

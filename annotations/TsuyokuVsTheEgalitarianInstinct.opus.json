@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the all-powerful tribal chieftain is found mostly in agricultural societies, rarely in the ancestral environment",
+    "content": "The nomadic-egalitarian picture is the standard one and it is under active revision, on grounds that bear directly on any argument from the \"ancestral environment.\" The ethnographic sample it rests on consists of twentieth-century foragers surviving in marginal habitats, already reshaped by contact with states; the ethnographically known foragers in productive environments — the Northwest Coast peoples, the Calusa — had hereditary rank, chiefs and slavery. <a href=\"https://doi.org/10.1016/j.evolhumbehav.2021.07.003\">Singh and Glowacki (2022)</a> assemble the archaeological and comparative case that Late Pleistocene social organization was heterogeneous, sometimes sedentary and sometimes ranked, and that the uniform egalitarian band is a projection. The elaborate Upper Palaeolithic burials at Sunghir, with tens of thousands of worked beads accompanying two children, are hard to read as the product of a society that levelled all distinction."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "a hunter who brings in a spectacular kill will carefully downplay the accomplishment to avoid envy",
+    "content": "This is \"insulting the meat,\" reported from the Ju/'hoansi by Richard Lee in a famous 1969 essay about buying an ox for Christmas and being told repeatedly that it was a bag of bones. It is one society and one much-anthologized anecdote, and the functional interpretation is contested. The rival account — Hawkes's show-off hypothesis, and the costly-signalling work of Smith and Bliege Bird — holds that large-game hunting is <em>bad</em> nutritional strategy and persists because successful hunters gain reputation, allies and mating opportunities, which is the opposite of a levelling mechanism. Both processes are documented in the same societies: public modesty about the kill, and durable status from having made it. The essay uses the first half to establish an instinct and does not mention that the ethnography also supports the drive it is contrasting with."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "And besides, life is not graded on a curve.",
+    "content": "The slogan recurs four times across this book and it is false in most of the settings where the reader will apply it. Grant funding, journal acceptance, faculty hiring, prizes, venture investment, and market share are all explicitly rank-ordered allocations of a fixed resource: your probability of being funded depends on the other applications in the pile, not on an absolute threshold. What is true, and worth separating out, is the narrower claim the essay actually needs — that Nature's difficulty is not calibrated to you, so being the best available attempt does not entitle you to succeed. That is right. It is compatible with the observation that nearly every institution that decides whether you get to attempt anything does grade on a curve."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "It can be fun to proudly display your modesty, so long as everyone knows how very much you have to be modest about.",
+    "content": "An accurate observation with a name and a measured cost. <a href=\"https://doi.org/10.1037/pspi0000108\">Sezer, Gino and Norton (2018)</a> studied humblebragging across nine studies and found it is not merely tolerated less than the authors expected but performs worse than either of its components: braggers are seen as more competent, complainers as more likeable, and humblebraggers as neither, because the transparent insincerity damages perceived warmth without buying the credit. The essay's advice — that if you have improved you should say so, and the disclaimer is the dishonest part — is what the data support."
+  }
+]

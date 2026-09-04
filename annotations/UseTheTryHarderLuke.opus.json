@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "When there’s a will to fail, obstacles can be found.",
+    "content": "McCarthy's aphorism, and the frame it sets up for the whole essay is the one Book II calls correspondence bias: a behaviour is explained by a disposition — a will to fail — with the situation given no weight. The classic demonstration is that observers infer attitudes from behaviour even when told the behaviour was assigned, and the effect is strongest for exactly this kind of judgment, made about a person whose constraints the observer cannot see. Luke's situation in the scene includes a teacher who has told him the limit is in his mind and an X-wing that sank back after rising, which is ambiguous evidence about the cost of continuing. Reading his response as an act of will rather than as an estimate is a choice, and the essay makes it without noticing that it is one."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I present to you a little-known outtake from the scene, in which the director and writer, George Lucas, argues with Mark Hamill, who played Luke Skywalker:",
+    "content": "There is no such outtake. The dialogue that follows is written by the author of the essay, and the framing sentence presents it as a document — \"little-known,\" as though it were merely obscure. The essay's punchline, and the load-bearing empirical claim of the piece, is placed in the invented George Lucas's mouth: that people would not try for five minutes before giving up if the fate of humanity were at stake. This is the practice that Book II's essay on generalization from fictional evidence identifies as a specific failure mode — a story constructed to make a conclusion feel obvious, then cited as though it were evidence for the conclusion — with the aggravating feature that the fiction is labelled as a record."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "People wouldn’t try for five minutes before giving up if the fate of humanity were at stake.",
+    "content": "Fabricated as evidence and roughly right as a claim. People systematically stop short on effortful tasks and systematically misjudge what continuing would yield: <a href=\"https://doi.org/10.1037/pspa0000030\">Lucas and Nordgren (2015)</a> found across seven studies that participants underestimated how many ideas they would generate in a second round of brainstorming after they felt exhausted, and that the second round was in fact as productive as the first — a persistence gap large enough to change task outcomes. Related work finds people quit search too early and underpredict the enjoyment of continued effort. The essay would have been stronger with the actual finding than with the invented outtake, and it is worth noting that the finding concerns misprediction rather than a will to fail, which points at a different remedy: measure your own persistence curve rather than exhort yourself."
+  }
+]

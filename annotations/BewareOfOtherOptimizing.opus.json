@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "your earnest personal advice, that amazing thing you’ve found to actually work by golly, is no more and no less likely to work for me than a random personal improvement blog post written by an intelligent author is likely to work for you",
+    "content": "The observation that the personal delivery adds credibility without adding information is sharp, and the general literature on advice-taking finds the opposite bias to be the common one. Across many studies of the judge–advisor paradigm, people place a weight of roughly 0.2 to 0.4 on a advisor's estimate where equal weighting would be 0.5 and would improve accuracy — <a href=\"https://doi.org/10.1006/obhd.2000.2909\">Yaniv and Kleinberger (2000)</a> named this egocentric discounting, and it costs judges real accuracy. The exception, well documented in the same literature, is the advisor who is personally known and trusted, where discounting reverses into over-weighting. So the essay has identified a real and specific failure — trusted-source over-weighting — inside a general pattern that runs the other way, which is worth stating, because the reader who generalizes from this essay to \"discount advice\" will be making the more common mistake."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There was a post on Overcoming Bias on how being in a position of power has been shown to decrease our ability to empathize with and understand the other, though I can’t seem to locate it now.",
+    "content": "The finding could not be located then and has weakened considerably since. The power-and-perspective-taking effect belongs to the social-priming family that the replication crisis hit hardest: several of the best-known results on power and hypocrisy, from the Lammers and Stapel collaboration, were retracted outright in the 2011 fraud investigation, and multi-laboratory attempts at power priming have generally failed to recover the published effects. Some of the underlying literature survives — there is decent correlational evidence that people in high-power roles attend less to subordinates — but the causal, primed version invoked here is among the least reliable claims in social psychology. The essay's practical counsel, that people with power should assume they cannot tell when they are frightening someone, does not depend on it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "We underestimate the distance between ourselves and others.",
+    "content": "The classic support is the false-consensus effect — Ross, Greene and House (1977) found subjects estimating that others share their own choices at inflated rates — and the correction matters for the essay's argument. Dawes pointed out that using your own response as evidence about the population is not a fallacy but a correct Bayesian move when your own case is a genuine sample of one: the appropriate inference from \"this worked for me\" to \"this works for people\" is positive, just much smaller than people make it. The error is one of magnitude, not of direction. What that implies is milder than the essay's conclusion: your personal discovery is weak evidence about others rather than no evidence, and the honest form of the advice is to offer it with the strength it actually has."
+  }
+]

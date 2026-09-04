@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "we would not even have come close to solving the larger failures of sanity that made religion possible in the first place",
+    "content": "The premise is that religion is produced by defects in reasoning, and the cognitive science of religion — which was well developed by 2009 and is nowhere cited in these books — locates its sources in ordinary, functional cognition instead. Children are intuitive teleologists: <a href=\"https://doi.org/10.1111/j.0956-7976.2004.00672.x\">Kelemen (2004)</a> found that young children prefer purpose-based explanations for natural phenomena regardless of their parents' religiosity, and later work found the bias persists in adults under time pressure, including in professional scientists. Barrett's hyperactive agency detection and Boyer's minimally counterintuitive concepts describe the same picture: belief in gods is a by-product of the machinery that makes people good at attributing intentions and remembering odd stories. If that is right, there is no \"failure of sanity\" upstream to be fixed, and raising the waterline would not drain the well."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "religion is a sign, a symptom, of larger problems that don’t go away just because someone loses their religion",
+    "content": "It is a symptom of something, and the best-supported candidate is not cognitive. Norris and Inglehart's cross-national analysis in <em>Sacred and Secular</em> (2004, a book, no DOI) finds national religiosity tracking existential security — income inequality, infant mortality, absence of a welfare state — far more closely than it tracks education or scientific literacy, which is why the United States is an outlier among rich countries and why secularization has advanced fastest where material risk fell fastest. On that account the intervention that reduces religiosity is not an epistemology course but public health insurance. The essay's framing is not merely unsupported; it is competing with a well-tested alternative that it does not mention."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "what could you teach people that is not directly about religion, that is true and useful as a general method of rationality, which would cause them to lose their religions?",
+    "content": "This is a testable prediction, and the nearest thing to a test has gone badly. The best-known result in its favour — <a href=\"https://doi.org/10.1126/science.1215647\">Gervais and Norenzayan (2012)</a>, in which subtle prompts to analytic thinking reduced professed religious belief — failed a high-powered preregistered replication by <a href=\"https://doi.org/10.1371/journal.pone.0172636\">Sanchez, Sundermeier, Gray and Calin-Jageman (2017)</a>, and again in the <em>Science</em> replication project, with effects indistinguishable from zero. The broader assumption behind the thought experiment is the deficit model of science communication, which fares no better: <a href=\"https://doi.org/10.1038/nclimate1547\">Kahan et al. (2012)</a> found that greater science literacy and numeracy predicted <em>more</em> polarization on climate risk, not convergence. Better reasoning tools appear to be applied to whatever conclusion the reasoner already holds."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "But there are Nobel laureates who haven’t taken that course! Richard Smalley if you’re looking for a cheap shot, or Robert Aumann if you’re looking for a scary shot.",
+    "content": "The inference that follows — that colleagues would have taken them aside, or regarded them with pity — assumes the religious scientist is rare enough to be conspicuous, and he is not. <a href=\"https://doi.org/10.1525/sp.2007.54.2.289\">Ecklund and Scheitle (2007)</a>, surveying 1,646 natural and social scientists at 21 elite US universities, found about half claiming a religious affiliation and roughly a third expressing some belief in God, with the strongest predictor being childhood religiosity rather than discipline. Aumann's own stated position on how he holds the two together is never quoted anywhere in these books. The passage needs the religious laureate to be an isolated anomaly in order to read him as a canary; the survey data make him a large minority of the profession, which is a different and much harder problem for the argument."
+  }
+]

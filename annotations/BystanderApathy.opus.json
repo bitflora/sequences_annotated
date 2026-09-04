@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The bystander effect, also known as bystander apathy, is that larger groups are less likely to act in emergencies—not just individually, but collectively.",
+    "content": "The generalization is now known to be wrong in the case that matters most. <a href=\"https://doi.org/10.1037/a0023304\">Fischer et al. (2011)</a> meta-analysed 105 studies and found the classic effect real in ambiguous, low-danger situations and attenuated or reversed in genuinely dangerous ones, where additional bystanders increase the chance of intervention. <a href=\"https://doi.org/10.1037/amp0000469\">Philpot et al. (2020)</a> then went to the field, coding over two hundred real public conflicts from surveillance video in three countries, and found that someone intervened in about nine out of ten of them — and that the probability of intervention <em>rose</em> with the number of bystanders present. The laboratory result about smoke under a door is solid. The proposition that crowds do not help is not, and the essay states the second."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I’ve mused a bit on the evolutionary psychology of the bystander effect.",
+    "content": "To the essay's credit, it constructs an adaptive story, checks whether it survives the evidence, finds that it does not, and says so — which is more than most adaptationist speculation in these books gets. The premise it never questions is the one that fails independently: that ancestral band members were mostly relatives. <a href=\"https://doi.org/10.1126/science.1199071\">Hill et al. (2011)</a> found that in 32 contemporary forager societies most co-resident adults are neither primary kin nor affines, so a kin-selection account of who helps in a band has weaker footing than the essay assumes even before the arms-race argument is tested. The replacement hypothesis offered — that this is a non-ancestral problem because subjects are strangers — is also testable and does not fit the field data, where strangers help."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "telling people about the bystander effect reduces the bystander effect",
+    "content": "The source is Beaman, Barnes, Klentz and McQuirk (1978), who lectured psychology students on bystander intervention and then, two weeks later, staged an emergency in an unrelated setting: 43% of the lectured students helped against 25% of controls. It is genuinely one of the few clean demonstrations that explaining a bias reduces it, and the essay is right to flag it as unusual. Two cautions belong with it: the samples were small by modern standards and the study has not, as far as the record shows, been directly replicated in the fifty years since — and the effect it reduces is now known to be much weaker in the field than in the laboratory. The advice remains good. The evidential base for it is one 1978 experiment."
+  }
+]

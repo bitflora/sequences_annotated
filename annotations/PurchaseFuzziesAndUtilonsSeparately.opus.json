@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I recommend that you purchase warm fuzzies and utilons separately",
+    "content": "The proposal assumes the two purchases are independent, and the moral-licensing literature says they interact in the wrong direction. <a href=\"https://doi.org/10.1177/0146167215572134\">Blanken, van de Ven and Zeelenberg (2015)</a> meta-analysed 91 licensing studies and found a small but reliable effect, d ≈ 0.31: having just established one's moral credentials makes subsequent selfish or less prosocial choices easier, not harder. Buying the fuzzies first is precisely the manipulation that produces the effect. There is a second problem from the other side: <a href=\"https://doi.org/10.2307/2234133\">Andreoni's (1990)</a> impure-altruism model, and the empirical work built on it, treats warm glow as the component that actually sustains giving, so a donation stripped of it is a donation with its motivational base removed. The essay's own honest report — that its author needs the open trunk to keep from drifting — is evidence for exactly this."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "personally, but anonymously, give her a cashier’s check for $10,000",
+    "content": "Offered as the paradigm of a purchase that buys feeling rather than good, and unconditional cash transfers turn out to be among the better-evidenced interventions in existence — in the right setting. <a href=\"https://doi.org/10.3982/ECTA17945\">Egger, Haushofer, Miguel, Niehaus and Walker (2022)</a> randomized roughly $1,000 transfers across 653 Kenyan villages and measured general-equilibrium effects, finding a local fiscal multiplier around 2.5 with no meaningful inflation — the transfers raised consumption and income for non-recipients too. In a rich country the cost-effectiveness is far lower, which is the essay's implicit and correct point. But the recommendation as written — hand a stranger money and let them decide what to do with it — is not the opposite of the utilon purchase; it is the leading contender for the benchmark against which other utilon purchases are measured."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "what they spend on utilons should be at least, say, 20 times what they spend on warm fuzzies—5% overhead on keeping yourself altruistic seems reasonable",
+    "content": "A ratio arrived at by saying \"say,\" in a paragraph demanding absolute cold-blooded calculation and expression of uncertainty in percentage probabilities — the move Book V's essays name and then commit, that numbers should come from numbers. It also sits badly with the essay two chapters earlier, which argued that people spread donations across causes as mental accounting, that telling them about an extra cause raises total giving, and that invidious comparison between causes can reduce the overall supply of altruism. Here the reader is told to identify the single highest-expected-utility charity and fund it to the point of declining marginal returns, which for any individual donor means giving everything to one recipient. Both recommendations are made in the same voice, three essays apart, and they are not compatible."
+  }
+]

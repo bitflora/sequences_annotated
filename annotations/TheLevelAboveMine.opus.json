@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the sense I get of Jaynes is one of terrifying swift perfection",
+    "content": "The books that precede this one devote a whole sequence to affective death spirals and the halo effect, and this is one. <em>Probability Theory: The Logic of Science</em> was published posthumously and unfinished, assembled by Bretthorst from drafts, and it is a polemic as much as a textbook. Its central formal claim — that Cox's theorem forces probability on any consistent system of plausible reasoning — needs regularity assumptions Cox did not state, and <a href=\"https://doi.org/10.1613/jair.644\">Halpern (1999)</a> exhibited a finite counterexample satisfying Cox's stated postulates and violating the conclusion. Jaynes's own program has the unresolved marginalization paradoxes of Dawid, Stone and Zidek, to which his replies are not generally regarded as decisive. The correct assessment is \"a brilliant, opinionated, sometimes wrong book,\" and the assessment recorded here is the one this text's own vocabulary calls a halo."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s a general rule, I’ve observed, that you can’t discriminate between levels too far above your own.",
+    "content": "The essay immediately labels the quantitative version — one standard deviation — a wild guess, and then relies on the qualitative version for the rest of the argument. The literature on judging expertise supports a narrower claim: people can identify superior performance in domains with fast, unambiguous feedback and largely cannot in domains without it. Shanteau's analysis of where expertise is and is not demonstrable puts theoretical AI research firmly in the second category, alongside clinical psychology and stockbroking, where even practitioners cannot reliably rank each other. That cuts both ways here. If levels above one's own blur, then \"Jaynes is above me and Conway may be above me\" is exactly the judgment the rule says one cannot make."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Marcello thought for a moment and said “John Conway—I met him at a summer math camp.”",
+    "content": "This is the entire evidential basis of the essay's central question, and it is one acquaintance's momentary impression. Self- and peer-estimates of intelligence are weak instruments: the meta-analysis by <a href=\"https://doi.org/10.1037/a0026556\">Freund and Kasten (2012)</a> puts the correlation between self-estimated and psychometrically measured intelligence at about .33, and estimates of others fare little better outside domains with objective performance records. The exercise being performed — inferring one's own standing from whether a friend can name someone more impressive — has no measurement properties at all, and the essay treats the answer as data about the world rather than as data about who Marcello had met."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I’ll hit a brick wall at 40",
+    "content": "The age–creativity literature does not describe a wall. Simonton's data give a broad peak in the late thirties and early forties for most fields with a shallow decline afterwards, and the decline is largely a decline in output rate rather than in the quality of individual works — the equal-odds rule holds that the ratio of hits to total attempts stays roughly constant across a career. <a href=\"https://doi.org/10.1162/rest.2009.11724\">Jones (2010)</a> finds the mean age of great invention has been rising for a century, as the training burden in each field grows. The relevant risk to the author's programme was never a cliff at forty; it was the same one that faces everyone, which is that most careers produce their best work at an unpredictable time and many produce none."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Because I do know… that’s not how it works.",
+    "content": "The claim being refused is that someone short of Jaynes or Conway can still do important work in their field, and the quantitative work on scientific careers says the refusal is wrong. <a href=\"https://doi.org/10.1126/science.aaf5239\">Sinatra et al. (2016)</a>, modelling the impact histories of tens of thousands of scientists, find that the highest-impact paper occurs at a random position within a career — impact is well described as a person-specific ability parameter multiplied by a heavy-tailed luck draw, with productivity determining how many draws you take. Ability matters and it does not gate: the distribution has no threshold below which important results become impossible, only a rate that falls. The essay is treating a heavy-tailed distribution as though it had a cliff, which is the same error as reading a percentile as a permission."
+  }
+]

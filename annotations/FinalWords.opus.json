@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "if we were not taught, there would be no chance at all of our becoming masters",
+    "content": "The sequence on challenging the difficult ends, like several of its central arguments, in invented dialogue: a fictional master delivers the verdict on whether the art can be taught, and the fiction is constructed so that he is right. Book II's essay on generalization from fictional evidence names the problem — a story is written by someone who already knows the moral, so its events are evidence about the author's beliefs and nothing else — and the objection does not weaken because the author is the same person. The claim being made is empirical and testable: that instruction is necessary but insufficient, and that the necessary further ingredient is unteachable. Nothing in the parable bears on it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the moment of your crisis cannot be provoked artificially. To teach you something, the catastrophe must come as a surprise.",
+    "content": "This is stated as a constraint on pedagogy and it is the opposite of what instructional research finds. Manufacturing productive failure is a standard and effective design: <a href=\"https://doi.org/10.1007/s11251-012-9209-6\">Kapur (2012)</a> and subsequent replications show that students who are made to attempt problems they cannot yet solve, before any instruction, later outperform students taught the method first — despite failing at the time and knowing they are failing. The wider desirable-difficulties literature — spacing, interleaving, retrieval practice, errorful generation — is built on deliberately induced struggle. The crisis can be provoked artificially; that is what a hard problem set is. What cannot be provoked artificially is a crisis with real stakes, which is a different and much narrower claim than the one made here."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The third flaw is underconfidence, modesty, humility.",
+    "content": "Listing underconfidence as one of three besetting flaws, coequal with motivated skepticism and cleverness, does not match the measured asymmetry. Overconfidence in the calibration sense is one of the most robust findings in the judgment literature and the more expensive one; underconfidence appears reliably only in a specific and predictable place — easy tasks, where the hard–easy effect reverses the direction of miscalibration. Whether it is a besetting flaw of <em>this</em> community is an empirical question about a population, and the essay offers no measurement of it, only the observation that its members talk about their biases a great deal. The full argument arrives eighteen essays later in <em>The Sin of Underconfidence</em>, where the same gap appears in a longer form."
+  }
+]

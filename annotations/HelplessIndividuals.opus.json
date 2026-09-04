@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "our grouping instincts are optimized for 50-person hunter-gatherer bands where everyone knows everyone else",
+    "content": "The premise recurs throughout this sequence and the best available data on forager social structure contradicts its key clause. <a href=\"https://doi.org/10.1126/science.1199071\">Hill et al. (2011)</a> compiled residence data from 32 present-day foraging societies and found that most co-resident adults in a band are neither close kin nor affines, that individuals move between bands repeatedly over a lifetime, and that a typical forager therefore interacts with several hundred to a thousand individuals across many camps rather than a fixed fifty. That structure — fluid membership, frequent contact with non-relatives, reputation carried between groups — is what makes human cooperation with strangers possible in the first place, and it is closer to a modern city than to the closed band the essay's argument requires."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Why don’t Seth Roberts’s readers come together to support experimental tests of Roberts’s hypothesis about obesity? Why aren’t individual philanthropists paying to test Bussard’s polywell fusor?",
+    "content": "Both examples of obviously underfunded good science have since been resolved, and neither vindicates the complaint. Roberts's set-point theory of appetite rested on his own uncontrolled self-experimentation, was never supported by a randomized trial, and his own published defence of self-experimentation as a method was the substance of the objection to it; he died in 2014 with the hypothesis untested and untestable in the form he stated it. Bussard's polywell was funded — the US Navy backed EMC2 through a series of contracts running to well over ten million dollars — and the devices did not demonstrate the predicted scaling, with the programme quietly ending. The essay is using the failure of the crowd to fund two ideas as evidence of a funding pathology, and in both cases the crowd's judgment was subsequently confirmed."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Science has fastened itself as a parasite onto the few forms of large organization that can exist in our world",
+    "content": "The structural observation is largely right and the exception the essay names in passing — diseases with vivid victims — turns out to be more powerful than it allows. Patient-organized disease philanthropy has funded first-in-class drugs: the Cystic Fibrosis Foundation invested roughly $150 million of donated money in venture-philanthropy contracts with Vertex, producing ivacaftor and the modulator therapies that changed the disease's prognosis, and then sold its royalty stake for $3.3 billion. The ALS Ice Bucket Challenge raised over $100 million from individuals in eight weeks and funded work that identified NEK1 as a risk gene. Individual donation can fund science; what it funds is science with an identifiable sufferer attached, which is the essay's own diagnosis stated as a limit rather than as an impossibility."
+  }
+]

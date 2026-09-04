@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "any math simple enough to be formalized in a neat equation was probably not going to work for, you know, real intelligence",
+    "content": "The essay recants this belief, but the recantation is aimed in the wrong direction: it concludes that there must be a deep mathematics of intelligence waiting to be found. What actually produced systems that write code and pass professional exams is embarrassingly little mathematics — a differentiable loss, stochastic gradient descent, backpropagation, and a softmax attention block that fits on a slide (<a href=\"https://doi.org/10.48550/arXiv.1706.03762\">Vaswani et al. 2017</a>) — applied at enormous scale, with capability tracking compute and data along smooth empirical power laws that nobody has derived from first principles. The young author's generalization was wrong, but so is the mature correction: the answer was neither a neat Bayesian equation nor a big pile of cognitive pieces."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I had mostly written it off as a sick, dead field",
+    "content": "This is presented as an understandable error given the field's overpromising, but the specific thing said to be missing — \"the math that wasn't fake\" — was in print and prominent throughout the period described. Pearl's <em>Probabilistic Reasoning in Intelligent Systems</em> appeared in 1988 and won its author the Turing Award for exactly the Bayesian machinery this text later treats as the foundation of rationality; Vapnik's statistical learning theory was published in 1995; <a href=\"https://doi.org/10.1162/neco.1989.1.4.541\">LeCun et al. (1989)</a> had backpropagation training convolutional networks on real digits; and Tesauro's TD-Gammon reached near-world-championship backgammon by self-play in 1994, using a neural network and temporal-difference learning. The field was not a wasteland in the 1990s. It was where the answer was."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I now think that an Artificial Intelligence should look nothing like a human brain",
+    "content": "Stated in 2008 and falsified by what followed. Every system that has moved the field since is a neural network in the lineage that runs from Hubel and Wiesel's recordings of visual cortex through Fukushima's neocognitron to LeCun's convolutional networks: distributed representations, layered feature hierarchies, learning by local weight updates. The convergence is not merely rhetorical — <a href=\"https://doi.org/10.1073/pnas.1403112111\">Yamins et al. (2014)</a> found that the networks that perform best on object recognition are also the best available predictors of neural responses in macaque inferotemporal cortex, without having been fitted to that data. The essay's consolation prize, that studying neuroanatomy was useful anyway, turns out to be the main prize."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "the pieces were things like “visual cortex” and “cerebellum”—rather than “stock-market trading module” or “commonsense reasoning module,” which is a standard wrong road in AI",
+    "content": "Both decompositions turned out to be wrong roads, and the essay's preferred one is not obviously less wrong. Large models do not decompose into anatomical analogues any more than into task modules; interpretability work finds induction heads, features stored in superposition across neurons that participate in many unrelated computations, and circuits that cut across layers without respecting any anatomical partition. The lesson the essay draws — that the right carving is the brain's — was a lucky escape from one error into a different one, which is consistent with its own thesis about accidental successes but not with the moral it wants to draw from it."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "What you actually end up doing screens off the clever reason why you’re doing it.",
+    "content": "\"Screens off\" is a technical relation — X screens off Y from Z when Z is conditionally independent of Y given X — and it does not hold here. Knowing what someone did in one case does not make their reasons irrelevant to what they will do in the next case, which is precisely why the rest of this book audits reasoning rather than outcomes. The maxim also contradicts the books' most-repeated methodological claim: <em>The Bottom Line</em> and <em>Fake Causality</em> insist that a conclusion's evidential worth depends entirely on the process that produced it, not on whether it happened to land correctly. Both cannot be right, and the version stated here is the one that licenses judging a research programme by whether its author is still around to describe it."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "if I’d fallen into a true dead end, you probably wouldn’t be hearing from me in this book",
+    "content": "The parenthesis names the problem correctly and then proceeds as though naming it were a remedy. This is survivorship bias in its canonical organizational form, analyzed formally by <a href=\"https://doi.org/10.1287/orsc.14.3.227.15160\">Denrell (2003)</a>: when failures exit the sample, learning from the observed survivors systematically overvalues risky strategies and produces confident advice that would not survive contact with the unobserved cases. An entire sequence of lessons drawn from one filtered trajectory is exactly the design Denrell shows to be misleading, and no amount of the author's candour about the filter corrects for it. What would correct for it is the outcome data on everyone else who reasoned the same way in 1996, which does not exist."
+  }
+]

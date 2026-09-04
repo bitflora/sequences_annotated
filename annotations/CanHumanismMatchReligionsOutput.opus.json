@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "theologians don’t really believe that stuff, but many ordinary Catholics do",
+    "content": "Two claims, both asserted without evidence, and the survey data complicate the second. Pew's US religious landscape surveys put belief in hell among American Catholics at roughly 60% — a majority, but a much smaller one than among evangelicals, and lower than Catholic belief in heaven by about twenty points, which is itself a finding the essay's model does not predict. The first claim, about theologians, is mind-reading of a kind the earlier books identify as a specific failure: it attributes insincerity to a group in order to explain why their stated beliefs need not be engaged. Whatever the doctrine of hell is doing in Catholic practice, \"the elite know it is false and the laity are frightened by it\" is a hypothesis, and it is the one that makes the essay's argument work."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Cognitive-behavioral therapy and Zen meditation are two mental disciplines experimentally shown to yield real improvements.",
+    "content": "Both are supported and both are weaker than this sentence implies. <a href=\"https://doi.org/10.1037/bul0000015\">Johnsen and Friborg (2015)</a> meta-analysed 70 studies of CBT for depression across four decades and found the effect size declining steadily, roughly halving from the earliest cohort to the most recent — a pattern consistent with early enthusiasm, small-sample inflation and improving control conditions. For meditation, the systematic review commissioned by AHRQ and published as <a href=\"https://doi.org/10.1001/jamainternmed.2013.13018\">Goyal et al. (2014)</a> found moderate-quality evidence for small improvements in anxiety, depression and pain, and no evidence that meditation programmes outperformed active controls such as exercise or drugs on any outcome. Both are real. Neither is the reliable motivational technology the argument here needs."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I suspect that the largest step rationalists could take toward matching the per-capita power output of the Catholic Church would be to have regular physical meetings",
+    "content": "The suspicion is correct and the evidence for it was in print. Putnam and Campbell's <em>American Grace</em> analysed the religiosity–generosity link in panel data and found that the greater giving and volunteering of religious Americans was entirely accounted for by the number of close friends held within the congregation: with congregational friendships controlled, theological belief, frequency of prayer and denominational affiliation added essentially nothing, and a non-believer with many church friends outgave a believer with none. <a href=\"https://doi.org/10.1177/0022146510374680\">Lim and Putnam (2010)</a> reported the same structure for life satisfaction. The mechanism is the pews rather than the pulpit, which means the essay's answer is right and the framing that occupies its first two thirds — that the competition is between hell and truth as motivators — is asking about the wrong variable."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "How much of its earnings does the Catholic Church spend on all that useless religious stuff instead of actually helping people? More than 50%, I would venture.",
+    "content": "A number produced by venturing, in a sequence whose subject is the verification of claims, and then used to derive a target for the reader's own giving. The real accounting is hard and does not obviously go this way. Congregational budgets are indeed dominated by staff and buildings, and studies of American church finances find only a low single-digit percentage of parish income reaching external benevolences. But the Catholic Church is not only its parishes: Catholic Charities USA and the Catholic hospital and school systems run on billions of dollars annually and constitute one of the largest non-governmental service providers in the country, and how their revenue is attributed changes the ratio enormously. The honest statement is that nobody in this essay has looked."
+  }
+]

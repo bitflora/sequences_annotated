@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Steve Omohundro has suggested a folk theorem to the effect that, within the interior of any approximately rational self-modifying agent, the marginal benefit of investing additional resources in anything ought to be about equal.",
+    "content": "This is the equimarginal principle, and it is one of the oldest results in economics rather than a folk theorem about self-modifying agents. Gossen stated it in 1854 — at the optimum, the marginal utility per unit of expenditure is equal across all uses — and it has been the first-order condition of constrained optimization in every textbook since Jevons and Marshall; it is what a Lagrange multiplier means. Attributing it to a 2007 paper on AI drives is the pattern these annotations have flagged repeatedly across six books: a standard result from an adjacent discipline is encountered through a contemporary source and credited there. The application to an agent's internal allocation is a legitimate extension. The principle is not new and the citation should not be to 2007."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "In our society, this common currency of expected utilons is called “money.” It is the measure of how much society cares about something.",
+    "content": "A price is a marginal rate of substitution weighted by ability to pay, and the gap between that and \"how much society cares\" is one of the foundational results of welfare economics rather than a cynical footnote. A dollar of a billionaire's willingness to pay counts identically to a dollar of a destitute person's, so aggregate willingness to pay tracks the distribution of income as much as the intensity of preference — which is why cost–benefit analysis requires distributional weights and why Sen's work on capability rather than income exists. Prices also fail systematically for public goods, for goods with externalities, and for anything not traded. The essay's practical point about specialization and gains from trade survives all of this intact; the metaphysical claim in the second sentence does not, and it is the one being used to license inferences about what a person really values."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "the lawyer who spends an hour volunteering at the soup kitchen, instead of working an extra hour and donating the money to hire someone to work for five hours at the soup kitchen",
+    "content": "The comparative-advantage argument assumes a margin at which the lawyer can convert an hour of leisure into an hour of billable work, which salaried and even most billing professionals cannot; labour supply is lumpy, and for most people the relevant trade is not hours-for-dollars at the market wage. More striking is that the empirical relationship between the two activities runs opposite to the substitution the puzzle assumes. <a href=\"https://doi.org/10.1093/jleo/ewz001\">Brown, Meer and Williams (2019)</a>, using both panel data and an experiment, find that time and money donations are complements rather than substitutes: shocks that raise volunteering raise giving, and vice versa. If the lawyer stops volunteering, the model predicts more money for the soup kitchen and the data predict less."
+  }
+]

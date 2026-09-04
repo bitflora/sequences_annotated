@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "it was said since the ancient times: “If thou would have peace, prepare for war.”",
+    "content": "The line is Vegetius, from the fourth-century <em>De Re Militari</em> — \"igitur qui desiderat pacem, praeparet bellum\" — and it is being used as an established truth in a book that spends a sequence on why proverbs are not evidence. The proposition it asserts is one of the oldest open questions in international relations, and the best-developed answer is that it is conditionally false. Jervis's classic 1978 analysis of the security dilemma shows that when defensive and offensive preparations are indistinguishable, arming to deter produces the arms race and the war it was meant to prevent; the empirical literature on arms races and war onset finds a positive association at least as often as a deterrent one. Preparing for war sometimes buys peace and sometimes buys war, depending on parameters the aphorism does not mention."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "A society of agents that use my kind of decision theory, and have common knowledge of this fact, will end up at Pareto optima instead of Nash equilibria.",
+    "content": "This overstates a result that is real but much narrower. Program equilibrium, where agents submit source code that the other can read, does support cooperation in the one-shot Prisoner's Dilemma — Tennenholtz proved it in 2004 and the provability-logic versions followed. What those results also establish is a folk theorem: essentially any individually rational outcome, not just the Pareto-optimal one, is supportable as a program equilibrium. Selection among them is the bargaining problem, which mutual transparency does not solve and may sharpen, since agents can commit to demands. With differing utility functions there is no single Pareto optimum to arrive at — there is a frontier, and which point on it you reach is exactly what the fighting is about. Common knowledge of rationality buys efficiency, not agreement."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "By that same theory whereby, if an election is won by 100,000 votes to 99,998 votes, it does not make sense for every voter to say “my vote made no difference.”",
+    "content": "The voting example does not need an unconventional decision theory, and the standard treatment reaches the same practical conclusion by an ordinary route. Edlin, Gelman and Kaplan, in <em>Rationality and Society</em> (2007), compute the probability of a decisive vote in a US presidential election at roughly one in ten million for a voter in a competitive state — small, but multiplied by the welfare consequences for a few hundred million people it yields an expected social benefit comfortably exceeding the cost of voting, provided the voter has any altruistic term in their utility function at all. No acausal reasoning is required. The essay's own metaethics grants social preferences readily, which makes this the cheaper derivation, and it also explains the observed correlate: turnout rises with closeness, as the causal model predicts and the acausal one does not."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "we can perhaps all agree that it is a good idea to give the selectees drugs that will induce extra courage, and shoot them if they run away",
+    "content": "The chain from decision theory to this policy runs through an ex ante unanimity argument, and the policy it arrives at is both a war crime under the modern law of armed conflict and poorly supported as military practice. The historical record on summary execution of deserters is not one of effective armies: the British shot 306 men in the First World War and reviewed and pardoned them nearly all in 2006; the Soviet blocking detachments are not generally credited by historians with the Red Army's recovery. The military-sociology literature, from Shils and Janowitz on Wehrmacht primary groups through the modern work on task versus social cohesion, consistently finds unit performance predicted by commitment to the immediate group and to the task rather than by fear of one's own side. The essay's derivation is valid; its conclusion is unpriced."
+  }
+]

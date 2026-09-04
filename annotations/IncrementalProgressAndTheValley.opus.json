@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Rationality is systematized winning.",
+    "content": "The slogan is retracted three paragraphs later, and the retraction is the correct position: \"even perfectly rational agents can lose … they can't expect to underperform any other performable strategy.\" That is a statement about <em>expected</em> outcomes relative to available information, which is the standard decision-theoretic criterion and is not the same thing as winning. The difference matters because the slogan is the one that gets quoted and the one that does the work in this sequence's arguments about whether rationalists ought to be visibly formidable. Judging a decision procedure by realized outcomes is outcome bias, which Book II condemns at length; judging it by expected outcomes requires a model, and disputes about which procedure is better are disputes about the model. The essay has both positions and uses whichever the argument needs."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "From a statistical standpoint, lottery winners don’t exist—you would never encounter one in your lifetime, if it weren’t for the selective reporting.",
+    "content": "A rhetorical flourish stated as a statistical fact, and it is not one. US state lotteries and Powerball together produce a few hundred prizes of a million dollars or more every year and many thousands of six-figure prizes; the odds that a given American personally knows someone who has won a large prize over a lifetime are not negligible, and the odds of encountering one are considerably better than that. The point the sentence is reaching for is sound and can be made exactly: the expected value of a ticket is negative, and the winners you hear about are a filtered sample whose size tells you nothing about your own chances. Overstating it into non-existence is the kind of move the essay is arguing against."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I’m talking about how startup founders strike it rich by believing in themselves and their ideas more strongly than any reasonable person would.",
+    "content": "The objection being steelmanned is empirically weaker than it looks, in a way that helps the essay. Entrepreneurial overconfidence is well documented — Cooper, Woo and Dunkelberg found 81% of new business owners putting their own odds of success at 70% or better and a third at 100%, against a five-year survival base rate near 50% — but overconfidence is what makes people <em>enter</em>, not what makes them win. <a href=\"https://doi.org/10.1086/262131\">Hamilton (2000)</a>, using US census panel data, found that the median self-employed person earns substantially less than they would as an employee with the same observable characteristics, and that the shortfall persists for at least a decade. The illusion recruits the population from which the visible winners are later drawn; the survivors are the selective reporting."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Even the surveys are comparing the average religious person to the average atheist, not the most advanced theologians to the most advanced rationalists.",
+    "content": "A fair complaint about the surveys, and the more decisive objection is that the association they measure is not a constant. <a href=\"https://doi.org/10.1037/a0024402\">Diener, Tay and Myers (2011)</a>, analysing Gallup World Poll data from over 150 countries, found religiosity predicting higher wellbeing in societies with difficult life circumstances — poverty, hunger, low life expectancy — and essentially no benefit, or a slight reversal, in wealthy and secure societies where the non-religious do at least as well. Once again the mediator is social support and meaning under threat rather than belief content. That result dissolves the dilemma the essay is wrestling with, since for a reader in a rich country the survey evidence for the comforting-illusion hypothesis largely disappears."
+  }
+]

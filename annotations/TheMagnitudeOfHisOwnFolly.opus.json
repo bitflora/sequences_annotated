@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "let them name any other who simultaneously says “I intend to build an Artificial General Intelligence,” “Right now I can’t build an AGI because I don’t know X,” and “I am currently trying to figure out X.”",
+    "content": "The challenge was answerable when it was issued and is now trivial. Hutter's AIXI programme, published in 2000 and book-length by 2005, is explicitly a theory of general intelligence that its author states is incomputable and not implementable, pursued in order to understand what would have to be approximated; Schmidhuber's Gödel machine papers of 2003 have the same structure. Both are exactly the stance the essay says has no name and no instances. Since then it has become the default self-description of every major laboratory's research agenda — stated capability goals, stated open problems, published research toward them — and the reason the essay could not see the category is that it was looking only at the small population of self-funded solo AGI enthusiasts in 2002."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "“Teenagers think they’re immortal,” the proverb goes.",
+    "content": "The proverb is doing real work here — it supplies the psychological model of how the author failed — and it is false. When Fischhoff, Quadrel and colleagues actually asked adolescents to estimate their own probability of dying within a year, or of various specific harms, teenagers <em>overestimated</em> these risks, typically by more than adults did; the review in <a href=\"https://doi.org/10.1037/0003-066X.48.2.102\">Quadrel, Fischhoff and Davis (1993)</a> is titled \"Adolescent (in)vulnerability\" for that reason. The behavioural difference is better explained by heightened sensitivity to peer and social reward: <a href=\"https://doi.org/10.1037/0012-1649.41.4.625\">Gardner and Steinberg (2005)</a> found adolescents took markedly more risks than adults when observed by peers and no more when alone. The essay's introspective story may still be accurate about its author; it is not supported by the proverb it leans on."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "For it is only the action that matters, and not the reasons for doing anything.",
+    "content": "The strongest statement yet of the maxim that has appeared three times in this sequence, and the essay refutes it in its own last paragraphs. Its conclusion is a <em>rule</em> — do not proceed until you know the ground is safe — adopted for reasons, held in advance of any particular action, and offered to readers who have not yet acted at all. A doctrine that reasons never matter cannot generate advice, because advice is a reason. What the author actually means is narrower and true: that clever justifications for a course of action are cheap and correlate poorly with the course of action being good, so an outside observer should weight the action more heavily than the story attached to it. That is a claim about the reliability of self-reported reasons, not about their causal irrelevance."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I would try to explain to them the smallness of the target in the search space",
+    "content": "This is the load-bearing technical claim of the whole programme — that the region of goal-space compatible with human survival is so small that no process not aimed precisely at it will land inside — and the intervening two decades have complicated it rather than confirming it. Systems trained by imitation on the human corpus acquire human evaluative concepts cheaply and in surprising detail, which is the part the target-smallness argument predicted would be hard; the observed failures are instead of the Goodhart kind, where a system optimizes a proxy that matched the target on the training distribution and comes apart under pressure. Both facts are consistent with a hard alignment problem. Neither is consistent with the specific picture of a mind design drawn at random from a vast space, which was the argument's original form."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the only thing I could have done to save myself, in my previous state of ignorance, was to say: “I will not proceed until I know positively that the ground is safe.”",
+    "content": "This is the precautionary principle, in one of its stronger formulations, and four essays earlier the same sequence spent its length ridiculing it. <em>Raised in Technophilia</em> presents the demand for demonstrated safety before proceeding as the signature of the Bad Guys, quotes casualty figures for what such caution costs at the FDA, and identifies \"technology has risks as well as benefits\" as the sentence one should be allergic to. Here the identical rule is the hard-won moral. The sequence never notices the reversal, and never revisits the FDA numbers under the new rule, though they are the obvious test case: if you cannot proceed onto ground you have not verified, the drug-approval delay the earlier essay costed in tens of thousands of deaths is the price of the policy now being recommended."
+  }
+]

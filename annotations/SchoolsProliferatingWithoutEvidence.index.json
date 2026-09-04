@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/SchoolsProliferatingWithoutEvidence.opus.json",
+    "default": true
+  }
+]

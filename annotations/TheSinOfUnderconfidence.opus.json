@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "When subjects know about a bias or are warned about a bias, overcorrection is not unheard of as an experimental result.",
+    "content": "True and much weaker than the essay's use of it, because whether a person shows over- or underconfidence is largely predicted by the task rather than by their disposition. The hard–easy effect, documented since Lichtenstein and Fischhoff in the 1970s, is that judges are overconfident on difficult items and underconfident on easy ones, in the same session. <a href=\"https://doi.org/10.1037/0033-295X.115.2.502\">Moore and Healy (2008)</a> resolved much of the apparent contradiction in this literature by separating three things: overestimation of one's absolute performance, which appears on hard tasks and reverses to underestimation on easy ones; overplacement relative to others, which shows the same reversal; and overprecision, excessive certainty in one's own estimates, which is near-universal and rarely reverses. \"Underconfidence\" as a standing trait of a population is not what the calibration literature finds."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I tested that, but I only won one time out of three",
+    "content": "This is the disclosure of the later AI-Box results, and it is offered as a model of the practice being recommended — form a hypothesis about your own ability, test it, accept the answer. Two observations. Three trials cannot distinguish much: one win in three is consistent, at conventional confidence, with a true win rate anywhere from about 1% to 90%, so the test performed does not establish \"the limit of my ability at that time.\" And the earlier, winning games are the ones that were publicized for years while these were mentioned in passing, which means the demonstration that circulated was the favourable half of a small sample. The methodology being taught here is exactly right; the worked example does not follow it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I recently read of a certain theist that he had defeated Christopher Hitchens in a debate",
+    "content": "Proposed as a test of the author's rationality, and public debate is a poor instrument for that by the standards this book itself sets four essays earlier in <em>Three Levels of Rationality Verification</em>. Audience verdicts in oral debate track delivery, confidence and fluency at least as much as argument quality — the reason competitive debate has judging rubrics and formal rebuttal structure is that unstructured audience judgment does not reliably distinguish the two. A format where the winner is decided by acclamation, on the fly, without resolution against any external fact, is close to the reputational level's failure mode: charisma and good stories. As far as the public record shows, the debate was never arranged, so this remains an unexecuted test as well as an unsuitable one."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "So I said to myself, “All right, this time I’m going to use the Force and act on instinct,” and my score shot up to above what it had been in the beginning",
+    "content": "The closing anecdote, offered as personal evidence that self-doubt can make you weaker, is the textbook illustration of a documented illusion. The belief that one's first instinct on a multiple-choice test is usually right has been examined repeatedly since the 1920s, and the finding is consistent and the opposite: answer changes are substantially more often wrong-to-right than right-to-wrong, typically by a ratio of two to one. <a href=\"https://doi.org/10.1037/0022-3514.88.5.725\">Kruger, Wirtz and Miller (2005)</a> explain the persistence of the folk belief as a memory asymmetry — changing a right answer to a wrong one is far more memorable and regret-laden than the reverse, so the errors that confirm the rule are the ones you retain. The essay's own experience is precisely the kind of evidence its earlier books teach the reader to distrust."
+  }
+]

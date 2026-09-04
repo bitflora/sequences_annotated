@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "that possibility cancels out of any expected utility calculation",
+    "content": "The essay diagnoses this argument as a confusion about utility as a substance, and that is not what is wrong with it — or rather, the argument is a recognized position in the philosophical literature with a recognized flaw of a different kind. \"If nihilism is true nothing matters, so condition on nihilism being false\" is the wager for moral realism, defended in print by <a href=\"https://doi.org/10.1086/505234\">Ross (2006)</a> and treated at length in the moral-uncertainty literature that MacAskill, Bykvist and Ord later systematized. Its actual problems are intertheoretic comparability — you cannot rescale two moral theories' values against each other without a further choice — and fanaticism, whereby any theory that assigns unbounded stakes dominates all others regardless of its probability. Eliezer1997's error was not idiosyncratic folly; it was an unrefined version of a live argument, and the mature essay never engages with the version that is defensible."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s evident that these problems are too hard for humans—otherwise someone would have solved them over the last 2,500 years since philosophy was invented.",
+    "content": "The inference is the same one that <em>Mysterious Answers to Mysterious Questions</em> spends a whole sequence condemning: from \"unsolved\" to \"unsolvable by this kind of mind,\" with a mysterious solvent — here superintelligence — invoked to fill the gap. It is also historically weak. Philosophy's apparent stasis is partly a selection effect of its own success: questions that get answered stop being called philosophy and leave, taking physics, psychology, linguistics and computer science with them, so the residue is by construction the hard remainder. <a href=\"https://doi.org/10.1017/S0031819114000436\">Chalmers (2015)</a> works through the progress question carefully and finds real convergence on many specific issues alongside persistent disagreement on the biggest ones, which is not the same as 2,500 years of nothing."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Since we can see that consciousness can’t arise on any computable process, it must involve new physics",
+    "content": "Reported as youthful error, and worth marking that the specific version was tested and failed rather than merely being unfashionable. The Penrose–Hameroff proposal that consciousness requires quantum coherence in neural microtubules is the best-developed instance of \"consciousness needs new physics,\" and <a href=\"https://doi.org/10.1103/PhysRevE.61.4194\">Tegmark (2000)</a> calculated decoherence times for the relevant structures at the brain's temperature and found them on the order of 10<sup>−13</sup> to 10<sup>−20</sup> seconds, ten or more orders of magnitude short of the 10<sup>−3</sup>-second scale of neural processing. That is a falsification by ordinary physics, of the kind Book IV insists Traditional Science can deliver. It also means the position was refutable in 2000 by someone who wanted to refute it, which is the essay's own thesis about what its author failed to do."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "We all know what happened to Donald Rumsfeld, when he went to war with the army he had, instead of the army he needed.",
+    "content": "The line was said in December 2004 to a soldier asking about vehicle armour, and \"we all know what happened\" is doing a great deal of unexamined work — the reader is invited to supply a shared verdict on the Iraq war as a premise. This is the move that <em>Politics Is the Mind-Killer</em>, seven hundred pages earlier, identifies as the reason not to use political examples: an argument that recruits an assumed tribal consensus has stopped being an argument. The essay could have made the identical point with the Challenger O-rings or with any engineering case where a known-inadequate margin was accepted under schedule pressure, and it would have cost nothing."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "The ancient alchemists had no logical way of knowing the exact reasons why it was hard for them to turn lead into gold. So they poisoned themselves and died.",
+    "content": "Both halves need qualifying. The mass-poisoning image is largely folklore: individual mercury exposure is documented, most famously in the elevated mercury found in samples of Newton's hair, but there is no evidence that alchemists as a class died of their practice, and the historians who have actually reconstructed their laboratory work — Newman and Principe on Starkey and Boyle — describe a competent experimental tradition that produced the mineral acids, phosphorus, and much of the apparatus and technique chemistry inherited. They also had an excellent non-logical way of knowing the difficulty: several centuries of uniform failure. And the goal was not impossible, only wildly misconceived as to means; Seaborg's group transmuted bismuth to gold in a heavy-ion accelerator in 1980, at a cost per atom that makes the point about ignorance better than the poisoning does."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "a minority position among working decision theorists",
+    "content": "The footnote points to Bourget and Chalmers's PhilPapers survey, which supports the modest claim but not the stronger one made elsewhere in these books. The 2009 survey found 31.4% accepting or leaning toward two-boxing against 21.3% for one-boxing, with 47.4% choosing \"other\" — no position held a majority, and the largest single group had no view at all. The 2020 follow-up moved to 39.0% versus 31.2%. Book V's <em>Newcomb's Problem and the Regret of Rationality</em> calls two-boxing \"the dominant consensus in modern decision theory\"; the survey the introduction cites shows a plurality that has been shrinking for a decade. See <a href=\"https://doi.org/10.1007/s11098-013-0259-7\">Bourget and Chalmers (2014)</a>."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "In light of evidence that training in statistics—and some other fields, such as psychology—improves reasoning skills outside the classroom",
+    "content": "The first citation, <a href=\"https://doi.org/10.1016/0010-0285(86)90001-0\">Fong, Krantz and Nisbett (1986)</a>, is real and much cited: brief training in the law of large numbers improved statistical reasoning on everyday problems, including in a telephone survey where subjects did not know they were being tested. But it is a 1986 result with modest samples, and the broader transfer literature that followed is far less encouraging — direct instruction in critical thinking produces reliable near transfer and weak, inconsistent far transfer. The second citation, Schoemaker's 1979 study of gambling decisions, reports that subjects' choices were better described by risk-dimension heuristics than by moment-based statistical reasoning; that is oblique support at best, and arguably evidence on the other side. The parenthetical claim that logic and fallacy courses \"have not proven similarly useful\" is given no citation at all."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "frequentism is even more “subjective” than Bayesianism, because frequentism’s probability assignments depend on the intentions of the experimenter",
+    "content": "This is the optional-stopping argument, and it is a genuine point about the likelihood principle: a frequentist <em>p</em>-value depends on the sampling plan, a likelihood does not. The rhetorical inversion — that this makes frequentism \"more subjective\" — is contested from both directions. Frequentists reply that dependence on the sampling plan is not subjectivity but error control: the long-run error rate of a procedure is an objective property of the procedure, and a stopping rule changes the procedure. And Bayesian immunity is narrower than advertised: <a href=\"https://doi.org/10.1016/j.ijar.2020.11.010\">de Heide and Grünwald (2021)</a> show that under model misspecification, or with the group-invariance priors that Bayesian testing often uses, optional stopping does invalidate Bayesian inference. The clean theorem holds only when the model is true."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "E. T. Jaynes’s position that not all possible priors are equally reasonable",
+    "content": "The objective-prior program is a real research tradition, and the introduction is right that it is what distinguishes this text's Bayesianism from subjective Bayesianism. It should be added that the program has known unsolved problems, none of which are mentioned anywhere in these six books. Jaynes's transformation-group solution to Bertrand's paradox depends on which invariance one demands and does not uniquely determine an answer; maximum entropy is defined only relative to a chosen parametrization and constraint set, so the \"objective\" prior moves when you reparametrize; and the marginalization paradoxes of <a href=\"https://doi.org/10.1111/j.2517-6161.1973.tb00952.x\">Dawid, Stone and Zidek (1973)</a> show that improper noninformative priors can yield two incompatible posteriors for the same quantity from the same data. Jaynes's own replies to that last result are not generally regarded as having settled it."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the Center for Applied Rationality, a nonprofit organization that attempts to translate results from the science of rationality into useable techniques for self-improvement",
+    "content": "Worth reading against <em>Three Levels of Rationality Verification</em>, eleven essays later in this same book, which argues that a rationality school with no outcome measurement is exactly the failure mode to expect and that reputational and self-report evidence is nearly worthless. The organization named here ran a small randomized evaluation of its own workshop in 2015 whose outcome measures were self-report scales and whose results were reported on a blog rather than in a journal; no controlled study of its curriculum has been published since. This is not a criticism of the organization so much as an observation that the introduction cites its existence as an accomplishment of the sequences by precisely the standard the sequences say not to accept."
+  }
+]

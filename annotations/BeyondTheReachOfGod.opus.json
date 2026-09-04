@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Some would account this a virtue (zettai daijobu da yo), and others would say that it’s a thing necessary for mental health.",
+    "content": "Dismissed in a parenthesis, and the literature behind the second clause is more substantial than the essay allows. <a href=\"https://doi.org/10.1037/0033-2909.103.2.193\">Taylor and Brown (1988)</a> assembled the case that mildly positive illusions about oneself, one's control and one's future are associated with better mood, persistence and social functioning, and that accuracy tracks depression — a claim contested by Colvin and Block but never refuted outright. The health evidence is firmer: <a href=\"https://doi.org/10.1007/s12160-009-9111-x\">Rasmussen, Scheier and Greenhouse (2009)</a> meta-analysed 83 studies and found dispositional optimism a reliable predictor of physical health outcomes, with effects surviving controls. The essay is entitled to say that its readers should pay this cost; it is not entitled to treat the cost as imaginary, and it opens by advising the happiness-preferring reader to stop reading, which concedes the point."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Cells with three living neighbors stay alive; cells with two neighbors stay the same; all other cells die.",
+    "content": "This is not Conway's Life, and as stated it is not an interesting automaton at all. The actual rules are: a live cell with two or three live neighbours survives; a <em>dead</em> cell with exactly three live neighbours becomes alive; everything else dies or stays dead. The birth rule is the entire source of the automaton's generativity — without it nothing ever comes into existence, patterns only decay, and the Turing-completeness the essay invokes two paragraphs earlier is lost. Since the whole passage rests on the reader being able to see that very simple rules with no clause about suffering nevertheless produce complex worlds, getting the rules wrong is more than a typo, though it does not damage the argument."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "it seems that events were mostly driven by Hitler’s personality, often in defiance of his generals and advisors. There is no particular empirical justification that I happen to have heard of for doubting this.",
+    "content": "There is an entire historiography, one of the largest disputes in the modern discipline, and the essay's cited source is the book professional historians most often name as the outdated one. The structuralist position — Broszat's polycratic state, Mommsen's \"weak dictator\" and cumulative radicalization — holds that the regime's most consequential decisions emerged from competing agencies improvising, and Kershaw's synthesis of \"working towards the Führer\" describes subordinates anticipating an unarticulated will, which is close to the opposite of the picture drawn here. Shirer's <em>Rise and Fall of the Third Reich</em> is a journalist's 1960 narrative resting on a national-character thesis that specialists rejected almost immediately. \"No empirical justification that I happen to have heard of\" is an accurate report of the author's reading and is offered as a fact about the world."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Democracies—modern liberal democracies, anyway—won’t ever legalize torture.",
+    "content": "Chosen as an example of unexamined trust, and history had already supplied the refutation by the time the essay was written. Between 2002 and 2005 the United States authorized, by written legal opinion, a programme of interrogation techniques including waterboarding, stress positions and sleep deprivation, and the Senate Select Committee's 2014 study documented both their use and the misrepresentation of their results; Israel's Supreme Court had ruled on comparable practices in 1999; the United Kingdom was found by the European Court of Human Rights in 1978 to have used the five techniques in Northern Ireland. This is one of the essay's strongest moves and it is unimpeachable: the specific consoling belief it names as unfounded was, at the moment of writing, freshly and publicly false."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "a trick as simple and stupid-sounding as vitrifying people in liquid nitrogen can save them from total annihilation",
+    "content": "Asserted as fact, in the same sentence that calls a quick rejection of it soul-destroying — which is the move the essay is otherwise about, a contested empirical premise smuggled in as the obvious thing a fair universe would not permit. The best result in this area is <a href=\"https://doi.org/10.1016/j.cryobiol.2015.09.003\">McIntyre and Fahy (2015)</a>, which preserved a rabbit brain's ultrastructure across the whole organ — a genuine advance, and one obtained by aldehyde fixation followed by cryoprotection, a procedure that is fatal by construction and is not what cryonics organizations perform. Whole-brain vitrification without fixation produces fracturing at liquid-nitrogen temperatures, and no demonstration exists that the information required to reconstruct a mind survives any current human protocol. The honest form of the claim is that it might work and nobody knows, which is not the form used here."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "There’ve been hundreds of experiments looking for some evidence that it actually works. Since you’re reading this, you can guess the answer is simply “No.”",
+    "content": "Too strong, and the correction comes from the same methodology the essay is appealing to. <a href=\"https://doi.org/10.1037/a0029406\">Mihura, Meyer, Dumitrascu and Bombel (2013)</a> conducted systematic meta-analyses of 65 individual Rorschach variables against external criteria and found that roughly a third had good validity support — concentrated in the cognitive and perceptual scores, where the task's demands resemble the thing being measured, with the Perceptual-Thinking Index performing respectably as an indicator of thought disorder. The variables with no support were the psychodynamic and interpersonal ones, which is to say the interpretations the essay describes. The field's own response was to drop them: the R-PAS system, built on that meta-analysis, retains only the empirically supported scores. \"Simply no\" is the right verdict on the practice Dawes attacked and the wrong verdict on the instrument."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "there is no statistically discernible difference between the many schools of psychotherapy",
+    "content": "This is the Dodo bird verdict, and it is the single most contested claim in psychotherapy research rather than a settled finding. Wampold's meta-analyses support it for bona fide therapies in aggregate; the counter-evidence is concentrated in specific disorder–treatment pairs, where it is strong. Exposure-based treatments outperform non-directive therapy for PTSD, OCD and panic by margins that would be visible in any clinical trial, and <a href=\"https://doi.org/10.1016/j.cpr.2009.12.003\">Tolin's (2010)</a> meta-analysis of direct comparisons found cognitive-behavioural therapy superior to other therapies for anxiety and depression at around g = 0.26. The essay's own parenthesis concedes hearing something to this effect. The accurate statement is that most of the outcome variance is common factors and a real minority of it is not, which changes what the passage can be used to argue."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "there’s also no discernible difference between seeing a psychotherapist and spending the same amount of time talking to a randomly selected college professor from another field",
+    "content": "The study is the Vanderbilt project of <a href=\"https://doi.org/10.1001/archpsyc.1979.01780090096011\">Strupp and Hadley (1979)</a>, and \"randomly selected\" is the one word that is definitely wrong. The comparison therapists were college professors chosen specifically for a reputation among students for warmth, interest and trustworthiness — that was the experimental manipulation, isolating the relationship from the technique. The sample was fifteen per condition, the clients were male college students with mild anxiety and depression, treatment ran under 25 sessions, and the professionals did outperform on some measures while the overall result was a wash. It is a real and important finding about common factors in mild presentations. It is not evidence that anyone off the street does as well, and the phrase used here would make it one."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The act of creating a new measurement creates new science; if it’s a good measurement, you get good science.",
+    "content": "True in general, and the example chosen to carry it is unfortunate. Global life-satisfaction self-report is the textbook case of a measure that validates well against its siblings and poorly against the thing it names, because all the siblings share the same source. <a href=\"https://doi.org/10.1002/ejsp.2420180107\">Strack, Martin and Schwarz (1988)</a> showed that asking students about their dating frequency <em>before</em> the life-satisfaction question raised the correlation between the two from near zero to about .6, purely by making dating accessible; related work found reported life satisfaction moving with the weather and with whether the respondent had just found a coin. Mutual validation among self-reports establishes that they share a construct; it does not establish that the construct is happiness rather than momentary accessibility."
+  }
+]

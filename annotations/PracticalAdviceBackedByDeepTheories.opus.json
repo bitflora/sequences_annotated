@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Once upon a time, Seth Roberts took a European vacation and found that he started losing weight while drinking unfamiliar-tasting caloric fruit juices.",
+    "content": "The essay's central exhibit for the thesis that deep theory makes advice generalize, and it is a case where the theory produced confident, widely adopted advice that was never tested and does not appear to work. The Shangri-La Diet rests on a flavour–calorie set-point account extrapolated from animal conditioning studies; no randomized controlled trial of it has ever been published, in the twenty years since, by Roberts or anyone else. The essay itself concedes that it does not work for its author and that there is no logic permitting that exception — which is the diagnostic sign that the underlying theory was not doing the work claimed for it. Roberts also defended self-experimentation as a method in print, and his own case is the strongest argument against it: a real effect and a theory that felt explanatory can coexist with no effect at all."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "duration neglect and the Peak–end rule",
+    "content": "Both are real, and the inference drawn from them here outruns them. The evidence comes from <a href=\"https://doi.org/10.1016/S0304-3959(96)03347-6\">Redelmeier and Kahneman (1996)</a>, where patients' remembered pain from a colonoscopy tracked the average of the worst moment and the final moment and was almost independent of the procedure's duration — a striking result about aversive episodes of varying length. Extending it to \"you will form almost exactly the same retrospective memory whether your portion size is large or small\" adds two steps the studies do not license: that eating is an episode of the same type, and that remembered satisfaction is the quantity that matters when the alternative, physical satiety, has downstream effects on the next meal. The peak–end rule has also proved boundary-dependent, weakening or vanishing for episodes with meaningful internal structure."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "ego depletion, preference reversals, hyperbolic discounting, the breakdown of the self, picoeconomics",
+    "content": "This is the essay's list of \"cognitive phenomena that actually exist,\" offered against phenomena people just made up, and its first item is the single most prominent casualty of the replication crisis. The Registered Replication Report of <a href=\"https://doi.org/10.1177/1745691616652873\">Hagger et al. (2016)</a> ran a preregistered ego-depletion protocol across 23 laboratories and 2,141 participants and found an effect size of about 0.04, statistically indistinguishable from zero; a second multi-lab attempt using a paradigm chosen by the original authors, <a href=\"https://doi.org/10.1177/0956797621989733\">Vohs et al. (2021)</a>, likewise found no meaningful effect. Hyperbolic discounting and preference reversals have held up well. The point stands that a theoretical vocabulary makes advice transmissible; it also makes advice inherit whatever the vocabulary got wrong."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "hopefully one that reported p < 0.01 because p < 0.05 may fail to replicate",
+    "content": "Prescient, three years before the replication crisis broke into the open, and insufficient. The <a href=\"https://doi.org/10.1126/science.aac4716\">Open Science Collaboration (2015)</a> reproduced 100 psychology studies and obtained significant results in 36% of them, with replication effect sizes about half the originals — and the original <em>p</em>-value was a weak predictor of replication, because a low <em>p</em> is equally obtainable from a true large effect and from undisclosed analytic flexibility applied to noise. The heuristics that emerged instead are preregistration, direct multi-laboratory replication, effect sizes with intervals rather than thresholds, and adequate power; the proposal to move the threshold to 0.005 was made and is contested. The instinct that a bare 0.05 is not enough was right. The remedy offered does not work."
+  }
+]

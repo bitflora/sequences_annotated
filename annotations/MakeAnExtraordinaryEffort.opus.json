@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It takes a tremendous amount of rationality before you stop making stupid damn mistakes.",
+    "content": "This answers the awkward question — why don't self-described rationalists visibly do better? — with a threshold model that no evidence supports and that cannot fail. The measurable version has since been tested and the answer is more modest and more useful: <a href=\"https://doi.org/10.1037/0022-3514.92.5.938\">Bruine de Bruin, Parker and Fischhoff (2007)</a> built an Adult Decision-Making Competence battery from the classic bias tasks and found it predicted fewer real-world negative life outcomes — bankruptcies, evictions, arrests — with the association surviving controls for cognitive ability and socio-economic status. The effect is real and small. Decision skill helps continuously and gradually; it does not sit behind a wall past which mistakes stop, and the threshold story conveniently makes any observed failure evidence that the threshold has not yet been reached."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Robert Aumann, the Nobel laureate who first proved that Bayesians with the same priors cannot agree to disagree, is a believing Orthodox Jew.",
+    "content": "Aumann is used here, and elsewhere in these books, as the exhibit for \"understanding the math is not enough,\" and his own published position is never quoted. He has written and lectured on the relationship directly, arguing that science and religion are distinct frameworks for organizing life rather than competing sets of factual claims, and that the question of whether religious statements are literally true is a category error about what religion does — a position with a long philosophical pedigree that one may reject but must first engage. There is a second irony: his agreement theorem requires common priors and common knowledge of posteriors, idealizations he has repeatedly emphasized are not satisfied by actual disputants. The essay leans on the theorem's author as an example of irrationality while ignoring both his stated view and his stated caveats."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The Japanese don’t rule the world today, though in the 1980s it was widely suspected that they would (hence the Japanese asset bubble).",
+    "content": "The parenthesis asserts a cause, and it is not the one economists give. The Japanese asset bubble is standardly attributed to the monetary and regulatory response to the 1985 Plaza Accord — sharp yen appreciation, followed by the Bank of Japan holding the discount rate at 2.5% for over two years, combined with financial deregulation and a banking system lending against land collateral in a rising market; the Bank of Japan's own retrospective analyses say so. National self-confidence was a symptom. The surrounding argument is worse: the essay explains Japanese scientific standing by \"the nail that sticks up gets hammered down\" three paragraphs after explaining Japanese exam performance by a cultural virtue America lacks. The same method, national character read off proverbs, is used to explain both the success and the failure, which is the signature of a story that cannot lose."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I tend to think in terms of the privately funded “brain in a box in a basement” model.",
+    "content": "The dismissed position was the correct forecast. The essay quotes, as an example of defeatist ordinariness, \"the first AIs will be built by powerful corporations and they will only care about maximizing profits\" — and that is what happened, at a capital scale that rules the basement out by construction, since training a frontier model costs more than the annual budget of any organization of the kind envisaged here. The extraordinary-effort framing led to a strategic bet on the small independent team and against engagement with the institutions that would actually build the thing, which is a substantive cost of the virtue being recommended. The essay's rhetorical question — are they under the impression humanity survives if everyone does things the default way? — has an answer worth taking seriously: the default way is where the compute was."
+  }
+]

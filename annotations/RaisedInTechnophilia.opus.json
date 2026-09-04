@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It was Pournelle’s reply to Paul Ehrlich and the Club of Rome, who were saying, in the 1960s and 1970s, that the Earth was running out of resources and massive famines were only years away.",
+    "content": "Two very different things are merged here to make one Bad Guy. Ehrlich's <em>The Population Bomb</em> did make dated, specific, falsified predictions — hundreds of millions starving in the 1970s — and he lost the famous wager with Simon. The Club of Rome's <em>Limits to Growth</em> made no such predictions: it published scenarios from a system-dynamics model with explicit caveats that they were not forecasts, and its central \"standard run\" has since been checked against four decades of observed data by <a href=\"https://doi.org/10.1016/j.gloenvcha.2008.05.001\">Turner (2008)</a> and again by <a href=\"https://doi.org/10.1111/jiec.13084\">Herrington (2021)</a>, both of whom found the observed trajectories of population, industrial output and pollution tracking it reasonably closely through 2020. The essay is describing the mechanism by which its author acquired a tribal opposition, and the merger of these two references is the mechanism working."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "those who had once opposed smallpox vaccinations, anesthetics during childbirth, steam engines, and heliocentrism: The theologians calling for a return to a perfect age that never existed",
+    "content": "Two of the four examples run the other way, and both are known myths. Religious opposition to obstetric anaesthesia is the subject of <a href=\"https://doi.org/10.1080/00033798300200211\">Farr (1983)</a>, which searched the contemporary record and found essentially no clerical campaign against it; the resistance to chloroform was medical, from physicians worried about mortality and about interference with labour, and the story of pious objectors citing Genesis 3:16 appears to be a retrospective invention with no primary sources behind it. Inoculation against smallpox was introduced to Boston in 1721 by Cotton Mather, a Puritan minister, over the loud objections of the town's physicians, one of whom is thought to have firebombed his house. In an essay about how a tribal frame filtered its author's reading, this list is the exhibit rather than the argument."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Thalidomide was sold in 50 countries under 40 names, but that only a small amount was given away in the US, so that there were 10,000 malformed children born globally, but only 17 children in the US.",
+    "content": "The numbers are roughly right and the gloss is not. The \"small amount given away\" was about 2.5 million tablets distributed to some 20,000 American patients, including several hundred pregnant women, by Richardson-Merrell under an investigational-use programme that then had almost no regulatory oversight — the US escaped by the personal refusal of one FDA reviewer, Frances Kelsey, to approve an application she considered inadequately supported, not by a system working as designed. Which is the point the anecdote is actually good for: thalidomide is what <em>produced</em> the 1962 Kefauver-Harris amendments requiring proof of efficacy and informed consent, the very approval machinery whose costs the next paragraph totals up. The counterfactual being priced is not \"the FDA of 1961 moves faster.\""
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "According to this source, the FDA’s longer approval process prevents 5,000 casualties per year by screening off medications found to be harmful, and causes at least 20,000–120,000 casualties per year",
+    "content": "\"This source\" is a hyperlink, and behind it stands Gieringer's 1985 <em>Cato Journal</em> estimate — an advocacy think-tank paper, not peer-reviewed, whose casualty figures come from extrapolating the US delay of a handful of cardiovascular drugs, principally beta-blockers, to the whole pharmacopoeia, and which assumes that every drug approved earlier abroad would have been approved in the US on the foreign schedule with the foreign labelling. The upper bound of the range is a single drug's estimate. The subsequent literature is genuinely mixed rather than one-sided: <a href=\"https://doi.org/10.1056/NEJMsa0706341\">Carpenter, Zucker and Avorn (2008)</a> found that drugs approved in the two months before a statutory review deadline were significantly more likely to be withdrawn or receive black-box warnings, so acceleration has a measured safety cost as well. An essay whose thesis is that its author uncritically absorbed one side's numbers reproduces one side's numbers, uncited, in its fourteenth paragraph."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the notion of trying to stake out a middle way generally, is usually wrong. The Right Way is not a compromise with anything",
+    "content": "As a warning against splitting the difference to look wise, this is fair. As the general epistemic principle it is stated as, it is false, and the counter-evidence is a result these books elsewhere endorse: averaging independent estimates reliably beats choosing among them, because errors are partly uncorrelated and cancel. <a href=\"https://doi.org/10.1287/mnsc.1050.0459\">Larrick and Soll (2006)</a> show both that averaging outperforms the average judge, often the best judge, and that people systematically fail to believe this — they hold exactly the intuition expressed here, that a compromise cannot be better than a correct extreme. The correct rule is not \"never take the middle\" but \"take the middle for estimation and take a side for mechanism,\" and the essay's rule is the one that produces overconfidence."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "I observed that diamond doesn’t stand off a nuclear weapon, that offense has had defense beat since 1945",
+    "content": "The offense–defense balance is a real concept in security studies and a notoriously unmeasurable one: <a href=\"https://doi.org/10.1162/isec.1998.22.4.44\">Glaser and Kaufmann (1998)</a> survey the attempts to operationalize it and find no agreed metric, while Lieber's later work argues the historical correlations claimed for it do not survive scrutiny. Whether 1945 favours offense also depends on what one counts: no nuclear weapon has been used in war in the eighty years since, which is either the strongest evidence for deterrence-as-defense in history or a small sample, but it is not obviously an offense-dominance record. The observation is being used here as a settled empirical fact in a domain where the professionals cannot agree how to measure the quantity."
+  }
+]

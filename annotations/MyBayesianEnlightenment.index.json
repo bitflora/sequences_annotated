@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/MyBayesianEnlightenment.opus.json",
+    "default": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "people seem to have a hard time reacting constructively to problems encountered over the Internet",
+    "content": "Stated as an amazing and revolutionary observation, and contradicted by a literature that was three years old at the time. Benkler's <em>The Wealth of Networks</em> (2006) documented commons-based peer production in detail: the Linux kernel, Apache, Wikipedia, SETI@home, and the general finding that distributed strangers with no contract and no manager reliably assemble complex artefacts when the task is modular, the contribution granularity is fine, and integration is cheap. Since then the list has grown to include Galaxy Zoo and Foldit — where volunteers produced a published protein structure — the Ushahidi crisis-mapping deployments, and open-source scientific software. What defeats internet strangers is not coordination but the absence of a well-specified decomposable task, which is a narrower and more actionable diagnosis than an instinct mismatch."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Put up names and photos or even brief videos if available of the first people who helped",
+    "content": "This list is a fair forecast of what online fundraising actually became — visible donor rolls, running totals, referral links, thank-you artefacts to share — and the mechanism turns out to work for the reason suggested. <a href=\"https://doi.org/10.1111/ecoj.12114\">Smith, Windmeijer and Wright (2015)</a> analysed thousands of UK charity fundraising pages where donations are displayed publicly and found substantial peer effects: a £10 increase in the previous donation raised the next donation by around £2.50, with larger effects when the donors shared a gender or were visibly connected to the fundraiser. That is conditional cooperation made visible, and it is what the previous essays in this sequence were reaching for. The mechanism was not invented by anyone thinking about the bystander effect; it emerged from platforms optimizing conversion rates."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Think of that old statistic about Wikipedia representing 1/2,000 of the time spent in the US alone on watching television.",
+    "content": "The figure is Clay Shirky's, from a 2008 talk that became <em>Cognitive Surplus</em>: roughly 100 million hours of cumulative human thought in Wikipedia against 200 billion hours a year of American television. Shirky presented it as an order-of-magnitude illustration rather than a measurement, and the Wikipedia term was an estimate built from edit counts. The intervening years supplied the answer to the implied question of where the surplus would go: to platforms whose recommendation systems are optimized for engagement, which absorbed the attention freed from television without producing another Wikipedia. That outcome is a better argument for the essay's thesis than the essay's own examples — the engine was built, and it was pointed somewhere else."
+  }
+]

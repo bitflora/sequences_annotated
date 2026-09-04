@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "How come the Raëlian flying-saucer cult can get tens of thousands of members",
+    "content": "The number is the movement's own. Susan Palmer, the sociologist who spent years doing fieldwork with the Raëlians and published the standard ethnography <em>Aliens Adored</em> (2004), found that the widely quoted membership figures counted everyone who had ever signed a membership form and never removed anyone, while attendance at national gatherings and the count of dues-paying participants indicated an active membership an order of magnitude smaller, concentrated in Quebec, France and Japan. The comparison that motivates this essay — they can mobilize tens of thousands and we cannot manage a thousand — is between a self-reported cumulative sign-up figure and a headcount of actual contributors. It is the kind of comparison the earlier books would take apart in a paragraph."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "(“Pluralistic ignorance” is the standard label for this.)",
+    "content": "Correctly named, and the classic demonstration is worth having, because it supports the essay's specific mechanism better than the essay's own anecdote does. <a href=\"https://doi.org/10.1037/0022-3514.64.2.243\">Prentice and Miller (1993)</a> found Princeton undergraduates uniformly believing their peers were more comfortable with campus drinking norms than they themselves were — with the private discomfort widespread and invisible — and traced the downstream consequences: over time, men shifted their private attitudes toward the imagined consensus. That is the observed shape of the process described here, including the part the essay needs, which is that the silence of the dissenters is self-reinforcing. The parallel to a fundraising thread where donors stay quiet and objectors post is exact."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "it is an elementary proposition that an uncoordinated mob gets slaughtered",
+    "content": "It is elementary that a mob loses to a formation, and the thought experiment as posed — privates ignorant of strategy versus an army where everyone understands it — has an answer from military history that runs against the essay. Mission command, the Prussian and later German <em>Auftragstaktik</em>, deliberately pushed understanding of intent down to the lowest levels precisely so that subordinates could act correctly when orders were absent or overtaken, and it is generally credited with the tactical superiority of German formations in both world wars; the US Marine Corps and Army adopted the doctrine explicitly in the 1980s and 1990s for the same reason. Knowledge at every level is not what produces the mob. Absence of an agreed decision procedure is, and those are separable — which is the actual gap in the community being described."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I recall a lovely experiment which showed that politically opinionated students with more knowledge of the issues reacted less to incongruent evidence",
+    "content": "The study is <a href=\"https://doi.org/10.1111/j.1540-5907.2006.00214.x\">Taber and Lodge (2006)</a>, and it has not aged well. Its headline effect — that exposure to two-sided argument drives sophisticates further apart — failed to reproduce in <a href=\"https://doi.org/10.1017/S0007123418000327\">Guess and Coppock's (2020)</a> three large preregistered experiments on the death penalty and the minimum wage, which found average movement <em>toward</em> the evidence and no polarization subgroup, and the related backfire effect has failed repeatedly at scale. The disconfirmation-bias measure that did hold up is also confounded, as Tappin, Pennycook and Rand argue, with rational updating from differing priors: someone who already has good reason to doubt a source will and should scrutinize it harder. The essay's picture of knowledge as ammunition may be right; this is not the study that shows it."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Can you imagine training prospective rationalists to wear a uniform and march in lockstep, and practice sessions where they agree with each other and applaud everything a speaker on a podium says?",
+    "content": "The proposed remedy inverts what the group-performance literature recommends. Nemeth's programme on minority influence (<a href=\"https://doi.org/10.1037/0033-295X.93.1.23\">Nemeth 1986</a>) found that exposure to a persistent dissenting minority produces divergent thinking and better solutions even when the dissenter is wrong, while majority pressure produces convergent thinking and worse ones; Nemeth's later work found authentic dissent outperforming assigned devil's advocacy, which in turn outperforms consensus norms. What groups reliably lack is not agreement but a mechanism for reaching a decision after dissent has been heard — a chair, a deadline, a vote — which is a procedural fix and requires nobody to practise applauding. The essay has correctly identified a coordination failure and misidentified its cause as an excess of disagreement."
+  }
+]

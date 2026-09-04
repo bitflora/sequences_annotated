@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Not, “Run half the signups through version A of the three-month summer training program, and half through version B, and survey them five years later.”",
+    "content": "The complaint was fair in 2009 and the intervening literature answers it in an unexpected direction. <a href=\"https://doi.org/10.1177/2372732215600886\">Morewedge et al. (2015)</a> ran exactly the missing design at smaller scale: randomized assignment to a single training intervention — one interactive game or one instructional video, under an hour — against control, with blinded outcome measures on bias-relevant scenarios, retested at eight to twelve weeks. Bias was reduced by roughly a quarter to a third and the reduction persisted at follow-up. The Good Judgment Project found the same shape for forecasting: brief probabilistic-reasoning training produced durable accuracy gains. What the evidence supports is not the three-month dojo but the hour of well-designed instruction that this essay dismisses as \"Casual Potshots.\""
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Daniel Burfoot brilliantly suggests that this is why intelligence seems to be such a big factor in rationality",
+    "content": "The suggestion is that intelligence dominates only because training is absent, and the simpler explanation is that the instruments measuring rationality are substantially measuring intelligence. In the validation of their own rationality battery, Stanovich, West and Toplak report the total score correlating with a cognitive-ability composite at around r = .7. The interesting exception cuts against the essay from the other side: <a href=\"https://doi.org/10.1037/0022-3514.94.4.672\">Stanovich and West (2008)</a> found myside bias — evaluating arguments differently depending on whether you agree with the conclusion — essentially independent of cognitive ability, which means the one component of rationality that most resembles what this book is about is the one where being smarter does not help. Neither finding supports the picture of a trainable art currently bottlenecked on raw talent."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Why aren’t “rationalists” surrounded by a visible aura of formidability?",
+    "content": "The essay's answer is insufficient systematic training, and the expertise literature makes that answer unlikely for this domain specifically. The meta-analysis by <a href=\"https://doi.org/10.1177/0956797614535810\">Macnamara, Hambrick and Oswald (2014)</a> found accumulated deliberate practice explaining about 26% of performance variance in games, 21% in music, 18% in sports, 4% in education and less than 1% in professions — with the explained fraction falling as the domain's feedback becomes slower and more ambiguous. Ericsson's own preconditions for deliberate practice are immediate feedback and a known correct method, and general-purpose life judgment has neither. The martial-arts analogy breaks at exactly the point the essay itself identifies as central, and the breakage is not a missing institution but a property of the subject matter."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Why are there schools of martial arts, but not rationality dojos?",
+    "content": "The analogy is unfortunate in a way the essay half-sees and does not pursue. Martial arts spent centuries as exactly what it warns against — systematized, lineage-based, deferential, and untested — and when a verification mechanism finally arrived in the form of open-rules competition in the early 1990s, most of the schools were revealed to be ineffective, and the surviving techniques converged on a small common set within a decade. The lesson is not that systematization plus practice produces formidability; the traditional schools had both. It is that the contest does, and everything upstream of the contest was mostly ritual. An art of rationality that cannot construct its contest is not in the position of pre-modern martial arts waiting to be systematized; it is in the position they were in the whole time."
+  }
+]

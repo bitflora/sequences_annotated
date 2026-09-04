@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/TolerateTolerance.opus.json",
+    "default": true
+  }
+]

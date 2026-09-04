@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "most Ultimatum “deciders” offer an even split; and most Ultimatum “accepters” reject any offer less than 20%",
+    "content": "True of undergraduates in industrialized countries and not of humans generally, which matters because the next paragraphs build an evolutionary-psychological argument on the premise that this is how people feel. The cross-cultural project reported in <a href=\"https://doi.org/10.1017/S0140525X05000142\">Henrich et al. (2005)</a> ran the ultimatum game in fifteen small-scale societies and found offers ranging from a mean of 26% among the Machiguenga, with almost no rejections at any level, to hyper-fair offers above 50% among the Lamalera whale hunters, with the Au and Gnau of Papua New Guinea rejecting <em>generous</em> offers because accepting a large gift incurs obligation. The best predictor of behaviour was market integration and the size of cooperative groups in daily life — that is, culture and institutions, not a species-typical intuition."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "A 100 USD game played in Indonesia (average per capita income at the time: 670 USD) showed offers of 30 USD being turned down, although this equates to two week’s wages.",
+    "content": "The study is <a href=\"https://doi.org/10.1111/j.1465-7295.1999.tb01415.x\">Cameron (1999)</a>, and its headline finding is the opposite of the use made of it here. Cameron ran the ultimatum game in Java at three stake levels rising to 200,000 rupiah — about three months' income for her student subjects — specifically to test whether fairness behaviour survives real money, and found that rejection rates <em>declined</em> as the stakes rose, while proposer offers barely moved. Individual high-stakes rejections occurred, and one of them is what the essay reports; the paper's conclusion is that responders become more accepting when the money matters. Citing the anecdote from a study whose result runs the other way is the pattern these books call the bottom line."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If you think how often situations like this would have arisen in the ancestral environment, then it’s almost certainly a matter of evolutionary psychology.",
+    "content": "\"Almost certainly\" is carrying an inference from an armchair. The competing account has evidence: people in public-goods settings are overwhelmingly conditional cooperators — <a href=\"https://doi.org/10.1016/S0165-1765(01)00394-9\">Fischbacher, Gächter and Fehr (2001)</a> elicited full contribution schedules and found about half of subjects raising their own contribution monotonically with others', a third free-riding, and almost nobody unconditional. That predicts the observed behaviour without any ancestral-band story, and it makes a different recommendation. If joining is conditional on visible evidence that others are joining, the fix is to make contributions public — which is exactly the mechanism the previous essay identified in the synagogue — rather than to exhort individuals to lower their price."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "although this latter mode of thinking seems little-used and humanly-unrealistic",
+    "content": "The parenthesis dismisses comparing a contribution against the best alternative use of the same resources, on the grounds that nobody thinks that way. Within three years of publication that comparison had become the organizing principle of a movement — counterfactual impact, room for more funding, cost per outcome, the entire apparatus of charity evaluation — which the introduction to this very book credits these essays with helping to seed. It is a rare case of an essay being falsified by its own influence. The substantive point survives in weaker form: opportunity-cost reasoning is cognitively demanding and people do not do it spontaneously. It is not humanly unrealistic; it is a skill that had to be institutionalized, and then was."
+  }
+]

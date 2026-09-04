@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "beginning students of rationality win arguments and acquire an exaggerated view of their own abilities",
+    "content": "The pattern is intuitive and the standard citation for it is shakier than its fame suggests. Kruger and Dunning's 1999 result — low performers overestimating themselves — is substantially reproduced by regression to the mean plus a general better-than-average effect applied to noisy self-estimates: <a href=\"https://doi.org/10.1037/0022-3514.82.2.180\">Krueger and Mueller (2002)</a> showed the crossover pattern emerges from simulated data with no metacognitive deficit at all, and later work using measures designed to avoid the artifact finds the deficit much reduced or absent. What survives is weaker and less flattering to the essay's use of it: everyone's self-assessment is noisy and mildly inflated, at every skill level, which means the advanced student's confidence is not much better calibrated than the beginner's."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The best physicist in ancient Greece could not calculate the path of a falling apple.",
+    "content": "True of projectile trajectories and misleading as a general verdict. Archimedes derived the law of the lever and the conditions for floating bodies with a rigour that is recognizably modern; Strato of Lampsacus argued from the observation that falling water breaks into separated drops that fall is accelerated; Eratosthenes measured the Earth. What ancient physics lacked was not competence but the concept of a quantitative law of motion — a gap that Philoponus began closing in the sixth century by experimentally refuting Aristotle's claim that fall speed is proportional to weight, a thousand years before Galileo repeated the point. The rhetorical move of using \"the Greeks\" as the measure of hopeless inadequacy is the same one Book II's essay on correspondence bias warns against, applied across time instead of across persons."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "he had been inculcated with the metaphor of science as a fair fight between sides who take on different positions",
+    "content": "This adversarial picture is offered as the naive thing that Traditional Rationality got wrong, and there is a substantial body of evidence that it is closer to right than the solitary alternative the essay prefers. <a href=\"https://doi.org/10.1017/S0140525X10000968\">Mercier and Sperber (2011)</a> assemble the case that reasoning evolved to produce and evaluate arguments in groups, and predicts the observed pattern: individuals are poor at finding flaws in their own positions and good at finding flaws in others'. The experimental signature is dramatic — on the Wason selection task, solution rates of roughly 10% individually rise above 70% in small groups where a correct minority argues, and the shift is driven by the losing side accepting a refutation. If that is how correction actually happens, the fair fight is not a naive metaphor; it is the mechanism."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Today I try not to take any human being as my opponent.",
+    "content": "Read against the previous note, this is the prescription that the evidence least supports. The individual failure mode the whole sequence documents — a skilled arguer defending a position he arrived at for bad reasons, for four years, without correction — is precisely the one the literature says other people fix and solitude does not. Nothing in facing Nature rather than opponents supplies the outside check; Nature's verdict on a research programme in AI arrives decades late, if at all, which is why the essays are able to describe 1996 through 2000 as an unbroken run of undetected error. The lesson drawn is that the author should have argued with himself harder. The evidence says he needed a better interlocutor."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "The nature of morality is still an open question in philosophy; the debate is still going on.",
+    "content": "Correct, and the inference drawn from it — that philosophy is therefore a wasteland whose classic arguments a bright teenager can knock down — does not follow, for a reason the essay half-sees. Refutation is cheap in every field where the objects of study are arguments: any position with a hundred-year literature has accumulated defences, and any critic who is content to stop at the first objection can defeat all of them in an afternoon. The relevant asymmetry is that philosophy publishes its unsolved problems and its live objections, where fields that hide theirs look healthier. On the specific question, the discipline was not silent: the metaethical positions the essay would spend Book V rediscovering — response-dependence, ideal-advisor theories, rigidified subjectivism — were all in print by 1997, and the sequence's later formulations land close to several of them."
+  }
+]

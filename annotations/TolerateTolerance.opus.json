@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Cooperation is unstable, in both game theory and evolutionary biology, without some kind of punishment for defection.",
+    "content": "Overstated in both fields. Direct reciprocity sustains cooperation in the repeated Prisoner's Dilemma with no punishment option at all — withholding future cooperation is not punishment, it is the absence of reward — and so do kin selection, partner choice and reputation-based partner switching. Costly punishment is also frequently counterproductive: <a href=\"https://doi.org/10.1038/nature07142\">Dreber, Rand, Fudenberg and Nowak (2008)</a> gave players a costly punishment option in a repeated game and found that the highest-scoring players used it least — \"winners don't punish\" — because retaliation destroys more surplus than the defection it deters. <a href=\"https://doi.org/10.1126/science.1153808\">Herrmann, Thöni and Gächter (2008)</a> ran public-goods games with punishment in sixteen societies and found widespread antisocial punishment of high contributors, severe enough to wipe out the cooperative gains in several of them."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "punishment of non-punishers, a far more dangerous idiom that can lock an equilibrium in place even if it’s harmful to everyone involved",
+    "content": "This is exactly right, and it is a known formal result rather than a hunch. <a href=\"https://doi.org/10.1016/0162-3095(92)90032-Y\">Boyd and Richerson (1992)</a> proved that once punishment is extended to those who fail to punish, cooperation can be stabilized in groups of substantial size — and, crucially for the point being made here, that the mechanism stabilizes <em>any</em> behaviour whatsoever, beneficial or arbitrary or harmful, because the second-order sanction does not care what the first-order norm says. Their paper's title makes the point: punishment allows the evolution of cooperation, or anything else. The essay's intuition about the danger of the idiom is the theorem, and the observation that it is more dangerous than first-order punishment is precisely what the model shows."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I wouldn’t be surprised to find it a human universal; it does have an obvious evolutionary rationale",
+    "content": "The move being made — I notice a tendency in myself, it seems adaptive, therefore it is probably universal — is the adaptationist reasoning that Book III spends a sequence warning against, and the cross-cultural data on this particular tendency contradict the prediction. Punishment norms vary enormously between societies in exactly the dimension at issue: the sixteen-society public-goods study finds the willingness to sanction, and to sanction sanctioners, tracking rule-of-law and civic-cooperation indices rather than being a fixed human endowment. Whether people also punish the insufficiently censorious is a testable question about a population, and the essay answers it from introspection plus an adaptive story, which is the method it elsewhere calls a just-so story when others use it."
+  }
+]

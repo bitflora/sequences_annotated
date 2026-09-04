@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/RationalityCommonInterestOfManyCauses.opus.json",
+    "default": true
+  }
+]

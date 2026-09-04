@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "it drives me up the wall when people lump together natural selection and intelligence-driven processes as “evolutionary.”",
+    "content": "The dichotomy is real at the level of mechanism and it has been eroding steadily at the level of mathematics. The replicator equation of evolutionary dynamics is formally equivalent to Bayesian updating, with fitness playing the role of likelihood and population frequencies the role of the posterior — a correspondence developed by Harper and by Shalizi, and the reason evolutionary game theory and statistical inference keep producing the same equations. Natural selection is also, in the modern description, a stochastic hill-climber on a fitness landscape, which is what stochastic gradient descent is on a loss landscape. The awkward consequence for this essay is that the blind, foresightless, local-search process it contrasts with intelligence is the process that produced every intelligent artifact of the last decade."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "a CAMD is probably too difficult for human engineers to create, even if it’s possible in theory, because we wouldn’t be able to understand something so alien while we were putting it together",
+    "content": "This was reported in 2008 as a bad excuse and it has since been falsified in the strongest possible way: the systems that work are not understood by the people who build them. A frontier model is specified by an architecture, an objective and a data pipeline; the resulting computation — what features it represents, in what superposition, through which circuits — has to be reverse-engineered afterwards by a research subfield that exists for that purpose and that has mapped a small fraction of it. \"We can only build what we understand\" was the shared assumption of essentially everyone in this debate, including its critics, and it was wrong. Alien mind designs turn out to be cheap; understanding them is what is expensive."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "when you don’t understand flight, you suppose that a flying machine needs feathers, because you can’t imagine departing from the analogy of a bird",
+    "content": "The anti-biomimicry cliché, and the aviation history does not support it. The Wright brothers spent 1899–1902 watching buzzards soar and derived lateral control — wing warping, the actual innovation that made their machine flyable when others were not — directly from the observation of a bird twisting its wingtips to roll. Lilienthal's gliders came out of a systematic study of stork wings. What the successful designers dropped was flapping, not birds. The pattern recurs: convolutional networks came out of Hubel and Wiesel's recordings of cat visual cortex, and the essay's own later admission that studying neuroanatomy was the useful part of his misspent decade is the same concession in different words."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "if you look at Shane Legg’s collection of 71 definitions of intelligence",
+    "content": "The collection is Legg and Hutter's, and the essay uses it to argue that \"achieving goals\" is a naive formulation that only hindsight equates with squeezing the future. It is worth noting what those same two authors concluded from their own survey: their formal definition of universal intelligence, published the same year, is \"an agent's ability to achieve goals in a wide range of environments\" — the very phrase, mathematized. More to the point, \"a process that constrains outcomes to a narrow region\" is not a new insight in 2003. It is the cybernetic definition of purposive behaviour given by <a href=\"https://doi.org/10.1086/286788\">Rosenblueth, Wiener and Bigelow (1943)</a>, elaborated as Ashby's law of requisite variety in 1956, and it is why control theorists have always been able to talk about thermostats and organisms in one vocabulary."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "I even saw, in a flash of the same enlightenment, that a mind had to output waste heat in order to obey the laws of thermodynamics.",
+    "content": "This is false as a matter of physics, and Book IV's own essay on the Second Law contains the material that refutes it. Landauer's principle assigns an unavoidable cost of <em>kT</em> ln 2 per bit to <em>erasure</em>, not to computation; Bennett showed by explicit construction that any computation can be performed reversibly, retaining its intermediate results, with dissipation approaching zero in the slow limit. A mind that never discards information need not radiate. Real brains dissipate enormously — around a hundred million times the Landauer bound per synaptic operation — but for engineering reasons, not thermodynamic necessity. Presented in the essay as part of a single flash of correct naturalistic insight, this piece of it is simply an error."
+  }
+]

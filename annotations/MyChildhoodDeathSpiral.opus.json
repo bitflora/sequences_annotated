@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "For a long time, I thought that the moral of this story was that experience was no match for sheer raw native intelligence.",
+    "content": "A note on the evidence base of this entire sequence, which is a retrospective self-diagnosis of beliefs held ten to twenty years earlier. The books that precede it argue at length that people have no privileged introspective access to the causes of their own judgments (<a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Nisbett and Wilson 1977</a>), that memory is reconstructive rather than archival, and that we systematically revise recollections of our past beliefs toward our present ones — the consistency bias, which is strongest exactly where a person believes they have changed. A confession of past error is a genre that flatters the confessor, and none of the claims here about what the young author believed and why can be checked against anything. The sequence should be read as a set of illustrative parables about a real person, not as data."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "does self-awareness have nothing to do with wisdom, or being a good person? Modeling yourself takes intelligence.",
+    "content": "The empirical relationship runs the other way for the specific kind of self-modeling at issue here. <a href=\"https://doi.org/10.1037/a0028857\">West, Meserve and Stanovich (2012)</a> measured the bias blind spot — the tendency to see cognitive biases in others but not oneself — against cognitive ability, and found that more cognitively sophisticated participants displayed <em>larger</em> blind spots, not smaller, across seven classic biases. Nor did the blind spot correlate with actually being less biased. Intelligence buys the machinery for building a self-model; it also buys better arguments for whatever the self-model already says, which is the mechanism this book elsewhere calls motivated skepticism."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "More unfair than wealth or health or home country, unfairer than your happiness set-point.",
+    "content": "As a claim about the variance in life outcomes explained, this ranking is backwards. <a href=\"https://doi.org/10.1162/REST_a_00432\">Milanović (2015)</a> finds that country of residence alone accounts for more than half of the variance in global individual income, and that the \"citizenship premium\" for a person at a given income percentile can be a factor of ten or more between countries. Within a country, IQ predicts income only modestly: <a href=\"https://doi.org/10.1016/j.intell.2007.02.003\">Zagorsky (2007)</a>, using the NLSY, found each IQ point worth a few hundred dollars of annual income and no reliable relationship to net worth or financial distress at all. Where you were born dominates. The happiness set-point invoked at the end of the list has also not held up as a fixed card: <a href=\"https://doi.org/10.1111/j.0956-7976.2004.01501001.x\">Lucas, Clark, Georgellis and Diener (2004)</a>, following German respondents for up to two decades, found that unemployment durably shifts life satisfaction and that people do not return to baseline even after re-employment. The essay is making a claim about the moral salience of an unfairness and stating it as a fact about magnitude."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "It was dysrationalia that did them in; they used their intelligence only to defeat itself.",
+    "content": "\"Dysrationalia\" is Stanovich's coinage and a real construct, but it does not support the diagnosis offered here. In the validation of the Comprehensive Assessment of Rational Thinking, Stanovich, West and Toplak found the total rationality score correlating with a cognitive-ability composite at roughly r = .7 — high enough that rationality and intelligence are mostly the same axis, with dissociation available only at the margins. And the specific case, religious belief in intelligent adults, is not a puzzle needing a special deficit: the meta-analytic religiosity–intelligence correlation is about −.20 (<a href=\"https://doi.org/10.1177/1088868313497266\">Zuckerman, Silberman and Hall 2013</a>), and a reanalysis by <a href=\"https://doi.org/10.1016/j.intell.2016.04.002\">Webster and Duffy (2016)</a> found even that shrinks once one leaves US samples and controls for education. Intelligent religious parents are the ordinary case, not a malfunction."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "just try explaining the Prisoner’s Dilemma to a chimpanzee, right?",
+    "content": "Chosen as a reductio, this example has since been run. <a href=\"https://doi.org/10.1038/srep05182\">Martin, Bhui, Bossaerts, Matsuzawa and Camerer (2014)</a> had chimpanzees and humans play competitive matching-pennies games and found the chimpanzees' play closer to the Nash equilibrium prediction — faster to converge, less prone to exploitable patterns — than the humans'. Chimpanzees have also been tested on Prisoner's-Dilemma-structured tasks and shown conditional cooperation. This does not establish that chimpanzees have a theory of strategic interaction; it does establish that \"strategic reasoning requires human-level intelligence\" is not the safe background assumption the sentence treats it as."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "And then Eliezer1996 encountered the concept of intelligence explosion.",
+    "content": "The idea has a specific and older provenance that the essay does not give: I. J. Good's 1965 \"Speculations Concerning the First Ultraintelligent Machine,\" which states the recursive argument in full, and Vinge's 1993 \"The Coming Technological Singularity,\" which is where most readers of the period met it. Presenting it as a concept encountered rather than a literature entered matters, because the argument's weakest joint — that improvements in intelligence compound faster than the problems they must solve get harder — was contested from the beginning and remains so. Nothing in the subsequent decade of scaling has settled it: capability gains have come from spending more compute on a fixed algorithm, which is an exponential-input story, not a recursive-self-improvement one."
+  }
+]

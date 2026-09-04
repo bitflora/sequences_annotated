@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/ShutUpAndDoTheImpossible.opus.json",
+    "default": true
+  }
+]

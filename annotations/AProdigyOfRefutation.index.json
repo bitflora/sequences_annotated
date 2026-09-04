@@ -1,0 +1,9 @@
+[
+  {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/AProdigyOfRefutation.opus.json",
+    "default": true
+  }
+]

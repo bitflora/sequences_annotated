@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In Orthodox Judaism there is a saying: “The previous generation is to the next one as angels are to men; the next generation is to the previous one as donkeys are to men.”",
+    "content": "The line is R. Zeira's at Shabbat 112b — \"if the early ones were sons of angels we are sons of men, and if the early ones were sons of men we are like donkeys\" — and the doctrine built on it, <em>yeridat ha-dorot</em>, is real but is one strand among several rather than the system's operating principle. The countervailing texts are equally canonical and better known: Rosh Hashanah 25b holds that Jephthah in his generation carries the authority of Samuel in his, precisely to license the living court; and Bava Metzia 59b, the oven of Akhnai, has a heavenly voice endorsing R. Eliezer's ruling and the majority overruling <em>it</em>, with the closing joke that God laughed and said \"my children have defeated me.\" A tradition whose most famous story is a court outvoting divine testimony is not well described as one where knowledge can only decay."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Crawly things are ordinarily unkosher, but it is permissible to eat a worm found in an apple—the ancient rabbis believed the worm was spontaneously generated inside the apple, and therefore was part of the apple.",
+    "content": "The Talmudic rule (Hullin 67b) turns on whether the creature ever crawled on the ground, not on it being \"part of the apple,\" and the modern halakhic position is the opposite of the one described: kashrut authorities today require the inspection and rejection of infested produce, precisely because the insects are known to enter from outside as eggs. The problem the essay raises — an old ruling premised on false biology — was raised inside the tradition long ago and argued in exactly the terms it demands. Isaac Lampronti, an eighteenth-century rabbi and physician, argued in <em>Pachad Yitzchak</em> that the Talmudic permission to kill lice on the Sabbath rested on spontaneous generation, that the science was wrong, and that the ruling should therefore change. The counter-doctrine, <em>nishtaneh ha-teva</em>, was developed to handle the same class of cases. This is a live internal dispute with a literature, presented here as an unthinkable move."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Since there is no new source of information, it can only be degraded in transmission from generation to generation.",
+    "content": "This is an information-theoretic model of a legal tradition, and legal traditions do not work that way. Rabbinic law is generative rather than transmissive: it extends by argument from cases to new cases, and it has produced rulings on electricity, organ transplant, in-vitro fertilization and induced abortion that no ancient source contains. The formal doctrine of \"these and those are the words of the living God\" (Eruvin 13b) treats incompatible rulings as both authoritative, which is not a lossy channel but a branching one. The essay's own analogy points at this: science does not gain knowledge by receiving a purer signal from the past either. Both systems generate; they differ in what they are answerable to, which is the actual criticism available here and not the one made."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Take no pride in your confession that you too are biased; do not glory in your self-awareness of your flaws.",
+    "content": "The first half of the argument is well supported — merely knowing about a bias generally fails to remove it, which the author's own <em>Knowing About Biases Can Hurt People</em> documents. The psychological mechanism proposed here, that comfort with one's flaws entrenches them and self-reproach motivates repair, is the part the evidence contradicts. <a href=\"https://doi.org/10.1177/0146167212445599\">Breines and Chen (2012)</a> found across four experiments that inducing self-compassion after a failure or moral transgression <em>increased</em> the motivation to improve, to study harder and to avoid repeating the offence, relative to self-esteem boosts and to control; self-criticism predicts avoidance of the domain instead. The recommendation to strike your chest harder is the intervention with the worse record."
+  }
+]

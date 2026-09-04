@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Much of life’s challenge consists of holding ourselves to a high enough standard.",
+    "content": "The core of this essay is well supported by the goal-setting literature, which is one of the most replicated bodies of work in applied psychology: across several hundred studies and four decades, <a href=\"https://doi.org/10.1037/0003-066X.57.9.705\">Locke and Latham (2002)</a> find that specific, difficult goals reliably outperform \"do your best\" instructions, with the effect increasing in goal difficulty up to the limit of ability. \"Do your best\" is literally the control condition that loses. The qualification the essay omits is the one the same literature insists on: goals beyond the performer's ability reduce performance rather than raising it, and <a href=\"https://doi.org/10.5465/amp.2009.37007999\">Ordóñez, Schweitzer, Galinsky and Bazerman (2009)</a> document the side effects of aggressive goal-setting — narrowed focus, increased risk-taking, corner-cutting and outright unethical reporting when the target is missed."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "you’re going to try to achieve the goal-state of “having a plan that might flip the switch.”",
+    "content": "The reflective move is elegant and the empirical verdict runs against it. \"Having a plan\" is not the degenerate substitute for effort that the essay treats it as; it is the intervention with the best evidence base in the whole self-regulation literature. Implementation intentions — commitments of the form \"when situation X arises, I will perform response Y\" — produce a medium-to-large effect on goal attainment across 94 independent tests in the meta-analysis of <a href=\"https://doi.org/10.1016/S0065-2601(06)38002-1\">Gollwitzer and Sheeran (2006)</a>, over and above the effect of holding the goal itself. Oettingen's mental contrasting adds the step of confronting the obstacle explicitly. What fails is the vague intention to try hard; what works is precisely retreating one level and specifying the plan."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Want to try to make a million dollars? Buy a lottery ticket.",
+    "content": "The same example carries a different argument in Book II's <em>New Improved Lottery</em>, where the ticket is condemned not for being a low-probability plan but for being a purchased fantasy whose value is consumed before the draw. Both essays are right about the ticket and they cannot both be right about why. Here it is a maximization over available resources that is defective because the resources were not stretched; there it is defective because the buyer never wanted the money. If the second diagnosis is correct, stretching the resources would make the purchase worse rather than better, and the fault the present essay identifies — insufficient ambition about inputs — is not the fault at all."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Don’t try your best. Win, or fail. There is no best.",
+    "content": "As a prescription for an individual choosing how to frame a task, the goal-setting evidence supports this. As a standard for judging whether a person or a programme did well, it is the outcome bias the earlier books spend chapters warning against: under uncertainty, the quality of a decision has to be assessed by the information available when it was made, since a good decision can lose and a bad one can win. The essay's own sequence supplies the counterweight two chapters later, when <em>On Doing the Impossible</em> concedes that a diligent effort will not always save you. Combined, the honest statement is that one should adopt an outcome standard prospectively as a motivational device while refusing to apply it retrospectively as an evaluative one — a split the essay does not make, and which is hard to hold in one head."
+  }
+]
