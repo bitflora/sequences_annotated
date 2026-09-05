@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/Guardians-Of-The-Gene-Pool.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Guardians-Of-The-Gene-Pool.ropus.json",
+    "default": true
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Even hedonically, it is better to take one large loss than many small ones.",
+    "content": "The annotation concedes the point: the normative theory says integrate losses, people prefer to segregate them, and the gap is why the advice needs giving. That is what \"even hedonically\" is doing in the sentence — it is a claim about what a person will find, having done it, not a prediction about what they will choose in advance. Thaler and Johnson's break-even effect is the mechanism of the Enron path, and its existence is the strongest available argument for the essay's instruction."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But there is less focus on speed, on giving up the fight as quickly as possible, integrating evidence efficiently so that it only takes a minimum of contrary evidence to destroy your cherished belief.",
+    "content": "There is a speed norm, and it is the one the essay is invoking: an agent who already holds the evidence and has not conditioned on it is incoherent, and the delay is not caution but a failure to run the update. \"Give up as quickly as possible\" means as soon as the evidence is in hand, not further than it warrants — the essay's own preceding sequence is the argument for incremental proportionality, and this essay is about the person who has taken twenty small hits and not yet added them up. Griffin and Tversky's over-weighting of strength is a different error and the essay is not recommending it."
+  }
+]

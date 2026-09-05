@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It is no longer possible for the voters to condition on the facts alone; they must condition on the additional fact of their presentation, and infer the existence of hidden evidence.",
+    "content": "Unravelling requires the audience to know that a questionnaire existed, that the campaign holds the answers, and that the answers are verifiable — three conditions the essay's scenario is constructed to violate, since the voters see fifteen answers and have no way to know there were sixteen questions. Under those conditions the standard model gives no unravelling at all, and the campaign's selective publication does deceive. The essay's standard is stricter than the theory requires in the ideal case and exactly as strict as it requires in the realistic one."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Whatever actually decides your bottom line, is the only thing you can honestly write on the lines above.",
+    "content": "The essay's standard is procedural, not introspective: do the search, then publish what the search produced. That is why its honest campaign manager is described as processing a checklist and printing it rather than as consulting his motives, and it is why the annotation's own recommendation — publish the checklist as a checklist and let readers judge — is the essay's recommendation. Nisbett and Wilson show that people cannot report the causes of a judgment already made; they do not show that a person cannot run a procedure and record its output."
+  }
+]

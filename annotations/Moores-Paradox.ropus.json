@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I don’t think this is correct—relatively young children can understand the concept of having a false belief, which requires separate mental buckets for the map and the territory.",
+    "content": "Transparency is a thesis about the first-person <em>assertion</em> of belief, and the essay is making a claim about cognitive architecture: that a mind can carry a representation flagged as endorsed alongside one flagged as true, which the false-belief task shows the machinery exists for. The two claims are compatible, and the essay's is the one relevant to Kurige, who is not asserting a Moore sentence sincerely but reporting a divergence he has noticed in himself. Transparency explains why the sentence is absurd to say; it does not explain how a person comes to be in the state that produces it, which is the essay's question."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Many people may not consciously distinguish between believing something and endorsing it.",
+    "content": "Acceptance is a policy of reasoning as if a proposition were true, held knowingly and revocably; Kurige is not doing that, because he says \"I believe\" and means it, and he is distressed rather than tactical. The essay's own account, that warm affect toward a proposition is misread as credence, is a mechanism for how a person ends up with the two attitudes without having chosen either — which is the case acceptance does not cover. And the essay's demand is not that only one attitude is allowed; it is that the person say which one they are in, which is what the acceptance literature also asks for."
+  }
+]

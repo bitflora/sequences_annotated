@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "They needn’t have bothered with Stage 2.",
+    "content": "The archive corrections are real and the essay should not call this the most perfect experiment ever devised. What the corrections do not touch is the essay's conclusion, because the clean version exists: minimal-group experiments produce in-group favouritism from arbitrary assignment with no competition, no contact and no experimenter steering (<a href=\"https://doi.org/10.1002/ejsp.2420010202\">Tajfel et al. 1971</a>), and the annotation concedes it. The right move is to replace the anecdote with the paradigm, which makes the essay's point with twenty-two fewer confounds."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The Robbers Cave Experiment illustrates the psychology of hunter-gatherer bands, echoed through time, as perfectly as any experiment ever devised by social science.",
+    "content": "The band-composition data are a fair correction to the ancestral gloss and the essay should drop it. Its argument does not depend on the evolutionary claim: what it needs is that group identity forms fast on arbitrary lines and generates hostility under competition, which the minimal-group work and the intergroup-conflict literature supply without any story about the Pleistocene. The essay reached for an origin where a mechanism would have done."
+  }
+]

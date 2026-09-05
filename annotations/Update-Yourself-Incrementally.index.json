@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/Update-Yourself-Incrementally.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Update-Yourself-Incrementally.ropus.json",
+    "default": true
   }
 ]

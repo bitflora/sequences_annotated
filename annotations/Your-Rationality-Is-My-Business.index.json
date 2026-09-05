@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/Your-Rationality-Is-My-Business.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Your-Rationality-Is-My-Business.ropus.json",
+    "default": true
   }
 ]

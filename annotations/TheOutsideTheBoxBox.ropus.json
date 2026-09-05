@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This cached thought has been around for three decades. Still no general intelligence. But, somehow, everyone outside the field knows that neural networks are the Dominant-Paradigm-Overthrowing New Idea",
+    "content": "Being right about a two-word phrase is not the same as having the idea. What produced the results was a specific architecture, a specific objective, a specific scale of data and compute, and a decade of engineering that nobody outside the field had in mind when they said \"neural networks\"; the outsiders the essay describes could not have distinguished a convolutional network from a Hopfield net, and their prediction was compatible with every outcome. That is the essay's complaint about cached thoughts: the phrase carried no content that could have been wrong. The essay's own concession — that a cached thought can be true — applies here, and the honest verdict is that the cache was right and empty at the same time."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Isn’t it funny how nonconformists all dress the same…",
+    "content": "The mousetrap claim is an inference about motives and the essay marks it as a suspicion. It also has more support than the annotation allows, in the annotation's own citation: if people adopt tastes to signal group membership and abandon them when the wrong group adopts them, then the demand for an <em>original</em> solution is being driven by the signal value of originality rather than by the problem, which is the essay's claim about the mousetrap transposed one level (<a href=\"https://doi.org/10.1037/0022-3514.95.3.593\">Berger &amp; Heath 2008</a>). The essay's conclusion — that \"think outside the box\" names a box — is a claim about the phrase, and it is confirmed by every list of approved unconventional answers."
+  }
+]

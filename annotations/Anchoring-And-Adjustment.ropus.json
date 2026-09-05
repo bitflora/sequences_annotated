@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Tversky and Kahneman recorded the estimates of subjects who saw the Wheel of Fortune showing various numbers.",
+    "content": "The adjustment account was not displaced; it was partitioned. Insufficient adjustment is the mechanism for <em>self-generated</em> anchors, where subjects know the anchor is wrong and adjust from it, and this was demonstrated directly by manipulating the effort and motivation available for adjusting (<a href=\"https://doi.org/10.1111/j.1467-9280.2006.01704.x\">Epley &amp; Gilovich 2006</a>); selective accessibility is the mechanism for experimenter-provided anchors. Both are current, and the essay's own remedy in the next paragraph — dwell on an opposite anchor — is the selective-accessibility intervention, so the essay has the second mechanism even where its prose names the first. The rigged wheel is a fair correction and makes the effect larger, not smaller."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "try also to think of an anchor in the opposite direction—an anchor that is clearly too small or too large, instead of too large or too small—and dwell on it briefly",
+    "content": "This is the essay giving advice that works, and the annotation confirms it. Worth adding what that implies for the sequence's standing: the counter-anchor prescription was published here in 2007 and the field's validation of consider-the-opposite as a debiasing procedure is exactly this technique. An essay that identifies a real bias, teaches the mechanism, and prescribes the intervention that halves it has done the whole job, and the annotations elsewhere in this book that treat the sequence's prescriptions as uniformly untested should be read against this one."
+  }
+]

@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/MotivatedStoppingAndMotivatedContinuation.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/MotivatedStoppingAndMotivatedContinuation.ropus.json",
+    "default": true
   }
 ]

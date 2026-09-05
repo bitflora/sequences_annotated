@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I realized that once I could guess what my answer would be—once I could assign a higher probability to deciding one way than other—then I had, in all probability, already decided.",
+    "content": "A 96 percent hit rate is the datum, and it is what the essay uses; the 66 percent is the subjects' miscalibration about their own accuracy and does not affect the inference. The chess analogy fails because the colleagues were predicting <em>their own future choice</em>, not an external contest: a process whose output is that predictable from the inside has, in the relevant sense, converged, and further deliberation is not changing where it lands. The half-second addition is introspection and the essay presents it as such. What the study licenses is the essay's title, and the title is the claim."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Between hindsight bias, fake causality, positive bias, anchoring/priming, et cetera, et cetera, and above all the dreaded confirmation bias, once an idea gets into your head, it’s probably going to stay there.",
+    "content": "Choice blindness is evidence for the essay, not against it. Its finding is that people do not monitor their own choices and will construct justifications for one they never made, which is the perseverance mechanism in its purest form; it shows that the attachment is to the answer in hand rather than to any process that produced it. Corrections to political facts being accepted is a finding about explicit factual updating, which is not what the essay is discussing — its subject is which conclusion one arrives at when the evidence is ambiguous and the answer is already in the head."
+  }
+]

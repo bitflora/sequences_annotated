@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "offering children bribes for good behavior encourages the children to behave well only when adults are watching, while praise without bribes leads to unconditional good behavior",
+    "content": "The essay flags the recollection as a recollection and does not need it: the argument is that the Santa dilemma was never posed as a search, and any candidate alternative makes the point. It is also not true that the literature leaves the space empty — the essay's actual claim, that contingent reward produces contingent behavior, is the undermining effect's core finding, and the Deci meta-analysis that the annotation cites in rebuttal reports exactly that tangible rewards reduce behavior once the reward is withdrawn. Mueller and Dweck's result is about person-praise versus process-praise, a distinction the essay does not make and which sharpens rather than reverses it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Modern cognitive psychology views decision-making as a search for alternatives.",
+    "content": "Klein's fireground commanders are the case the essay's argument excludes by construction. Recognition-primed decision applies where a practitioner has thousands of hours of feedback in a stable environment and the first option retrieved is a pattern match; the Noble Liar deciding whether to lie to a nation about Santa Claus has no such repertoire and no feedback loop at all. Kahneman and Klein's joint statement sets out exactly this boundary condition (<a href=\"https://doi.org/10.1037/a0016755\">Kahneman &amp; Klein 2009</a>), and outside it, structured generation of alternatives beats first-option evaluation. The essay is addressed to the outside."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It’s amazing how many Noble Liars and their ilk are eager to embrace ethical violations",
+    "content": "The prosocial-lie literature measures whether observers <em>judge</em> a lie moral when the benevolent motive is stipulated by the experimenter. The essay's question is whether the motive is benevolent, which those designs assume away, and its charge is not that helpful lies are always wrong but that the search for a non-lying alternative is skipped whenever the lie is convenient. That charge has direct support in the same annotation's other citation: people stop searching earlier when the available conclusion is the preferred one (<a href=\"https://doi.org/10.1037/0022-3514.63.4.568\">Ditto &amp; Lopez 1992</a>). Levine and Schweitzer's subjects were not choosing whether to look for a third option; they were rating one that had already been chosen for them."
+  }
+]

@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/TheFallacyOfGray.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/TheFallacyOfGray.ropus.json",
+    "default": true
   }
 ]

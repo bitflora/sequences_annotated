@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But then the clever arguer can make you believe anything they choose, if there is a sufficient variety of signs to selectively report. That doesn’t sound right.",
+    "content": "The essay states the martingale bound, which is the part of the answer the annotation credits to the later theorem: posteriors average to the prior, so the arguer cannot make you believe anything. Kamenica and Gentzkow require the sender to commit publicly to a signal structure and the receiver to know it, and under those conditions the receiver is not deceived — they are correctly updating on a signal whose informativeness the sender chose. That is a result about how much a sender can gain, not about whether conditioning on the algorithm works, and conditioning on the algorithm is what the receiver in that model is doing (<a href=\"https://doi.org/10.1257/aer.101.6.2590\">Kamenica &amp; Gentzkow 2011</a>)."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Between the prosecution and the defense, someone has a motive to present any given piece of evidence, so the court will see all the evidence; that is the theory.",
+    "content": "The essay writes \"that is the theory,\" which is the flag that it is reporting a rationale rather than endorsing it, and its use of the adversarial system is as an illustration of two filters partially cancelling. The comparative literature the annotation invokes is genuinely mixed, which is the essay's own position; and the failure mode it names — evidence that hurts both sides gets developed by no one — is the essay's mechanism applied one level up, not a refutation of it. Inquisitorial systems have the mirror problem, a single filter with no adversary to expose it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "In a way, no one can really trust the theory of natural selection until after they have listened to creationists for five minutes; and then they know it’s solid.",
+    "content": "The essay's sentence is about a listener who then goes and checks, which is what \"and then they know it's solid\" means in context: the value of hearing the best available counterargument is that you discover it is weak <em>by evaluating it</em>. That is inoculation, and the annotation concedes inoculation works. Koehler's false-balance result concerns audiences given a dissenter without any refutation and without the means to produce one, which is the case the essay is not describing."
+  }
+]

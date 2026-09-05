@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Research has shown that we automatically assign to good-looking individuals such favorable traits as talent, kindness, honesty, and intelligence",
+    "content": "The Eagly decomposition is a real correction and the honesty trait is the one to drop from Cialdini's list. What it leaves is a halo that is large for social competence, moderate for intellectual competence and adjustment, and heterogeneous across the small studies — which is still a cross-trait bleed of the kind the essay is describing, and which the annotation concedes. The essay's error is inheriting a popularizer's greatest-hits list without checking the meta-analysis behind it; the phenomenon it was illustrating survives the audit with a smaller effect and a narrower range."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And—I know you don’t think you have to do it, but maybe you should—be just a little more skeptical of the more attractive political candidates.",
+    "content": "Todorov's competence cue is a better instruction and it is the same instruction. Both are the halo: a facial impression bleeding into a judgment of a trait the face cannot carry, and Todorov's result is that the specific leaking trait is competence rather than beauty (<a href=\"https://doi.org/10.1126/science.1110589\">Todorov et al. 2005</a>). The essay's advice should be rewritten to name it, and the rewrite makes the point sharper, because a competent-looking face is exactly the cue a voter would defend as relevant."
+  }
+]

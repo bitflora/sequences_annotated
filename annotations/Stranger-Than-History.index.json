@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/Stranger-Than-History.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Stranger-Than-History.ropus.json",
+    "default": true
   }
 ]

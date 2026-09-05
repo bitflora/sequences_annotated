@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "If you tell people a reactor design produces less waste, they rate its probability of meltdown as lower.",
+    "content": "The essay's conclusion is about attitude scales bleeding into judgments of distinct attributes, which is what Finucane measured, and the reactor sentence is offered as an illustration of the mechanism rather than as a report of the study. The rational component the annotation raises — that risk and benefit really are negatively correlated in the surviving population of technologies — is an argument that the correlation is <em>informative</em>, not that reading one attribute off the other is accurate for a novel case. Slovic's own group treats the affect heuristic as producing errors on exactly the cases where the ecological correlation does not hold, which is the essay's claim."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If Justitia must consider any more complex issue, she should relinquish her scales or relinquish her sword.",
+    "content": "The essay's target is the metaphor of the scales as a model of <em>inquiry</em>, not of choice; its objection is that treating each new fact as weight for a side is what makes people evaluate evidence by which conclusion it helps. Expected utility is the last step and the essay does not deny it — the sentence quoted asks Justitia to relinquish either the scales or the sword, which is the demand that weighing and deciding be separated, and that is multi-attribute utility's own architecture. Pennington and Hastie's story model is evidence for the essay, since it shows that jurors given a binary verdict do not weigh at all."
+  }
+]

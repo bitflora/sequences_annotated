@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/NoOneCanExemptYouFromRationalitysLaws.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/NoOneCanExemptYouFromRationalitysLaws.ropus.json",
+    "default": true
   }
 ]

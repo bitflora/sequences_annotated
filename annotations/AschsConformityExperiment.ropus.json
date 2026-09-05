@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Consistently within and across experiments, all-female groups (a female subject alongside female confederates) conform significantly more often than all-male groups.",
+    "content": "The Eagly and Carli moderation is a real correction and the sentence should be dropped; the sex difference is small, paradigm-specific and confounded with who ran the study. The essay's argument does not use it — the piece is about the effect of a single dissenter, which is the finding that replicates and which Bond and Smith's meta-analysis confirms across cultures even as the overall rate declines (<a href=\"https://doi.org/10.1037/0033-2909.119.1.111\">Bond &amp; Smith 1996</a>). The declining time trend is worth having and is compatible with the mechanism."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Paul Crowley reminds me to note that when subjects can respond in a way that will not be seen by the group, conformity also drops, which also argues against an Aumann interpretation.",
+    "content": "Deutsch and Gerard is the citation and the essay should carry it. What the essay adds is not the distinction but the question of whether the informational component is <em>Bayesian-correct</em> — whether a subject who defers to eight unanimous reports is updating properly on eight independent observations, and the answer, that they are not because the reports are not independent, is the sequence's contribution and is the reason the following essays on correlated evidence exist. The private-response manipulation settles which component is which; it does not settle whether the remaining component is rational, which is the essay's question."
+  }
+]

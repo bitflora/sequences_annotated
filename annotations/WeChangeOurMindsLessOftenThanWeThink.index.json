@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/WeChangeOurMindsLessOftenThanWeThink.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/WeChangeOurMindsLessOftenThanWeThink.ropus.json",
+    "default": true
   }
 ]

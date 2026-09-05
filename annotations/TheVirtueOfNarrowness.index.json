@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/TheVirtueOfNarrowness.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/TheVirtueOfNarrowness.ropus.json",
+    "default": true
   }
 ]

@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/Evaluability-And-Cheap-Holiday-Shopping.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Evaluability-And-Cheap-Holiday-Shopping.ropus.json",
+    "default": true
   }
 ]

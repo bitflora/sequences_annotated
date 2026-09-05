@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/LonelyDissent.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/LonelyDissent.ropus.json",
+    "default": true
   }
 ]

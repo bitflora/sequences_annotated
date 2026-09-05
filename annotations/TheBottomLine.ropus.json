@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Subjects instructed to say the color of printed pictures and shown the picture Green often say “green” instead of “red.”",
+    "content": "The Stroop description is wrong and should be fixed: subjects are slowed, not routinely misled into reading the word. The illustration the essay wanted is available in the same result — the meaning is extracted automatically and interferes, so the ink's shape governs processing whether or not the subject wants it to — and that is a better fit for the essay's point than the version printed. Nothing in the argument depends on the error, and the error runs against the essay's interests by making its illustration look stronger than the finding it borrows."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "So the handwriting of the curious inquirer is entangled with the signs and portents and the contents of the boxes, whereas the handwriting of the clever arguer is evidence only of which owner paid the higher bid.",
+    "content": "The essay says both things. Its explicit conclusion is that the clever arguer's facts are true facts and that the listener's problem is the selection, which is why the next essay is about conditioning on the filter; the \"worthless\" verdict is about the ink as evidence <em>of the arguer's belief</em>, which is the subject of the paragraph. Unravelling under verifiable disclosure requires the receiver to know that information exists and is being withheld, which is exactly the knowledge the essay says the listener must supply. That is a caveat about when the argument is usable, not a genetic fallacy."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It may help to visualize a collection of worlds—Everett branches or Tegmark duplicates—within which there is some objective frequency at which box A or box B contains a diamond.",
+    "content": "The essay marks the passage as a visualization aid — \"it may help to visualize\" — and the work it does is the standard sampling intuition of imagining the ensemble of ways the world could have been. No commitment to Everett is needed for that and none is used later in the argument; a reader who dislikes the branches can substitute \"possible worlds\" and lose nothing. The frequency talk is also not a departure from Jaynes, who uses hypothetical ensembles throughout as a device for making a credence concrete."
+  }
+]

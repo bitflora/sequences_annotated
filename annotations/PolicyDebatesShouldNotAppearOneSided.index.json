@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/PolicyDebatesShouldNotAppearOneSided.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/PolicyDebatesShouldNotAppearOneSided.ropus.json",
+    "default": true
   }
 ]

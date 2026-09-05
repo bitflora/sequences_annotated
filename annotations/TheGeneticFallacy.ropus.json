@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "They have failed to clear their minds; they could do significantly better by doubting anything the Bible said because the Bible said it.",
+    "content": "Domain-specific reliability is the essay's framework, not a rival to it: the essay's rule is about beliefs you took from a source <em>on the strength of that source</em> and retained after rejecting it, which is a correlated-evidence problem rather than a blanket discount. If the ethical claim was accepted because the Bible said so, then rejecting the Bible's authority removes its support and the claim must be re-derived; if it was accepted because it is defensible on its own, nothing changes. The essay says exactly this — it asks whether you would still hold the belief had you never encountered the source — and that question is what domain-specific reliability looks like when it is actually run."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the chemist Kekulé first saw the ring structure of benzene in a dream",
+    "content": "The Kekulé provenance is worth knowing and the essay does not depend on it: Loewi's dream of the frog-heart experiment is documented and led to a Nobel, and Ramanujan's attribution of his results to a goddess did not make them false. The essay's claim is a conditional — that a good idea from a bad source is still a good idea — and the conditional needs no true instance to be valid, though it has them. The mirror-image caution is fair and applies to the essay: an anecdote that makes a favourite point should be checked, and this one should be replaced."
+  }
+]

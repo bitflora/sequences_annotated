@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/NoReallyIveDeceivedMyself.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/NoReallyIveDeceivedMyself.ropus.json",
+    "default": true
   }
 ]

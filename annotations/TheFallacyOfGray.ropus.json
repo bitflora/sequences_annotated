@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I don’t know if the Sophisticate’s mistake has an official name, but I call it the Fallacy of Gray.",
+    "content": "The essay says \"I don't know if it has an official name\" and then gives it one, which is what a writer does when introducing a term to general readers; nothing in the piece claims priority. The continuum fallacy is also not the same argument: the sorites concerns vague predicates and the non-existence of a sharp boundary, whereas the essay's target is the inference from \"both are imperfect\" to \"both are equally imperfect,\" which is a claim about ordering rather than about boundaries. False equivalence names the conclusion; the essay names the move that produces it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "many bloggers have said of Overcoming Bias: “It is impossible, no one can completely eliminate bias.”",
+    "content": "The measurement objection is answered, and this book is the answer. Calibration against resolved outcomes is a measurement of accuracy that does not require introspection: the forecasting tournaments score people against the world, and the debiasing interventions with durable effects were validated the same way, months later, on tasks the subjects did not know were the test (<a href=\"https://doi.org/10.1177/2372732215600886\">Morewedge et al. 2015</a>; <a href=\"https://doi.org/10.1177/0956797619861429\">Sellier, Scopelliti &amp; Morewedge 2019</a>). The bias blind spot shows that self-report is a bad instrument, which everyone agrees on. It does not show that no instrument exists."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Or even if not, we can still compare shades, and say “it is darker” or “it is lighter.”",
+    "content": "The metric objection proves too much. If \"darker or lighter\" has no meaning without a single axis, then neither does the annotation's own verdict that one debiasing intervention worked and another backfired, nor any comparative claim about accuracy at all, and the incommensurability point would dissolve every ranking including the ones the annotation makes. The essay's claim is the modest one that <em>some</em> pairs are comparable and that the Sophisticate denies comparability wholesale, which is refuted by a single clear pair. Gandhi and Stalin being an easy case is exactly what makes it a counterexample."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "If I recall correctly, an average individual has two to ten somatically expressed mutations.",
+    "content": "The mutation figure is wrong and the essay does not need it: the argument requires only that dispositional variation is insufficient to account for behavioural variation, which the annotation's own correction supplies in stronger form. If anger proneness is polygenic with heritability near 0.5 and normally distributed, then most people who behave angrily on a given occasion are near the mean and the occasion is doing the work — which is the essay's conclusion, reached by better genetics than the essay's. \"There are more late buses than mutants\" is right for the reason the annotation gives."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The “fundamental attribution error” refers to our tendency to overattribute others’ behaviors to their dispositions, while reversing this tendency for ourselves.",
+    "content": "The essay's subject is the correspondence bias, which the annotation concedes is robust, and Malle's null result concerns the actor–observer <em>asymmetry</em>, a different claim that the essay states in one subordinate clause and never uses. Every argument in the piece — the vending machine, the two buttons, the Enemy — depends only on observers over-attributing to disposition, which survives. Removing the asymmetry from the textbook removed a sentence from this essay, not its case."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Yes, people do have dispositions—but there are not enough heritable quirks of disposition to directly account for all the surface behaviors you see.",
+    "content": "The person–situation draw is the essay's position, not its opponent. A third of the variance from disposition is precisely \"people do have dispositions, but there are not enough of them to account for all the surface behaviour you see,\" which is the sentence quoted; the essay is arguing against a reader who assigns close to all of it to disposition, which is what the correspondence-bias literature says observers do. Fleeson's within-person variability is the essay's point in the strongest available form: the same person produces the full range of behaviours across situations, and their mean is only a modest predictor of any single act."
+  }
+]

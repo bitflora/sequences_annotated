@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I was not half right or even the tiniest fraction right.",
+    "content": "The bijection is correct and the essay should say so: mapping each natural number to the set of positions of the ones in its binary expansion enumerates the finite subsets, which is a real result the thirteen-year-old found. What the essay is right about is that the <em>proof he thought he had</em> — a refutation of Cantor — contained nothing, and that the temptation was to salvage the refutation rather than the enumeration. The corrected version is a better story for the essay's purpose, because it shows exactly what clinging costs: he had found something worth keeping and spent his attention defending the part that was wrong."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I wonder how many people writing angry letters in green ink were thirteen when they made that first fatal misstep.",
+    "content": "The essay writes \"I wonder how many,\" which is the honest form and which the annotation quotes. Dudley's profile is a fair correction to the developmental guess. The mechanism the essay proposes is not thereby damaged, because escalation of commitment to a public position is documented across domains and does not require a childhood origin; what should go is the suggestion that crankery is typically seeded in gifted adolescence."
+  }
+]

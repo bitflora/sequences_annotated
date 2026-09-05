@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/TheProperUseOfHumility.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/TheProperUseOfHumility.ropus.json",
+    "default": true
   }
 ]

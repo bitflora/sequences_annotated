@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The odds of that are something like two to the power of seven hundred and fifty million to one.",
+    "content": "The essay's argument does not need the exponent, and it says so: the point is that the interlocutor, having been given a number of any size, replied with a modal possibility rather than a probability. On common design as the live alternative, the essay is in fact making the likelihood argument, since the interlocutor had offered no such hypothesis and was not defending one; he said \"there's still a chance,\" which is the move the essay is naming. The shared-pseudogene and endogenous-retrovirus evidence is stronger and is the right thing to cite, and it does not disturb the essay's subject, which is what a person does with a small number when they do not like it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "they have undoubtedly been wrong more often than once in",
+    "content": "Model uncertainty bounds a credence; it does not license the reply the interlocutor gave. \"Your calculation could be wrong by a hundred million orders of magnitude, therefore there is still a chance\" is not an inference anyone can run, because the correction is symmetric and the posterior after accounting for it is still overwhelming. The essay's concession — that no one can honestly assert odds of that size — is made in the essay, and it does not put the interlocutor ahead: he was not tracking model uncertainty, he was declining to update, which is the behavior the essay named."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "if you can’t ignore a likelihood of one over googol because you want to, you can’t ignore a likelihood of 0.9 because you want to",
+    "content": "The essay is using \"likelihood\" in the ordinary-language sense throughout that paragraph, and the argument does not depend on the technical one. Its content is a claim about thresholds: an agent who ignores evidence below some felt cliff, rather than weighting it, has abandoned a continuous scale, and the same defect produces both \"one in a googol is basically zero\" and \"ninety percent is not proof.\" That is a claim about a step function in the evaluation of evidence, and it survives translating \"likelihood\" into \"posterior,\" which is how the essay plainly means it here."
+  }
+]

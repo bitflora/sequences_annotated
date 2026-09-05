@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/The-Robbers-Cave-Experiment.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/The-Robbers-Cave-Experiment.ropus.json",
+    "default": true
   }
 ]

@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/What-Evidence-Filtered-Evidence.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/What-Evidence-Filtered-Evidence.ropus.json",
+    "default": true
   }
 ]

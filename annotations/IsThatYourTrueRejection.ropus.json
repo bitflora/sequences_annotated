@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "then I suspect that the point at which the average person will actually start to grant credence overriding their initial impression, purely because of academic credentials, is somewhere around the Nobel Laureate level",
+    "content": "The persuasion literature measures shifts in agreement with a claim from a credentialed versus non-credentialed source on topics the subject has no stake in. The essay's question is different and narrower: what credential is needed to overturn a strong prior against a claim that sounds outlandish, which is the region where source-credibility effects are smallest and where the annotation's own review reports credibility mattering most for <em>unfamiliar</em> topics rather than for implausible ones. The essay's concession about famous associates is also a different mechanism — social proof from many sources rather than a credential from one — and the essay names it as such."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But did the same people who said, “Come back when you have a PhD,” actually change their minds at all about molecular nanotechnology? Not so far as I ever heard.",
+    "content": "Smalley and the NRC review are object-level responses and the essay does not deny that such responses exist; its question is about the people who named a credential as their reason and did not update when the credential was supplied. That is a checkable pattern and it is not made unfalsifiable by the essay: the falsifier is a person who says \"get a PhD,\" is given one, and changes their mind, which the essay reports looking for and not finding. The list of nine sources of disagreement is one-sided and should include \"the other party has a better argument,\" which the essay's own framework requires."
+  }
+]

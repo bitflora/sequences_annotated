@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/Moores-Paradox.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Moores-Paradox.ropus.json",
+    "default": true
   }
 ]

@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/Original-Seeing.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Original-Seeing.ropus.json",
+    "default": true
   }
 ]

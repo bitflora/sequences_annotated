@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/Two-Cult-Koans.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Two-Cult-Koans.ropus.json",
+    "default": true
   }
 ]

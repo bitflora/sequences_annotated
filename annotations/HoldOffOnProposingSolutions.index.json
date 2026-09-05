@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/HoldOffOnProposingSolutions.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/HoldOffOnProposingSolutions.ropus.json",
+    "default": true
   }
 ]

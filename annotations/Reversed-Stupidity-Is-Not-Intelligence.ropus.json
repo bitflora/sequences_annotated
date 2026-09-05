@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "If you want to argue against transhumanism or the intelligence explosion, you have to directly challenge the arguments of Nick Bostrom or Eliezer Yudkowsky post-2003.",
+    "content": "The weak-man worry is real and it does not apply to the sentence quoted, which is a rule about how to <em>refute a position</em>, not about what to conclude regarding a movement. Both are legitimate targets and they answer different questions: what a movement's typical members believe is evidence about the movement, and the strongest form of an argument is what settles whether the idea is true. The essay is explicit that it is discussing the second. That the author names himself is awkward and is also just the situation of anyone writing about a position they hold; the remedy is to name a rival advocate, which the sentence does."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "By the Bayesian definition of evidence, the observation “flying saucer cults exist” is not evidence against the existence of flying saucers.",
+    "content": "The absence of expert endorsement is evidence, and the essay grants it in the very next essay of this sequence, which argues that authority is evidence when arguments are unavailable. What this essay denies is the narrower and genuinely common inference from the <em>quality of a claim's proponents</em> to the claim's falsity, which is a different observation from the absence of good proponents. The distinction matters because the two come apart: cold fusion had cranks and also had a plausible mechanism to check, and the checking, not the cranks, is what settled it."
+  }
+]

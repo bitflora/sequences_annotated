@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In Traditional Rationality, there is nothing wrong with the scientist who arrives at a pet hypothesis and then sets out to find an experiment that proves it.",
+    "content": "The essay's \"Traditional Rationality\" is the popular understanding it spends the sequence distinguishing from Bayes, and on the specific point it is right about Popper too: Popper's system has no way to say that a hypothesis formed to fit the data is thereby less well supported, because corroboration attaches to survived tests regardless of when the hypothesis was written. That is the gap the essay is naming. Whether prediction should outrank accommodation is a live dispute, and the essay's answer — that the causal history of the conclusion determines whether the reasoning could have come out otherwise — is an argument in that dispute rather than an assertion outside it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You cannot “rationalize” what is not already rational. It is as if “lying” were called “truthization.”",
+    "content": "The morphological point is made for readers, not lexicographers, and the essay's target is that \"rationalization\" sounds like a species of reasoning when it is a species of writing-down. Jones's coinage is worth knowing and does not change what the word does to a reader who has not read Jones. The substantive claim, that the process runs from conclusion to argument rather than the reverse, is motivated reasoning under its standard name (<a href=\"https://doi.org/10.1037/0033-2909.108.3.480\">Kunda 1990</a>), and the essay is describing the same mechanism with a metaphor its readers can hold."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "They will accept the first half of the statement as a confession of guilt; and dismiss the second half as a flailing attempt to accuse everyone else to avoid judgment.",
+    "content": "The van der Bles result is the essay's prediction failing to be as bad as feared, and the essay would welcome it; but the finding that emphasizing <em>expert disagreement</em> reduces credibility while numeric uncertainty does not is the essay's own distinction, between \"we could be wrong by this much\" and \"authority has collapsed.\" That is the whole content of the piece: give the interval, not the shrug. An objection that the plain statement was \"already mostly harmless\" concedes the recommendation and disputes only how urgently it was needed."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you take one hundred people and ask them each to make a statement of which they are “absolutely certain,” how many of these statements will be correct? Not one hundred.",
+    "content": "The hard–easy effect is a reason the essay's experiment would come out below one hundred, not above it. Self-selected statements of absolute certainty are not restricted to one's own name: they include contested political and religious propositions, remembered facts, and predictions, and the calibration literature's finding that people are well calibrated on <em>representative</em> samples does not apply to a sample the subject has selected for felt certainty. The essay's point is that the felt-certainty selector is not a reliable filter, and the regression artifact the annotation names is a mechanism by which it is not."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "it means you think you could make one million equally strong independent statements, one after the other, over the course of a solid year or so, and be wrong, on average, around once",
+    "content": "The frequency gloss is a communication device, not a metaphysics. De Finetti's own operationalization is a betting ratio, and a betting ratio of a million to one is checkable in exactly one way a person can imagine — by asking whether they would take that bet a million times — which is what the essay is inviting. Nothing in the subjectivist account forbids using a hypothetical reference class to make a credence vivid; scoring rules do the same work with the same intuition. The objection would rule out every calibration curve ever drawn, including the ones the annotations elsewhere rely on."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "P(truth|argument, expert) = P(truth|argument).",
+    "content": "The essay states the qualification the annotation offers as a refutation, in the paragraphs the annotation quotes: good authorities know about counterevidence, so the screening is exact only for a complete argument. That is the standard structure of an idealization — the title names the limiting case, the body gives the correction — and the essay's practical claim is the comparative one, that as the argument you have seen becomes more complete, the residual weight of the credential falls. Nothing in the d-separation objection touches that, and the essay's example of Jaynes and an erratum is a case where it was right."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But this slight strength of authority is only ceteris paribus, and can easily be overwhelmed by stronger arguments.",
+    "content": "\"Slight\" is the essay's estimate for the specific case it is discussing, a reader who has followed a technical argument to its end, and the essay says the weight \"can easily be overwhelmed by stronger arguments,\" which is a conditional and not a constant. The demand for a likelihood ratio is fair and it is the essay's own framework; the number varies by field, by the completeness of the argument, and by whether the expert has seen counterevidence the reader has not, all of which the essay names. A ratio that \"can be very large\" in mature fields is compatible with its being small once you can check the algebra, which is the case under discussion."
+  }
+]

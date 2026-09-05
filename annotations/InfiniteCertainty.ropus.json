@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I am not going to discuss the actual experiments that have been done on calibration",
+    "content": "The essay withholds the calibration literature to keep readers from using it as a fully general counterargument and then does not use it as one: its argument for finite credence is the arithmetic of a million assertions, not an appeal to any experiment. And the hard–easy effect does not rescue certainty about \"2 + 2 = 4,\" because the proposition at issue is never the arithmetic alone but the conjunction of the arithmetic with \"I have not misread, misremembered, or been deceived,\" which is not an easy item and is the one the essay is scoring."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I don’t think you could get up to 99.99% confidence for assertions like “53 is a prime number.”",
+    "content": "This is the essay's point, not an objection to it. That standard probability cannot represent a coherent agent's uncertainty about a theorem is the reason the essay says a human should not claim 99.99 percent for \"53 is prime,\" and the logical-induction programme exists because the author took the incoherence seriously enough to fund work on it. An essay that identifies a gap between the idealization and any implementable agent, and whose author then spends a decade on the gap, has been vindicated by the citation offered against it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Assert a confidence of (1 − 1⁄googolplex) and your ego far exceeds that of mental patients who think they’re God.",
+    "content": "A credence is not an ego claim, and the essay does not say it is; the sentence is about what a person is <em>committing</em> to when they assert one, which under any operationalization — betting ratio, scoring rule, or long-run frequency — is a commitment they cannot honor. De Finetti's betting interpretation makes this vivid rather than dissolving it: a person who will accept a bet at odds of a googolplex to one on a proposition about the physical world is claiming an accuracy no human process delivers. The joke is about the size of the claim, and the size is the same in every interpretation."
+  }
+]

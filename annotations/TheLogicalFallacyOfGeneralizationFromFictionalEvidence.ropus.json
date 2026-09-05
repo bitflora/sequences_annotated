@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A momentary glimpse of a single word can prime us and make compatible thoughts more available, with demonstrated strong influence on probability estimates.",
+    "content": "The essay's conclusion is the transportation finding and the annotation says so; what should be struck is the appeal to behavioral priming, which the essay uses as a lower bound and does not need. On the alleged inconsistency with the essay on English usage: cultivating the ability to <em>produce</em> vivid accurate sentences and cultivating susceptibility to vivid inaccurate ones are opposite skills, and the sequence's position is that a writer must know the mechanism precisely because it works on readers whether or not the content is true."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If someone starts out by asking whether or not AIs are gonna put us into capsules like in The Matrix, they’re jumping to a 100-bit proposition, without a corresponding 98 bits of evidence to locate it in the answer space",
+    "content": "The essay draws exactly this distinction, and it is the reason it complains about weighting rather than about sources: its objection is that a scenario recalled from a film is being used as though its availability were evidence for its probability. The nanotechnology scenario is offered in the essay as a hypothesis with an argument attached, which is the permitted use, and the essay's test — does the person have the 98 bits, or only the story? — applies to it identically. That the essay would fail its own test if it did not supply the argument is the essay's point, not a hidden asymmetry."
+  }
+]

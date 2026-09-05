@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "While LTCM raked in giant profits over its first three years, in 1998 the inefficiences that LTCM were exploiting had started to vanish—other people knew about the trick, so it stopped working.",
+    "content": "The mechanism is wrong and the case is right. LTCM did exactly what the essay is warning against: as the spreads widened in 1998 the partners increased their positions on the conviction that convergence must come, which is doubling down on a losing hand rather than closing it, and the fund was destroyed by the leverage that decision required before the spreads returned. That the trades were eventually profitable for the consortium is the sharpest possible statement of the essay's point — being right too late is being wrong. The paragraph's account of why the trades stopped working should be replaced with the liquidity story, which supports the same moral."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you set out to teach someone how to not turn little mistakes into big mistakes, it’s nearly the same art whether in hedge funds or romance",
+    "content": "Kahneman and Klein's own conclusion is that the <em>conditions</em> for trustworthy intuition — environmental regularity and fast feedback — are general and can be assessed from outside any domain, which is a domain-independent skill of exactly the kind the essay claims exists. Far transfer of trained cognitive skills is weak; the essay is not claiming trained transfer but a common structure to a class of errors, which is the claim the escalation-of-commitment literature makes across hedge funds, wars and construction projects. \"Nearly the same art\" is an overstatement of a real commonality."
+  }
+]

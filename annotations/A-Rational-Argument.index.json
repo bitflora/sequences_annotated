@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/A-Rational-Argument.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/A-Rational-Argument.ropus.json",
+    "default": true
   }
 ]

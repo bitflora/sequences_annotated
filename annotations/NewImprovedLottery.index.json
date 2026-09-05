@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/NewImprovedLottery.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/NewImprovedLottery.ropus.json",
+    "default": true
   }
 ]

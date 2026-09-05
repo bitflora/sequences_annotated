@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/Unbounded-Scales-Huge-Jury-Awards-And-Futurism.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Unbounded-Scales-Huge-Jury-Awards-And-Futurism.ropus.json",
+    "default": true
   }
 ]
