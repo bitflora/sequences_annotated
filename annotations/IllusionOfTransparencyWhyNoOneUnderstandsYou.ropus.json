@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "and that Jane would perceive the sarcasm",
+    "content": "The name is Keysar’s. His 1994 paper is titled \"The Illusory Transparency of Intention\" and reports the sarcasm studies the essay describes (Keysar 1994, \"The Illusory Transparency of Intention,\" <em>Cognitive Psychology</em> 26(2):165–208); the essay cites Keysar and Barr and uses their term for their result. Gilovich, Savitsky and Medvec’s effect shares the name and is a different finding, which is a fact about the psychological literature rather than a conflation by the essay. Two research groups converging on one label for two overestimates of how legible one’s own mind is to others is a point in favor of the underlying phenomenon; the June/Jane slip is a slip."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Additional subjects who overheard the explanation showed no such bias, expecting listeners to understand in only 56% of cases.",
+    "content": "The design controls the base rate, which is why the comparison is informative. Speakers and overhearers were shown the same message and asked the same question; the only difference was that the speaker knew what he had meant. That difference produced an eleven-point overestimate against the overhearers’ five-point underestimate, and it is the difference, not either absolute number, that measures the illusion. The general effect — that knowing something makes it feel more inferable from the evidence than it is — is the curse of knowledge, which replicates in markets, in children and in adults across dozens of studies (<a href=\"https://doi.org/10.1086/261651\">Camerer, Loewenstein &amp; Weber 1989</a>; <a href=\"https://doi.org/10.1111/j.1467-9280.2007.01909.x\">Birch &amp; Bloom 2007</a>)."
+  }
+]

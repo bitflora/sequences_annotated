@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Taken literally, that description fits every phenomenon in our universe above the level of individual quarks",
+    "content": "The essay says the word is fine where it means something specific, and the physics usage is the case where it does. Universality classes, order parameters and renormalization make a claim that could be false — that microscopic detail washes out — and Anderson’s argument is that new laws appear at each level, which is a positive claim with consequences (<a href=\"https://doi.org/10.1126/science.177.4047.393\">Anderson 1972</a>). The essay’s target is the sentence \"intelligence is an emergent phenomenon,\" offered as an explanation of intelligence, where none of that structure is present and no order parameter is named. Refuting a definition that has spread into popular usage is what an essay about popular usage does."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Human intelligence is a magical product of neurons firing.",
+    "content": "The three claims listed here are content the word does not carry, and supplying them is the essay’s request. \"There is no single neuron in which intelligence resides,\" \"a level of description above the neuron has its own regularities,\" and \"those regularities survive substitution of the units\" are each substantive, each contestable, and each something a speaker could say instead. That a careful reader can reconstruct them is not the same as the speaker having asserted them, which is why the substitution test works on the speakers the essay met and fails on the quantized Hall conductance. The test is a test of what was communicated."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I have lost track of how many times I have heard people say, “Intelligence is an emergent phenomenon!”",
+    "content": "\"Emergent abilities\" became arguable only after it was operationalized as a specific measurable claim — a discontinuity in a scaling curve — and the immediate response was to show the discontinuities are artifacts of the metric. That is the essay’s recommendation being followed: say what you mean precisely enough to be wrong. Note also what the term does <em>not</em> do in that dispute: nobody offers \"emergence\" as the explanation of why the capability appeared, which is the use the essay objected to. A word that had to be given a numerical definition before it could carry a claim is a word that carried none beforehand."
+  }
+]

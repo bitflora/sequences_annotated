@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "they do not anticipate any different experiences",
+    "content": "The criterion is not the positivists’ and the distinction the annotation says is missing is drawn explicitly, later in this same book. A belief pays rent if it changes some likelihood <em>somewhere</em> in the network, however indirectly; atoms and the unobserved floor do, because they are entailed by, and entail, things that are observed. \"Belief in the Implied Invisible\" is the essay devoted to precisely this case — why a photon leaving the cosmological horizon is a legitimate posit and a dragon that cannot be detected in any way is not — and it turns on whether the posit is a consequence of laws that constrain experience elsewhere. Verificationism failed because it was a theory of <em>meaning</em>; this is a rule about which beliefs carry probabilistic weight, and the two come apart at exactly the place named."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "this belief yielded no advance predictions",
+    "content": "Chang’s revisionism is a self-described minority position advanced as part of a programme of recovering abandoned research traditions, and even on his account phlogiston lost the quantitative contest over combustion masses. More to the point, the essay’s target is the invocation, not the eighteenth-century programme: the complaint is about someone who answers \"why does it burn?\" with \"phlogiston\" and has thereby learned nothing, which is how the word functioned in the schoolroom for a century after Lavoisier. Priestley’s predictions came from phlogiston theory <em>with</em> auxiliary commitments about air’s capacity, which is what the essay means by a theory with moving parts. This is the annotator’s recurring device, and it will be deployed against four more essays: an argument about how a concept is used is answered with a history of when it was used well."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It is a uniquely human flaw among animal species",
+    "content": "The reinterpretation is the counter-evidence. Staddon and Simmelhag’s finding was that the pigeons’ behaviors are species-typical interim activities elicited by the reinforcement schedule, not learned rituals connected to a hypothesis about the world — which is to say the case for belief-like disconnection in pigeons collapsed, and the classic study is now taught as a cautionary tale about anthropomorphic interpretation. That leaves the essay’s claim where it was. And the claim is not unfalsifiable: an animal that generalizes an inferred hidden cause across contexts and defends it against disconfirming instances would demonstrate the capacity, and this is exactly what the causal-learning literature looks for and does not find outside humans."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If a belief turns deadbeat, evict it.",
+    "content": "Duhem–Quine shows that a failed prediction does not <em>deductively</em> identify the culprit. It does not show that the blame is undistributable, and the Bayesian answer is that it is distributed quantitatively: the posterior loss falls on the conjuncts in proportion to their priors and to how strongly each was needed for the prediction, which is why Newtonian gravitation survived Uranus and why \"there is an eighth planet\" was cheap while \"gravity is inverse-cube\" was not (<a href=\"https://doi.org/10.1093/bjps/52.3.515\">Strevens 2001</a>; Dorling 1979, <em>Studies in History and Philosophy of Science</em> 10). Le Verrier’s posit and the flour-permeable dragon differ before any independent test: the planet was a single new entity with a determinate position that made the theory more falsifiable, and the permeability clause was fitted to one datum and predicted nothing. That is a difference the framework can compute, not a difference visible only in hindsight."
+  }
+]

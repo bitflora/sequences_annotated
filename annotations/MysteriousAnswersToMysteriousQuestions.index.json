@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/MysteriousAnswersToMysteriousQuestions.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/MysteriousAnswersToMysteriousQuestions.ropus.json",
+    "default": true
   }
 ]

@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/SayNotComplexity.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/SayNotComplexity.ropus.json",
+    "default": true
   }
 ]

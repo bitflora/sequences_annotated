@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/BurdensomeDetails.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/BurdensomeDetails.ropus.json",
+    "default": true
   }
 ]

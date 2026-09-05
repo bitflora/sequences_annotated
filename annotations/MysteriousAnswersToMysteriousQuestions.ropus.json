@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Wöhler’s later synthesis of urea",
+    "content": "The chronology is wrong in the essay and worth fixing: Wöhler’s synthesis is 1828, decades before the Kelvin passage, and the historians are right that it did not kill vitalism by itself. What the correction leaves standing is the essay’s use of the case, which is not that one experiment refuted a doctrine but that the doctrine’s adherents kept the mystery after the mystery had begun dissolving. Ramberg’s revisionism is about the myth of a single decisive blow; it is not a defense of vitalism, which lost, slowly, to exactly the accumulation of mechanism the essay describes."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Second, the hypothesis has no moving parts",
+    "content": "The four signs are conjunctive symptoms, and the gene fails the others decisively. Mendel’s factors had internal structure that generated quantitative predictions — 3:1 and 9:3:3:1 ratios, independent assortment, and then linkage and recombination frequencies that mapped to physical distance — which is precisely what \"moving parts\" means in the essay: the hypothesis has interior machinery whose operation constrains what you will see. Caloric gave Carnot a cycle; the neutrino was assigned a spin, a mass bound and a cross-section, and was hunted with those numbers. The sign flags an explanation whose only content is the name of the thing to be explained, and none of the successful posits listed had that property for a day."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "In a comedy written by Moliére",
+    "content": "The essay does not claim dispositional explanations are always vacuous; the sequence uses them approvingly elsewhere, and \"the drug is sedative\" is a fine thing to say when it summarizes a tested regularity. Molière’s doctor is not summarizing a regularity — he is answering the question \"why does opium cause sleep?\" with a Latinized restatement of \"opium causes sleep,\" offered as though the mechanism had been supplied. That is the move the essay names, and the joke works in 1673 for the same reason it works now. The accent on Molière should be fixed."
+  }
+]

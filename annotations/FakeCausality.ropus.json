@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "if we already know that the sidewalk is wet, learning that the sidewalk is slippery tells us nothing more about whether it rained",
+    "content": "Rehder and Burnett’s violations are attributed by Rehder and Burnett to subjects positing an <em>unobserved shared mechanism</em> — they reason as though a hidden common cause links the effects, which is a different causal graph, correctly handled by the same formalism (<a href=\"https://doi.org/10.1016/j.cogpsych.2005.05.001\">Rehder &amp; Burnett 2005</a>). That is a finding about which graphs people build, not evidence that they are not building graphs. The review that catalogues the deviations frames them explicitly within the causal-model framework and concludes that people are causal-model reasoners with systematic biases in structure induction. The essay’s claim is that human causal cognition is graph-like and leaks between forward and backward inference, which is what that literature reports."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "A properly designed AI would notice the problem instantly.",
+    "content": "NP-hardness of exact inference is a statement about worst-case cost, not about whether a system can detect that it has double-counted. Loopy belief propagation’s failure mode is understood, diagnosable and correctable — junction trees, cutset conditioning, and convergent variants exist — and the essay’s claim is only that an explicit system can notice, whereas the phlogiston theorists could not. The contrast the essay draws is between bookkeeping that is written down and bookkeeping that is not; a machine that runs out of time on a hard graph is still a machine that can be asked to show its work."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Speaking of “hindsight bias” is just the nontechnical way of saying that humans do not rigorously separate forward and backward messages",
+    "content": "The essay offers this as an analogy and marks it as one. Fischhoff’s original mechanism, creeping determinism, is itself a story about the posterior state contaminating reconstruction of the prior state, and the memory-distortion component of hindsight bias in the three-component decomposition is exactly that: current knowledge leaking backward into the recall of an earlier judgment. That the leak has not been modeled as message-passing in a graph is true, and the essay’s \"nontechnical way of saying\" is a proposal for how it might be, in an essay whose subject is what happens when forward and backward inference are not kept separate."
+  }
+]

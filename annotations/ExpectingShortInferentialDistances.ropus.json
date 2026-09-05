@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In a world like that, all background knowledge is universal knowledge.",
+    "content": "The essay’s claim is about the background a speaker may assume in a fifty-person band, not about the distribution of specialist skill. Cumulative culture is exactly why a modern explainer is many steps from his audience, which is the essay’s conclusion; a master tracker’s twenty years of skill is procedural knowledge, and the essay is discussing what happens when you try to <em>explain</em> something. The underlying psychological claim is the curse of knowledge, and it is among the better-replicated effects in judgment research (<a href=\"https://doi.org/10.1086/261651\">Camerer, Loewenstein &amp; Weber 1989</a>). Restricted initiation grades in Baktaman ritual do not show that people are good at estimating how much their listener does not know; they show that some societies made the estimate institutional."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the legendary difficulty most scientists have in communicating with a lay audience",
+    "content": "Kahan’s polarization result is specific to identity-protective cognition on politically branded questions, and his own later work found that science curiosity cuts across it: curious subjects of all political leanings sought out and updated on discordant evidence (<a href=\"https://doi.org/10.1111/pops.12396\">Kahan et al. 2017</a>). The essay’s subject is not climate or evolution but the ordinary difficulty of explaining a technical result to an audience that lacks the intermediate steps, where identity is not engaged and where inferential distance is precisely the obstacle. Diagnosing every communication failure as motivated cognition is the mirror of the deficit model, and equally unable to tell the two cases apart."
+  }
+]

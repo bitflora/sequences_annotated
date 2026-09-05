@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "then the miracles described in the Bible must argue against the existence of God",
+    "content": "The conjunction defense is the ad hoc move the theorem is meant to expose. A hypothesis that predicted public miracles in one era and predicts none now must have had the cessation clause on independent grounds, otherwise the clause was added when the miracles stopped — and adding it costs prior probability, exactly as the essay’s treatment of burdensome details says. The believer who did not have the clause in advance is in the position the theorem describes: he expected the world to look miraculous, it does not, and that is evidence. The essay’s sentence is a compressed version of this argument and it is valid on the hypothesis people actually hold."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You might as well sit back and relax while you wait for the evidence to come in.",
+    "content": "The essay’s \"sit back and relax\" is about the futility of <em>planning which direction</em> a piece of evidence will push you, which is the vice the surrounding paragraphs describe. It is not advice against experimentation, and the essay elsewhere is emphatic about seeking tests; the sentence immediately following tells the reader to notice when he is trying to arrange for a particular result. Lindley’s expected information gain and Good’s theorem are the formal statement of what the essay is contrasting the vice with — you may seek evidence, you may not seek confirmation — and both are consistent with the theorem quoted, which constrains the expected posterior and says nothing against choosing informative experiments."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "You needn’t bother planning how to make any given iota of evidence confirm your theory",
+    "content": "Klayman and Ha are not in tension with this essay, which is about what you may <em>expect</em> from evidence rather than which test to run. Their result is that positive testing is an efficient search heuristic under specified conditions; the essay’s claim is that whatever test you run, you cannot arrange in advance for it to confirm you. Both are true simultaneously, and the sequence’s later treatment of positive bias says so explicitly, criticizing not the strategy but the confidence Wason’s subjects announced without ever having tried to break their rule."
+  }
+]

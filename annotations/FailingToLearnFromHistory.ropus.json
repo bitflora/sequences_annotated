@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "My younger self did not realize that solving a mystery should make it feel less confusing.",
+    "content": "The essay’s criterion is not that a solved phenomenon stops being interesting; it is that it stops being <em>mysterious</em>, in the specific sense that the question no longer resists all inquiry. Quantum mechanics is calculable to twelve decimal places, the black-body spectrum is derived rather than wondered at, and the residual strangeness is a dispute about interpretation among people who all agree on every prediction. That is exactly the transformation the essay describes: the mystery moved from the phenomenon to our conceptual apparatus. A theory that lets you compute the answer has made the phenomenon mundane in the only sense the essay uses."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Only then did I realize how reasonable vitalism had seemed at the time",
+    "content": "Both descriptions are in the sequence because both are true of different moments, and the essay says so: the point of this piece is that vitalism was reasonable from the inside <em>and</em> that its adherents ended by cherishing the gap. That is not a retraction, it is the sequence’s central thesis — mysterious answers do not feel mysterious to the person holding one, which is why a list of contemptible errors is useless unless you also know how they feel from inside. An essay that supplies the inside view of a position an earlier essay judged from outside has completed the argument rather than reversed it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "right up until science finally solved them",
+    "content": "The induction the essay draws is that mysteries have mechanisms, not that every mystery has been solved. \"Life\" in the sense at issue — whether there is an élan vital, a substance or force distinguishing living matter — is closed, and biochemistry closed it; the origin of life is a different and open question about a historical pathway, which is a question about what happened rather than about what kind of thing life is. The same distinction applies down the list: the interpretation of quantum mechanics is contested, the formalism is not. Selecting the still-open questions and calling the pattern survivorship works only if the closed ones were not closed."
+  }
+]

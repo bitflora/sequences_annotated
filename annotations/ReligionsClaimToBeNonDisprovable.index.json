@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/ReligionsClaimToBeNonDisprovable.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/ReligionsClaimToBeNonDisprovable.ropus.json",
+    "default": true
   }
 ]

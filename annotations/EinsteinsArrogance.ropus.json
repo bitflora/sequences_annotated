@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A journalist asked Einstein what he would do if Eddington’s observations failed to match his theory.",
+    "content": "The provenance correction is right and the essay should have it: the remark is Rosenthal-Schneider’s recollection, made after Lorentz’s telegram arrived. It does not touch the argument, which is a claim about how much evidence is needed to <em>locate</em> a hypothesis in the first place, and which would be unchanged if Einstein had said nothing at all. The essay could have been written around the documented fact that in 1915 he told Sommerfeld the theory was correct on the strength of Mercury alone, before any eclipse was proposed. What the anecdote supplies is a vivid statement of an attitude the record independently establishes."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Of course, Einstein did turn out to be right.",
+    "content": "Kennefick is cited here as an attack and he is a defense. His analysis concludes that Eddington’s decision to set aside the Sobral astrographic plates was justified on instrumental grounds — the telescope’s mirror had visibly deformed — that the selection was made by Dyson rather than by Eddington, and that modern re-reduction of the surviving plates confirms the general-relativistic value (<a href=\"https://doi.org/10.1063/1.3099578\">Kennefick 2009</a>). That Mercury and later measurements carried much of the weight is true and is the essay’s point: the theory was well supported before and after, which is why the 1919 result surprised nobody who understood it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Einstein must have had, already in his possession, sufficient observational evidence to single out the complex equations of General Relativity for his unique attention.",
+    "content": "The Entwurf episode is the thesis, not the counterexample. Einstein’s search was confined from the start to a tiny region of hypothesis space — generally covariant metric theories reducing to Newton in the weak field and conserving energy — and that region was selected by evidence: the equivalence principle rests on Eötvös’s torsion-balance measurements, the Newtonian limit on three centuries of celestial mechanics, and Lorentz invariance on Michelson–Morley and its successors. Getting the wrong member of a small family after locating the family is exactly what a searcher does when he holds enough evidence to locate the family and not yet enough to fix the member. \"Free creations of the human mind\" is Einstein on concept formation, not on hypothesis selection; the same lecture insists that experience remains the sole criterion."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Einstein probably had overwhelmingly more evidence than would, in principle, be required for a perfect Bayesian to assign massive confidence to General Relativity.",
+    "content": "The comparison class is wrong. Einstein never produced a specific, detailed, formally complete unified field theory, and never produced a hidden-variable theory; those were programmatic convictions, which is precisely the state the essay says requires little evidence to enter. The claim is about what it takes to <em>write down</em> a particular set of equations out of the space of possible ones and be right, and he did that twice, in 1905 and 1915. Gravitational waves and the Schwarzschild solution are better cases, and both were errors he made and then corrected within his own lifetime on further calculation — which is the evidence-driven behavior the essay is describing."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Suppose General Relativity is a 29.3-bit hypothesis.",
+    "content": "The number is explicitly a supposition, offered so that the exchange rate between bits and improbability can be seen working; the essay’s argument goes through for any figure. Description-language dependence is not a hidden problem here but the subject of the very next essay in the sequence, which argues that the reference machine contributes a constant and that Occam’s Razor is what fixes the prior. And the essay’s point does not require the alternatives to be equiprobable — it requires only that the prior on any particular complex hypothesis be small, which is what a simplicity prior guarantees."
+  }
+]

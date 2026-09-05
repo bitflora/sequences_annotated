@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/Pretending-To-Be-Wise.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Pretending-To-Be-Wise.ropus.json",
+    "default": true
   }
 ]

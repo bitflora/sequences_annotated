@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But because someone else knows, it devalues the knowledge in your eyes.",
+    "content": "Loewenstein’s gap theory says curiosity peaks when a gap is felt and closable, and \"science already knows\" closes the gap for the question the essay is talking about — which is not \"how does electricity work\" but \"is this a mystery?\" Kang and colleagues found curiosity highest when subjects were uncertain of the answer and confident an answer existed, and the essay’s case is the person for whom the second clause has removed the first: he now believes the matter is settled and feels no uncertainty of his own. Trivia works because the player does not know the answer; the light switch fails because the reader believes he does. The essay’s phenomenon is the misplaced sense of already knowing, which is the illusion of explanatory depth the annotation goes on to endorse."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Is this not spite?",
+    "content": "The essay makes the prioritization point itself and the annotation quotes it. Its claim is that the felt response to \"somebody already knows\" is not experienced as a budget calculation but as deflation — the question stops being interesting rather than being ranked lower — and that this feeling is unreliable, because it fires on the light switch, where the reader could not in fact give the explanation. Division of cognitive labor is a good reason not to reinvent electromagnetism, and no reason at all to believe you understand your light switch."
+  }
+]

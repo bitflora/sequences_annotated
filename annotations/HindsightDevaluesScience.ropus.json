@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "assign much higher probabilities they “would have” guessed for that answer",
+    "content": "Guilbault’s mean is pooled across designs that measure very different things, and the memoric designs — where subjects misremember their own prior estimates — show substantially larger shifts than the hypothetical ones the meta-analysis also includes. The comprehensive review a decade later characterizes hindsight bias as robust across domains, ages, cultures and expert populations, with three dissociable components each independently demonstrated (<a href=\"https://doi.org/10.1177/1745691612454303\">Roese &amp; Vohs 2012</a>). The essay’s claim is qualitative — that findings feel more predictable after the fact than before — and the direction is not in dispute anywhere in the literature. An effect that survived the replication decade intact is a strange one to fault an essay for relying on."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "We need to make a conscious effort to be shocked enough.",
+    "content": "These are two different pieces of advice about two different moments and both are right. Before the result is known, expect a surprising social-science finding to fail replication; that is a prior. After the result is known, do not tell yourself you would have predicted it; that is hindsight, and it is what the essay is about. Conflating them yields the position that one should be unsurprised by findings one could not have predicted, which is the exact error the essay names. The replication data support the essay here: it is the results that people <em>felt</em> they already knew — the ones that seemed obvious in retrospect — that were waved through without scrutiny."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Do your thought processes at this point, where you really don’t know the answer, feel different",
+    "content": "The essay’s method is not introspection about the causes of a judgment; it is a procedure — commit to a prediction before you see the answer, then check. That is why the essay presents the reversed findings first and asks the reader to notice how each felt obvious. Fischhoff’s null results concern warnings without a task; the technique with support, structured generation of reasons the opposite outcome could have occurred, is a conscious effort of the kind the essay recommends and is now known to work well enough to persist for months when trained (<a href=\"https://doi.org/10.1177/2372732215600886\">Morewedge et al. 2015</a>). \"Make a conscious effort to be shocked enough\" is an instruction to run the check, not to introspect."
+  }
+]

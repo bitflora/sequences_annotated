@@ -5,5 +5,12 @@
     "code": "F",
     "file": "annotations/Feeling-Rational.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Feeling-Rational.ropus.json",
+    "default": true
   }
 ]

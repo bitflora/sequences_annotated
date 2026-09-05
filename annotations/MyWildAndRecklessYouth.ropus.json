@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This required neurons to maintain a certain degree of quantum coherence, which was something you could look for, and find or not find.",
+    "content": "The essay’s complaint is that Traditional Rationality licensed him to <em>hold</em> the theory for years while awaiting a test, and the record confirms it: the quantum-mind hypothesis was published in 1989, argued over for a decade, and settled only when someone computed decoherence times in 2000 (<a href=\"https://doi.org/10.1103/PhysRevE.61.4194\">Tegmark 2000</a>). A prior on \"quantum effects matter at 310 kelvin in a warm wet noisy medium\" would have discounted it on day one, from physics already known. That is the difference between a method that tells you when to stop believing and a method that tells you what would count as stopping."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "if a hypothesis does not today have a favorable likelihood ratio over “I don’t know,”",
+    "content": "The catch-all problem is real and the essay’s criterion has a standard rendering that avoids it: compare the hypothesis against a reference model — a maximum-entropy or prior-weighted mixture over the alternatives you can specify — which is what Bayes factors against a null do routinely, and which excludes plenty. It does not require assigning a likelihood to unconceived alternatives; it requires that a specific detailed hypothesis earn its complexity penalty against the simplest thing that also fits. The young Yudkowsky’s theory did not: it predicted nothing that ordinary neuroscience did not, at enormous cost in prior. That is a comparison the framework knows how to make."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Traditional Rationality doesn’t have the ideal that thinking is an exact art in which there is only one correct probability estimate given the evidence.",
+    "content": "Objective Bayesianism holds exactly the uniqueness thesis the essay describes, and it is the position the sequence endorses: Jaynes argues that a rational agent’s prior is fixed by symmetry and maximum entropy given its state of knowledge, so that evidence determines one credence. Subjective Bayesians deny it, which is why the sequence spends a book arguing against them. And even granting subjective priors, the merging results mean that agents whose priors do not exclude the truth converge, so the tolerance of persistent disagreement is a claim about the short run. Attributing to \"Bayesianism\" only the half of the tradition that disagrees with the essay is a choice."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "neutrality is a definite judgment",
+    "content": "This misreads Tetlock. Foxes did not decline to commit; they gave numerical probability judgments like everyone else in the tournament, and beat the hedgehogs by being better calibrated and by updating more readily — they summed up the evidence more often, not less. The follow-on work makes it explicit: superforecasters are distinguished by making <em>more</em> precise, more frequently revised probability estimates, in finer increments, than ordinary forecasters (<a href=\"https://doi.org/10.1177/0956797614524255\">Mellers et al. 2014</a>). \"I estimate sixty percent\" is a summation of the evidence and is exactly what the essay is asking for; the target is the person who will not produce a number or a lean and calls that judiciousness."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s common to put on a show of neutrality or suspended judgment in order to signal that one is mature, wise, impartial",
+    "content": "Grossmann’s instrument scores the <em>content</em> of a person’s reasoning about a described conflict — whether they acknowledge uncertainty, seek others’ perspectives, and predict change — from open-ended transcripts, and higher scorers reach determinate views about how the conflicts will resolve. Nothing in it rewards declining to have a view. The essay’s target is the pose adopted in place of the work, and it says so: it explicitly allows that genuine balance is fine and that the problem is claiming the credit for balance without doing the weighing. An operationalization of wise reasoning is not a defense of the imitation of it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Paolo Freire said",
+    "content": "The essay makes this objection itself, in the sentence the annotation quotes: it says the Freire position is \"just as attackable as propounding any particular side,\" which is the concession being demanded. It is quoted as an illustration of how the neutrality dispute has two sides that mirror each other, not as a premise. An essay whose thesis is that both \"I am neutral\" and \"neutrality is complicity\" are substantive positions requiring defense has not smuggled in the second as self-evident."
+  }
+]

@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/PositiveBiasLookIntoTheDark.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/PositiveBiasLookIntoTheDark.ropus.json",
+    "default": true
   }
 ]

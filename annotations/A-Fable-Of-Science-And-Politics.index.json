@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/A-Fable-Of-Science-And-Politics.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/A-Fable-Of-Science-And-Politics.ropus.json",
+    "default": true
   }
 ]

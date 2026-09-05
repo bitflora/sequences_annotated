@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Taken from Joachim Verhagen",
+    "content": "The essay footnotes its source, so nothing is hidden, and the anecdote is doing the work an illustration does: it makes vivid a phenomenon that has been studied directly. When students are shown data that contradict their theory, the modal response is not belief revision but the generation of an explanation that accommodates the anomaly while leaving the theory intact, and the taxonomy of those responses has been catalogued across dozens of studies (<a href=\"https://doi.org/10.3102/00346543063001001\">Chinn &amp; Brewer 1993</a>). People also confabulate causal accounts of their own behavior with high fluency and no access to the real causes (<a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Nisbett &amp; Wilson 1977</a>). The joke is a joke; the effect it depicts is documented."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It is anticipation-isomorphic to saying “magic.”",
+    "content": "The essay says this in the passage the annotation is quoting from. Its test is not whether the words \"heat conduction\" have content but whether the student’s belief was <em>constrained</em> by the observation, and the essay answers by imagining the opposite data: had the plate been cool near the radiator, the same students would have said \"shielding\" with the same confidence. A hypothesis that would have been produced either way has been fitted to the outcome, and that is what makes it fake regardless of whether it is also false. \"Anticipation-isomorphic to magic\" is a claim about the student’s epistemic state, not about the semantics of thermodynamics."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Some students guessed convection of air currents, and others guessed strange metals in the plate.",
+    "content": "Expert forward reasoning generates hypotheses that <em>discriminate</em>, and then tests them; that is what makes it expertise. The physicians in Patel and Groen’s studies produce candidate diagnoses that predict different findings and then order the findings, whereas the students produced answers after the data and had no next observation in mind. The essay’s endorsed response is not \"I don’t know\" as a terminus but the recognition that the reported observation is impossible under the physics they know, which is the hypothesis that turned out to be correct and which does generate a test: ask whether the plate was moved."
+  }
+]

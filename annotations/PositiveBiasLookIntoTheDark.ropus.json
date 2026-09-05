@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "For by instinct, we human beings only live in half the world.",
+    "content": "Klayman and Ha’s result concerns the efficiency of a search strategy; the essay’s target is the confidence with which Wason’s subjects announced rules they had never tried to break. Those are separable, and the data separate them: only about a fifth of subjects reached the rule, but nearly all were sure of theirs, and the modal subject announced a hypothesis after a run of confirming instances with no disconfirming test attempted. The DAX/MED result is the essay’s remedy, not a counterexample — it works because the framing forces subjects to seek instances that would fall outside their hypothesis, which is \"look into the dark\" implemented as an experimental manipulation."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I replied that non-superconductivity and non-ferromagnetism were also examples of emergence, which was the problem.",
+    "content": "The reply is the essay’s point about what the word communicates. If both the superconducting and the normal phase are emergent, then hearing \"superconductivity is emergent\" has not told you which regularity holds or why the transition occurs at that temperature — the content is in the order parameter and the critical exponents, which the speaker did not supply. The essay is testing what the assertion excluded, which is the correct test for an explanation, and the honest answer in that exchange was that it excluded nothing the speaker had stated."
+  }
+]

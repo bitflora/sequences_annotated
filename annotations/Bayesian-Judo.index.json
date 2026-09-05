@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/Bayesian-Judo.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/Bayesian-Judo.ropus.json",
+    "default": true
   }
 ]

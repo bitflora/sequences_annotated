@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/ScientificEvidenceLegalEvidenceRationalEvidence.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/ScientificEvidenceLegalEvidenceRationalEvidence.ropus.json",
+    "default": true
   }
 ]

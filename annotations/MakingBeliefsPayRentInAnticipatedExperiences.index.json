@@ -12,5 +12,12 @@
     "code": "F",
     "file": "annotations/MakingBeliefsPayRentInAnticipatedExperiences.fable.json",
     "default": true
+  },
+  {
+    "id": "ropus",
+    "label": "Rationalist Opus",
+    "code": "R",
+    "file": "annotations/MakingBeliefsPayRentInAnticipatedExperiences.ropus.json",
+    "default": true
   }
 ]
