@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/BurdensomeDetails.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/BurdensomeDetails.RationalistAstra.json",
+    "default": false
   }
 ]

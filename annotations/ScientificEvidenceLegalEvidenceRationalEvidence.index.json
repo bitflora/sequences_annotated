@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/ScientificEvidenceLegalEvidenceRationalEvidence.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/ScientificEvidenceLegalEvidenceRationalEvidence.RationalistAstra.json",
+    "default": false
   }
 ]

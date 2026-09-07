@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "“The problem is too hard to solve” is",
+    "content": "<strong>Different hard problems can have different feasibility</strong><br>A person may reasonably expect to improve capabilities while doubting a proposed method of making them safe. Calling both problems difficult does not erase that asymmetry. The important question is whether the resulting project has an acceptable risk profile; the label “too hard” alone proves neither evasion nor sound judgment."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "thoughts broadcast to the whole world",
+    "content": "<strong>Honesty does not require universal mental disclosure</strong><br>The aspiration to avoid knowingly misleading others is defensible. A demand that every thought be fit for public display would also prohibit legitimate privacy and exploratory reasoning that is not ready for communication. The author’s later qualifications are necessary; discomfort about disclosure is not by itself evidence of dishonesty."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Actions screen off justifications",
+    "content": "<strong>A conditional-independence slogan without the conditions</strong><br>An immediate physical action can have the same immediate effect under different motives. Justifications can still predict what details were checked, how the action is implemented and what the person does next. Screening off is a precise probabilistic relationship; it is not licensed merely by drawing a short causal chain in prose."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Also, perfectionism really matters.",
+    "content": "<strong>Unease is a prompt for investigation, not a verdict</strong><br>An unresolved inconsistency deserves attention when its expected importance exceeds the cost of checking it. That does not make every slight feeling an accurate detector, nor require endless perfectionist examination. Record the concern, test a concrete implication and decide what evidence would justify moving on."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "of each other’s source code. Cooperation in",
+    "content": "<strong>Inspectability enables some cooperation under specified assumptions</strong><br>Program-equilibrium work demonstrates formal ways for agents to condition behavior on each other’s programs. It does not show that every equilibrium is efficient or that one favored decision theory uniquely supplies cooperation. The assumptions about inspection, commitment and computation are doing substantial work.<br><em><a href=\"https://doi.org/10.1016/j.geb.2004.02.002\">Tennenholtz (2004)</a></em>"
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "utility functions don’t need to be solipsistic",
+    "content": "<strong>Rationality does not entail selfish values</strong><br>Expected-utility reasoning can represent concern for others, shared projects or self-sacrifice. The essay is right to resist defining rationality as crude material self-interest. The substantive dispute then concerns the objectives and institutional consequences, which the formalism does not select."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If there is no proven method better than a captain",
+    "content": "<strong>Authority remains a hypothesis about comparative performance</strong><br>Delegation can be rational without making a leader infallible. A real arrangement needs a way to detect error, replace leadership and distinguish urgent coordination from a convenient excuse to silence correction. Catastrophic stakes increase the importance of those questions."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "survival is to shoot soldiers who disobey",
+    "content": "<strong>Stipulated consent does not validate a real coercive institution</strong><br>A fictional group’s unanimous advance agreement can be built into the example. Whether a real coercive rule improves survival still depends on competence, mistakes, incentives, abuse and available alternatives. The necessity of coordination supplies no automatic warrant for the particular punishment; the story’s assumptions must not silently become a real-world authorization."
+  }
+]

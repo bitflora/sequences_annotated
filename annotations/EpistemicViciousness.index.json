@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/EpistemicViciousness.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/EpistemicViciousness.SkepticAstra.json",
+    "default": false
   }
 ]

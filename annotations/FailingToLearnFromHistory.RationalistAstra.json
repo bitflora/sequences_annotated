@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "My younger self did not realize that solving a mystery should make it feel less confusing.",
+    "content": "A theory can remove uncertainty about a particular phenomenon while creating new questions about its interpretation or foundations. The continued strangeness of quantum mechanics does not erase its ability to constrain particular experimental expectations. Fable is right that a feeling of familiarity is not a truth criterion, but the relevant success is reduced predictive confusion about the target, not the disappearance of every associated mystery."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Only then did I realize how reasonable vitalism had seemed at the time",
+    "content": "An error can feel reasonable to the person making it while its motivating habits remain epistemically defective. Recognizing that one fell into the same error is consistent with criticizing it, and can undermine rather than reinforce a story about uniquely foolish predecessors. The earlier mind-reading deserves qualification, but the two assessments Fable declares incompatible are logically compatible."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "right up until science finally solved them",
+    "content": "Explaining previously mysterious functions of living systems is different from reconstructing the historical origin of the first living system. Unsolved origin questions do not undo those explanations, although the phrase 'science solved life' is too sweeping. The history supports rejecting the inference from present mystery to permanent inexplicability; it does not prove that every outstanding question will eventually be solved."
+  }
+]

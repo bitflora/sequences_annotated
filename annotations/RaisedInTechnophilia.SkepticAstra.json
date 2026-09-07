@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "were always a compromise. And as",
+    "content": "<strong>Rejecting a midpoint rule does not refute compromise</strong><br>Truth need not lie halfway between two claims. Negotiating among people with different interests, or choosing a robust policy under uncertainty, is a different problem. The existence of a right answer to a factual question supplies no theorem that political or engineering compromise is inherently misguided."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "all the drugs that didn’t go wrong",
+    "content": "<strong>The counterfactual ledger still needs its assumptions</strong><br>Counting forgone benefits is essential to a fair policy comparison. These estimates still require assumptions about approval timing, uptake, effectiveness and harms. Carpenter and colleagues’ later association between deadline-proximate approvals and safety problems also cannot settle the net mortality balance. A critique of regulation must compare plausible alternatives, rather than treat either an old model or a safety association as an observed all-in death count.<br><em><a href=\"https://doi.org/10.1056/NEJMsa0706341\">Carpenter, Zucker &amp; Avorn (2008)</a></em>"
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "causes at least 20,000–120,000 casualties per year",
+    "content": "<strong>A decade has become a year: roughly tenfold inflation</strong><br>On p. 196, Gieringer estimates about 5,000 casualties prevented and 21,000–120,000 lives lost per decade. This passage changes the units to per year: roughly tenfold inflation of the annualized scale. It also blurs casualties and deaths. Mis-scaling both sides does not reverse their ratio; assessing the counterfactual model remains a separate task.<br><em><a href=\"https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/1985/5/cj5n1-10.pdf#page=20\">Gieringer (1985), p. 196</a>; <a href=\"https://www.fdareview.org/issues/theory-evidence-and-examples-of-fda-harm/\">FDAReview.org, source cited by the essay</a></em>"
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "doesn’t pass the astronomically high barrier required for",
+    "content": "<strong>An invisible threshold can protect any failed program</strong><br>If debiasing only counts once an unspecified, astronomically high barrier is crossed, every disappointing result can be dismissed as insufficient training. That makes the proposal difficult to falsify. State intermediate outcomes, expected effect sizes and stopping rules before using the barrier to explain why improvements remain invisible."
+  }
+]

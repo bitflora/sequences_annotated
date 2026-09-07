@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/WhyOurKindCantCooperate.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/WhyOurKindCantCooperate.SkepticAstra.json",
+    "default": false
   }
 ]

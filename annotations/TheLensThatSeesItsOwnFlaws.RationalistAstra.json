@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Lest you think this a trivial ability, remember how rare it is in the animal kingdom.",
+    "content": "Correcting one's judgment does not require changing the visual appearance that produced it. Measuring an illusory pair of lines and then believing the measurement is already a useful correction, even if the lines continue to look unequal. Evidence of uncertainty monitoring in other animals qualifies a claim of uniqueness, but the passage says reflective scientific practice is rare rather than that every form of metacognition is exclusively human."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "then you can apply a reflective correction",
+    "content": "Recognizing a bias does not automatically cure it, but Fable overreaches from that fact to the general unavailability of individual correction. <a href=\"https://doi.org/10.1177/2372732215600886\" title=\"Debiasing Decisions: Improved Decision Making With a Single Training Intervention\">Morewedge et al. (2015)</a> found training effects across six targeted biases that persisted for months, including interventions using practice and feedback. This supports trainability under tested conditions, not proof that reading the Sequences or introspecting without feedback produces the same benefit."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Pondering this business of “performing replicable experiments to falsify theories,” we can see why it works.",
+    "content": "A method can be useful without being sufficient for every epistemic task. Replicable tests can constrain belief while auxiliary assumptions and comparative likelihoods determine how to interpret failures; endorsing the former does not commit one to naive falsificationism. The later demand for stronger reasoning supplements experimental criticism rather than logically contradicting its usefulness."
+  }
+]

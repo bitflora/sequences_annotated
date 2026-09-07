@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "to get the fact of the matter right",
+    "content": "<strong>Winning an exchange does not establish the thesis</strong><br>An opponent may defend a true conclusion badly, and a critic may find flaws without possessing a better explanation. This distinction is indispensable, including for this review. Every successful objection should reduce only the confidence warranted by the premise it actually defeats."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "to save you; you and only you are obligated to",
+    "content": "<strong>Responsibility does not imply epistemic self-sufficiency</strong><br>Taking responsibility for a belief is sensible. Treating the individual as the final practical safeguard is much less reassuring: the same blind spots can contaminate both the first judgment and its introspective audit. Independent criticism, records and tests supply error checks that sincerity cannot substitute for."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "full reduction of morality that analyzes all",
+    "content": "<strong>Explaining moral cognition does not settle moral justification</strong><br>A causal explanation of why humans make moral judgments can illuminate those judgments without proving which values ought to govern action. A reduction must identify what it preserves and answer the normative question, rather than win by announcing that the feeling has been explained away. The acknowledged unfinished philosophy matters more than the posture of having surpassed it."
+  }
+]

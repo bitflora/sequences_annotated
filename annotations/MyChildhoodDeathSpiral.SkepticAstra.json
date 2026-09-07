@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the value of—effort, as recommended",
+    "content": "<strong>Praise and mindset are not a general success technology</strong><br>A useful concern about rewarding fixed identity should not become a claim that praising effort reliably transforms achievement. Later meta-analyses of the related growth-mindset literature found small average effects and important variation. Those studies do not directly replicate every praise manipulation, but they do undermine an effortless leap from an attractive psychology story to a universal educational prescription.<br><em><a href=\"https://doi.org/10.1177/0956797617739704\">Sisk et al. (2018)</a></em>"
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "couldn’t possibly have been more intelligent",
+    "content": "<strong>Both intelligence rankings outrun the evidence</strong><br>The author rejects his youthful belief that he was already smarter than his parents, then treats his developmental age as decisive evidence for the reverse ranking. Neither comparison is established here by comparable measurements; the SAT comparison is asserted rather than documented. The narrower lesson survives: success in a religious argument is not a general intelligence test, and intelligence does not guarantee sound judgment."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "intelligence is the unfairest of all those",
+    "content": "<strong>A superlative with no common scale</strong><br>This youthful ranking of intelligence above wealth, health and birthplace requires a specified outcome and comparative evidence. The text supplies neither, and the author later describes a changed perspective emphasizing death and aging. Read the superlative as part of the obsession under examination, not a scientific hierarchy established by the memoir."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "superintelligence would necessarily imply supermorality",
+    "content": "<strong>The retraction is sound; the opposite prediction is separate</strong><br>The author correctly withdraws the inference from greater intelligence to benevolent goals. Competence and objectives are different properties, so one does not logically guarantee the other. This correction supplies no numerical probability of catastrophe, no proof of a particular future architecture and no privileged authority for the author’s later proposals."
+  }
+]

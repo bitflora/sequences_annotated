@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "advocating that the Internet would “wake up” and become an AI when it became “sufficiently complex.”",
+    "content": "<a href=\"https://arxiv.org/abs/2001.08361\" title=\"Scaling Laws for Neural Language Models\">Kaplan et al. (2020)</a> studies specified trained language models, a loss function, data, and compute; it is not a result about arbitrary complexity. A network can become larger through useless added components without receiving the training that makes a scaled model useful. The successful programme gives quantitative content to how a system changes, whereas 'enough complexity will do it' leaves both the construction and the performance criterion unspecified."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "How would an AI invent for itself the concept of an “operator,” or “macro,” which is the key to solving the Rubik’s Cube?",
+    "content": "<a href=\"https://doi.org/10.1038/s42256-019-0070-z\" title=\"Solving the Rubik’s cube with deep reinforcement learning and search\">Agostinelli et al. (2019)</a> shows that an explicit human-style macro representation is not necessary for strong cube-solving performance, so that part of the framing should be relaxed. It nevertheless supplies a concrete value-learning and search procedure, with a transition model and goal, rather than 'complexity' as the mechanism. Solving given puzzle dynamics also does not by itself demonstrate discovering those dynamics from scratch, which was part of the original challenge."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "That was when I thought to myself, “Maybe this one is teachable.”",
+    "content": "Fable stops at the repeated label, but Marcello's next words acknowledge the need to work out how the proposed operation actually happens. That shift from naming to demanding a mechanism is the evidence for 'maybe teachable', not a claim that he has already solved the cube. Whether he subsequently learns the skill requires a performance test; tentative recognition of the relevant question is still a meaningful first step."
+  }
+]

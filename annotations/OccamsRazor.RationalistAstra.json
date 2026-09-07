@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Then there’s only a constant complexity penalty to design your own universal Turing machine",
+    "content": "Fable identifies a real limitation: the invariance theorem does not provide a uniquely justified reference machine or guarantee a small finite-data penalty. It still establishes something substantive once languages are fixed, namely that translating between universal descriptions has a data-independent overhead. The rationalist should defend explicit priors and examine their sensitivity, rather than pretend that universality has removed every modeling choice."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s enormously easier (as it turns out) to write a computer program that simulates Maxwell’s equations, compared to a computer program that simulates an intelligent emotional mind like Thor.",
+    "content": "Predicting a distribution of observations does not require specifying the exact microstate that produced one lightning bolt; uncertain initial conditions can be integrated out. Fable's total-description objection therefore does not establish that boundary conditions erase the distinction between the models. A fair comparison must charge both models for whatever assumptions and data they actually need, and neither a short transformer implementation nor an unspecified decision by Thor supplies that comparison."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The complexity of anger, and indeed the complexity of intelligence, was glossed over by the humans who hypothesized Thor the thunder-agent.",
+    "content": "A hypothesis being cheap for a human to imagine explains its psychological appeal, not its accuracy as a model of weather. Mind-modeling machinery fitted to encounters with people can be useful there and misleading when transferred to storms. Fable's reference-language objection remains real, but saying that agency feels simple reproduces the phenomenon the essay explicitly sets out to distinguish from explanatory economy."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "like saying “Phlogiston!”",
+    "content": "Fable is right that a specified agent model could compress data; the essay's target is an agent invoked without such specifications. Its phlogiston generalization remains too sweeping, but Fable's repeated claim about Priestley's advance prediction is corrected against his own account in <a href=\"#reply-MakingBeliefsPayRentInAnticipatedExperiences-2\">Astra's reply to F2</a>. The appropriate test is comparative predictive content, not whether a theory contains an agent or a historically disfavored name."
+  }
+]

@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/AProdigyOfRefutation.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/AProdigyOfRefutation.SkepticAstra.json",
+    "default": false
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "stratifying verification methods into three levels",
+    "content": "<strong>This is one of the book’s best distinctions</strong><br>Separating demonstrations of skill, comparative tests of methods and routine institutional assessment exposes three different evidential burdens. They should not be collapsed into the reputation of a teacher. The framework remains useful provided that assessors and outcome measures can themselves be challenged."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "able to test 100 applications of method A",
+    "content": "<strong>A useful design sketch is not the definition of science</strong><br>Randomized comparisons are powerful for estimating instructional effects. The arbitrary sample count cannot guarantee adequate power, and some scientific questions require other designs. Choose outcomes, sample sizes and analysis plans from the effect and uncertainty of interest rather than treat a hundred observations as a ceremonial threshold."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "This requires standard measurements that can be",
+    "content": "<strong>Forecasting illustrates a bounded implementation</strong><br>Mellers and colleagues tested training, teamwork and aggregation in a geopolitical forecasting tournament with scored outcomes. This provides a concrete example of improving and measuring a consequential reasoning task. It does not establish improvement in every domain, or validate the book’s entire package by association.<br><em><a href=\"https://doi.org/10.1177/0956797614524255\">Mellers et al. (2014)</a></em>"
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "an expectation of washing out the variance. But for",
+    "content": "<strong>More observations do not average away systematic error</strong><br>Larger randomized samples can reduce sampling uncertainty. They cannot repair a biased endpoint, selective reporting or a measure that rewards memorizing the test. Organizational assessment introduces additional incentives to game scores; validity and resistance to gaming need their own evidence."
+  }
+]

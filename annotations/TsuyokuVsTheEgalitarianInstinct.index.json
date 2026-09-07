@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/TsuyokuVsTheEgalitarianInstinct.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/TsuyokuVsTheEgalitarianInstinct.SkepticAstra.json",
+    "default": false
   }
 ]

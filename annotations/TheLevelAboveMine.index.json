@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/TheLevelAboveMine.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/TheLevelAboveMine.SkepticAstra.json",
+    "default": false
   }
 ]

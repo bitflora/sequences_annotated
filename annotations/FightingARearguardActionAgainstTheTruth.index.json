@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/FightingARearguardActionAgainstTheTruth.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/FightingARearguardActionAgainstTheTruth.SkepticAstra.json",
+    "default": false
   }
 ]

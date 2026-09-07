@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/OnDoingTheImpossible.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/OnDoingTheImpossible.SkepticAstra.json",
+    "default": false
   }
 ]

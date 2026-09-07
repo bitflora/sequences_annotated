@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/MyNaturalisticAwakening.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/MyNaturalisticAwakening.SkepticAstra.json",
+    "default": false
   }
 ]

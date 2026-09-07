@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/ReligionsClaimToBeNonDisprovable.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/ReligionsClaimToBeNonDisprovable.RationalistAstra.json",
+    "default": false
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A long series of cleverly designed experiments, which weeded out alternative hypotheses and nailed down the standard interpretation",
+    "content": "Fable is right that the essay overstates agreement about the psychological mechanism. But a disagreement between representativeness and confirmation-based explanations leaves the nested-event constraint intact, and the clearer betting results in <a href=\"https://doi.org/10.3758/BF03195280\" title=\"On the reality of the conjunction fallacy\">Sides et al. (2002)</a> support treating at least some violations as real. Preserve the practical warning about conjunctions while downgrading the claim that a single mechanism has been nailed down."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "feel every added detail as a burden, even a single extra roll of the dice",
+    "content": "Assigning a specific claim lower probability than the broader claim it entails does not mean preferring vagueness as a scientific explanation. A hypothesis can be more informative and more useful while remaining less probable than its disjunction with alternatives. The essay warns against upgrading a scenario merely because an added detail makes a better story; predictive evidence can justify that detail, but narrative attractiveness cannot substitute for it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "where the absurdity is the log probability, so you can add it",
+    "content": "The displayed addition needs conditional probabilities: −log₂ P(A∩B) = −log₂ P(A) − log₂ P(B|A). Fable correctly catches the unjustified independence in the numerical example, but dependence does not remove the burden altogether because P(B|A) cannot exceed one. An entailed detail adds zero burden; a merely compatible detail cannot make the conjunction more probable than A."
+  }
+]

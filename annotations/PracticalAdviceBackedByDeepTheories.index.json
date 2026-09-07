@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/PracticalAdviceBackedByDeepTheories.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/PracticalAdviceBackedByDeepTheories.SkepticAstra.json",
+    "default": false
   }
 ]

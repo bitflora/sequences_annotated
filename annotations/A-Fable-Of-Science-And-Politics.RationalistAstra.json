@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "it would be rare to find a city merchant who believed the sky was blue, and yet advocated an individual tax and freer marriage laws",
+    "content": "Even taking the reported halving of partisan gaps at face value, a substantial residual gap is not 'almost nobody' anticipating different facts. Expressive and sincere belief can also coexist in the same coalition or person. A fable that isolates sincere factual disagreement is not invalidated by the existence of another mechanism, though it supplies no estimate of how frequently its mechanism operates."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Now history branches, depending on which member of the sightseeing party decided to follow the corridor to the surface.",
+    "content": "Aditya is Blue and sees a blue sky, so she receives confirming evidence; Barron is Green, accepts the blue sky, and despairs. Neither ending depicts a correction strengthening belief in a false sky color, which is the backfire effect Fable invokes. The outcomes dramatize political and emotional reactions to the same observation, not a measured law that correction must fail or dissolve a coalition."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Ferris gasped involuntarily, frozen by sheer wonder and delight.",
+    "content": "Daria explicitly acknowledges her error despite anticipating social loss, which makes her a counterexample to the claim that the fable equates rationality with having nothing to lose. Her sadness is not evidence that the narrative condemns her; <a href=\"https://github.com/bitflora/sequences_annotated/blob/6c24e1e9131beed0e45f9d3461de6e40559bff01/Feeling-Rational.html\">Feeling Rational</a> has already defended sadness grounded in reality. Ferris illustrates curiosity freed from coalition stakes, while Daria illustrates costly correction under them."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "A Fable of Science and Politics",
+    "content": "Invented cases cannot establish the prevalence of psychological mechanisms, and the historical opening needs more careful treatment than a monocausal faction story. But a thought experiment can demonstrate the logical independence of a factual update, a policy position, and an emotional reaction without estimating their frequencies. Read the branches as distinctions to test against reality, not as a sample of six observed people."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "you a little-known outtake from the scene,",
+    "content": "<strong>Satirical dialogue is an illustration</strong><br>This purported outtake should be read as a comic philosophical scene, not authenticated production history or evidence about human performance. An author can give fictional characters exactly the obstacles and responses needed to make a lesson look inevitable. The lesson still needs a real-world cost-benefit test."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "People wouldn’t try for five minutes before giving up",
+    "content": "<strong>A cheap attempt can be a useful experiment</strong><br>Trying briefly can reveal whether an obstacle was merely anticipated, especially when the downside is small. The useful conditions are low cost, clear feedback and permission to stop. Those conditions cannot automatically be transferred to expensive research commitments or decisions with catastrophic consequences."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Taken from Joachim Verhagen",
+    "content": "A joke cannot establish how real students usually reason, so the anecdote should be labeled illustrative. It can still distinguish a mechanism that predicts observations from vocabulary that merely sounds explanatory. The general psychological claim needs independent evidence; it does not become valid merely because the joke makes it memorable."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It is anticipation-isomorphic to saying “magic.”",
+    "content": "The essay expressly targets 'heat conduction' used without applying the constraints that make conduction predictive. Fable restores those constraints and thereby changes the example into the genuine physical hypothesis the essay contrasts with the empty utterance. Moreover, conduction alone does not imply which side is warmer without initial and boundary conditions, so the utterance is not automatically the specific falsified model Fable supplies."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Some students guessed convection of air currents, and others guessed strange metals in the plate.",
+    "content": "Generating candidate mechanisms is legitimate, and the imagined student's words alone do not establish whether a testable model accompanies them. The useful distinction is between proposing convection as a hypothesis to check and treating its name as a finished explanation. Fable is right to resist punishing hypothesis generation, but admitting uncertainty is compatible with generating and testing hypotheses rather than an instruction to stop."
+  }
+]

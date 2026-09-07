@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "optimality theorems that",
+    "content": "<strong>An ideal agent is optimal relative to a specified problem</strong><br>An optimality claim needs a model, utilities, available actions and information. It does not guarantee a favorable outcome in a hostile world or identify the right real-world model. Conflating formal optimality with success makes practical approximations look defective for failures no feasible policy could avoid."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "out of the valley and higher than",
+    "content": "<strong>Nonmonotonic progress is possible; the far peak is unproven</strong><br>Interacting changes can make a partial implementation worse before a complete one becomes better. That logical possibility is real. It does not demonstrate that a specific struggling curriculum sits in such a valley; predeclared milestones, time limits and outside comparisons are needed to distinguish temporary costs from an ineffective method."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "signed up for cryonics, a sudden",
+    "content": "<strong>A contested application cannot define rationality by agreement</strong><br>Cryonics involves empirical uncertainties and value judgments not settled by identifying familiar biases. Treating uptake as a diagnostic of rationality assumes the conclusion of that practical argument. A valid test should assess the quality of reasoning and calibration without awarding correctness merely for agreement with the author."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "50-person hunter-gatherer bands",
+    "content": "<strong>Small-band ancestry is not a sufficient organizational theory</strong><br>Contemporary foraging groups studied by Hill and colleagues show mobility and social connections extending beyond a closed residential band. These observations do not directly reconstruct ancestral minds, but they undermine treating one tiny isolated group as the complete social template. Modern coordination failures need proximate explanations and comparative evidence.<br><em><a href=\"https://doi.org/10.1126/science.1199071\">Hill et al. (2011)</a></em>"
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The vast majority of large modern-day institutions",
+    "content": "<strong>The missing organizations have an unknowable denominator here</strong><br>The claim that potentially valuable organizations mostly never form may be plausible, but this essay offers no method for counting unrealized opportunities or comparing them with failed ventures that did form. The author’s fundraising experience is a case, not a population estimate. Distinguish a proposal worth testing from an established diagnosis of widespread incapacity."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "itself as a parasite onto the few",
+    "content": "<strong>Specialization can be an institutional achievement</strong><br>Scientists who rely on universities, funders and shared infrastructure are participating in a division of labor. That arrangement can work well even when each scientist lacks the ability to build an institution alone. The insult does not distinguish pathological helplessness from efficient specialization or diagnose which organizational capacities are missing."
+  }
+]

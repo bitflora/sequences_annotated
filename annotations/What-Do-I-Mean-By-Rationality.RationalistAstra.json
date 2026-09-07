@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Rational agents make decisions that maximize the probabilistic expectation of a coherent utility function",
+    "content": "Fable correctly identifies a dispute about the axioms, but the essay expressly acknowledges unsettled decision theory and rejects settling it by definition. The Ellsberg problem concerns ambiguous probabilities, whereas von Neumann–Morgenstern independence concerns lotteries with specified probabilities; treating both as the same violation obscures that distinction. Defending expected utility requires defending its assumptions, but the existence of rival theories does not by itself refute this one."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "No one can actually calculate and obey the math, any more than you can predict the stock market by calculating the movements of quarks.",
+    "content": "An unattainable optimum can still identify a remediable loss: nobody must calculate quarks to notice that a forecast assigned more probability to a conjunction than to its conjunct. A heuristic outperforming a particular integration procedure establishes that the procedure was worse under those conditions, not that accuracy ceased to be the objective. The bounded-agent problem is real, and the paragraph immediately following this quotation explicitly makes finding workable human methods the project."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "the judgment that P(Bill plays jazz) is less than P(Bill plays jazz, Bill is an accountant) is labeled incorrect",
+    "content": "Fable's warning about what participants understood is sound, but the conjunction judgment described in the essay remains incorrect under the mathematical meaning the essay stipulates. <a href=\"https://doi.org/10.3758/BF03195280\" title=\"On the reality of the conjunction fallacy\">Sides et al. (2002)</a> used betting tasks and clearer conjunctions and still found the effect, so ambiguity cannot explain away the phenomenon generally. This supports the distinction between a demonstrated reasoning error and a disputed account of why particular subjects made it; it does not establish representativeness as the sole mechanism."
+  }
+]

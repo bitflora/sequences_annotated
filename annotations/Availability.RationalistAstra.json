@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Men on flood plains appear to be very much prisoners of their experience",
+    "content": "The quotation's attribution should be corrected rather than defended. A paper about insurers' responses to ambiguity cannot serve as the source of a different author's observations about residents. The citation error is evidence of inadequate source checking, even though Fable also accepts the underlying phenomenon."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "events that have never happened are not recalled, and hence deemed to have probability zero",
+    "content": "<a href=\"https://doi.org/10.1257/app.6.3.206\" title=\"Learning about an Infrequent Event\">Gallagher (2014)</a> models the observed pattern using learning with forgetting or incomplete historical information, so it does not establish that incentives explain most non-purchase. Forgetting past floods is compatible with an availability account, although it is not evidence of literally assigning probability zero. The defensible correction is to distinguish limited recall, subjective risk, prices, and relief expectations rather than declaring either side's single mechanism established."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "damage per flood is afterward so much greater that average yearly damage increases",
+    "content": "Normalizing losses by exposed wealth removes a variable that the levee-effect hypothesis says protection may increase. Stable loss per unit of wealth can coexist with higher total expected losses if more wealth moves into the floodplain; the normalized trend therefore cannot by itself disprove that mechanism. Yudkowsky still needs causal evidence for his blanket claim, and Fable is right that rational incentives could generate the development."
+  }
+]

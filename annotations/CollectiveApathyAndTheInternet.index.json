@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/CollectiveApathyAndTheInternet.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/CollectiveApathyAndTheInternet.SkepticAstra.json",
+    "default": false
   }
 ]

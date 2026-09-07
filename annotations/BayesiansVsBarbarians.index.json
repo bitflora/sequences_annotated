@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/BayesiansVsBarbarians.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/BayesiansVsBarbarians.SkepticAstra.json",
+    "default": false
   }
 ]

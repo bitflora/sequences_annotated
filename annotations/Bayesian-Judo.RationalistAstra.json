@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You mean if I can make an Artificial Intelligence, it proves your religion is false?",
+    "content": "The guest introduces the soul claim as a reason AI cannot be built, so asking which observable capability it rules out is legitimate clarification. If 'intelligence' instead means possession of an unobservable soul, the guest may retain that position, but it no longer predicts failure to build the observable capabilities under discussion. The challenge exposes that retreat in predictive content; it does not establish functionalism or refute every religious proposition."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "starts talking about an emotional life that sounds like ours, that means your religion is wrong",
+    "content": "Fluent reports about emotions are not a decisive test of experience, so the narrator's proposed criterion is too weak. But a prediction that machines cannot produce such reports is refutable independently of whether the machines feel anything. The valid move is to agree on the guest's operational prediction first; neither later conversational fluency nor its ambiguity retroactively establishes what this guest had committed to."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If two people disagree with each other, at least one of them must be doing something wrong.",
+    "content": "<a href=\"https://doi.org/10.1214/aos/1176343654\" title=\"Agreeing to Disagree\">Aumann (1976)</a> requires shared priors and common knowledge of the relevant posterior probabilities. Those conditions were not established at the dinner party, and agreeing about eternity does not demonstrate convergence about religion or intelligence. The theorem cannot compel this interlocutor to continue the conversation or identify which participant has made an error."
+  }
+]

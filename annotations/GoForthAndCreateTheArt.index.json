@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/GoForthAndCreateTheArt.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/GoForthAndCreateTheArt.SkepticAstra.json",
+    "default": false
   }
 ]

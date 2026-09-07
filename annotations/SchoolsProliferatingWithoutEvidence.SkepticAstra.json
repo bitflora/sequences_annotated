@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "simply “No.”",
+    "content": "<strong>The Rorschach literature does not support a blanket verdict</strong><br>Mihura and colleagues evaluated 65 Comprehensive System variables and found sharply uneven validity: some had substantial support, others little or none, and others lacked relevant studies. This does not vindicate free-form inkblot interpretation or settle incremental clinical usefulness. It does defeat the claim that hundreds of studies yield one uncomplicated answer for every score and use.<br><em><a href=\"https://scholars.utoledo.edu/display/other_activity-22581\">Mihura et al. (2013)</a></em>"
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "randomly selected college professor",
+    "content": "<strong>The professors were selected for interpersonal skill</strong><br>Strupp and Hadley compared therapists with professors chosen for their ability to form understanding relationships. The patients were a selected male college population; the therapist arm had 15 patients. Similar average improvement in that study does not show that any randomly chosen professor is equivalent to a therapist for any condition. The change from selected helpers to random people materially alters the claim.<br><em><a href=\"https://doi.org/10.1001/archpsyc.1979.01780100095009\">Strupp &amp; Hadley (1979)</a></em>"
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It’s just talking to anyone",
+    "content": "<strong>Similar outcomes do not establish this mechanism</strong><br>Even genuine equivalence between two active treatments would not show that arbitrary conversation is the cause of improvement. Shared therapeutic components, selection and measurement limitations remain possible. A nonsignificant contrast also cannot establish close equivalence without adequate precision and a defined equivalence margin."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "greater effectiveness of cognitive-behavioral therapy.)",
+    "content": "<strong>Update both sides of the psychotherapy comparison</strong><br>Cuijpers and colleagues’ 409-trial depression meta-analysis found CBT beneficial relative to controls, with effects smaller under stricter bias analyses. Its advantage over other psychotherapies was tiny and not robust. That supports neither the dismissal of treatment as generic chatter nor a sweeping claim that one school has decisively defeated all others; the essay’s late qualification should govern its earlier certainty.<br><em><a href=\"https://doi.org/10.1002/wps.21069\">Cuijpers et al. (2023)</a></em>"
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "a practice of doing serious testing",
+    "content": "<strong>Demanding outcome evidence remains right</strong><br>The general objection to professional schools reproducing without demonstrating results is forceful. It applies just as directly to an informal rationality movement selling training or soliciting support. Credentials, charisma and a compelling theory all need outcome checks; this chapter’s own inaccurate example shows why those checks must reach the critic too."
+  }
+]

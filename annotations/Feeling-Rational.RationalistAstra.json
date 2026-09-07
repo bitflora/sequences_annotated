@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "our emotions arise from our models of reality",
+    "content": "A causal feedback loop does not make the beliefs inside it unevaluable. If hunger contributes to my conviction that someone insulted me, evidence can still tell against the insult, and correcting that interpretation may change my anger even if it does not remove the hunger. The essay overstates matters if read as a complete theory of affect, but bidirectional causation does not invalidate its proposed correction of emotions that depend on mistaken beliefs."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "That which the truth nourishes should thrive.",
+    "content": "The maxim permits emotions supported by truth; it does not claim that every increase in accuracy increases happiness. The essay's chosen example is precisely an accurate belief that makes its holder sad. Fable's accuracy-versus-wellbeing objection therefore attacks a different proposition, and the cited correlations would not by themselves establish that deliberately acquiring false beliefs improves welfare."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Since the days of Socrates at least, and probably long before, the way to appear cultured and sophisticated has been to never let anyone see you care strongly about anything.",
+    "content": "The historical generalization is indefensibly broad. Nothing in the argument needs a continuous Western prohibition on visible feeling, and traditions celebrating grief or enthusiasm are counterexamples to that formulation. Retain the claim that rationality permits strong emotion and discard this purported history."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "My sadness on waking is rational; there is no truth which destroys it.",
+    "content": "The passage identifies one intelligible case of rational sadness, rather than demonstrating that every emotion must rest on a literal proposition. Enjoying fiction does not require mistaking it for a documentary; a response can depend on an imagined scenario represented as imagined. A general taxonomy of moods and phobias remains unfinished, but incompleteness is not a contradiction in this example."
+  }
+]

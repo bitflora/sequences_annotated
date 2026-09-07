@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/PositiveBiasLookIntoTheDark.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/PositiveBiasLookIntoTheDark.RationalistAstra.json",
+    "default": false
   }
 ]

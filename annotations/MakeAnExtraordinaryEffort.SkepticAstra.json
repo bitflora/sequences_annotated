@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "times before: Robert Aumann, the Nobel",
+    "content": "<strong>A domain-specific error does not rank whole minds</strong><br>One can criticize Aumann’s religious beliefs without treating that judgment as a measurement of general reasoning ability. A famous name also supplies no performance benchmark for the reader’s next problem. Define the relevant task and demonstrate better results rather than award global intellectual rank."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "advantages the West has over the East",
+    "content": "<strong>Selected proverbs cannot explain civilizational outcomes</strong><br>The author acknowledges selecting a useful contrast, which makes the passage an analogy rather than a historical test. Causal claims about Eastern and Western success would require representative evidence and plausible controls for institutions, resources and historical contingencies. A pair of sayings cannot do that work."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "at least a ten-year detour",
+    "content": "<strong>Unconventional effort still needs a counterfactual</strong><br>Formal training can waste time, and independent study can be valuable. An inspiring account of bypassing conventional paths cannot establish that doing so has the higher expected return for another person. Compare concrete curricula, mentorship, access, costs and fallback options; difficulty and unconventionality are not measures of quality."
+  }
+]

@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/ScienceAsAttire.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/ScienceAsAttire.RationalistAstra.json",
+    "default": false
   }
 ]

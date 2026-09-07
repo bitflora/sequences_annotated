@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "weren’t going to donate. Some of",
+    "content": "<strong>Funding the author’s project is not a neutral cooperation test</strong><br>A reader may cooperate effectively elsewhere while judging this organization’s expected return poor. Treating donations to the favored project as the benchmark risks turning a substantive disagreement into a defect in the donor. Compare alternatives and disclose the project’s own uncertainties before diagnosing a community-wide inability to cooperate."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "none of those donors posted their agreement",
+    "content": "<strong>Visible complaints do not identify the silent denominator</strong><br>Commenters are a selected sample, while donors, quiet supporters and people who simply left may behave differently. The essay recognizes some invisible support, but still generalizes from the experience of asking for money. A claim about a whole community needs participation and outcome data beyond the comments that irritated the organizer."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Doing worse with more knowledge",
+    "content": "<strong>The value-of-information argument has conditions</strong><br>For a single decision maker with a fixed objective and no acquisition costs, information that can truly be ignored cannot worsen the optimal choice. In a group, revealing information can change incentives, commitments and other people’s actions. The single-agent argument does not prove that every newly informed group will coordinate better."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "politically opinionated students with more knowledge",
+    "content": "<strong>Counterargument and backlash must be distinguished</strong><br>The cited result concerns a particular motivated-reasoning experiment. Later survey experiments by Guess and Coppock found no attitude backlash under their tested conditions. These are different designs and do not directly falsify the original study, but they limit a sweeping claim that supplying unwelcome evidence generally makes people more entrenched. More counterargument, less updating and polarization are also different outcomes.<br><em><a href=\"https://doi.org/10.1017/S0007123418000327\">Guess &amp; Coppock (2020; online 2018)</a></em>"
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "applaud everything a speaker on a podium says",
+    "content": "<strong>Coordination signals can also manufacture apparent consensus</strong><br>Public enthusiasm can encourage participation and supply useful social information. Prescribing it without distinguishing sincere endorsement from performance risks misleading observers about support and evidence. A group that needs honest disagreement must design ways to express doubt without treating every visible reservation as sabotage."
+  }
+]

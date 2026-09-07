@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Something like the Human Genome Project—that was an internationally sponsored research project.",
+    "content": "Naming a consortium with working data-sharing rules is more informative than naming nothing. But the existence of rules for sharing sequence data does not specify how an AI project would arbitrate incompatible preferences about the system it builds. Fable repairs a possible interpretation of the speaker's proposal; it does not show that the needed governance mechanism was supplied in the reported exchange."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The substance of a democracy is the specific mechanism that resolves policy conflicts.",
+    "content": "Democracy involves more than one decision rule, and the essay's definition is too compressed. Still, participation, accountability, and civil liberties need concrete institutions when stakeholders disagree about what to do. Asking who decides and how to contest the decision is a legitimate request for operational content, not an arbitrary redefinition that those other dimensions render irrelevant."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Since the reversal sounds abnormal, the unreversed statement is probably normal, implying it does not convey new information.",
+    "content": "The essay explicitly lists legitimate uses of otherwise predictable sentences and conditions its diagnosis on the absence of further specifics. A credible commitment by a government changes expectations about its future behavior and therefore supplies information in context. Fable identifies a limit of a mechanical reversal test, but its example fits the contextual exception the essay already states."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I think it means that you have said the word “democracy,” so the audience is supposed to cheer.",
+    "content": "An older name for the same phenomenon reduces a claim to novelty, not the phenomenon's reality or the usefulness of teaching it. Coalition information can be real while failing to answer a question about which AI policy is proposed. The essay's mistake would be to deny every communicative function; distinguishing applause from a substantive policy answer requires no such denial."
+  }
+]

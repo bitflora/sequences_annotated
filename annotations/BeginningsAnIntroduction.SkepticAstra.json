@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "decision theory is standard in cognitive science. For an",
+    "content": "<strong>A normative ideal does not certify a curriculum</strong><br>The legitimacy of Bayesian probability as a normative framework supplies no empirical certificate for this author’s practical methods. Priors, models, utilities, computational limits and learning outcomes still require justification. The introduction explicitly acknowledges philosophical controversy; readers should preserve that distinction throughout the book."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "intentions of the experimenter",
+    "content": "<strong>Sampling design is not merely a private intention</strong><br>Frequentist error guarantees concern a specified sampling procedure; a stopping rule can change those guarantees. Bayesian stopping-rule independence is a different property, and default or pragmatic priors need not preserve every desired calibration property. De Heide and Grünwald explain the distinctions. Calling the alternative more subjective is a slogan where an account of the inferential target is needed.<br><em><a href=\"https://doi.org/10.3758/s13423-020-01803-x\">de Heide &amp; Grünwald (2021)</a></em>"
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "improves reasoning skills outside the classroom",
+    "content": "<strong>Some transfer is evidence; universal transfer is an extra claim</strong><br>Fong and colleagues provide evidence that statistical instruction can improve reasoning on everyday problems. That is a useful positive result with a defined task domain. It does not establish that this particular collection produces broad, durable improvements in judgment, and the cited gambling study cannot by itself settle the value of every course in logic or fallacies.<br><em><a href=\"https://doi.org/10.1016/0010-0285(86)90001-0\">Fong, Krantz &amp; Nisbett (1986)</a></em>"
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "the resultant material has proven useful to a much",
+    "content": "<strong>Adoption supplies no control group</strong><br>A movement, an institute and satisfied readers demonstrate influence and perceived usefulness. They do not identify the causal effect of reading the essays: selection, social support and prior motivation can produce the same observations. The later request to test and replace this text is the stronger standard; institutional descendants should meet it too."
+  }
+]

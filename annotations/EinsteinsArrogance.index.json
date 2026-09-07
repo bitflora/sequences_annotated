@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/EinsteinsArrogance.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/EinsteinsArrogance.RationalistAstra.json",
+    "default": false
   }
 ]

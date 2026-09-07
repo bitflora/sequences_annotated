@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the decline of real fights",
+    "content": "<strong>The golden age needs historical evidence too</strong><br>The image of martial competence once policed by real encounters gives the institutional story its force. The essay provides no comparative historical account showing how well that mechanism actually selected reliable instruction. A vivid origin story can reproduce the very epistemic vice being criticized."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Every single one of these risk factors",
+    "content": "<strong>The warning explicitly applies to the author’s own project</strong><br>This essay does ask whether a rationality school could acquire the same vices it criticizes. It would be unfair to say the self-application is absent. The enduring warning is strong: a community’s scientific vocabulary provides no immunity to deference, dogma or untested instruction."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "What can be done about it?",
+    "content": "<strong>Recognizing the danger is the beginning of a safeguard</strong><br>A community can praise external testing while continuing to reward insider fluency and loyalty. The practical question is whether independent results change status, funding and leadership when they disappoint. Self-awareness without a mechanism for costly correction is cheap."
+  }
+]

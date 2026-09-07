@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Of course it matters who started the fight.",
+    "content": "An enforceable rule for stopping a fight does not establish that responsibility for starting it is irrelevant. The essay explicitly allows lack of information and asks the principal to state that limitation honestly. Fable supplies a possible rationale for a policy, but then treats that rationale as if it justified the stronger moral and factual claim the essay criticizes."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "neutrality is a definite judgment",
+    "content": "The worked example is an assertion that the evidence fails to favor evolution, not an admission that the speaker has not examined it. A calibrated forecast such as 55% is a judgment about the evidence, even though it is tentative; it is not refusal to judge. Fable's argument for qualified estimates answers a demand for dogmatic certainty that this passage does not make."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "or just has a superior vantage point",
+    "content": "Recognizing limits and considering alternatives can improve judgment while displays of those same behaviors can sometimes serve status. A beneficial function and a signaling function are not mutually exclusive. The essay's anecdotal diagnosis cannot establish how often neutrality is pretended, but the existence of useful balanced judgment does not show that pretended balance never occurs."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If someone says that both pro-life and pro-choice sides have good points and that they really should try to compromise and respect each other more, they are not taking a position above the two standard sides in the abortion debate.",
+    "content": "A recommendation to compromise makes a substantive judgment about competing values and institutions, even when no empirical observation settles the values. Calling it a position does not imply that one faction must be wholly correct or that evidence alone resolves the dispute. Fable is right to distinguish factual and evaluative questions, but that distinction does not place the proposed compromise outside criticism."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Paolo Freire said",
+    "content": "The misspelling should be corrected, and the Freire maxim should not be treated as universally true. Fable nevertheless overstates its logical objection: a proposition that applies to every relevant case can still distinguish kinds of consequences or responsibilities within those cases. Whether nonintervention helps an aggressor depends on the actual incentives and alternatives, which is the question the maxim cannot settle by itself."
+  }
+]

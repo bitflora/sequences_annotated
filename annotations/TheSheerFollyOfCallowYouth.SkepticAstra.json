@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "to zero—that possibility cancels out of",
+    "content": "<strong>The algebra survives; the interpretation is the problem</strong><br>A scenario assigning every act the same utility cancels out of their comparison under the stipulated expected-utility model. The failure is identifying the absence of an objectively compelling morality with the absence of valued outcomes. A person can prefer survival without a universal proof of that preference; the author’s eventual rejection of the original wager is justified."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "None of these things could have led me astray",
+    "content": "<strong>The counterfactual cure is untested</strong><br>Looking backward and identifying loose reasoning can explain how an error became possible. It cannot establish that sufficient rigor would have prevented every serious mistake: rigorous reasoning can start from false data, omitted hypotheses or a misspecified model. The stronger claim needs more than an autobiography whose ending selects the lesson."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "No, you don’t use the best concepts",
+    "content": "<strong>Acting under uncertainty is unavoidable</strong><br>Demanding a better understanding before a consequential step can be wise. But waiting, researching and declining to act are also choices with uncertain consequences. Nature’s indifference to excuses cannot establish that a decision made with the best available model was irrational; the relevant comparison is among feasible options at the time."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "not knowing. Any black box could contain a",
+    "content": "<strong>A useful interface can precede an explanation</strong><br>A black box can be unacceptable when safety depends on its unknown internals. It can also be a legitimate scientific or engineering object when its relevant behavior is measured and its domain of reliability is explicit. A blanket demand to open every box confuses incomplete mechanistic understanding with an absence of usable evidence."
+  }
+]

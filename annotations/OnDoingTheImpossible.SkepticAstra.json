@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "that I had overestimated the difficulty of",
+    "content": "<strong>Surviving examples select the apparent impossibilities</strong><br>Remembering tasks that turned out to be easier than expected can reveal miscalibration. It omits tasks that remained unsolved and people whose extraordinary efforts failed. Estimate success rates from prospectively recorded attempts and comparable alternatives before using the memorable cases to justify another commitment."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "calculated the planetary death rate at 55",
+    "content": "<strong>Urgency does not supply an intervention effect</strong><br>A large ongoing harm makes effective interventions valuable. It does not establish that a particular research project can accelerate relief, or that acceleration outweighs its risks and displaced alternatives. The moral stakes amplify the need for those estimates instead of filling them in."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Mathematical proof of impossibility",
+    "content": "<strong>Logical possibility is a very weak feasibility guarantee</strong><br>Distinguishing logical impossibility from current inability is useful. A logically possible task may still exceed a finite agent’s time, resources or available methods. Exploration should be tied to learning value and explicit milestones; lack of a proof of impossibility is not positive evidence of tractability."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Never give up? Don’t be",
+    "content": "<strong>The explicit permission to lose matters</strong><br>The essay explicitly rejects a blanket never-give-up rule. That concession prevents its central exhortation from becoming an unlimited sunk-cost policy. The practical missing step is to specify what evidence should trigger persistence, a change of method or abandonment before emotional investment grows."
+  }
+]

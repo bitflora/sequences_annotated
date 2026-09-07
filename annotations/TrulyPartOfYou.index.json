@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/TrulyPartOfYou.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/TrulyPartOfYou.RationalistAstra.json",
+    "default": false
   }
 ]

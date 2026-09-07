@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/TheSinOfUnderconfidence.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/TheSinOfUnderconfidence.SkepticAstra.json",
+    "default": false
   }
 ]

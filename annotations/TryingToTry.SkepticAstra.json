@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "except that the latter expresses the possibility of failure",
+    "content": "<strong>Ordinary language does not reveal the speaker’s objective function</strong><br>Saying one will try often expresses uncertainty about success while retaining a serious intention to achieve it. The essay recognizes a colloquial use, but its rhetorical distinction should not become a diagnostic test of someone’s motives. Ask what actions, contingencies and feedback the person has planned."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "being satisfied with having a plan",
+    "content": "<strong>Concrete contingencies are the testable version</strong><br>The distinction becomes useful when it changes behavior: identify the next action, the obstacle and what to do if that obstacle occurs. Research on implementation intentions gives this kind of if–then planning a measurable form. It supplies no evidence that changing one’s vocabulary or intensifying commitment alone improves outcomes.<br><em><a href=\"https://doi.org/10.1016/S0065-2601(06)38002-1\">Gollwitzer &amp; Sheeran (2006)</a></em>"
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "three times your life savings, and you",
+    "content": "<strong>A vivid stake does not eliminate opportunity cost</strong><br>Maximizing one task’s probability of success is a narrower objective than using one’s resources well. Extra effort can impose unacceptable costs on other goals, even when the task matters greatly. A dramatic hypothetical reward focuses attention; it does not establish how much real-world effort is optimal."
+  }
+]

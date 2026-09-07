@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "be better tested experimentally, than just",
+    "content": "<strong>Treat the replacement as an experiment</strong><br>The invitation to try institutional alternatives is reasonable. It becomes credible when objectives, costs and retention are recorded and participants can report failure or leave without penalty. A speculative design earns support from its results; the dissatisfaction that inspired it is not yet that evidence."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "wearing formal clothes is not optimal",
+    "content": "<strong>An apparent cost may help produce a collective benefit</strong><br>Some burdens can signal commitment, screen free riders or sustain participation. Iannaccone’s club-goods model gives one explicit mechanism, without vindicating every ritual. Removing a disliked practice may improve a community, but its causal role has to be tested rather than inferred from its lack of direct output.<br><em><a href=\"https://doi.org/10.1086/261818\">Iannaccone (1992)</a></em>"
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "of rationalist communities, taskforces focused on",
+    "content": "<strong>A taskforce and a community can serve different needs</strong><br>An organization optimized for task performance may serve people poorly during illness, unemployment or periods of low productivity. That difference matters when the proposed replacement is supposed to provide belonging and mutual support. Compare success across those purposes, rather than assume a single output metric captures everything a church supplies."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Taken literally, that description fits every phenomenon in our universe above the level of individual quarks",
+    "content": "The essay explicitly allows claims of the form 'X emerges from Y' when Y supplies a specific model. Technical work about universality, collective dynamics, or computational derivability can provide that missing content, and should not be dismissed because of its label. Fable is right that the noun has legitimate technical uses, but its existence does not make an otherwise unspecified appeal to emergence explanatory."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Human intelligence is a magical product of neurons firing.",
+    "content": "If a speaker explicitly means independence from particular microscopic details or the absence of localized implementation, those are substantive claims worth testing. The bare word does not uniquely entail all the properties Fable adds across different technical senses. Ask which property and counterfactual are intended; replacing an underspecified sentence with a stronger one is a useful repair, not proof that the original already conveyed the repair."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I have lost track of how many times I have heard people say, “Intelligence is an emergent phenomenon!”",
+    "content": "The measurements and models in <a href=\"https://arxiv.org/abs/2206.07682\" title=\"Emergent Abilities of Large Language Models\">Wei et al. (2022)</a> and <a href=\"https://arxiv.org/abs/2304.15004\" title=\"Are Emergent Abilities of Large Language Models a Mirage?\">Schaeffer et al. (2023)</a> give their dispute content beyond the word 'emergent'. That fits the essay's explicit permission to evaluate specified models on their merits, while the claim that any novel ability was always predictable would itself require evidence. Fable overstates the historical target when it treats the essay as a prediction that no future technical use of the term could exist."
+  }
+]

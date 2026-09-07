@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "biases arise from machinery that is humanly universal",
+    "content": "Cross-cultural variation challenges a claim that every population displays an identical bias, but shared cognitive machinery need not produce identical outputs under different learning conditions. The Plato example is also explicitly conditional: it illustrates what would count as a bias if the proposed cause obtained, rather than establishing Plato's actual motive. The definition is too restrictive if it excludes learned systematic distortions, while the conditional example is not the historical diagnosis Fable portrays."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "for example, the machinery to win arguments in adaptive political contexts",
+    "content": "Exposure to disagreement is something a reflective individual can deliberately arrange. Choosing adversarial feedback, asking someone to challenge a conclusion, and checking whether one's group suppresses dissent are all corrections to the process that produces belief. A social mechanism and individual responsibility for using it are compatible; Fable's either-or prescription does not follow from the argumentative theory."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Our brains are doing something wrong",
+    "content": "Fable lists failures from adjacent psychological literatures without showing that those failures invalidate this essay's named examples. Whether a particular experimental response expresses a probability judgment must indeed be checked, but a genuine conjunction violation is not repaired by redescribing the participant's goals. Audit each effect and its interpretation separately; neither membership in a research tradition nor rejection of that tradition settles the evidence."
+  }
+]

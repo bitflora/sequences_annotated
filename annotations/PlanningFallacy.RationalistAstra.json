@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But experiment has shown that the more detailed subjects’ visualization, the more optimistic (and less accurate) they become.",
+    "content": "A plan can improve execution while its author's completion estimate remains too optimistic. The essay discusses how to make that estimate and reports a comparison in which extra planning did not improve completion time; it does not establish that all planning is harmful. Fable's own distinction supports doing both jobs: make a useful plan, then calibrate its forecast against outcomes rather than the vividness of the plan."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Just ask how long similar projects have taken in the past, without considering any of the special properties of this project.",
+    "content": "The unconditional command to ignore project-specific information is too strong. But information about a supposedly exceptional project deserves weight only insofar as it predicts residual outcomes beyond the reference class; the team's confidence that it is special is not automatically such information. Start with comparable completed projects, then make adjustments whose predictive value can be defended."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Are they symptoms of bureaucracy or government incentive failures? Yes, very probably.",
+    "content": "The paragraph explicitly distinguishes incentive failures in public projects from experimentally demonstrated optimism in individual planning. Persistent aggregate underestimation does not identify its cause by itself: selection, changing personnel, and incentives can also prevent corrective learning from appearing in the aggregate. Fable's incentive explanation warrants investigation, but it neither erases the lab phenomenon nor contradicts the essay's express concession."
+  }
+]

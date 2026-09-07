@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/MoneyTheUnitOfCaring.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/MoneyTheUnitOfCaring.SkepticAstra.json",
+    "default": false
   }
 ]

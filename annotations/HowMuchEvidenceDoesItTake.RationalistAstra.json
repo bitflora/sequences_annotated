@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "On average, 131 losing tickets will pass such a test for every winner.",
+    "content": "The exact twenty-bit filter gives 131,115,984 / 1,048,576 ≈ 125.04 losing tickets on average, rather than 131. Fable's arithmetic correction should stand. It leaves the base-rate lesson intact but is still an error in an example intended to teach quantitative care."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Suppose you can use another black box to test combinations twice, independently.",
+    "content": "The note's own anchor includes 'independently', and the next two sentences repeat that assumption for losing tickets and for the cumulative test. Fable is therefore wrong that the essay never states the condition. The useful extension is that arbitrary observations require conditional likelihood ratios, P(E₂|H,E₁)/P(E₂|¬H,E₁), rather than treating repeated or dependent evidence as fresh evidence."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The larger the space of possibilities in which the hypothesis lies",
+    "content": "The essay explicitly adds prior improbability as an alternative to counting possibilities; it does not require every real hypothesis space to resemble equiprobable tickets. With specified models, the required likelihood ratio is target posterior odds divided by prior odds. Choosing those models and priors remains substantive work, but partitioning a hypothesis into subcases cannot legitimately create new total prior probability merely by renaming the cases."
+  }
+]

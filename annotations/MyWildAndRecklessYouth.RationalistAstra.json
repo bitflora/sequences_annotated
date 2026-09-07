@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This required neurons to maintain a certain degree of quantum coherence, which was something you could look for, and find or not find.",
+    "content": "<a href=\"https://doi.org/10.1103/PhysRevE.61.4194\" title=\"Importance of quantum decoherence in brain processes\">Tegmark (2000)</a> presents calculations of decoherence rates, not a direct observation that the required coherence was absent; <a href=\"https://doi.org/10.1103/PhysRevE.65.061901\" title=\"Quantum computation in brain microtubules: Decoherence and biological feasibility\">Hagan et al. (2002)</a> disputes the modeled degrees of freedom and assumptions. Calling that exchange a question settled by a failed experiment in 2000 overstates the cited record. It also misses the methodological point that a falsifiable proposal can deserve low confidence before anyone performs its proposed test; nothing here establishes a general superiority of one scientific community over another."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Do not attempt long chains of reasoning or complicated plans.",
+    "content": "The warning should constrain speculative AI arguments too: a chain must be assessed using conditional dependencies and uncertainty at each indispensable step. The author's failure to apply a valid warning consistently would be a failure of practice, not a refutation of the warning. As a universal ban on extended reasoning it is untenable; as advice against resting large commitments on loosely supported chains it is useful."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "if a hypothesis does not today have a favorable likelihood ratio over “I don’t know,”",
+    "content": "Fable is right that the words 'I don't know' do not supply a unique likelihood, so the proposed test needs an explicit baseline or mixture. But a maximum-entropy baseline is not automatically beaten by every model that merely allows the observed outcome, and retrospective fitting cannot be credited as cost-free prediction. Compare specified alternatives, charge for the assumptions that select them, and acknowledge when the catch-all remains inadequately modeled."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Traditional Rationality doesn’t have the ideal that thinking is an exact art in which there is only one correct probability estimate given the evidence.",
+    "content": "Bayesian conditionalization alone does not imply a uniquely rational prior or posterior, and the essay should mark objective Bayesianism as an additional philosophical commitment. The existence of subjective Bayesianism does not by itself refute that commitment either. The defensible shared demand is to expose priors and likelihoods to criticism; claiming a unique evidential answer requires more argument than invoking Bayes's rule."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "so, though I remember the important events,",
+    "content": "<strong>Retrospective coherence is not a causal study</strong><br>The author admits difficulty reconstructing his earlier thinking and reports correction by others. That candor improves the memoir while limiting what it can establish. Dated records can check particular recollections; the narrative still cannot isolate which habit caused the later change or show that readers will reproduce it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "had to output waste heat in order to",
+    "content": "<strong>Thermodynamic claims need the right operation</strong><br>Information erasure has thermodynamic significance; computation is not synonymous with erasing information at every step. Bennett’s reversible-computation construction blocks a blanket inference from logical computation to a fixed dissipative cost per operation. Physical limits remain, but this sketch should not borrow more necessity from thermodynamics than the assumptions support.<br><em><a href=\"https://www.cs.princeton.edu/courses/archive/fall06/cos576/papers/bennett73.html\">Bennett (1973)</a></em>"
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "out, steering the future. In the",
+    "content": "<strong>Optimization needs a specified baseline</strong><br>Describing intelligence as steering futures can be a useful abstraction. Measuring it requires a space of outcomes, a baseline distribution, goals and resource constraints; otherwise even the amount of steering is underdefined. The abstraction alone does not solve the empirical problem of comparing minds or predicting their capabilities."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "definitely, no two ways about it, pointlessly wipe out the human species",
+    "content": "<strong>A possible hostile objective does not establish a historical extinction counterfactual</strong><br>One can formally specify an agent whose goal conflicts with human welfare. Concluding that the author’s actual earlier project would have killed humanity additionally requires feasible implementation, adequate capabilities, consequential deployment and the relevant objective remaining effective. The missing links are substantial, even though the original assumption of guaranteed benevolence was indefensible."
+  }
+]

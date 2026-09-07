@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/FinalWords.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/FinalWords.SkepticAstra.json",
+    "default": false
   }
 ]

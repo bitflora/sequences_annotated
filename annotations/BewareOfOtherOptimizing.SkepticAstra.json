@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "you read the twentieth piece of advice—or",
+    "content": "<strong>One apparent success after many attempts still needs retesting</strong><br>Trying numerous techniques creates opportunities for coincidence, regression to the mean and selective memory. A personally useful observation can justify a further trial without identifying a stable mechanism or predicting another person’s response. Record repeated outcomes and relevant changes in circumstances before declaring the method discovered."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "blog post somewhere; no more and no less likely to work for",
+    "content": "<strong>The equality claim is too strong</strong><br>Advice from a friend who knows someone’s constraints can contain relevant information that a generic blog post lacks. It can also be overconfident and mistaken, as the anecdote illustrates. One failure establishes neither exact equality of success probabilities nor the uselessness of individualized knowledge."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "be willing to take “No” for an answer, if you",
+    "content": "<strong>Respecting refusal is one of the least damaged recommendations</strong><br>Individual differences, imperfect knowledge and unequal power give a strong reason to accept that advice may not fit the recipient. This practical and ethical argument does not depend on one priming result. Apply it to rationality teachers and organizers as readily as to intrusive friends."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "been shown to decrease our ability to empathize with and understand",
+    "content": "<strong>The relevant power result needs a replication warning</strong><br>The post does not identify its study. In the relevant Galinsky et al. 2006 research, Study 2a used power recall and a sarcastic-email perspective task. Many Labs 3 directly replicated that experiment with N=2,969 and found d=0.03, 95% CI [−0.04, 0.10]. This challenges that manipulation and task; it does not establish that power never impairs empathy or judgment.<br><em><a href=\"https://doi.org/10.1016/j.jesp.2015.10.012\">Ebersole et al. (2016)</a></em>"
+  }
+]

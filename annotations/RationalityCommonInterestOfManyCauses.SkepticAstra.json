@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "not all the rationalists I create",
+    "content": "<strong>Letting students choose different causes survives</strong><br>The author explicitly accepts that people he teaches may support other projects. That is a valuable limit on the recruitment motive and should constrain the less tolerant fundraising rhetoric elsewhere. Better reasoning can also lead someone to reject all the instructor’s examples; assess reasoning quality independently of which cause receives support."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "agree to shut up about the disagreement",
+    "content": "<strong>A shared venue needs room for relevant dissent</strong><br>Deferring every cause-specific argument can keep a training meeting focused. It can also shelter the sponsor’s assumptions when those assumptions shape the curriculum or fundraising. Distinguish ordinary agenda management from suppressing criticism material to a participant’s informed choice."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "overall supply of altruism.",
+    "content": "<strong>Motivation and effectiveness can both limit impact</strong><br>Improving the allocation of a fixed charitable budget is valuable. Increasing available effort or resources can also matter, and the two interventions can interact. Their relative value is an empirical question about marginal effects, not something settled by preferring the more intellectually sophisticated activity."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "willpower (the true limiting resource)",
+    "content": "<strong>The limiting resource is asserted, not identified</strong><br>Mental accounting can make donation responses depart from a simple fixed-budget model. It does not establish that willpower is the uniquely binding constraint rather than income, trust, attention or perceived effectiveness. That claim needs direct evidence about actual giving; a general self-control theory cannot identify the bottleneck by declaration."
+  }
+]

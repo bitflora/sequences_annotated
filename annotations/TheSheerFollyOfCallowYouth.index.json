@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/TheSheerFollyOfCallowYouth.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/TheSheerFollyOfCallowYouth.SkepticAstra.json",
+    "default": false
   }
 ]

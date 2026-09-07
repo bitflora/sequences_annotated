@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/IllusionOfTransparencyWhyNoOneUnderstandsYou.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/IllusionOfTransparencyWhyNoOneUnderstandsYou.RationalistAstra.json",
+    "default": false
   }
 ]

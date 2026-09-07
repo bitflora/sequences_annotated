@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "closely based on an excerpt from Meyers’s",
+    "content": "The spelling and citation defects deserve correction, and a rhetorical reversal is not a prevalence study. But an illustration can expose how readily a reader generates reasons for contradictory outcomes without purporting to estimate the effect's population frequency. Fable's next note acknowledges the independently studied hindsight effect; the bad bibliography does not make the phenomenon depend on this one sidebar."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "assign much higher probabilities they “would have” guessed for that answer",
+    "content": "A correlation of about 0.17 cannot be converted into 'a few' probability points without the measurement scales and variability. Standardized effects also do not determine practical importance independently of frequency, stakes, and aggregation. Fable appropriately asks for magnitude and uncertainty, but its numerical gloss is not licensed by the statistic it quotes."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "We need to make a conscious effort to be shocked enough.",
+    "content": "Noticing that a reported result conflicts with one's prior expectation is different from believing the result uncritically. An accurately surprising report can prompt scrutiny of the study as well as revision of the underlying theory. Hindsight suppresses that discrepancy by making either outcome feel inevitable, so skepticism about surprising findings is a reason to preserve surprise, not to erase it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Do your thought processes at this point, where you really don’t know the answer, feel different",
+    "content": "A feeling of introspective contrast is not a validated cure for hindsight bias, and the essay should not imply that awareness guarantees correction. Its exercise nevertheless demonstrates a candidate failure by confronting readers with incompatible stories, rather than merely telling them to be unbiased. For consequential use, record forecasts before seeing outcomes and score the records; the correction should not depend on reconstructing what one remembers expecting."
+  }
+]

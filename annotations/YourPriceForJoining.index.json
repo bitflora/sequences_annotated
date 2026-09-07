@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/YourPriceForJoining.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/YourPriceForJoining.SkepticAstra.json",
+    "default": false
   }
 ]

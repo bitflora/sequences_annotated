@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "it seems unlikely that bond prices will remain the same",
+    "content": "A no-change point forecast says nothing by itself about the probability of exactly no change: a symmetric distribution of sizable positive and negative moves can have mean zero. Likewise, failure to predict direction better than chance does not imply a uniform distribution over up, down, and unchanged. Fable is right that already anticipated news need not move prices, but its point-forecast evidence cannot establish the allocation of uncertainty it recommends."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "pairs of numbers, right and left numbers, which you’d call DS for Dexter-Sinister",
+    "content": "An allocation problem with one resource and a specified utility function does not establish that every defensible representation of uncertainty is a single number. Fable is right about that missing foundational argument. Nevertheless, imprecise probabilities also constrain admissible expectations and decisions; their existence does not rehabilitate a theory that claims equal explanatory success for every outcome without specifying any predictive commitments."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "your utility function is logarithmic in time spent preparing the excuse",
+    "content": "The logarithmic payoff is explicitly stated, so the proportional allocation is a conditional result rather than a hidden consequence of probability alone. With other payoffs, optimal allocations change, as Fable correctly observes. The example can illustrate why a forecast must discriminate among outcomes without serving as a derivation of the uniquely correct decision rule for all tasks."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If only there were an art of focusing your uncertainty",
+    "content": "The rhetorical question introduces the practice the subsequent essays aim to teach; it is not a forecast that probabilistic forecasting will remain untested. Fable's account of gains from training, feedback, and teams describes ways to make explicit anticipation useful. It supplies no direct comparison establishing its stronger claim that an untrained numerical forecaster and a person refusing to specify expectations perform equally well."
+  }
+]

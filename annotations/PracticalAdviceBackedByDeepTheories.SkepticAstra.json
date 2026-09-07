@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Shangri-La Diet per se",
+    "content": "<strong>An elegant self-experiment does not establish a general treatment effect</strong><br>A personal dietary result can generate a hypothesis while leaving confounding, adherence and generalizability unresolved. The essay admits that a method may fail for a particular reader, which is appropriate. It still needs controlled evidence for the proposed mechanism and the practical prediction; a deeper story alone does not supply it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "without the explicit theory backing it up.",
+    "content": "<strong>Mechanistic understanding can improve a prediction, if it earns its place</strong><br>A theory that correctly predicts when a technique works and fails can improve generalization. A story added after the outcome can explain anything and predict little. The useful test is a new, risky prediction checked against data, including unsuccessful cases and competing explanations."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "the Peak–end rule",
+    "content": "<strong>A memory effect cannot be transferred to meal advice without a test</strong><br>The classic better-ending experiment concerned cold-water discomfort and later preference between episodes. It does not establish that reducing a meal’s size leaves its remembered pleasure unchanged or that dessert is the only relevant variable. The dietary prescription needs a direct test of the actual outcome being promised.<br><em><a href=\"https://doi.org/10.1111/j.1467-9280.1993.tb00589.x\">Kahneman et al. (1993)</a></em>"
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "willpower, mental conflicts, ego depletion, preference reversals,",
+    "content": "<strong>The confident appeal to ego depletion aged badly</strong><br>Hagger et al.’s preregistered 23-lab test found d=0.04, 95% CI [−0.07, 0.15], with 2,141 participants. Vohs et al.’s later 36-lab study found a nonsignificant confirmatory d=0.06 with 3,531 participants. These results substantially weaken reliance on a large, dependable depletion effect as an established foundation for advice.<br><em><a href=\"https://doi.org/10.1177/1745691616652873\">Hagger et al. (2016)</a>; <a href=\"https://doi.org/10.1177/0956797621989733\">Vohs et al. (2021)</a></em>"
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "a vocabulary of cognitive phenomena that actually exist",
+    "content": "<strong>The correction is not that fatigue or every depletion effect is imaginary</strong><br>A separate preregistered 12-lab study by Dang and colleagues found a small effect, d=0.10, with 1,775 participants. The evidence is heterogeneous, and even a reliable sequential-task effect would not uniquely establish a literal resource tank. The warranted update concerns effect size, generality and mechanism; it does not license an equally sweeping denial.<br><em><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8186735/\">Dang et al. (2021; online 2020)</a></em>"
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "reported p < 0.01 because p <",
+    "content": "<strong>A small p-value is not a replication certificate</strong><br>The ASA statement rejects treating significance as a universal quality threshold. For illustration, if only 1% of tested hypotheses are real, power is 80% and the false-positive rate is 1%, only about 45% of significant results would be true positives even before selective reporting. These are stipulated numbers, not an estimate for this literature; they show why the threshold alone cannot do the promised work.<br><em><a href=\"https://doi.org/10.1080/00031305.2016.1154108\">Wasserstein &amp; Lazar / ASA (2016)</a></em>"
+  }
+]

@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/SchoolsProliferatingWithoutEvidence.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/SchoolsProliferatingWithoutEvidence.SkepticAstra.json",
+    "default": false
   }
 ]

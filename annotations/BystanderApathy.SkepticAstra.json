@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "is that larger groups are less",
+    "content": "<strong>Individual inhibition and the chance of any help are different outcomes</strong><br>Philpot and colleagues observed 219 public conflicts across three countries; about nine in ten received help, and more bystanders were associated with a greater chance that someone intervened. This observational, aggregate outcome is not a direct replication of the smoke experiment. It blocks the extrapolation that larger real-world groups necessarily leave a victim less likely to receive any help.<br><em><a href=\"https://doi.org/10.1037/amp0000469\">Philpot et al. (2020; online 2019)</a></em>"
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "smoke start coming up from under the door",
+    "content": "<strong>The classic laboratory result has genuine but bounded support</strong><br>Fischer and colleagues’ 2011 meta-analysis pooled 105 effects and over 7,700 participants, finding average individual-level inhibition of helping, g=−0.35. The effect varied with danger and other situational features. A skeptical review should preserve this evidence instead of indiscriminately declaring the bystander effect a failed-replication myth.<br><em><a href=\"https://doi.org/10.1037/a0023304\">Fischer et al. (2011)</a></em>"
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "is a plausible evolutionary explanation. More",
+    "content": "<strong>Withdrawing an attractive explanation is good practice</strong><br>The author’s rejection of his initial evolutionary explanation models a useful correction: a plausible story can fail against the actual experimental design. Its replacement should receive the same scrutiny. Showing one story wrong does not automatically verify the next mechanism proposed."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "telling people about the bystander effect",
+    "content": "<strong>Teaching a bias is not established immunity to it</strong><br>A demonstration that warning some participants improves helping in a particular setting would be encouraging. It would not establish lasting immunity across emergencies, cultures or online groups. The book’s practical transfer claim needs retention and behavioral tests beyond the original classroom or laboratory context."
+  }
+]

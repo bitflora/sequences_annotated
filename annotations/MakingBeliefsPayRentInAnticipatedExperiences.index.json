@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/MakingBeliefsPayRentInAnticipatedExperiences.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/MakingBeliefsPayRentInAnticipatedExperiences.RationalistAstra.json",
+    "default": false
   }
 ]

@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/A-Fable-Of-Science-And-Politics.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/A-Fable-Of-Science-And-Politics.RationalistAstra.json",
+    "default": false
   }
 ]

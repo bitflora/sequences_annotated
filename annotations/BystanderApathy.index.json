@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/BystanderApathy.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/BystanderApathy.SkepticAstra.json",
+    "default": false
   }
 ]

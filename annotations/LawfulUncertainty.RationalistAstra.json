@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Despite feedback through a thousand trials, subjects cannot bring themselves to believe that the situation is one in which they cannot predict.",
+    "content": "The essay expressly permits continued hypothesis generation and proposes recording guesses while betting blue. In this passive task, the revealed card supplies the same information whatever the bet, so betting on an unvalidated pattern is not required to discover it. Fable's defense of pattern search therefore misses the distinction between learning from the sequence and paying for an inferior action while learning."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Decision theory does not burst into flames and die when faced with an opponent who disobeys decision theory.",
+    "content": "The blanket sentence against randomizing actions is false outside the stated passive card task, and mixed strategies supply a clear counterexample. A prescribed randomization rule is nevertheless lawful decision-making: uncertainty or an adversary does not require abandoning a justified policy. Fable corrects the overgeneralization but does not reverse the core distinction between a stochastic policy chosen for a reason and arbitrary departures from one's best policy."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "How many theories of AI?",
+    "content": "Randomized optimization, exploration, and sampling can be useful, so a universal prohibition would be untenable. Those procedures specify how randomness serves an objective; they are not instances of throwing away a model because the world is unpredictable. The appropriate repair is to evaluate complete policies, including their information and computational effects, rather than infer that the presence of randomness makes a method either irrational or automatically superior."
+  }
+]

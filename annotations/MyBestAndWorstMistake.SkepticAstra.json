@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "nothing like a human brain",
+    "content": "<strong>Rejecting a biological blueprint does not forbid biological insight</strong><br>The author explicitly credits studying neuroanatomy while asserting that an artificial intelligence should look nothing like a human brain. That strong architectural conclusion needs criteria for what resemblance means and evidence about which mechanisms are useful. Rejecting literal duplication of a brain does not establish that every important resemblance is undesirable."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "chalk this up to the anthropic principle",
+    "content": "<strong>The selection caveat should govern the whole memoir</strong><br>Acknowledging survivorship bias is a real strength. A good outcome after a mistaken belief does not show that the belief was a good policy, and a persuasive story from the person who persisted does not show what happened to comparable people who chose differently. Keep that caveat when the book later recruits this history as a route to exceptional competence."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "all reasoning on that level is something that can’t be trusted",
+    "content": "<strong>Operational knowledge can precede a deep theory</strong><br>The author allows preliminary descriptions while warning against putting weight on informal reasoning. That warning is sensible when untested mechanisms carry the conclusion, but reliability can also be established within a tested range before a complete explanation exists. Precision helps expose assumptions; neither a formal definition nor a deep theory is an automatic certificate of truth."
+  }
+]

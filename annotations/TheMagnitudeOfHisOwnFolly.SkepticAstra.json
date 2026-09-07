@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the possibility of others beating them to the punch",
+    "content": "<strong>Self-diagnosis does not establish everyone else’s motives</strong><br>The author may have discovered a defensive story in his own thinking. Others may sincerely face competitive pressures while still making poor safety choices. Assess the strategic situation and the proposed response; dismissing an incentive account as ego protection is not a substitute for that analysis."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "even if you had wise and excellent arguments",
+    "content": "<strong>A bad outcome can follow a rational decision</strong><br>Judgment should be assessed using the information and options available when it was made. A policy that minimizes expected harm can still produce a disastrous realization. Treating disaster as sufficient proof of prior irrationality is hindsight bias in severe language; negligence and bad luck require different evidence."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "know positively that the ground is safe",
+    "content": "<strong>Safety requires comparison, not an uncertainty-free option</strong><br>The demand to investigate a catastrophic downside is justified. A requirement for positively guaranteed safety can become impossible to satisfy, including for inaction. Decisions need explicit uncertainty, alternatives and asymmetric consequences; the fact that nature punishes errors does not create an option with no risk."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Anyone reporting sudden chest pains should have been hauled off by an ambulance instantly.",
+    "content": "The ambulance assumption is too categorical and the eventual revelation of a fabricated story does not retrospectively validate it. Confusion should flag a mismatch among a model, a report, and background assumptions, leaving all three open to investigation. Fable correctly criticizes the model, but the narrower habit of investigating that mismatch does not require knowing in advance which component is wrong."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And the Medical Establishment was always right. Every single time.",
+    "content": "In context, 'every single time' describes the narrator's remembered medical encounters rather than asserting a measured error rate for all medicine. The subsequent extrapolation from those encounters to certainty about an unfamiliar report is nonetheless unwarranted. Fable's criticism is strongest when directed at that extrapolation, rather than treating a statement about the author's sample as a universal factual claim."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It makes you wonder what’s the point of having economists if we’re just going to ignore them.",
+    "content": "The economic aside supplies no evidence sufficient to establish its causal explanation, so it should not borrow the authority of economists as a substitute. Fable's associations with ownership, safety-net status, and margins likewise would not by themselves exclude a contribution from uncompensated care. The correct result is an unestablished causal claim, not confidence in either side's compressed account of closures."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Alas, belief is easier than disbelief",
+    "content": "Evidence of rapid rejection when relevant knowledge is available qualifies a universal automatic-belief model. But supplying a motivated-reasoning account of this anecdote does not establish that no default acceptance process contributed; mechanisms can coexist. Keep the narrower claim that the reported story needed source checking, and do not use the anecdote as a decisive experiment between cognitive theories."
+  }
+]

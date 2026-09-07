@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "She spoke with… pride? Self-satisfaction? A deliberate flaunting of herself",
+    "content": "Demeanor alone does not justify a confident diagnosis of this woman's mental state. The narrated evidence also includes her spoken explanation of how geography shaped the myth, however, so it is not solely an attempt to decode facial emotion. Treat the proposed interpretation as a hypothesis about the episode; the broader category needs evidence independent of the narrator's impression."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But even the concept of “religious profession” doesn’t seem to cover the pagan woman’s claim to believe in the primordial cow.",
+    "content": "Symbolic and identity-affirming uses of religious language are precisely uses that a taxonomy separating prediction from profession and affiliation should accommodate. Adding such a distinction when an example demands it improves the taxonomy rather than automatically falsifying it. The hostile description of the woman is dispensable; the question of what her assertion is doing remains intelligible."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "most people are honest enough that, if they say a religious statement aloud, they will also feel obligated to say the verbal sentence into their own stream of consciousness",
+    "content": "The frequency of inner speech at randomly sampled moments does not measure inner speech conditional on publicly asserting a religious belief. Fable substitutes an unconditional rate for the conditional claim under discussion. The claim still needs evidence, but admitting verbal self-profession alongside nonverbal anticipation is not an inconsistency in a taxonomy whose central point is that both exist."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "she was cheering for paganism, like holding up a banner at a football game",
+    "content": "Fable correctly distinguishes evidence for the existence of expressive responding from evidence about this particular speaker. A fuzzy boundary does not abolish the distinction between making a prediction and affirming an identity; it means that one utterance can perform both functions. The responsible annotation is therefore to lower confidence in the individual diagnosis while preserving the conceptual contrast."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "victims be completely innocent? Why not,",
+    "content": "<strong>No fairness guarantee survives intact</strong><br>The laws discussed contain no general promise that moral innocence prevents suffering. That is a coherent rejection of a just-world guarantee. It establishes neither the probability of a specified catastrophe nor the superiority of a specified intervention; those remain empirical and decision-theoretic questions."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Life (which is Turing-complete, so we",
+    "content": "<strong>Computation and suffering are different premises</strong><br>Universality supports simulation of arbitrary computable processes given adequate resources. Whether a particular computation instantiates conscious suffering requires an additional account of consciousness and implementation. The automaton argument may illustrate a conditional possibility, but Turing completeness alone cannot prove the existence of sentient victims."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "really very simple. Cells with three living neighbors stay alive; cells with",
+    "content": "<strong>The Life rule omits a birth</strong><br>Conway’s Life also turns a dead cell with exactly three live neighbors alive; live cells survive with two or three. The printed rule, read literally, loses births and therefore does not define the cited universal automaton. This is a small factual error in a passage asking simple rules to bear a large philosophical load.<br><em><a href=\"https://www.ibiblio.org/lifepatterns/october1970.html\">Gardner (1970)</a></em>"
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "their family for cryonics, and/or write",
+    "content": "<strong>A possible rescue is presented with more assurance than evidence</strong><br>The argument supplies no demonstrated human revival or quantified chain from preservation to future recovery. Those missing premises matter to the claim that this particular intervention can save the person. Rejecting a cosmic guarantee of justice does not establish the efficacy or expected value of a technological substitute."
+  }
+]

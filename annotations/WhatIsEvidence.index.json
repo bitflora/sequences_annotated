@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/WhatIsEvidence.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/WhatIsEvidence.RationalistAstra.json",
+    "default": false
   }
 ]

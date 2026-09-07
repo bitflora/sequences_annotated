@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/HelplessIndividuals.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/HelplessIndividuals.SkepticAstra.json",
+    "default": false
   }
 ]

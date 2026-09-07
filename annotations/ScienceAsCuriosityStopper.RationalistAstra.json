@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But because someone else knows, it devalues the knowledge in your eyes.",
+    "content": "A relation between curiosity and one's own partial knowledge does not isolate the effect of learning that another person knows an answer. That information could make an answer seem obtainable while also reducing its novelty, so the mechanisms need not point in the same direction. The essay's universal description is unsupported, but Fable has not established its claimed reversal by substituting a different variable."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Is this not spite?",
+    "content": "The social value of duplicating a discovery differs from the personal value of understanding something another person already understands. Prioritizing scarce time can be rational without treating familiar labels as explanations or claiming that an unanswered personal question has disappeared. The accusation of spite is excessive, but the allowance for prioritization does not dissolve the distinction between choosing not to learn and already knowing."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "In school, one is taught that the password to the light bulb is “Electricity!”",
+    "content": "<a href=\"https://doi.org/10.1207/s15516709cog2605_1\" title=\"The misunderstood limits of folk science: an illusion of explanatory depth\">Rozenblit &amp; Keil (2002)</a> asks people to produce explanations and observe the gap between perceived and demonstrated understanding. That is closely aligned with asking what a label actually lets one explain, predict, or build. Showing that the problem is broader than scientific labels supports its generality; lowering confidence after one prompt also does not itself supply the missing explanation."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Could I regenerate this knowledge if it were somehow deleted from my mind?",
+    "content": "Regeneration is a test of how deeply one understands a claim, not a necessary condition for every legitimate instance of knowledge. Fable is right that testimony and historical facts cannot all be reconstructed from unaided reasoning. The exercise remains useful when its starting resources and target are specified: could one reconstruct this argument, adapt this model, or recover this fact from its evidence?"
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "then you do not have any beliefs about beavers, true or false",
+    "content": "The beaver example relies on a contested account of reference, and a causal link can allow a speaker to hold many false beliefs about the very animal being discussed. Fable is right that this cannot simply be ruled out by the quoted philosophical authority. The narrower educational lesson survives: being able to refer to a subject and possessing an accurate, usable model of it are different achievements."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If all proofs of the Pythagorean Theorem were deleted from my mind, could I re-prove it? I think so.",
+    "content": "Imagining that one could reconstruct a proof is weaker evidence than actually reconstructing it. <a href=\"https://doi.org/10.1207/s15516709cog2605_1\" title=\"The misunderstood limits of folk science: an illusion of explanatory depth\">Rozenblit &amp; Keil (2002)</a> supports turning the self-rating into a performance task: attempt the explanation, expose the steps, and check them. That operational repair strengthens the proposed goal of generative understanding rather than making a memorized answer an equally capable substitute."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "No, because there is no experiment you can perform yourself to verify it.",
+    "content": "The same eclipse cannot recur, but a theory of light deflection can be tested in other observations; that is the distinction the essay draws between particular events and generalizations. Historical sciences also examine surviving traces repeatedly, so excluding all historical knowledge from science is an unnecessarily narrow usage. Fable lands a demarcation objection, not a demonstration that generalizations lack reproducible tests or that the eclipse example is internally inconsistent."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Science is the publicly reproducible knowledge of humankind.",
+    "content": "Failed replications demonstrate a gap between an institutional label and the standard the institution is supposed to enforce. They do not show that reproducibility is the wrong aspiration: discovering those failures required actually carrying out independent checks. Scientific practice certainly depends on testimony, but a distributed system in which some people can audit results differs from a system in which nobody can."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "why bother to run the experiment?",
+    "content": "The essay explicitly licenses a rational expectation about a future sunrise while reserving its stipulated scientific label for generalizations and tested results. Einstein's private confidence and a community's standard for recording a finding are therefore not the same assertion. The 'why bother' line is misleading because experiments can be valuable despite high confidence, but Fable's claimed contradiction collapses the very distinction the essay is making."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "only open knowledge counts as the public, reproducible knowledge pool of humankind",
+    "content": "Making criticism accessible is an enabling condition for scrutiny, not a sufficient condition for reliability. The existence of unreliable open publications does not show that charging to inspect a result has no epistemic cost, nor does it isolate the causal effect of access. The essay's proposal needs evidence about institutional tradeoffs, but Fable has not refuted it by observing that access alone does not cure bad methods."
+  }
+]

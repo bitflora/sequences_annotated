@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Lord Kelvin sure did get a tremendous emotional kick out of not knowing something.",
+    "content": "A claim that life directs motion does not, without additional assumptions, entail a measurable violation of total energy conservation. Calorimetry alone therefore cannot refute every version of the Kelvin claim Fable quotes, even if it constrains particular vitalist models. Yudkowsky's confident attribution of emotional satisfaction is also unearned; both criticism and defense should identify a precise physical claim before announcing its fate."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Wöhler’s later synthesis of urea",
+    "content": "The chronology is wrong: the 1828 synthesis predates the quoted late-career Kelvin remarks. The narrative of one experiment decisively ending vitalism is also too simple to assume without historical support. Retain the distinction between mechanistic explanation and an unexplained label, while replacing this account of how the historical dispute unfolded."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Second, the hypothesis has no moving parts",
+    "content": "A hidden entity with quantitative relations can control anticipation before its internal composition is known. Such a hypothesis does not automatically satisfy the essay's other warning signs, including stopping inquiry and preserving every prior expectation, so Fable is wrong that all four signs flag those cases. The 'no moving parts' sign should be interpreted cautiously; lack of known internal structure alone is not a defect."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "In a comedy written by Moliére",
+    "content": "If we already know that opium reliably induces sleep, redescribing it as possessing a sleep-inducing property adds no explanation of how that effect occurs. If we do not know which substance causes the sleep, identifying opium can of course be informative. Fable changes the background question from explaining an established disposition to discovering a cause, and the information supplied is relative to that distinction."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "self-modifying agent, the marginal benefit of investing",
+    "content": "<strong>The economic rule has boundary conditions</strong><br>Equalizing marginal returns is a useful optimum condition for divisible choices at an interior solution with suitable regularity. Fixed costs, minimum commitments, discrete choices, uncertainty and constraints can change the answer. The model must include those features before the condition becomes practical advice."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "the right to volunteer at the soup",
+    "content": "<strong>Opportunity cost and specialization are valuable cautions</strong><br>A well-paid specialist may help more by donating earnings than by doing a task another person can perform cheaply. The essay’s qualifications about employment and comparative advantage are necessary. Volunteering can also produce local knowledge, relationships and motivation; include those effects in the comparison instead of assuming they are zero."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "the unit of relative caring",
+    "content": "<strong>Even relative spending reflects more than concern</strong><br>The essay explicitly describes a relative unit up to a scaling factor; treating it as an interpersonal moral scale would overstate its claim. Even within one person, spending depends on prices, liquidity, constraints and beliefs about what the purchase achieves. Those assumptions must be held fixed before a payment reveals the relative concern attributed to it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "$5 on a burrito, then whatever",
+    "content": "<strong>A spending choice reveals less than the moral diagnosis suggests</strong><br>Choosing a meal over a donation can reveal a preference between the concrete options as understood at that moment. It need not show indifference to the underlying victims: uncertainty about effectiveness, liquidity and future obligations also matter. Critique an inconsistent allocation with those constraints visible rather than read a whole moral psychology from a purchase."
+  }
+]

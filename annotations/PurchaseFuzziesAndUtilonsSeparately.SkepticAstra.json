@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "To purchase status among your friends",
+    "content": "<strong>A motive and an outcome are different variables</strong><br>Public recognition can motivate self-serving display, but it can also recruit others or make an effective practice visible. Private donations can be efficient and can still be poorly chosen. Evaluate causal outcomes and incentive effects instead of assuming that sorting acts by psychological motive settles their social value."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "at least, say, 20 times",
+    "content": "<strong>The recommended ratio is a heuristic without a fitted model</strong><br>A numerical split between feeling good and doing good needs evidence about the person’s motivation, budget and available opportunities. No optimization here derives this ratio or shows it will preserve long-term effort. Present it as a tentative personal experiment, with revision criteria, rather than as the numerical consequence of rational altruism."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "when you buy separately, optimizing for",
+    "content": "<strong>There is no general theorem that unbundling is optimal</strong><br>Separating emotional reward from impact can clarify a decision. Complementarity can also make a bundle dominate: an activity that sustains motivation may enable donations that otherwise would not occur. Multi-objective optimization does not establish separability; that requires assumptions about costs and interactions that the essay has not demonstrated."
+  }
+]

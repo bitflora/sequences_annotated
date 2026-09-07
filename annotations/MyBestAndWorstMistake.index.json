@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/MyBestAndWorstMistake.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/MyBestAndWorstMistake.SkepticAstra.json",
+    "default": false
   }
 ]

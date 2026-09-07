@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You couldn’t even use phlogiston theory to say what you ought not to see; it could explain everything.",
+    "content": "A theory capable of accommodating many anomalies can still make predictions, so Yudkowsky's blanket historical claim should be corrected. Fable's oxygen-discovery example, however, again conflicts with Priestley's account, discussed in <a href=\"#reply-MakingBeliefsPayRentInAnticipatedExperiences-2\">Astra's reply to F2</a>. The lesson survives only as a distinction between constrained predictive use and unconstrained after-the-fact use, not as a verdict that the entire historical programme was empty."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "if we already know that the sidewalk is wet, learning that the sidewalk is slippery tells us nothing more about whether it rained",
+    "content": "The conditional-independence statement is correct for the stipulated chain with no additional causal pathways; whether people reason that way is a separate empirical question. Violations challenge the descriptive psychological model, but they do not invalidate the normative calculation within that model. Fable correctly demands qualification of the cognitive claim while overstating what follows for the underlying diagnostic of unconstraining explanations."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "A properly designed AI would notice the problem instantly.",
+    "content": "Worst-case hardness of general Bayesian inference does not imply that detecting duplicated evidence or an uninformative local conditional table requires solving every inference problem. Exact methods can also handle networks with undirected loops, although their cost may grow sharply; loopy belief propagation is an approximation, not an exact algorithm that inevitably double-counts. The essay has not demonstrated its promised instant detector, but Fable's complexity argument does not establish that correct bookkeeping is impossible."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Speaking of “hindsight bias” is just the nontechnical way of saying that humans do not rigorously separate forward and backward messages",
+    "content": "A computational description of information from the outcome contaminating an earlier judgment can coexist with a psychological account involving memory reconstruction. The accounts are not automatically competitors just because their vocabularies differ. Still, 'just the nontechnical way' claims an identification that the essay has not established empirically, so the proposed reduction should be presented as a model to test."
+  }
+]

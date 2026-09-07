@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/BewareOfOtherOptimizing.opus.json",
     "default": true
+  },
+  {
+    "id": "SkepticAstra",
+    "label": "Skeptic Astra",
+    "code": "SA",
+    "file": "annotations/BewareOfOtherOptimizing.SkepticAstra.json",
+    "default": false
   }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "There has to be Shannon mutual information between the evidential event and the target of inquiry",
+    "content": "For discrete variables, positive mutual information is necessary for any positive-probability observation to update the target, although it is not sufficient to make every observation informative. The sentence says the dependence has to exist; it does not assert that its magnitude equals the evidential weight of each outcome. Fable's examples correctly distinguish an average property from a particular likelihood ratio, but they do not refute the stated necessary condition."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "a belief is only really worthwhile if you could, in principle, be persuaded to believe otherwise",
+    "content": "A theorem's truth does not depend on persuasion, but a person's belief that a purported theorem was correctly proved can change when an error is found. Revisability also does not mean changing a rule with every input; it means that some possible evidence about one's reasoning could matter. Fable assumes infallible access to arithmetic and inference rules where the rationalist claim concerns fallible agents' beliefs about them."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Therefore rational beliefs are contagious, among honest folk who believe each other to be honest.",
+    "content": "A report can carry evidence without guaranteeing truth or adding an independent unit of evidence. In a cascade, later reports may mostly recycle earlier information, so a rational recipient must account for that dependence rather than multiply the reports as independent observations. Fable correctly identifies the danger in unchecked contagion, but convergence on an occasional error is compatible with evidence transmission under uncertainty."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "that you believe for private reasons which are not transmissible",
+    "content": "Knowing an expert's conclusion does not require acquiring the expert's skill at producing it. If a reliable laboratory reports a measurement, that can change another scientist's belief even while the second scientist cannot reproduce the apparatus from the written instructions. Fable confuses transmission of evidence with transmission of know-how, and its visiting-physicist example also shows that the practical skill was not incommunicable in principle."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "So go ahead and explain why the kind of thought processes you use systematically produce beliefs that mirror reality.",
+    "content": "Ultimate noncircular justification is a harder demand than comparative evidence that one process tracks the world better than another. Instruments, records, and other observers can expose specific failures even though every check ultimately uses some cognitive faculties. The essay cannot conjure an external foundation for reason, but that limitation does not make all claims of reliability equally supported or render local correction impossible."
+  }
+]

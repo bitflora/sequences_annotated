@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/Bayesian-Judo.ropus.json",
     "default": true
+  },
+  {
+    "id": "RationalistAstra",
+    "label": "Rationalist Astra",
+    "code": "RA",
+    "file": "annotations/Bayesian-Judo.RationalistAstra.json",
+    "default": false
   }
 ]

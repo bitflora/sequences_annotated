@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "them is a boy,” what is",
+    "content": "<strong>The report-generating process decides the answer</strong><br>Under independent equiprobable sexes, suppose a two-boy family always reports a boy and a mixed family reports one with probability q. Conditioning on that report gives P(two boys | report)=1/(1+2q): one-third for q=1 and one-half for q=1/2. An unspecified reporting protocol leaves the puzzle underdetermined. This is a modeling issue before it is an argument between statistical schools."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "all this new science, beyond just",
+    "content": "<strong>External correction is the useful endpoint</strong><br>The lasting lesson is to let evidence and explicit consequences challenge a cherished theory. Published science is itself corrigible, so citing a textbook cannot be the end of that practice. Apply the same willingness to update to replication failures, to this curriculum and to these annotations."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "too computationally expensive to use directly",
+    "content": "<strong>Finite agents must pay for inference</strong><br>An approximation can produce a better decision than an exact calculation that finishes too late or consumes the available resources. An ideal consistency theorem does not specify the best approximation under a computation budget. Practical superiority requires comparing achievable procedures, including their costs."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Not an answer, but the answer.",
+    "content": "<strong>The theorem supplies no privileged prior</strong><br>Conditional-probability identities are exact within their assumptions. They do not identify the correct hypothesis space, causal model, prior or utility function for a difficult real-world problem. A philosophical conversion to Bayesian language supplies none of those missing inputs by itself."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "terrifying swift perfection",
+    "content": "<strong>Awe is not a proof checker</strong><br>Feeling intellectually overwhelmed by Jaynes is evidence about the reader’s experience. It is not evidence that every argument is flawless. Halpern’s counterexample to formulations of Cox-style representation results illustrates why assumptions deserve inspection even in beautiful foundational arguments; probability theory itself survives that inspection.<br><em><a href=\"https://www.cs.cornell.edu/info/people/halpern/papers/cox.pdf\">Halpern (1999)</a></em>"
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "than around one standard deviation above you starts",
+    "content": "<strong>The psychometric threshold is a guess</strong><br>The author labels this estimate speculative. There is no measurement here establishing how much intelligence separates recognizing an achievement from producing it, or a universal cutoff beyond which readers cannot discriminate quality. Turning the guess into a hierarchy of whose judgments count would compound its uncertainty."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "hit a brick wall at 40",
+    "content": "<strong>A career deadline is not a cognitive law</strong><br>The imagined need to catch up by a particular age gives the narrative urgency without establishing a general limit on contribution. Research combines specialized knowledge, collaboration, tools and complementary abilities. A person’s worth or scientific usefulness cannot be inferred from whether they outrank a chosen genius on an unspecified scale."
+  }
+]

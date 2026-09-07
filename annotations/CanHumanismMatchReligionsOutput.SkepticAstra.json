@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "damnation—theologians don’t really believe that stuff, but",
+    "content": "<strong>The inner beliefs of a population are not directly observed</strong><br>The suggestion that religious participants do not really believe their theology is a psychological hypothesis, not something established by pointing to inconsistency. People can sincerely hold inconsistent beliefs. Evaluate the doctrine’s truth and the institution’s outputs without treating the author’s interpretation of others’ minds as data."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "to have unlimited mental energy, then it",
+    "content": "<strong>Fatigue is not evidence of a single exhaustible altruism supply</strong><br>The metaphor of finite energy can help a person budget effort. It does not demonstrate a single resource whose conservation will predictably increase altruistic output. Identify which constraint is binding and how the proposed redesign changes it. The numerical institutional prediction is still unsupported even if participants genuinely feel exhausted."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Cognitive-behavioral therapy and Zen",
+    "content": "<strong>A therapeutic benefit is not an altruism multiplier</strong><br>Evidence that an intervention improves symptoms cannot by itself establish that participants will do more good for others. The proposed chain runs through wellbeing, motivation, available time, effective action and institutional delivery. Each link needs evidence; borrowing the credibility of therapy does not verify the whole chain."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "rationalist could get twice as much done.",
+    "content": "<strong>The proposed efficiency improvement has not been measured</strong><br>Getting twice the output for half the input requires four times the output per unit input. An impression that more than half of religious effort is overhead does not establish that gain, particularly if some apparent overhead supports participation. Define the output and include recruitment, retention and support costs before promising superior efficiency."
+  }
+]

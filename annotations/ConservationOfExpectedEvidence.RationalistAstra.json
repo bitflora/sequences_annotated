@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "then the miracles described in the Bible must argue against the existence of God",
+    "content": "A hypothesis explicitly predicting miracles only in one era can consistently treat reports from that era and present-day silence differently. Fable is right that conservation must be applied to a fixed hypothesis and a fixed possible observation. What remains invalid is treating both presence and absence of the same evidence as support for the same hypothesis; a temporal restriction must be specified and justified rather than added opportunistically."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You might as well sit back and relax while you wait for the evidence to come in.",
+    "content": "The surrounding paragraph releases the reader from planning interpretations that favor a chosen conclusion; it does not argue that choosing experiments is useless. Fable is right that expected decision value can increase while the expected posterior stays equal to the prior. Its own stronger claim that every informative experiment raises expected distance from one-half is false: a prior of 0.9 split equally into posteriors 0.85 and 0.95 leaves that expected distance at 0.4."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "In any individual case, you would only hear one branch of the dilemma.",
+    "content": "Undisclosed departures from preregistration show that the intended constraint can be evaded, not that the constraint is unnecessary. Detecting the departures requires comparing later reports with an earlier record, which is exactly the safeguard the essay recommends. The historical description of what scientists routinely do is too flattering, but Fable's evidence argues for better enforcement of the prescription."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "You needn’t bother planning how to make any given iota of evidence confirm your theory",
+    "content": "Choosing a diagnostic experiment differs from planning to interpret any possible outcome as confirmation. Fable also reverses the subset case: if the true rule is 'ascending' and the conjecture is 'ascending even numbers', every positive test of the conjecture passes and cannot distinguish the rules. <a href=\"https://doi.org/10.1037/0033-295X.94.2.211\" title=\"Confirmation, Disconfirmation, and Information in Hypothesis Testing\">Klayman &amp; Ha (1987)</a> supports evaluating test informativeness in context, not exempting confirmation-seeking interpretations from probability constraints."
+  }
+]
