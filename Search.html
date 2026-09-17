@@ -8,8 +8,8 @@
 	<link rel='stylesheet' href='wiki/pub/skins/readthesequences/skin.css' type='text/css' />
 	<!--HTMLHeader--><style type='text/css'><!--a[href^='http://archive.is/timegate/'] { opacity: 0.5;  }
 
-.footnote_block_begin { 
-	width: 160px; 
+.footnote_block_begin {
+	width: 160px;
 	border-bottom: 1px solid blue;
 	margin-bottom: 0.5em;
 }
@@ -49,8 +49,8 @@ input[type='search'] {
 }
 form.wikisearch:focus-within input[type='search'] {
 	outline: none;
-	box-shadow: 
-		0 0 0 1px #fffffa, 
+	box-shadow:
+		0 0 0 1px #fffffa,
 		0 0 0 3px #c05651,
 		0 0 3px 4px #ff987b;
 	border: 1px solid #c05651;
@@ -58,8 +58,8 @@ form.wikisearch:focus-within input[type='search'] {
 @media (prefers-color-scheme: dark) {
 	form.wikisearch:focus-within input[type='search'] {
 		outline: none;
-		box-shadow: 
-			0 0 0 1px #fffffa, 
+		box-shadow:
+			0 0 0 1px #fffffa,
 			0 0 0 3px #0095fb,
 			0 0 3px 4px #ff987b;
 		border: 1px solid #c05651;
@@ -156,7 +156,7 @@ input {
 <body>
 <!--PageText-->
 <div id='wikitext'>
-<div  style='display: none;' > 
+<div  style='display: none;' >
 <p>@import url('<a class='urllink' href='http://www.obormot.net/fonts/IowanOldStyle.css' rel='nofollow'>http://www.obormot.net/fonts/IowanOldStyle.css</a>');
 </p><ol><li>wikiedit textarea {
 font-family: Iowan Old Style, Georgia, Palatino Linotype, serif;
@@ -164,66 +164,12 @@ font-size: 18px;
 max-width: 1200px;
 </li></ol><p>}
 </p></div>
-<div class='nav_menu' > 
+<div class='nav_menu' >
 <p><a class='wikilink' href='index.html'>Home</a><a class='wikilink' href='About.html'>About</a><a class='wikilink' href='Contents.html'>Contents</a>
 </p></div>
 <h1>Search</h1>
-<p  style='text-align: center;'> ❦
-</p>
-<form  class='wikisearch' action='Search.html' method='get'><input type='search' name='q' value='' class='inputbox searchbox' autofocus autocomplete='off' size='20'  /><input type='submit' class='inputbutton searchbutton' value='Search' /><input type='hidden' name='action' value='search' /> </form>
-<p  style='text-align: center;'> ☙
-</p>
 <p><a id='searchinfostart'></a>
-A search for more than one word will find pages that contain <strong>all</strong> of the words.<br />Use <strong>quotation marks</strong> to search for a <strong>phrase</strong>.  <br />Also use <strong>quotes</strong> for text with <strong>punctuation</strong> or <strong>special characters</strong>.<br />Searches are case insensitive, but accent sensitive (i.e. ‘u’ is not the same as ‘ù’).
-</p>
-<p  style='text-align: center;'> ☙
-</p>
-<h3>Search examples</h3>
-<table ><tr ><th  class='left'>Enter</th><th  class='left'>To find pages whose content contains</th></tr>
-<tr ><td  class='left'>apple pie</td><td  class='left'>both ‘apple’ and ‘pie’</td></tr>
-<tr ><td  class='left'>"apple pie"</td><td  class='left'>the phrase “apple pie”</td></tr>
-<tr ><td  class='left'>apple -pie</td><td  class='left'>‘apple’, omitting those containing ‘pie’</td></tr>
-<tr ><td  class='left'>food -"apple pie"</td><td  class='left'>‘food’, omitting those containing ‘apple pie’</td></tr>
-<tr ><td  class='left'>apple "-pie"</td><td  class='left'>the words ‘apple’ and ‘-pie’</td></tr>
-<tr ><td  class='left'>apple - pie</td><td  class='left'>‘apple’, ‘-’, and ‘pie’</td></tr>
-<tr ><td  class='left'>"pie:"</td><td  class='left'>the word ‘pie’ with a colon</td></tr>
-<tr ><td  class='left'>"pie=tasty"</td><td  class='left'>the phrase “pie=tasty”</td></tr>
-</table>
-<p>Some <em>special characters</em> need to be enclosed in quotes, including the colon (:), equals sign (=), less than (&lt;), single quote (') and double quote(").
-<a id='searchinfoend'></a>
-</p>
-<div  style='text-align: center; margin-bottom: 0em;' > 
-<p  style='margin-top: 2em; margin-bottom: 0em;'> <span style='font-size:144%'>❖</span>
-</p></div>
-<p  style='margin-top: 0em; margin-bottom: 0em;'> &nbsp;
-</p>
-<div  style='display: none;' > 
-<p><a id='searchresults'></a>
-(:template defaults order=title:)
-(:template first:)
-Results of search for “<code></code>”:
-</p>
-<p>(:template each:)
-</p><ol><li><a class='createlinktext' rel='nofollow'
-    href='https://www.readthesequences.com/Site/FullName?action=edit'>{=&#036;Titlespaced}</a><a rel='nofollow' 
-    class='createlink' href='https://www.readthesequences.com/Site/FullName?action=edit'>?</a>
-</li></ol><p>(:template last:)
-</p><hr />
-<p><a id='searchresultsend'></a>
-</p></div>
-<div  style='display: none;' > 
-<p><a id='excerpts'></a>
-(:template defaults order=title class=fplexcerpts:)
-(:template first:)
-Results of search for “<code></code>”:
-</p>
-<p>(:template each:)
-</p><dl><dt><strong><a class='createlinktext' rel='nofollow'
-    href='https://www.readthesequences.com/Site/FullName?action=edit'>FullName</a><a rel='nofollow' 
-    class='createlink' href='https://www.readthesequences.com/Site/FullName?action=edit'>?</a></strong> <span  style='color: gray;'>({=$</span></dt><dd>Summary}) — {=$Description}: <span  style='color: gray;'><span style='font-size:83%'></span></span>
-</dd></dl><p>(:template last:)
-</p><hr />
-<p><a id='excerptsend'></a>
+Sorry, no search here. Try <a class='urllink' target='_blank' href='https://www.readthesequences.com/Search' rel='nofollow'>readthesequences.com</a> and come back here when you've found what you're looking for.
 </p></div>
 </div>
 
