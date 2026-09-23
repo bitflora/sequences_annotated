@@ -1,0 +1,699 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<link rel="canonical" href="Findings.html" />
+	<title>Findings at a Glance</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel='stylesheet' href='wiki/pub/skins/readthesequences/skin.css' type='text/css' />
+	<link href="wiki/uploads/favicon.png" type="image/png" rel="shortcut icon" />
+	<style type='text/css'>
+		/* Chart tokens. The skin's dark mode inverts every child of #wikitext;
+		   .viz opts out of that filter and carries its own dark tokens instead. */
+		.viz {
+			--surface: #fcfcfb;
+			--ink: #0b0b0b;
+			--ink-2: #52514e;
+			--muted: #898781;
+			--grid: #e1e0d9;
+			--ring: rgba(11,11,11,0.10);
+			--hover: rgba(11,11,11,0.04);
+			--v-holds: #1c5cab;
+			--v-holds_qualified: #86b6ef;
+			--v-contested: #b8b6ae;
+			--v-unfalsifiable_or_na: #dcdad3;
+			--v-weakened: #ec8d86;
+			--v-failed_replication: #e34948;
+			--v-retracted_or_fraud: #b52e2e;
+			--v-false_or_misattributed: #7c1d1d;
+			--s-concedes: #e34948;
+			--s-partly_concedes: #b8b6ae;
+			--s-contests: #1c5cab;
+			--heat-0: #f0efec;
+			--heat-1: #cde2fb;
+			--heat-2: #86b6ef;
+			--heat-3: #3987e5;
+			--heat-4: #1c5cab;
+			--heat-5: #0d366b;
+			color-scheme: light;
+		}
+		@media (prefers-color-scheme: dark) {
+			#wikitext .viz {
+				filter: none;
+				text-shadow: none;
+				--surface: #1a1a19;
+				--ink: #ffffff;
+				--ink-2: #c3c2b7;
+				--muted: #898781;
+				--grid: #2c2c2a;
+				--ring: rgba(255,255,255,0.10);
+				--hover: rgba(255,255,255,0.06);
+				--v-holds: #86b6ef;
+				--v-holds_qualified: #256abf;
+				--v-contested: #6b6a64;
+				--v-unfalsifiable_or_na: #45443f;
+				--v-weakened: #a13331;
+				--v-failed_replication: #cc4443;
+				--v-retracted_or_fraud: #e66767;
+				--v-false_or_misattributed: #f4a8a3;
+				--s-concedes: #e66767;
+				--s-partly_concedes: #6b6a64;
+				--s-contests: #86b6ef;
+				--heat-0: #262624;
+				--heat-1: #104281;
+				--heat-2: #1c5cab;
+				--heat-3: #3987e5;
+				--heat-4: #86b6ef;
+				--heat-5: #cde2fb;
+				color-scheme: dark;
+			}
+		}
+
+		#wikitext .viz {
+			max-width: 880px;
+			margin: 1.5em auto;
+			padding: 20px 24px;
+			background: var(--surface);
+			color: var(--ink);
+			border-radius: 8px;
+			box-shadow: 0 0 0 1px var(--ring);
+			font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+			font-size: 14px;
+			line-height: 1.4;
+			text-align: left;
+			text-shadow: none;
+			box-sizing: border-box;
+		}
+		#wikitext .viz a { text-decoration: underline; text-decoration-color: var(--muted); }
+		#wikitext .viz a::after { content: none; }
+		#wikitext .viz a:hover { color: var(--ink-2); border-bottom: none; }
+		.viz h4.viz-title { font-family: inherit; font-size: 15px; font-weight: 600; margin: 0 0 2px 0; max-width: none; }
+		.viz .viz-sub { color: var(--ink-2); margin: 0 0 14px 0; font-size: 13px; }
+		.viz .muted { color: var(--muted); }
+
+		/* Stat tiles */
+		.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; }
+		.tile { padding: 12px 14px; border-radius: 6px; box-shadow: 0 0 0 1px var(--ring); }
+		.tile .label { color: var(--ink-2); font-size: 13px; }
+		.tile .value { font-size: 30px; font-weight: 600; line-height: 1.2; margin-top: 2px; }
+		.tile .note { color: var(--muted); font-size: 12px; margin-top: 2px; }
+
+		/* Legend */
+		.legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0 0 12px 0; font-size: 12px; color: var(--ink-2); }
+		.legend span { display: inline-flex; align-items: center; gap: 6px; }
+		.legend i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+
+		/* 100% stacked bars */
+		.bars { display: grid; grid-template-columns: minmax(120px, 210px) 1fr 44px; gap: 6px 12px; align-items: center; }
+		.bars .row-label { font-size: 13px; color: var(--ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+		.bars .row-label small { color: var(--muted); font-size: 12px; margin-left: 4px; }
+		.bars .row-n { font-size: 12px; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+		.bars .group-head { grid-column: 1 / -1; font-size: 12px; font-weight: 600; color: var(--ink-2); margin-top: 8px; text-transform: uppercase; letter-spacing: 0.04em; }
+		.stack { display: flex; gap: 2px; height: 18px; }
+		.stack .seg { height: 100%; min-width: 2px; cursor: default; outline: none; }
+		.stack .seg:first-child { border-radius: 4px 0 0 4px; }
+		.stack .seg:last-child { border-radius: 0 4px 4px 0; }
+		.stack .seg:only-child { border-radius: 4px; }
+		.stack .seg:hover, .stack .seg:focus { filter: brightness(1.12); box-shadow: 0 0 0 1px var(--ink); }
+		.stack .seg.label-in { color: #fff; font-size: 11px; line-height: 18px; text-align: center; overflow: visible; white-space: nowrap; }
+
+		/* Simple horizontal bars (single series) */
+		.hbars { display: grid; grid-template-columns: minmax(110px, 190px) 1fr; gap: 6px 12px; align-items: center; }
+		.hbar { display: flex; align-items: center; gap: 8px; }
+		.hbar .fill { height: 16px; background: var(--heat-3); border-radius: 0 4px 4px 0; }
+		.hbar .val { font-size: 12px; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+
+		/* Matrices */
+		table.matrix { border-collapse: separate; border-spacing: 2px; font-size: 13px; margin: 0; }
+		table.matrix th { font-weight: 500; color: var(--ink-2); padding: 4px 8px; text-align: left; }
+		table.matrix th.col { text-align: center; font-size: 12px; }
+		table.matrix td { width: 88px; height: 34px; text-align: center; border-radius: 4px; font-variant-numeric: tabular-nums; cursor: default; }
+		table.matrix td.hot { box-shadow: inset 0 0 0 2px var(--v-false_or_misattributed); }
+		table.matrix td:hover { box-shadow: inset 0 0 0 2px var(--ink); }
+		.two-col { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; }
+
+		/* Data tables */
+		.controls { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 10px 0; }
+		.controls input, .controls select { font: inherit; font-size: 13px; padding: 5px 8px; border-radius: 6px; border: 1px solid var(--grid); background: var(--surface); color: var(--ink); }
+		.controls input { flex: 1 1 200px; }
+		.table-wrap { max-height: 520px; overflow: auto; border-radius: 6px; box-shadow: 0 0 0 1px var(--ring); }
+		table.data { width: 100%; border-collapse: collapse; font-size: 13px; }
+		table.data th { position: sticky; top: 0; background: var(--surface); text-align: left; font-weight: 600; color: var(--ink-2); padding: 8px 10px; border-bottom: 1px solid var(--grid); cursor: pointer; white-space: nowrap; }
+		table.data td { padding: 7px 10px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+		table.data tr:hover td { background: var(--hover); }
+		.chip { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; font-size: 12px; }
+		.chip i { width: 9px; height: 9px; border-radius: 2px; display: inline-block; flex: none; }
+		.setverdicts { display: flex; flex-direction: column; gap: 3px; }
+		.setverdicts .gist { color: var(--ink-2); }
+
+		/* Disagreement cards */
+		.pairs { display: flex; flex-direction: column; gap: 10px; }
+		.pair { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 10px 12px; border-radius: 6px; box-shadow: 0 0 0 1px var(--ring); }
+		.pair .head { grid-column: 1 / -1; font-size: 12px; color: var(--muted); }
+		.pair .head a { color: var(--ink); font-weight: 600; }
+		.pair .side .who { font-size: 12px; font-weight: 600; color: var(--ink-2); margin-bottom: 2px; }
+		details.more > summary { cursor: pointer; color: var(--ink-2); font-size: 13px; margin: 8px 0; }
+
+		.viz-tip {
+			position: absolute; z-index: 10; pointer-events: none; display: none;
+			max-width: 300px; padding: 8px 10px; border-radius: 6px;
+			font-size: 12px; line-height: 1.35;
+		}
+		.viz-tip strong { font-size: 14px; display: block; }
+		.viz-tip .key { display: inline-block; width: 12px; height: 3px; border-radius: 2px; vertical-align: middle; margin-right: 6px; }
+
+		@media all and (max-width: 654px) {
+			#wikitext .viz { padding: 14px 12px; margin-left: 0; margin-right: 0; }
+			.bars { grid-template-columns: 1fr 40px; }
+			.bars .row-label { grid-column: 1 / -1; margin-bottom: -4px; white-space: normal; }
+			.hbars { grid-template-columns: 1fr; }
+			.pair { grid-template-columns: 1fr; }
+			table.matrix td { width: 56px; }
+		}
+	</style>
+</head>
+<body>
+<!--PageText-->
+<div id='wikitext'>
+<div class='nav_menu' >
+<p><a class='wikilink' href='HomePage.html'>Home</a><a class='wikilink' href='About.html'>About</a><a class='urllink' href='Search.html' rel='nofollow'>Search</a><a class='wikilink' href='Contents.html'>Contents</a>
+</p></div>
+<h1>Findings at a Glance</h1>
+<p class='center'>❦</p>
+
+<p><em>Every margin note in the current annotation sets was read and sorted into a small set of categories: what kind of claim in the essay it examines, and whether that claim survives. This page counts the results. The skeptical sets are Opus, Fable, Opus 5.5 and Skeptic Astra. The rebuttal sets are Rationalist Opus and Rationalist Astra. Superseded passes (Old Rationalist Opus and Opus (old)) are left out so that no finding is counted twice. How the sorting was done is described <a href='#method'>at the end</a>.</em></p>
+
+<div class="viz" id="tiles"><p class="muted">Loading…</p></div>
+
+<h2>The cited studies</h2>
+
+<p>The most objective question the notes can answer is whether the research the essays lean on still stands. Each study below is counted once, however many notes discuss it. When several notes disagree, the study takes the verdict most of them give.</p>
+
+<div class="viz" id="study-fate"></div>
+
+<p>The table lists every study, with the verdict each skeptical set gave it. Click a column heading to sort.</p>
+
+<div class="viz" id="study-table"></div>
+
+<h2>What kind of claim fails</h2>
+
+<p>Most notes are not about a cited study. They examine unsourced generalizations, history, attributions, predictions about AI, and the reasoning itself. Splitting the verdicts by kind of claim separates two different failures: a study that did not hold up, and an essay that misreported something.</p>
+
+<div class="viz" id="by-target"></div>
+
+<p>The four skeptical sets were written with different briefs. Fable was told to be as skeptical as possible. Opus in Books I–IV was a gentler first pass. Comparing their verdicts shows how much of each book's damage depends on who was reading.</p>
+
+<div class="viz" id="by-set"></div>
+
+<h2>Where the damage falls</h2>
+
+<div class="viz" id="by-sequence"></div>
+
+<h2>Skeptic and Rationalist</h2>
+
+<p>In Books I and II, every Fable note has a reply from Rationalist Opus written against the same passage. In Book I, it also has a reply from Rationalist Astra. Because the replies are paired note for note, it is possible to count how often the defense concedes, and which of Fable's verdicts it contests.</p>
+
+<div class="viz" id="stance"></div>
+
+<div class="viz" id="stance-matrix"></div>
+
+<div class="viz" id="modes"></div>
+
+<p>The sharpest disagreements are notes where Fable finds the claim damaged, and the reply rejects the objection outright and argues that the claim stands. These are where a reader's judgment is most needed.</p>
+
+<div class="viz" id="sharp"></div>
+
+<p>The two Rationalist passes answer the same 161 Fable notes in Book I independently. Where they reach different conclusions, the question is probably not as clear as either one makes it look.</p>
+
+<div class="viz" id="rebuttal-agreement"></div>
+
+<h2>Where the skeptics disagree</h2>
+
+<p>Some studies are judged by more than one skeptical set. The list below shows the ones where one set thinks the study stands and another thinks it does not.</p>
+
+<div class="viz" id="skeptic-conflicts"></div>
+
+<h2 id="method">Method</h2>
+
+<p>Each note in the six current sets was read in full by a Claude model working from a fixed rubric. The model recorded what the note is about (a cited study, an unsourced empirical claim, a historical fact, an attribution, an AI prediction, the argument itself, or uncredited prior work). It also recorded the note's verdict on the essay's claim, the short name of the study if there was one, and a one-line summary. For rebuttal notes it recorded whether the reply concedes, partly concedes or contests the Fable note, and the reply's main device. The classifications are in <code>analysis/findings.jsonl</code>. <code>scripts/build_findings.py</code> checks them against the annotation files and computes everything on this page.</p>
+
+<p>These are the annotators' verdicts, not independent ones. A note that calls a study "weakened" is counted as weakened, even if another reader would weigh the evidence differently. The numbers measure what the annotation passes concluded. They are not a ruling on the essays. Studies are matched by name, so the same study written two different ways can appear twice. The classification was done by a model and will contain some errors, but the totals should be stable to within a few points.</p>
+
+<p class="muted" id="generated"></p>
+
+<p class='center'>❦</p>
+</div>
+
+<script>
+(function () {
+	"use strict";
+
+	var VERDICT_LABEL = {
+		holds: "Holds", holds_qualified: "Holds, qualified", contested: "Contested",
+		unfalsifiable_or_na: "No empirical verdict", weakened: "Weakened",
+		failed_replication: "Failed replication", retracted_or_fraud: "Retracted / compromised",
+		false_or_misattributed: "False or misattributed"
+	};
+	var TARGET_LABEL = {
+		cited_study: "Cited study", empirical_claim: "Unsourced empirical claim", historical_fact: "Historical fact",
+		attribution: "Attribution / quotation", ai_prediction: "AI prediction", argument: "Argument / logic",
+		prior_work: "Uncredited prior work", other: "Other"
+	};
+	var STANCE_LABEL = { concedes: "Concedes", partly_concedes: "Partly concedes", contests: "Contests" };
+	var MODE_LABEL = {
+		essay_text: "Quotes the essay's own text", other_study: "Brings an omitted study",
+		turns_source: "Turns Fable's source", technical: "Technical correction",
+		reread: "Rereads a parable", concession_only: "Concession only"
+	};
+	var SET_LABEL = {
+		opus: "Opus", fable: "Fable", Opus5_5: "Opus 5.5", SkepticAstra: "Skeptic Astra",
+		ropus: "Rationalist Opus", RationalistAstra: "Rationalist Astra"
+	};
+	var BOOK_TITLE = {
+		I: "Map and Territory", II: "How to Actually Change Your Mind", III: "The Machine in the Ghost",
+		IV: "Mere Reality", V: "Mere Goodness", VI: "Becoming Stronger"
+	};
+
+	var wikitext = document.getElementById("wikitext");
+	var tip = document.createElement("div");
+	tip.className = "viz viz-tip";
+	wikitext.appendChild(tip);
+
+	function el(tag, cls, text) {
+		var e = document.createElement(tag);
+		if (cls) e.className = cls;
+		if (text != null) e.textContent = text;
+		return e;
+	}
+	function sum(o) { var t = 0; for (var k in o) t += o[k]; return t; }
+	function pct(n, d) { return d ? Math.round(100 * n / d) + "%" : "–"; }
+	function vColor(v) { return "var(--v-" + v + ")"; }
+	function sColor(s) { return "var(--s-" + s + ")"; }
+
+	function showTip(evt, lines) {
+		tip.textContent = "";
+		lines.forEach(function (l, i) {
+			var row = el(i === 0 ? "strong" : "div", null, null);
+			if (l.color) { var k = el("span", "key"); k.style.background = l.color; row.appendChild(k); }
+			row.appendChild(document.createTextNode(l.text));
+			tip.appendChild(row);
+		});
+		tip.style.display = "block";
+		var r = wikitext.getBoundingClientRect();
+		var x = evt.clientX - r.left + 14, y = evt.clientY - r.top + 14;
+		var maxX = wikitext.clientWidth - tip.offsetWidth - 8;
+		tip.style.left = Math.max(8, Math.min(x, maxX)) + "px";
+		tip.style.top = y + "px";
+	}
+	function tipFor(node, linesFn) {
+		node.tabIndex = 0;
+		node.addEventListener("pointermove", function (e) { showTip(e, linesFn()); });
+		node.addEventListener("pointerleave", function () { tip.style.display = "none"; });
+		node.addEventListener("focus", function () {
+			var b = node.getBoundingClientRect();
+			showTip({ clientX: b.left + b.width / 2, clientY: b.bottom }, linesFn());
+		});
+		node.addEventListener("blur", function () { tip.style.display = "none"; });
+	}
+
+	function header(root, title, sub) {
+		root.textContent = "";
+		root.appendChild(el("h4", "viz-title", title));
+		if (sub) root.appendChild(el("p", "viz-sub", sub));
+	}
+	function legend(root, keys, labels, colorFn) {
+		var lg = el("div", "legend");
+		keys.forEach(function (k) {
+			var s = el("span");
+			var i = el("i"); i.style.background = colorFn(k);
+			s.appendChild(i); s.appendChild(document.createTextNode(labels[k]));
+			lg.appendChild(s);
+		});
+		root.appendChild(lg);
+	}
+
+	/* rows: [{label, sub, counts, group}] — draws 100% stacked bars. */
+	function stackedBars(root, rows, keys, labels, colorFn, unit) {
+		var g = el("div", "bars");
+		var lastGroup = null;
+		rows.forEach(function (row) {
+			if (row.group && row.group !== lastGroup) { g.appendChild(el("div", "group-head", row.group)); lastGroup = row.group; }
+			var lab = el("div", "row-label", row.label);
+			if (row.sub) lab.appendChild(el("small", null, row.sub));
+			lab.title = row.label + (row.sub ? " " + row.sub : "");
+			g.appendChild(lab);
+			var total = sum(row.counts);
+			var st = el("div", "stack");
+			keys.forEach(function (k) {
+				var n = row.counts[k] || 0;
+				if (!n) return;
+				var seg = el("div", "seg");
+				seg.style.flex = n + " 1 0";
+				seg.style.background = colorFn(k);
+				seg.setAttribute("aria-label", labels[k] + ": " + n + " of " + total);
+				tipFor(seg, function () {
+					return [{ text: n + " " + unit + " · " + pct(n, total) }, { text: labels[k], color: colorFn(k) }, { text: row.label + (row.sub ? " " + row.sub : "") }];
+				});
+				st.appendChild(seg);
+			});
+			g.appendChild(st);
+			g.appendChild(el("div", "row-n", String(total)));
+		});
+		root.appendChild(g);
+	}
+
+	function chip(v, labels, colorFn) {
+		var c = el("span", "chip");
+		var i = el("i"); i.style.background = colorFn(v);
+		c.appendChild(i); c.appendChild(document.createTextNode(labels[v]));
+		return c;
+	}
+	function articleLink(article, title) {
+		var a = el("a", null, title);
+		a.href = article + ".html";
+		return a;
+	}
+
+	function heatMatrix(root, rowKeys, rowLabels, colKeys, colLabels, cellFn, hotFn, rowTitle) {
+		var t = el("table", "matrix");
+		var hr = el("tr");
+		hr.appendChild(el("th", null, rowTitle || ""));
+		colKeys.forEach(function (c) { hr.appendChild(el("th", "col", colLabels[c])); });
+		t.appendChild(hr);
+		var max = 0;
+		rowKeys.forEach(function (r) { colKeys.forEach(function (c) { max = Math.max(max, cellFn(r, c)); }); });
+		rowKeys.forEach(function (r) {
+			var total = 0;
+			colKeys.forEach(function (c) { total += cellFn(r, c); });
+			if (!total) return;
+			var tr = el("tr");
+			tr.appendChild(el("th", null, rowLabels[r]));
+			colKeys.forEach(function (c) {
+				var n = cellFn(r, c);
+				var step = n === 0 ? 0 : Math.min(5, 1 + Math.floor(4 * n / Math.max(1, max) + 0.0001));
+				var td = el("td", null, String(n));
+				td.style.background = "var(--heat-" + step + ")";
+				td.style.color = step >= 3 ? "#fff" : "var(--ink)";
+				if (step >= 3 && matchMedia("(prefers-color-scheme: dark)").matches) td.style.color = step >= 4 ? "#0b0b0b" : "#fff";
+				if (hotFn && hotFn(r, c)) td.className = "hot";
+				tipFor(td, function () { return [{ text: n + " notes · " + pct(n, total) + " of row" }, { text: rowLabels[r] + " → " + colLabels[c] }]; });
+				tr.appendChild(td);
+			});
+			t.appendChild(tr);
+		});
+		var wrap = el("div"); wrap.style.overflowX = "auto";
+		wrap.appendChild(t);
+		root.appendChild(wrap);
+	}
+
+	function render(d) {
+		var T = d.totals, V = d.verdicts, G = d.groups;
+
+		/* Tiles */
+		var tiles = document.getElementById("tiles");
+		header(tiles, "The annotation project in numbers");
+		var tg = el("div", "tiles");
+		[
+			["Margin notes", T.notes.toLocaleString(), T.skeptic_notes.toLocaleString() + " skeptical · " + T.rebuttal_notes.toLocaleString() + " rebuttal"],
+			["Essays annotated", String(T.articles), "across six books"],
+			["Distinct cited studies judged", String(T.studies), "each counted once"],
+			["Cited studies that stand", pct(T.studies_stand, T.studies), T.studies_stand + " hold, some with qualifications"],
+			["Cited studies damaged", pct(T.studies_damaged, T.studies), "weakened, failed, retracted, or misreported"],
+			["Skeptical notes finding damage", pct(T.skeptic_groups.damaged, T.skeptic_notes), "of every kind of claim"]
+		].forEach(function (t) {
+			var c = el("div", "tile");
+			c.appendChild(el("div", "label", t[0]));
+			c.appendChild(el("div", "value", t[1]));
+			c.appendChild(el("div", "note", t[2]));
+			tg.appendChild(c);
+		});
+		tiles.appendChild(tg);
+
+		/* Study fate */
+		var sf = document.getElementById("study-fate");
+		header(sf, "Fate of the studies the essays cite", "Share of distinct studies by verdict. A study cited in two books is counted in both.");
+		legend(sf, V, VERDICT_LABEL, vColor);
+		var rows = [{ label: "All books", counts: d.study_fate.all }];
+		["I", "II", "III", "IV", "V", "VI"].forEach(function (b) {
+			if (sum(d.study_fate[b])) rows.push({ label: "Book " + b, sub: BOOK_TITLE[b], counts: d.study_fate[b] });
+		});
+		stackedBars(sf, rows, V, VERDICT_LABEL, vColor, "studies");
+
+		renderStudyTable(d);
+
+		/* By target */
+		var bt = document.getElementById("by-target");
+		header(bt, "Verdicts by kind of claim", "All skeptical notes, grouped by what in the essay they examine.");
+		legend(bt, V, VERDICT_LABEL, vColor);
+		stackedBars(bt, d.targets.filter(function (t) { return sum(d.target_x_verdict[t]); })
+			.map(function (t) { return { label: TARGET_LABEL[t], counts: d.target_x_verdict[t] }; }), V, VERDICT_LABEL, vColor, "notes");
+
+		/* By set */
+		var bs = document.getElementById("by-set");
+		header(bs, "Verdicts by skeptical set", "Each set's notes across the articles it covers.");
+		legend(bs, V, VERDICT_LABEL, vColor);
+		stackedBars(bs, d.sets.skeptic.map(function (s) {
+			return { label: SET_LABEL[s], counts: d.set_x_verdict[s] };
+		}), V, VERDICT_LABEL, vColor, "notes");
+
+		/* By sequence */
+		var bq = document.getElementById("by-sequence");
+		header(bq, "Verdicts by sequence", "All skeptical notes. Sequences are sorted in book order; introductions and interludes are grouped at the end of each book.");
+		legend(bq, V, VERDICT_LABEL, vColor);
+		stackedBars(bq, d.sequences.map(function (s) {
+			return {
+				group: "Book " + s.book + " · " + BOOK_TITLE[s.book],
+				label: s.sequence === "interlude" ? "Introductions & interludes" : s.sequence + ". " + s.title,
+				sub: "(" + s.articles + ")",
+				counts: s.verdicts
+			};
+		}), V, VERDICT_LABEL, vColor, "notes");
+
+		renderRebuttals(d);
+		renderSharp(d);
+		renderAgreement(d);
+		renderConflicts(d);
+
+		document.getElementById("generated").textContent = "Computed " + d.generated + " from " + T.notes.toLocaleString() + " classified notes.";
+	}
+
+	function renderStudyTable(d) {
+		var root = document.getElementById("study-table");
+		header(root, "Every cited study", d.studies.length + " studies. The verdict column is the majority verdict; the last column lists each note.");
+		var controls = el("div", "controls");
+		var q = el("input"); q.type = "search"; q.placeholder = "Filter by study or essay"; q.setAttribute("aria-label", "Filter studies");
+		var book = el("select"); book.setAttribute("aria-label", "Book");
+		[["", "All books"], ["I", "Book I"], ["II", "Book II"], ["III", "Book III"], ["IV", "Book IV"], ["V", "Book V"], ["VI", "Book VI"]]
+			.forEach(function (o) { var op = el("option", null, o[1]); op.value = o[0]; book.appendChild(op); });
+		var grp = el("select"); grp.setAttribute("aria-label", "Verdict");
+		[["", "All verdicts"], ["stands", "Stands"], ["open", "Open"], ["damaged", "Damaged"], ["conflict", "Sets disagree"]]
+			.forEach(function (o) { var op = el("option", null, o[1]); op.value = o[0]; grp.appendChild(op); });
+		controls.appendChild(q); controls.appendChild(book); controls.appendChild(grp);
+		root.appendChild(controls);
+
+		var wrap = el("div", "table-wrap");
+		var t = el("table", "data");
+		var head = el("tr");
+		var sortKey = "verdict", sortDir = 1;
+		var cols = [["source", "Study"], ["verdict", "Verdict"], ["books", "Books"], ["notes", "Notes"]];
+		cols.forEach(function (c) {
+			var th = el("th", null, c[1]);
+			th.addEventListener("click", function () {
+				sortDir = sortKey === c[0] ? -sortDir : 1; sortKey = c[0]; draw();
+			});
+			head.appendChild(th);
+		});
+		var thead = el("thead"); thead.appendChild(head); t.appendChild(thead);
+		var tbody = el("tbody"); t.appendChild(tbody);
+		wrap.appendChild(t); root.appendChild(wrap);
+		var count = el("p", "muted"); count.style.margin = "8px 0 0 0"; count.style.fontSize = "12px";
+		root.appendChild(count);
+
+		function draw() {
+			var needle = q.value.trim().toLowerCase();
+			var list = d.studies.filter(function (s) {
+				if (book.value && s.books.indexOf(book.value) < 0) return false;
+				if (grp.value === "conflict" ? !s.conflict : grp.value && s.group !== grp.value) return false;
+				if (!needle) return true;
+				return s.source.toLowerCase().indexOf(needle) >= 0 ||
+					s.notes.some(function (n) { return n.title.toLowerCase().indexOf(needle) >= 0 || n.gist.toLowerCase().indexOf(needle) >= 0; });
+			});
+			list.sort(function (a, b) {
+				var x, y;
+				if (sortKey === "verdict") { x = d.verdicts.indexOf(a.verdict); y = d.verdicts.indexOf(b.verdict); }
+				else if (sortKey === "notes") { x = a.notes.length; y = b.notes.length; }
+				else if (sortKey === "books") { x = a.books.join(); y = b.books.join(); }
+				else { x = a.source.toLowerCase(); y = b.source.toLowerCase(); }
+				return (x < y ? -1 : x > y ? 1 : a.source.localeCompare(b.source)) * sortDir;
+			});
+			tbody.textContent = "";
+			list.forEach(function (s) {
+				var tr = el("tr");
+				var name = el("td"); name.appendChild(el("div", null, s.source));
+				if (s.conflict) { var cf = el("div", "muted", "sets disagree"); cf.style.fontSize = "11px"; name.appendChild(cf); }
+				tr.appendChild(name);
+				var v = el("td"); v.appendChild(chip(s.verdict, VERDICT_LABEL, vColor)); tr.appendChild(v);
+				tr.appendChild(el("td", null, s.books.join(", ")));
+				var nd = el("td"); var sv = el("div", "setverdicts");
+				s.notes.forEach(function (n) {
+					var line = el("div");
+					line.appendChild(chip(n.verdict, VERDICT_LABEL, vColor));
+					line.appendChild(document.createTextNode(" " + SET_LABEL[n.set] + ", "));
+					line.appendChild(articleLink(n.article, n.title));
+					line.appendChild(el("div", "gist", n.gist));
+					sv.appendChild(line);
+				});
+				nd.appendChild(sv); tr.appendChild(nd);
+				tbody.appendChild(tr);
+			});
+			count.textContent = list.length + " of " + d.studies.length + " studies shown";
+		}
+		q.addEventListener("input", draw); book.addEventListener("change", draw); grp.addEventListener("change", draw);
+		draw();
+	}
+
+	function renderRebuttals(d) {
+		var S = d.stances, R = d.rebuttals;
+		var st = document.getElementById("stance");
+		header(st, "How often the defense concedes", "Replies to Fable notes, by rebuttal set and book.");
+		legend(st, S, STANCE_LABEL, sColor);
+		var rows = [];
+		d.sets.rebuttal.forEach(function (s) {
+			Object.keys(R[s].stance_by_book).forEach(function (b) {
+				rows.push({ label: SET_LABEL[s], sub: "Book " + b, counts: R[s].stance_by_book[b] });
+			});
+		});
+		stackedBars(st, rows, S, STANCE_LABEL, sColor, "replies");
+
+		var sm = document.getElementById("stance-matrix");
+		header(sm, "Fable's verdict against the reply's stance", "Count of replies. Outlined cells are the sharp disagreements: Fable finds damage and the reply rejects it.");
+		var grid = el("div", "two-col");
+		d.sets.rebuttal.forEach(function (s) {
+			var box = el("div");
+			box.appendChild(el("div", "viz-sub", SET_LABEL[s] + " · " + R[s].n + " replies"));
+			heatMatrix(box, d.verdicts, VERDICT_LABEL, S, STANCE_LABEL,
+				function (v, c) { return R[s].fable_verdict_x_stance[v][c]; },
+				function (v, c) { return d.groups[v] === "damaged" && c === "contests"; }, "Fable says");
+			grid.appendChild(box);
+		});
+		sm.appendChild(grid);
+
+		var md = el("div");
+		var mr = document.getElementById("modes");
+		header(mr, "What the replies mainly do", "Each reply's principal device, as a share of that set's replies.");
+		var g2 = el("div", "two-col");
+		d.sets.rebuttal.forEach(function (s) {
+			var box = el("div");
+			box.appendChild(el("div", "viz-sub", SET_LABEL[s]));
+			var hb = el("div", "hbars");
+			var total = sum(R[s].mode);
+			var max = Math.max.apply(null, d.modes.map(function (m) { return R[s].mode[m]; }));
+			d.modes.forEach(function (m) {
+				var n = R[s].mode[m];
+				hb.appendChild(el("div", "row-label", MODE_LABEL[m]));
+				var bar = el("div", "hbar");
+				var f = el("div", "fill"); f.style.width = (max ? 100 * n / max * 0.8 : 0) + "%";
+				bar.appendChild(f); bar.appendChild(el("span", "val", n + " · " + pct(n, total)));
+				hb.appendChild(bar);
+			});
+			box.appendChild(hb);
+			g2.appendChild(box);
+		});
+		mr.appendChild(g2);
+	}
+
+	function pairCard(p, leftWho, leftVerdict, leftGist, rightWho, rightChip, rightGist) {
+		var c = el("div", "pair");
+		var h = el("div", "head");
+		h.appendChild(articleLink(p.article, p.title));
+		if (p.book) h.appendChild(document.createTextNode(" · Book " + p.book + (p.sequence && p.sequence !== "interlude" ? ", " + p.sequence : "")));
+		c.appendChild(h);
+		var l = el("div", "side");
+		var lw = el("div", "who", leftWho + " "); lw.appendChild(leftVerdict); l.appendChild(lw);
+		l.appendChild(el("div", null, leftGist));
+		var r = el("div", "side");
+		var rw = el("div", "who", rightWho + " "); rw.appendChild(rightChip); r.appendChild(rw);
+		r.appendChild(el("div", null, rightGist));
+		c.appendChild(l); c.appendChild(r);
+		return c;
+	}
+
+	function renderSharp(d) {
+		var root = document.getElementById("sharp");
+		var list = d.sharp_disagreements;
+		header(root, "Sharp disagreements", list.length + " replies in which Fable finds the claim damaged and the reply argues it stands.");
+		var bySet = {};
+		list.forEach(function (p) { (bySet[p.set] = bySet[p.set] || []).push(p); });
+		d.sets.rebuttal.forEach(function (s) {
+			var items = bySet[s] || [];
+			if (!items.length) return;
+			var det = el("details", "more");
+			det.appendChild(el("summary", null, SET_LABEL[s] + " (" + items.length + ")"));
+			var box = el("div", "pairs");
+			items.forEach(function (p) {
+				box.appendChild(pairCard(p, "Fable", chip(p.fable_verdict, VERDICT_LABEL, vColor), p.fable_gist,
+					SET_LABEL[s], chip(p.verdict, VERDICT_LABEL, vColor), p.gist));
+			});
+			det.appendChild(box);
+			root.appendChild(det);
+		});
+	}
+
+	function renderAgreement(d) {
+		var A = d.rebuttal_agreement, S = d.stances;
+		var root = document.getElementById("rebuttal-agreement");
+		var agree = 0;
+		S.forEach(function (s) { agree += A.matrix[s][s]; });
+		header(root, "Do the two Rationalist passes agree?", "Book I, " + A.n + " Fable notes answered by both. They take the same stance on " + agree + " (" + pct(agree, A.n) + ").");
+		heatMatrix(root, S, STANCE_LABEL, S, STANCE_LABEL, function (a, b) { return A.matrix[a][b]; }, null, "Rationalist Opus ↓ · Astra →");
+		if (A.split.length) {
+			var det = el("details", "more");
+			det.appendChild(el("summary", null, "Notes where one concedes and the other contests (" + A.split.length + ")"));
+			var box = el("div", "pairs");
+			var R0 = d.sets.rebuttal[0], R1 = d.sets.rebuttal[1];
+			A.split.forEach(function (p) {
+				var c = pairCard(p, SET_LABEL[R0], chip(p[R0].stance, STANCE_LABEL, sColor), p[R0].gist,
+					SET_LABEL[R1], chip(p[R1].stance, STANCE_LABEL, sColor), p[R1].gist);
+				var f = el("div", "muted", "Fable: " + p.fable_gist); f.style.gridColumn = "1 / -1"; f.style.fontSize = "12px";
+				c.insertBefore(f, c.children[1]);
+				box.appendChild(c);
+			});
+			det.appendChild(box);
+			root.appendChild(det);
+		}
+	}
+
+	function renderConflicts(d) {
+		var root = document.getElementById("skeptic-conflicts");
+		var list = d.skeptic_conflicts;
+		header(root, "Studies the skeptical sets judge differently", list.length + " studies judged by more than one set, where one set's verdict falls in a different group (stands, open, damaged) from another's.");
+		var box = el("div", "pairs");
+		list.forEach(function (s) {
+			var c = el("div", "pair");
+			var h = el("div", "head"); h.appendChild(el("strong", null, s.source)); h.appendChild(document.createTextNode(" · Book " + s.books.join(", ")));
+			c.appendChild(h);
+			var sv = el("div", "setverdicts"); sv.style.gridColumn = "1 / -1";
+			s.notes.forEach(function (n) {
+				var line = el("div");
+				line.appendChild(chip(n.verdict, VERDICT_LABEL, vColor));
+				line.appendChild(document.createTextNode(" " + SET_LABEL[n.set] + ", "));
+				line.appendChild(articleLink(n.article, n.title));
+				line.appendChild(el("div", "gist", n.gist));
+				sv.appendChild(line);
+			});
+			c.appendChild(sv);
+			box.appendChild(c);
+		});
+		root.appendChild(box);
+	}
+
+	fetch("analysis/findings-summary.json")
+		.then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+		.then(render)
+		.catch(function (e) {
+			document.getElementById("tiles").textContent = "Could not load analysis/findings-summary.json (" + e.message + "). Serve the site over HTTP.";
+		});
+})();
+</script>
+</body>
+</html>
