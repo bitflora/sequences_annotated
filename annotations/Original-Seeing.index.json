@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Original-Seeing.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Original-Seeing.ropusOld.json",
+    "default": false
   }
 ]

@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/BeliefInSelfDeception.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/BeliefInSelfDeception.ropusOld.json",
+    "default": false
   }
 ]

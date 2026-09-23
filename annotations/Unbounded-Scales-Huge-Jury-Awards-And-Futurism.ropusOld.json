@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But if these “time estimates” represent anything other than attitude expressions on an unbounded scale with no modulus, I have been unable to determine it.",
+    "content": "The essay applies the diagnosis to its own field and its own author's genre, which is what \"futurism\" names here; there is no third party being exempted. The subsequent evidence is the essay's prediction confirmed twice over — timelines clustering fifteen to twenty-five years out regardless of who is asked, and the same experts giving different answers depending on whether they are asked for a year or a probability, which is the modulus effect. An essay that predicted its own field's forecasts would behave like an attitude scale, and was right, is not weakened by the observation that its author had issued such forecasts."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s not twice as much; more like eight times as much.",
+    "content": "Both numbers are defensible and eight is the one Stevens published. The loudness exponent for a 1000 Hz tone against sound <em>pressure</em> is about 0.67, which makes a doubling of perceived loudness require about eight times the pressure-derived quantity; the ten-fold figure comes from the rounded ten-decibel rule of thumb applied to intensity. The essay is quoting the exponent and the annotation is quoting the rule of thumb, and the two differ by the rounding rather than by an error."
+  }
+]

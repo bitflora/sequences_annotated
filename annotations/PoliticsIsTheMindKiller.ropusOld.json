@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The evolutionary reasons for this are so obvious as to be worth belaboring: In the ancestral environment, politics was a matter of life and death.",
+    "content": "The essay's practical claim does not rest on the ancestral story, and the identity-protective account the annotation prefers is the same claim with a shorter causal history: political reasoning is corrupted because standing in a present coalition is at stake. Both predict the observable, which is that people reason worse about politics than about isomorphic non-political problems, and the essay offers the evolutionary gloss as an explanation of why the disposition is so hard to override rather than as evidence for the disposition. An objection that the alternative mechanism is better supported leaves the prescription untouched."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Probably because the author just couldn’t resist getting in a good, solid dig at those hated Greens.",
+    "content": "The essay hedges with \"probably\" and its substantive point is about what a partisan example does to a technical text, which the annotation then demonstrates: a paragraph of the annotation is spent litigating whether Republicans were pacifists in 1981 and whether Nixon's Quakerism was public record. That is exactly the derailment the essay predicts, occurring in the note written to deny it. Whether Reiter and Criscuolo had a motive is unknowable and unimportant; that readers will spend their attention on the political content rather than the default logic is the claim, and it has just been confirmed."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "it’s a terrible domain in which to learn rationality, or discuss rationality, unless all the discussants are already rational",
+    "content": "Far transfer is weak, which is why the essay does not propose that skill learned on Louis XVI will transfer; it proposes that political examples destroy the <em>teaching</em> of a concept, because the reader stops tracking the argument and starts tracking sides. Those are different claims, and the first is compatible with the second. The remedy for the transfer problem is to practise on the target domain once the concept is held, which is what this book does in its later essays on political disagreement, and what the community norm the annotation criticizes has never forbidden."
+  }
+]

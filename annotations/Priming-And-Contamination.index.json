@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/Priming-And-Contamination.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Priming-And-Contamination.ropusOld.json",
+    "default": false
   }
 ]

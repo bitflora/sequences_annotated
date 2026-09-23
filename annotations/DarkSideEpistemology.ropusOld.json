@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "the proteins bound together by weak van der Waals forces instead of strong covalent bonds",
+    "content": "The van der Waals sentence is a biochemistry error and should be struck: reversible non-covalent binding is a design requirement, not a defect. The essay has better examples in the same paragraph and elsewhere in the sequence — the inverted retina, the recurrent laryngeal nerve — and its argument needs only one. This is worth recording plainly because the essay's subject is the cost of defending a claim you have not checked."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "“Everyone has a right to their own opinion.” When you think about it, where was that proverb generated? Is it something that someone would say in the course of protecting a truth, or in the course of protecting from the truth?",
+    "content": "The essay is asking about the proverb's modern conversational function, not adjudicating its pedigree, and the two senses the annotation distinguishes are the essay's point: \"a right to hold an opinion without coercion\" and \"a right to hold an opinion without argument\" are different claims, and the second is the one the essay is describing as a shield. Nor is the genetic-fallacy charge available here, because the essay's next-sequence entry on the genetic fallacy explicitly permits using a source's origin to assess its <em>reliability</em>, which is what asking where a conversational move was generated does."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "A single Lie That Must Be Protected can block someone’s progress into advanced rationality.",
+    "content": "The essay's mechanism is about the epistemic norms recruited to defend a belief, not about general reasoning ability, so a small religiosity–IQ correlation does not test it. The prediction it makes is that people defending an indefensible position will adopt corrosive meta-level rules — that faith is a virtue, that certainty is arrogant, that all opinions are equal — and those rules are observable in the arguments themselves rather than in an IQ score. Myside bias being independent of ability, which the annotation cites, is the essay's case: the defence is available to everyone and costs nothing in measured intelligence."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Or you could just lie about evolutionary theory, which is the path taken by most creationists.",
+    "content": "The essay makes this concession in its own text and the annotation quotes it. The mechanism does not require deceivers: an epistemic norm that protects a belief spreads by being useful to whoever holds the belief, sincerely or not, and the person who learned \"you can't prove a negative\" from a pastor who believed it is carrying the same corrosive rule. That is the essay's claim, and it is why the piece is titled after the epistemology rather than after the liars."
+  }
+]

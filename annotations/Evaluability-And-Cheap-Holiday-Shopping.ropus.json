@@ -3,12 +3,12 @@
     "id": 1,
     "side": "left",
     "quote": "Decide how much money you want to spend on impressing the recipient, then find the most worthless object which costs that amount.",
-    "content": "Flynn and Adams measure appreciation as a function of <em>price</em>; Hsee measures judgment as a function of position within a category, which is a different variable and the one the advice uses. The essay's recommendation is not \"spend more\"; it is that within a fixed budget, a category-topping cheap item beats a category-bottoming expensive one, and that comparison is orthogonal to the price effect. Separate evaluation is also the recipient's normal condition — a gift arrives alone, not in a lineup — which is precisely when evaluability governs, and the essay says so."
+    "content": "Flynn and Adams make the essay's advice stronger. If recipients' appreciation does not track price, as they found (<a href=\"https://doi.org/10.1016/j.jesp.2008.11.003\">Flynn &amp; Adams 2009</a>), then the giver trying to \"display friendship\" should spend less, and the only remaining question is how to look generous doing it. Hsee answered that with observers' judgments of generosity, which is what \"seen as generous\" in the essay means. The essay does move from observers to recipients in its iPod paragraph, and Fable is right to flag that. The two findings point the same way, though: neither the recipient nor the onlooker rewards shopping for value. And the essay ends by asking what you bought, which marks the advice as a joke."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "You can make a gamble more attractive by adding a strict loss!",
-    "content": "Worth recording that it replicated. The qualification about side-by-side presentation is the essay's own thesis rather than a limit on it: the effect exists <em>because</em> the gamble is evaluated alone, and putting the two together restores the ordering. On the closing joke: systems trained on human output inheriting human evaluability quirks is a reason to want the theory, not a reason to think the joke aged badly."
+    "quote": "Isn’t psychology fun?",
+    "content": "Fable concedes that the finding replicated (<a href=\"https://doi.org/10.1002/bdm.558\">Bateman et al. 2007</a>). The AI line did not age badly. It is a preference, that one should not <em>want</em> to design in these quirks, and it now reads as a warning that came true. Language models trained on human text reproduce human judgment biases, including framing and preference-reversal patterns, as the cognitive-psychology batteries showed when researchers first applied them to GPT-3 (<a href=\"https://doi.org/10.1073/pnas.2218523120\">Binz &amp; Schulz 2023</a>). A good share of alignment and evaluation work now goes into measuring and removing exactly those inherited quirks. Nobody chose to design them in. They came with the training data, and the essay said we would not want them."
   }
 ]

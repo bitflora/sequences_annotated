@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A single fleeting image can be enough to prime associated words for recognition. Don’t think it takes anything more to set confirmation bias in motion.",
+    "content": "Behavioral priming collapsed and the essay should not lean on it; the sentence to keep is the one about judgment, and it has its own literature. Anchoring is contamination of a numerical judgment by a value known to be irrelevant, it replicated across dozens of samples and countries, and it is the essay's thesis in the one form that survived the decade. The essay's claim is that judgments are contaminated by information the judge would disavow, which is established; the elderly-walking studies were never necessary to it, and the two-line inference from lexical decision to confirmation bias is the part to strike."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But someone must be, because these signs have been shown to work, which is why stores keep putting them up.",
+    "content": "Wansink is unusable and the citation should go. The claim it was supporting has independent support that the essay could have used: anchoring effects on purchase quantity have been demonstrated with ordinary numeric primes in controlled settings, and the retail practice is at minimum consistent with them. The annotation's objection to \"stores keep putting them up, so they must work\" is correct as an inference and is not the essay's only ground."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "confirmation bias is built directly into our hardware, associational networks priming compatible thoughts and memories",
+    "content": "Symmetric activation is exactly why the priming account cannot be the whole story of confirmation bias, and it is also why the essay's stated mechanism is availability rather than valence: what is activated becomes available for use, and what is used depends on what the reasoner is looking for. The bias enters at the selection step, not the activation step, which is the standard account (<a href=\"https://doi.org/10.1037/1089-2680.2.2.175\">Nickerson 1998</a>). The essay overreaches in saying the bias is \"built directly into hardware\" by association; it is right that the hardware supplies the contaminated menu the biased chooser then chooses from."
+  }
+]

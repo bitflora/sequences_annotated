@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Paul Ekman (a pioneer in the study of tiny facial muscle movements) could probably read off a sizeable fraction of the world’s lies right now, given a chance.",
+    "content": "The Ekman sentence is an overclaim and the deception-detection meta-analysis settles it: accuracy is 54 percent and does not improve with training or profession. The essay's thesis is not about detection, though, and it survives intact — it is a claim about the <em>structure</em> of the world, that a false belief must be propped up by further false beliefs because the truth is connected to everything. The annotation grants that (\"the Great Web is real\"). What should go is the sentence about reading lies off faces, which the essay did not need and which its own thesis does not supply."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But the Great Web is very commonly underestimated.",
+    "content": "The base-rate objection measures a different population. Diary-study lies are one-off social smoothings that nobody will check and that require no maintenance; the essay's subject is the lie that must be <em>defended</em>, which is why its examples are paternity and forensic cases and why the next essay is about a speeding ticket that grew into a prison sentence. A lie that never faces a second question is not entangled with anything, which is the essay's own criterion, and its inclusion in the base rate is what makes the base rate reassuring."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "A student of evolutionary biology can see the design signature of natural selection on every wolf that chases a rabbit; and every rabbit that runs away; and every bee that stings instead of broadcasting a polite warning—but the deceptions of creationists sound plausible to them, I’m sure.",
+    "content": "The essay's thesis does not require a first liar. Entanglement is a property of the world: any false belief, however sincerely arrived at, is connected to other beliefs that must also be adjusted, which is why the folk theory the annotation describes comes with an accompanying account of the fossil record, of radiometric dating and of what a scientific theory is. Sincere error propagates through the web exactly as a lie does, and the essay's point is about the web rather than about the moral status of whoever entered it first."
+  }
+]

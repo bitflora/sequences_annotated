@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But we do not have such direct control over our beliefs. You cannot make yourself believe the sky is green by an act of will.",
+    "content": "The essay's argument is aimed at the deliberate case and says so: its target is the person who <em>concludes</em> that they should be biased and then tries to arrange it, which is the position it was written to answer. Indirect steering below the level of decision is real, and it is not second-order rationality; it is first-order bias, which is the subject of the rest of the book. The essay's point is that the moment you form the intention explicitly, you have created a memory that undermines the belief you were installing — and the annotation supplies no case of anyone deliberately succeeding."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Be irrationally optimistic about your driving skills, and you will be happily unconcerned where others sweat and fear. You won’t have to put up with the inconvenience of a seat belt.",
+    "content": "The seat-belt chain is invented and should be cut; nothing in the driving-optimism literature connects self-rated skill to restraint use. The essay's argument survives without it, because its structure is a dilemma rather than a causal claim: to decide that a bias is worth keeping you must first estimate its costs accurately, and having done so you are no longer the person the bias was supposed to comfort. That the annotation's own remedy — actuarial rules that do not depend on self-assessment — works is a point for the essay, since rules are what you adopt once you have stopped trusting the optimism."
+  }
+]

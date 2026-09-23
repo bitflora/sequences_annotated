@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/HowToConvinceMeThatTwoPlusTwoEqualsThree.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/HowToConvinceMeThatTwoPlusTwoEqualsThree.ropusOld.json",
+    "default": false
   }
 ]

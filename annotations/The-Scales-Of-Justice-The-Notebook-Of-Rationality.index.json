@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/The-Scales-Of-Justice-The-Notebook-Of-Rationality.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/The-Scales-Of-Justice-The-Notebook-Of-Rationality.ropusOld.json",
+    "default": false
   }
 ]

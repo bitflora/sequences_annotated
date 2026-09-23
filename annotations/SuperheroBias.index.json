@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/SuperheroBias.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/SuperheroBias.ropusOld.json",
+    "default": false
   }
 ]

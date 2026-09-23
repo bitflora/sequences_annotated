@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It is somewhat inconsistent for your utility function to contain a negative term for anyone else’s utility function having a term for someone else’s utility function.",
+    "content": "\"Inconsistent\" is loose, and the essay's point survives the correction. A preference that others hold no preferences over third parties' beliefs is self-undermining in application rather than in logic: the objector is, in the act of objecting, expressing a preference about what the author should care about, which is the very structure being condemned. Sen's meta-preferences are consistent, and they are also exactly the machinery by which one person's epistemic conduct becomes another's concern, which is the essay's conclusion. The objection establishes that the essay chose the wrong word for a point it then makes correctly."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Let’s argue against bad ideas but not set their bearers on fire.",
+    "content": "Clifford is the argument the essay is making, in the essay's own idiom: beliefs are contagious, they become premises for action, and credulity in one person lowers the standards of everyone around them. The sequence's \"each time a human being turns away from the truth\" is the same claim with the epidemiology left implicit, and this book's later essays on evaporative cooling, uncritical supercriticality and dark-side epistemology are the mechanism spelled out at length. A complaint that the essay should have cited Clifford is a complaint about attribution, not about the argument, which the annotation calls stronger and which is the one being made."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "each time a human being turns away from the truth, the unfolding story of humankind becomes a little darker",
+    "content": "Positive illusions are the standing rebuttal to this maxim and they were addressed in Book I: the effect concerns self-assessment specifically, the Taylor–Brown indices track defensiveness rather than accuracy on the measures where they have been decomposed, and the depressive-realism effect is near zero in meta-analysis. Johnson and Fowler's model shows overconfidence is stable under contest conditions, which is an argument about fitness, not about whether the believer's map is correct — and the essay's claim is about maps. A model in which a false belief is evolutionarily stable is the strongest possible reason to expect that our priors need correcting, which is what the book is for."
+  }
+]

@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/The-Robbers-Cave-Experiment.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/The-Robbers-Cave-Experiment.ropusOld.json",
+    "default": false
   }
 ]

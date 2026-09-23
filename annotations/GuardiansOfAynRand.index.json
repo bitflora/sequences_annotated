@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/GuardiansOfAynRand.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/GuardiansOfAynRand.ropusOld.json",
+    "default": false
   }
 ]

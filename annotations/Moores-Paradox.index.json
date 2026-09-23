@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Moores-Paradox.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Moores-Paradox.ropusOld.json",
+    "default": false
   }
 ]

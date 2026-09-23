@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/KnowingAboutBiasesCanHurtPeople.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/KnowingAboutBiasesCanHurtPeople.ropusOld.json",
+    "default": false
   }
 ]

@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/TheBottomLine.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/TheBottomLine.ropusOld.json",
+    "default": false
   }
 ]

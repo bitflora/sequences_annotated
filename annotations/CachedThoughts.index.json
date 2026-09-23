@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/CachedThoughts.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/CachedThoughts.ropusOld.json",
+    "default": false
   }
 ]

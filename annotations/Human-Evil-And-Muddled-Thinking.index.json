@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Human-Evil-And-Muddled-Thinking.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Human-Evil-And-Muddled-Thinking.ropusOld.json",
+    "default": false
   }
 ]

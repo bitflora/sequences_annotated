@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/A-Rational-Argument.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/A-Rational-Argument.ropusOld.json",
+    "default": false
   }
 ]

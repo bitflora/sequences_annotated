@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "So I propose that it makes sense to say that 1 and 0 are not in the probabilities",
+    "content": "The essay's claim is about credences in contingent propositions, and the annotation concedes this claim in its own last paragraph. The infinite-space objection is a point about measure theory, not about the norm: that a continuous distribution assigns density rather than mass to points is why probability-zero possibilities are handled by conditional-probability functions and by regular conditional distributions, which the annotation itself names. And the die example is doing what the essay says it is doing — showing that a model's sample space is a choice, so that \"probability one\" is always relative to a model and never to the world."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "just as negative and positive infinity, which do not obey the field axioms, are not in the real numbers",
+    "content": "The log-odds observation is not offered as a proof that certainty is impossible; it is offered as a representation in which the cost of each additional nine is visible, which is the essay's pedagogical purpose and which it states. That the transform is a bijection only on the open interval is exactly the fact being used: it makes the distance from 0.999 to 0.9999 the same size as the distance from 0.9 to 0.99, so that a reader can see what an extra nine costs in evidence. Calling that a coordinate system is right, and coordinate systems that make a quantity visible are how the sequence teaches every other concept in it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The main reason this would upset probability theorists is that we would need to rederive theorems previously obtained by assuming that we can marginalize over a joint probability by adding up all the pieces and having them sum to 1.",
+    "content": "The essay does not propose removing normalization from probability theory; it says a probability theorist \"would be upset,\" which is the flag that this is a thought experiment about representation and not a research programme. The substantive residue is the catch-all problem, which the essay names correctly and which is genuinely unsolved: Bayesian confirmation has no principled likelihood for \"some hypothesis I have not considered,\" and every practical Bayesian handles it by informal reserve. Popper functions solve conditioning on measure-zero events; they do not solve the catch-all, and the essay was pointing at the second."
+  }
+]

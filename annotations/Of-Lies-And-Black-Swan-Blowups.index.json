@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Of-Lies-And-Black-Swan-Blowups.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Of-Lies-And-Black-Swan-Blowups.ropusOld.json",
+    "default": false
   }
 ]

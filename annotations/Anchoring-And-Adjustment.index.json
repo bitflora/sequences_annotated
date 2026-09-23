@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/Anchoring-And-Adjustment.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Anchoring-And-Adjustment.ropusOld.json",
+    "default": false
   }
 ]

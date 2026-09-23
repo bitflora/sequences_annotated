@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Mere-Messiahs.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Mere-Messiahs.ropusOld.json",
+    "default": false
   }
 ]

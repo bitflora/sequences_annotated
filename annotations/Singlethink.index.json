@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Singlethink.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Singlethink.ropusOld.json",
+    "default": false
   }
 ]

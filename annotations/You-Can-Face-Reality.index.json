@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/You-Can-Face-Reality.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/You-Can-Face-Reality.ropusOld.json",
+    "default": false
   }
 ]

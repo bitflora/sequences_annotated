@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/When-None-Dare-Urge-Restraint.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/When-None-Dare-Urge-Restraint.ropusOld.json",
+    "default": false
   }
 ]

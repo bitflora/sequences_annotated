@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/TheCrackpotOffer.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/TheCrackpotOffer.ropusOld.json",
+    "default": false
   }
 ]

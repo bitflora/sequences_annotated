@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "paying a dollar for a day’s worth of pleasant anticipation, imagining yourself as a millionaire",
+    "content": "The consumption-value model is not an alternative to the essay's claim; it is the essay's claim, with the sign of the welfare judgment flipped. \"Buying a dream\" and \"paying a dollar for a day's worth of pleasant anticipation\" are the same sentence, and the essay grants it explicitly before arguing that the dream is available for free and the dollar is therefore wasted. Whether that argument succeeds is a fair question. Reporting the model as though the essay had not stated it, when the essay stated it in the words quoted, is answering the essay with the essay."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If not for the lottery, maybe they would fantasize about going to technical school, or opening their own business, or getting a promotion at work",
+    "content": "Oettingen's finding is about <em>indulging</em> a positive fantasy in place of planning, and her remedy, mental contrasting with obstacles followed by implementation intentions, is what \"fantasize about going to technical school\" means when the person then enrolls. The essay's counterfactual is not that daydreaming about a trade school works; it is that the lottery fantasy is structurally incapable of turning into a plan, because there is no obstacle to contrast and no action to intend. That is the one property Oettingen's programme identifies as decisive, and the lottery ticket lacks it by design."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "it can’t devalue the emotional force of a pleasant anticipation by a factor of 0.00000001 without dropping the line of reasoning entirely",
+    "content": "The essay is not claiming people cannot discriminate small probabilities; it is claiming they cannot <em>feel</em> them in proportion, which is what a probability weighting function with an overweighted tail says. Overweighting is the affirmative form of the essay's complaint: a one-in-a-hundred-million chance that is felt as though it were one in ten thousand is exactly a device for selling hope at a markup, and the affect-rich amplification the annotation cites makes the essay's case stronger, not weaker (<a href=\"https://doi.org/10.1111/1467-9280.00334\">Rottenstreich &amp; Hsee 2001</a>). The essay reinvented the weighting function without the name; it did not get its shape wrong."
+  }
+]

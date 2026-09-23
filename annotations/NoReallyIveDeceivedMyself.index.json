@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/NoReallyIveDeceivedMyself.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/NoReallyIveDeceivedMyself.ropusOld.json",
+    "default": false
   }
 ]

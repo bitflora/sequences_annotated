@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/CultishCountercultishness.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/CultishCountercultishness.ropusOld.json",
+    "default": false
   }
 ]

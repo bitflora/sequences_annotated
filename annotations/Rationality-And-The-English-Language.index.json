@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Rationality-And-The-English-Language.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Rationality-And-The-English-Language.ropusOld.json",
+    "default": false
   }
 ]

@@ -3,18 +3,30 @@
     "id": 1,
     "side": "left",
     "quote": "The odds of that are something like two to the power of seven hundred and fifty million to one.",
-    "content": "The essay's argument does not need the exponent, and it says so: the point is that the interlocutor, having been given a number of any size, replied with a modal possibility rather than a probability. On common design as the live alternative, the essay is in fact making the likelihood argument, since the interlocutor had offered no such hypothesis and was not defending one; he said \"there's still a chance,\" which is the move the essay is naming. The shared-pseudogene and endogenous-retrovirus evidence is stronger and is the right thing to cite, and it does not disturb the essay's subject, which is what a person does with a small number when they do not like it."
+    "content": "The interlocutor offered \"similar by coincidence,\" and the essay answered the hypothesis it was given. Common design is a different hypothesis. It also does badly against the same 98%, because most of that figure is genome-wide similarity in non-coding and neutrally evolving sequence. A designer reusing plans explains similar genes; it does not explain matching junk. The essay would have done better to name the endogenous retroviruses and the broken <em>GULO</em> gene, as Fable says. But genome-wide similarity is a likelihood argument too: descent predicts the neutral sequence will match, and common design predicts nothing about it. That similarity was the figure under dispute."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "they have undoubtedly been wrong more often than once in",
-    "content": "Model uncertainty bounds a credence; it does not license the reply the interlocutor gave. \"Your calculation could be wrong by a hundred million orders of magnitude, therefore there is still a chance\" is not an inference anyone can run, because the correction is symmetric and the posterior after accounting for it is still overwhelming. The essay's concession — that no one can honestly assert odds of that size — is made in the essay, and it does not put the interlocutor ahead: he was not tracking model uncertainty, he was declining to update, which is the behavior the essay named."
+    "quote": "the shared genes estimate was revised to 95%, not 98%",
+    "content": "The genome-wide point is correct, and the essay's \"may even apply only to the 30,000 known genes\" guess was wrong. What the essay claimed for its number is \"probably the right meta-order of magnitude,\" meaning the order of magnitude of the exponent. Recount using only single-nucleotide identity at the 1.2% divergence rate, and shrink the alignable sequence by a factor of ten. The chance odds are still two to a power in the tens of millions, and every defensible accounting lands there. The interlocutor did not doubt the number. He granted it and answered \"But there's still a chance, right?\" That reply, which treats any nonzero probability as permission to keep a belief, is the essay's subject, and no recount changes it."
   },
   {
     "id": 3,
     "side": "left",
+    "quote": "they have undoubtedly been wrong more often than once in",
+    "content": "Model uncertainty does not favour the interlocutor. If the author's calculation is wrong, the probability mass released does not go to \"coincidence.\" It goes to other ways of being wrong about the details, almost all of which leave humans and chimpanzees related. A creationist who says the arithmetic is shaky has not supported the claim that the matching was an accident. The essay's point, about the chance \"worth keeping track of,\" stands. A miscalibrated 2<sup>−750,000,000</sup> might really be 10<sup>−9</sup>, and 10<sup>−9</sup> is still a chance to ignore when deciding what to believe. The essay adopts the calibration lesson and then shows why it does not produce the reprieve the interlocutor wanted."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "This is why people buy lottery tickets—no one can feel the smallness of a probability that small.",
+    "content": "The probability weighting function Fable cites is the essay's claim written as a formula. Tversky and Kahneman's function overweights small probabilities, so a one-in-many-millions chance is felt as far larger than it is (<a href=\"https://doi.org/10.1007/BF00122574\">Tversky &amp; Kahneman 1992</a>). That is what \"no one can feel the smallness\" means. Response to jackpot size and to the odds is consistent with this, since buyers can tell 1-in-10<sup>6</sup> from 1-in-10<sup>8</sup> in a compressed way. Relative-income framing is a real additional input, and \"one input among several\" is fair. The essay's mechanism is still the necessary one. If the smallness were felt, no framing of relative income would sell a ticket at a 50% expected loss."
+  },
+  {
+    "id": 5,
+    "side": "left",
     "quote": "if you can’t ignore a likelihood of one over googol because you want to, you can’t ignore a likelihood of 0.9 because you want to",
-    "content": "The essay is using \"likelihood\" in the ordinary-language sense throughout that paragraph, and the argument does not depend on the technical one. Its content is a claim about thresholds: an agent who ignores evidence below some felt cliff, rather than weighting it, has abandoned a continuous scale, and the same defect produces both \"one in a googol is basically zero\" and \"ninety percent is not proof.\" That is a claim about a step function in the evaluation of evidence, and it survives translating \"likelihood\" into \"posterior,\" which is how the essay plainly means it here."
+    "content": "The strict reading does not weaken the argument. Rewrite it with likelihood ratios. You cannot ignore evidence ten-to-the-hundred times likelier under ¬H than under H because you want to. You cannot ignore evidence nine-to-one against H for that reason either. \"Because you want to\" is the operative phrase, and the essay's target, treating a non-proof as an ignorable argument, is wrong on every reading of \"likelihood.\" Fable's case of a finding with equal likelihood under both hypotheses is ignored because it is uninformative. The interlocutor had no such reason. The essay uses \"likelihood\" loosely here, as English does, and the loose use does not hide a gap in the argument."
   }
 ]

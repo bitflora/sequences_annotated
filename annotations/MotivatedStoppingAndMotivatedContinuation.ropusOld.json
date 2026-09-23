@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "“Correlation is not causation,” he testified to Congress.",
+    "content": "Congress is wrong and should be corrected to the BMJ letters. The correction improves the example, because Fisher's constitutional hypothesis was a legitimate confounding argument and the essay's point is about <em>when he stopped</em>, not about whether the argument was foolish; Cornfield's bound is the reply that a motivated stopper would not have looked for. That Fisher's consultancy began after his first letters is a fair complication and leaves the essay's claim about the shape of his search where it was."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Who can argue against gathering more evidence? I can. Evidence is often costly, and worse, slow, and there is certainly nothing virtuous about refusing to integrate the evidence you already have.",
+    "content": "The essay states the value-of-information calculation as a rule of thumb because its subject is detection, not decision: the question it is answering is how to notice that your own choice of when to stop was made by the answer you wanted. A calculation cannot do that, because the inputs to the calculation are the thing being biased. The annotation's point that irreversibility can make waiting optimal is the essay's own qualification — it says the suspicion attaches to continuation when the remaining evidence is expensive and the decision is cheap to revisit — and real-options theory is the formal version of the condition the essay names."
+  }
+]

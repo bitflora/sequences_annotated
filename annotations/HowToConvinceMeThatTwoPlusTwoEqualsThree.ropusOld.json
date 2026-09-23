@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In the second case, I would think it more likely that they had messed with my arithmetic recall than that 2 + 2 actually equalled 4.",
+    "content": "The essay says this, in the sentence quoted: it reports that the evidence would move it toward \"my memory was tampered with,\" and the whole essay is about what such evidence would have to look like to move it further. Quine's web is the essay's picture, not a rival to it — centrality is a matter of how much revision a belief would cost, which is degree, not unconditionality. Frege's water drops show that a badly specified addition operation is not addition; they do not show that a person's <em>belief</em> about arithmetic arrived by no process and could survive any evidence about that process."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Presumably it would be the same sort of situation causally responsible for producing your current belief in Christianity: We would push you screaming out of the uterus of a Muslim woman",
+    "content": "The essay is not inferring falsity from causal history; it is asking the interlocutor to name the evidence that would move him, and answering the same question about itself. That is the reverse of the genetic fallacy: it treats causal history as relevant to <em>the reliability of the belief-forming process</em>, which the annotation's own framework requires, since a process that installs whichever religion the parents held is uncorrelated with which one is true. The heritability of adult religiousness is compatible with this, because a heritable disposition to be religious does not select a denomination, and denomination is what the argument is about."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The evidential crossfire of physical observation, mental visualization, and social agreement.",
+    "content": "Visualization is not being offered as an independent witness to a mathematical fact; it is offered as one of three channels by which a belief about arithmetic can be <em>disturbed</em>, which is what the essay needs. The argument is about what would count as disconfirmation, and the answer — that all three would have to go wrong together, in a coordinated way — is precisely why the belief sits where it does. That the statement is true under any meaning-preserving interpretation is a claim about the proposition; the essay is making a claim about the believer, and the two are separated in the essay's first paragraph."
+  }
+]

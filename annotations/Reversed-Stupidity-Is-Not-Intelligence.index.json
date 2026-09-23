@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Reversed-Stupidity-Is-Not-Intelligence.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Reversed-Stupidity-Is-Not-Intelligence.ropusOld.json",
+    "default": false
   }
 ]

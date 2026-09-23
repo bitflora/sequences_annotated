@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Even Harry Potter is superior to the Bible, both as a work of literary art and as moral philosophy.",
+    "content": "The sentence is a lapse of exactly the kind the essay is about, and the essay's method convicts it: no criterion is stated, no comparison run. It is worth adding that the sentence is not the essay's argument — the argument is the pattern where a conclusion arrives first and the justification is generated to fit — and that the sentence is a specimen of that pattern rather than a premise of it. An essay whose own diagnostic catches its own throwaway line has at least supplied a working diagnostic."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s improbable that you used mistaken reasoning, yet made no mistakes.",
+    "content": "The essay's claim is about a <em>specific chain of reasoning</em> containing an error and nonetheless reaching the optimum, not about heuristics that were never claiming to run the criterion. Take-the-best is not mistaken reasoning; it is a different, valid procedure with known ecological conditions, and nobody argues that it is regression done wrong. The essay's suspicion is exactly the narrow one the annotation ends by endorsing: when a post-hoc justification lands on the conclusion the justifier wanted, the criterion was probably chosen to fit. That is the essay's sentence."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The standard atheist reply is given by Sam Harris: “You and I both know that it would take us five minutes to produce a book that offers a more coherent and compassionate morality than the Bible does.”",
+    "content": "The essay is arguing about the phenomenon of post-believers who claim a literary judgment they did not arrive at literarily, and Harris's line is quoted as the standard reply rather than as the essay's analysis. The annotation's better reading — that the reverence is a social and identity commitment, and that diagnosing it as a fake literary judgment mistakes what it is a claim about — is the essay's own framework from Book I applied here, and it strengthens the essay's case, since the whole complaint is that the stated reason is not the operative one."
+  }
+]

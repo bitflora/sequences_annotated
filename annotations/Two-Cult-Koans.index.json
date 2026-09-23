@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Two-Cult-Koans.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Two-Cult-Koans.ropusOld.json",
+    "default": false
   }
 ]

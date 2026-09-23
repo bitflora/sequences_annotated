@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "So when an expert says they’re 99% confident, it only happens about 70% of the time.",
+    "content": "The number is loose and the correction sharpens the essay's point rather than blunting it. Calibration is excellent where a forecaster has fast, scored, repeated feedback — weather, bridge, bookmaking — and poor everywhere else, which means it is poor in exactly the domains the essay's mother was applying it to. \"Experts are miscalibrated outside their feedback loop\" is both true and more useful than the figure, and it leaves the essay's complaint untouched: the number was used as a licence to discount whichever expert was inconvenient."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "one of the primary ways that people with high mental agility end up stupid, in Stanovich’s “dysrationalia” sense of stupidity",
+    "content": "Stanovich's result is the essay's claim, stated more precisely. That cognitive ability protects against most classical biases but <em>not</em> against myside bias is what makes intelligence dangerous here: the smart reasoner keeps all the firepower and loses none of the directional pull, so the extra capacity is spent on the preferred side. The essay's \"primary way that people with high mental agility end up stupid\" is a rhetorical amplification of exactly that asymmetry, and the annotation's own citation is the evidence for it (<a href=\"https://doi.org/10.1037/0022-3514.94.4.672\">Stanovich &amp; West 2008</a>)."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Whether I do it on paper, or in speech, I now try to never mention calibration and overconfidence unless I have first talked about disconfirmation bias, motivated skepticism, sophisticated arguers, and dysrationalia in the mentally agile.",
+    "content": "Forewarning in the persuasion literature means warning a subject that a message is coming and that it intends to persuade; the essay proposes something else, which is teaching the failure modes of bias-knowledge <em>before</em> handing over the bias-knowledge. Those are different interventions with different mechanisms and the first has not been tested as a proxy for the second. The essay also does exactly what the annotation asks for at the end: it says \"first, do no harm,\" which is a recommendation to withhold a tool whose effect is unmeasured, and that is the conservative response to an untested intervention rather than a claim to have tested one."
+  }
+]

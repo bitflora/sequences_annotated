@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Decide how much money you want to spend on impressing the recipient, then find the most worthless object which costs that amount.",
+    "content": "Flynn and Adams measure appreciation as a function of <em>price</em>; Hsee measures judgment as a function of position within a category, which is a different variable and the one the advice uses. The essay's recommendation is not \"spend more\"; it is that within a fixed budget, a category-topping cheap item beats a category-bottoming expensive one, and that comparison is orthogonal to the price effect. Separate evaluation is also the recipient's normal condition — a gift arrives alone, not in a lineup — which is precisely when evaluability governs, and the essay says so."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "You can make a gamble more attractive by adding a strict loss!",
+    "content": "Worth recording that it replicated. The qualification about side-by-side presentation is the essay's own thesis rather than a limit on it: the effect exists <em>because</em> the gamble is evaluated alone, and putting the two together restores the ordering. On the closing joke: systems trained on human output inheriting human evaluability quirks is a reason to want the theory, not a reason to think the joke aged badly."
+  }
+]

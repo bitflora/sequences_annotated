@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/AbsoluteAuthority.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/AbsoluteAuthority.ropusOld.json",
+    "default": false
   }
 ]

@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/JustLoseHopeAlready.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/JustLoseHopeAlready.ropusOld.json",
+    "default": false
   }
 ]

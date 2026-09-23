@@ -2,19 +2,31 @@
   {
     "id": 1,
     "side": "left",
-    "quote": "I am not going to discuss the actual experiments that have been done on calibration",
-    "content": "The essay withholds the calibration literature to keep readers from using it as a fully general counterargument and then does not use it as one: its argument for finite credence is the arithmetic of a million assertions, not an appeal to any experiment. And the hard–easy effect does not rescue certainty about \"2 + 2 = 4,\" because the proposition at issue is never the arithmetic alone but the conjunction of the arithmetic with \"I have not misread, misremembered, or been deceived,\" which is not an easy item and is the one the essay is scoring."
+    "quote": "It’s questionable whether the statement “2 + 2 = 4” or “In Peano arithmetic, SS0 + SS0 = SSSS0” can be said to be true in any purely abstract sense, apart from physical systems that seem to behave in ways similar to the Peano axioms.",
+    "content": "\"It's questionable whether\" is a hedge, followed at once by \"I'm not totally sure what 'true' should mean in this case.\" The essay then does the thing Fable says it fails to do. It separates truth from knowledge: \"whether we can ever have absolute confidence in the lightspeed limit is a whole 'nother question\"; \"A degree of uncertainty is not the same as a degree of truth.\" The memory and hallucination discussion is explicitly placed on the knowledge side, under \"This doesn't mean, though, that I have absolute confidence.\" Benacerraf's dilemma, that a semantics on which arithmetic is straightforwardly true makes its knowability hard to explain (<a href=\"https://doi.org/10.2307/2025075\">Benacerraf 1973</a>), is the reason the essay hedges on truth-makers and commits only on credence."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "I don’t think you could get up to 99.99% confidence for assertions like “53 is a prime number.”",
-    "content": "This is the essay's point, not an objection to it. That standard probability cannot represent a coherent agent's uncertainty about a theorem is the reason the essay says a human should not claim 99.99 percent for \"53 is prime,\" and the logical-induction programme exists because the author took the incoherence seriously enough to fund work on it. An essay that identifies a gap between the idealization and any implementable agent, and whose author then spends a decade on the gap, has been vindicated by the citation offered against it."
+    "quote": "I am not going to discuss the actual experiments that have been done on calibration",
+    "content": "The essay does not deploy calibration against \"2 + 2 = 4.\" It concedes that \"maybe you really could get up to 99.99% confidence on this one.\" The target is the jump from very high confidence to 1 − 1/googolplex, and there the robust pattern in calibration data runs the essay's way. Across designs, confidence and accuracy regress: the lowest confidence categories are underconfident and the highest are overconfident (<a href=\"https://doi.org/10.1037/0033-295X.101.3.519\">Erev, Wallsten &amp; Budescu 1994</a>). The hard-easy effect is about items. The essay's claim is about the top of the confidence scale, where \"certain\" is said, and there accuracy falls short of the stated number. Withholding the details to prevent misuse was a teaching choice, and this essay's own paragraph on motivated skepticism explains it."
   },
   {
     "id": 3,
     "side": "left",
+    "quote": "I don’t think you could get up to 99.99% confidence for assertions like “53 is a prime number.”",
+    "content": "Logical induction formalizes the essay's position. It gives a bounded reasoner credences below 1 in theorems it has not yet computed, and those credences converge to 1 as it computes, which is the essay's claim about \"53 is prime\" (Garrabrant et al. 2016, arXiv:1609.03543). Kolmogorov's axioms describe a logically omniscient agent, and no human is one. The problem was named long before the essay: Hacking proposed \"slightly more realistic personal probability\" for exactly this reason (<a href=\"https://doi.org/10.1086/288169\">Hacking 1967</a>). The essay gave practical advice for the agent the axioms leave out, and later work built the theory that makes that advice coherent. The author's institute took up the problem because the essay's intuition was right and needed a formal treatment."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Now you’re going to talk for a hundred human lifetimes, and not be wrong even once?",
+    "content": "Fable's arithmetic is correct. A trillion statements at the essay's pace take about 950,000 years, roughly twelve thousand lifetimes, not a hundred. As Fable notes, the slip understates the essay's own case by two orders of magnitude, and it illustrates the essay's point from the inside. The author, writing about the difficulty of being right a million times in a row, made an arithmetic error in a sentence he was certainly confident of. It is a small demonstration of why 99.9999% in a simple claim is harder to earn than it feels."
+  },
+  {
+    "id": 5,
+    "side": "left",
     "quote": "Assert a confidence of (1 − 1⁄googolplex) and your ego far exceeds that of mental patients who think they’re God.",
-    "content": "A credence is not an ego claim, and the essay does not say it is; the sentence is about what a person is <em>committing</em> to when they assert one, which under any operationalization — betting ratio, scoring rule, or long-run frequency — is a commitment they cannot honor. De Finetti's betting interpretation makes this vivid rather than dissolving it: a person who will accept a bet at odds of a googolplex to one on a proposition about the physical world is claiming an accuracy no human process delivers. The joke is about the size of the claim, and the size is the same in every interpretation."
+    "content": "A credence in a proposition carries a credence that one's own reasoning about it is sound. The second is a claim about oneself, which is what \"ego\" means here. By Dawid's theorem a coherent Bayesian expects to be calibrated. So assigning 1 − 1/googolplex to anything commits you to expecting your process, applied to claims like this one, to err less than once in a googolplex, while running on a brain that makes arithmetic slips. The same credence priced as a de Finetti bet is a wager of a googolplex to one that you have not misread, misremembered or miscomputed. No reference class of \"equally fraught statements\" is needed. The comparison is between the credence and the reliability of the hardware producing it, and that comparison is the essay's point."
   }
 ]

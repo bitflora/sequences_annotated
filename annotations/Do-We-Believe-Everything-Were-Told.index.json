@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/Do-We-Believe-Everything-Were-Told.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Do-We-Believe-Everything-Were-Told.ropusOld.json",
+    "default": false
   }
 ]

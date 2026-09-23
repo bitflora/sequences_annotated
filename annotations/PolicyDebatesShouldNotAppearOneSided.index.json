@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/PolicyDebatesShouldNotAppearOneSided.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/PolicyDebatesShouldNotAppearOneSided.ropusOld.json",
+    "default": false
   }
 ]

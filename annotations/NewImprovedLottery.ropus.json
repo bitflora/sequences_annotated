@@ -3,12 +3,24 @@
     "id": 1,
     "side": "left",
     "quote": "between zero chance of becoming wealthy, and epsilon chance, there is an order-of-epsilon difference. If you doubt this, let epsilon equal one over googolplex.",
-    "content": "The essay's googolplex is a limiting case offered to test whether the commenter's claim was about probabilities or about decision weights, which is the distinction the objection then supplies as though the essay had missed it. And the possibility effect does not rescue the purchase: if what is bought is the discontinuity at zero, then one ticket per lifetime buys it, and the observed behavior — repeated weekly purchase by the same players, concentrated in a heavy-spending minority — is not what a one-time possibility purchase looks like. The essay's satire is aimed precisely at that gap between what the hope story predicts and what purchasers do."
+    "content": "The commenter's words were \"zero chance of becoming wealthy, and epsilon,\" which is a claim about chances, and the essay answers it about chances. The possibility effect Fable cites is the bias the essay is diagnosing. In prospect theory the jump in weight from impossible to possible is a <em>departure</em> from expected utility, a description of an error and not a justification of the purchase. The googolplex is a diagnostic. If the feeling of \"being in the running\" would be the same at one in a googolplex as at one in three hundred million, then what is being bought does not track the probability at all. That is the essay's thesis. The weight is not of order epsilon, the chance is, and the essay asks which of the two the buyer should care about."
   },
   {
     "id": 2,
     "side": "right",
     "quote": "You buy in once, for a single dollar, and get not just a few days of epsilon chance of becoming rich, but a few years of epsilon.",
-    "content": "Premium Bonds and prize-linked savings are the essay's point carried out. The reason reformers built them is that they capture lottery demand <em>while returning the principal</em>, which is the essay's complaint about the ordinary lottery restated as product design; the satire's target is a state that sells the hope and keeps the dollar, and the existence of an instrument that sells the hope and gives the dollar back is the demonstration that the dollar was never necessary. That people take up the perpetual epsilon when it is free confirms the essay's model of what they were buying. It does not confirm that the priced version was a fair trade."
+    "content": "Premium Bonds show that the essay's closing charge is correct. They give the perpetual draw while returning the stake, and in the United States the reformers who modelled prize-linked savings on them had to fight state laws that protected the lottery monopoly (<a href=\"https://doi.org/10.1257/aer.98.2.321\">Tufano 2008</a>). Where the accounts were introduced, they reduced participants' spending on lottery tickets (<a href=\"https://doi.org/10.1287/mnsc.2021.4047\">Cole, Iverson &amp; Tufano 2022</a>). The same epsilon dream can be delivered without taking half of every dollar. The ordinary lottery is therefore \"an enormously overpriced service,\" which is what the essay said, and prize-linked savings is the demand for a New Improved Lottery that it told citizens to make."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Yep, offering people tempting daydreams that will not actually happen sure is a valuable service, all right.",
+    "content": "Loewenstein shows that anticipation of a scheduled outcome has value. He does not show that the value is worth half the stake. Premium Bonds hold a scheduled monthly draw, which gives the savoring structure, and they return the principal, so the time-structure argument does not justify the state lottery's price. The satire's actual target is in its last paragraph: \"if you believe that the lottery is a service, it is clearly an enormously overpriced service.\" A savoring model that fits the weekly draw fits a weekly draw on a savings account equally well. The feature the essay strips out is not what generates the value. The part that ordinary lotteries keep and prize-linked savings does not is the take."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The alternative is that consumers are making mistakes, and we all know that can’t happen.",
+    "content": "The quoted position is the commenters', and the essay quotes one: \"People are willing to pay; it must be valuable.\" The sarcasm is aimed at that revealed-preference argument, which was made in the thread. Fable grants the regressivity, the crowd-out and the \"state's take, roughly half of sales,\" which it calls \"the actual overcharge.\" That is the essay's conclusion. The judgment that players are mistaken is also not bare paternalism. It rests on documented false beliefs about lucky numbers, near-misses and personal control over the draw. A purchase driven by a misperception of the product is a mistake by the buyer's own standards, and saying so does not override the buyer's preferences."
   }
 ]

@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Resist-The-Happy-Death-Spiral.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Resist-The-Happy-Death-Spiral.ropusOld.json",
+    "default": false
   }
 ]

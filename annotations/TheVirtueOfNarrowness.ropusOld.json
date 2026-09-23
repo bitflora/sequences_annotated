@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Alas, some unfortunate souls use the same word “evolution” to cover the naturally selected patterns of replicating life, and the strictly accidental structure of stars, and the intelligently configured structure of technology.",
+    "content": "Dual-inheritance theory is the essay's discipline applied, not its refutation: it works by specifying which mechanisms of variation, transmission and selection actually operate in the cultural case, and it earns its conclusions by that specification rather than by the word \"evolution.\" The essay's target is the person who reasons from \"technology evolves\" to a property of biological evolution without checking whether the mechanism transfers — which is what the cultural-evolution literature spends its methodological chapters warning against. Selection at the population level is real for artifacts, and it is a different process from natural selection on genomes in ways that matter for every inference."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And don’t even get me started on people who think Wikipedia is an “Artificial Intelligence,” the invention of LSD was a “Singularity,” or that corporations are “superintelligent”!",
+    "content": "Bostrom's collective superintelligence is a defined construct with stated properties, which is what the essay asks for; the target of the complaint is the person for whom saying \"corporations are superintelligent\" ends the analysis rather than beginning it. That later writers found the analogy useful <em>after specifying it</em> is the essay's procedure. On language models: that a system does not fit the pre-existing categories is a reason to make new and narrower ones, which is what the field did, and not a reason to prefer a vocabulary in which everything is one thing."
+  }
+]

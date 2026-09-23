@@ -3,18 +3,24 @@
     "id": 1,
     "side": "left",
     "quote": "he probably doesn’t have any apart from his own incredulity",
-    "content": "The essay's point is that Kelvin, on this subject, had a remark and the Wrights had measurements — which is the annotation's own reconstruction, offered as a correction. The wind tunnel and the corrected Smeaton coefficient are the query being hugged; that is what makes the Wrights the essay's heroes rather than lucky amateurs. The apocryphal quotation should be replaced with the documented 1896 letter, which says the same thing in Kelvin's own words and leaves the argument exactly where it was."
+    "content": "Fable's own account is the essay's account. The essay calls the Wrights \"excellent amateur physicists\" who have calculations, and says Kelvin \"probably doesn't have any apart from his own incredulity.\" Fable reports a wind tunnel and new lift tables on one side, and on the other \"not the smallest molecule of faith in aerial navigation other than ballooning,\" which is incredulity with no calculation attached. The essay does not quote the apocryphal \"impossible\" line. It paraphrases the attitude of the letter Fable found. The mechanics had the calculations and the authority had a remark, which is the essay's point, and a documented letter now supports it in place of folklore."
   },
   {
     "id": 2,
     "side": "right",
     "quote": "If you actually watch the plane fly, the calculations themselves become moot for many purposes, and Kelvin’s authority not even worth considering.",
-    "content": "The five years of near-secrecy are the essay's case, not against it. For those five years the world was reasoning from authority and got the answer wrong; the moment anyone could reach the query, at Le Mans, the question closed in an afternoon. That is the strongest available demonstration that proximity to the query dominates every other consideration when it can be had, and the essay says only that you should get as close as you can. \"For nearly everyone the query was out of reach\" is a fact about the cost of travel in 1905, not about the epistemics."
+    "content": "\"Just as you can't always experiment today, you can't always check the calculations today... There's a sadly large number of times when it's worthwhile to judge the speaker's rationality.\" The essay says this about exactly the situation Fable describes. What the history shows is how quickly the near node took over once it could be reached. At Le Mans in August 1908, after years of European skepticism, Wilbur Wright's first public circuits ended the dispute in a single afternoon. The French aviator Léon Delagrange conceded, \"Well, we are beaten. We just don't exist.\" Five years of arguing about authority, then one observation. That is what \"hug the query\" predicts."
   },
   {
     "id": 3,
     "side": "left",
+    "quote": "It’s a theorem of these causal graphs that you can never get more information from distant nodes, than from strictly closer nodes that screen off the distant ones.",
+    "content": "The sentence restricts itself: \"strictly closer nodes <em>that screen off</em> the distant ones.\" Fable quotes the restriction and then corrects the sentence for leaving it out. As written, it states the data-processing inequality correctly. The Wright example also has the query the essay names: \"The Wright Brothers say, 'My plane will fly.'\" A flight answers that directly. Whether powered flight was \"generally achievable\" is a different query that Fable has substituted, and for it the calculations do become a relevant node, which the essay covers with \"moot <em>for many purposes</em>.\""
+  },
+  {
+    "id": 4,
+    "side": "right",
     "quote": "Just as it is superior to argue physics than credentials, it is also superior to argue physics than rationality.",
-    "content": "This is the essay's own rule turned on the book, and it is worth answering rather than conceding. Diagnosing an interlocutor's reasoning is the object level when the subject <em>is</em> reasoning, which is what a book on rationality is about; the essays that discuss creationists and lottery buyers are using them as worked examples of a cognitive mechanism, in the way a textbook on optics uses illusions. The rule the essay states is that you should not substitute a diagnosis for an argument you could have made instead, and the test is whether the object-level argument is also given. In this book it usually is."
+    "content": "Book II is a book about reasoning, so its object of study is reasoning. The object-level cases, evolution, heliocentrism, the lottery's arithmetic, are argued on the physics in other essays (An Alien God, the evolution sequence of Book III). Here they serve as specimens of settled questions. The hollow-feeling rule governs using a diagnosis of someone's rationality to <em>settle</em> a factual question, and Book II does not do that. On measurement: a one-hour module on probabilistic reasoning of the kind this sequence teaches improved forecasters' accuracy in the largest geopolitical forecasting tournament, on real questions with real outcomes (<a href=\"https://doi.org/10.1177/0956797614524255\">Mellers et al. 2014</a>). The quantity has been measured, and it was positive."
   }
 ]

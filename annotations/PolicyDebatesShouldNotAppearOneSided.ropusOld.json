@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The experimental evidence for a purely genetic component of 0.6–0.8 is overwhelming",
+    "content": "\"Purely genetic component\" is loose phrasing for a number the essay does not need, and it says so in the next sentence: the birth-lottery argument goes through on any account of why people differ, including a purely environmental one. The heritability corrections are right and they cut against the essay only if the argument depended on genes, which it does not — it depends on the fact that nobody chooses the endowment they start with, which the gene–environment correlation the annotation describes makes <em>more</em> true, not less."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But, as a matter of simple fact, she’s still going to die.",
+    "content": "The essay is arguing that the policy question has costs on both sides and then supplying the cost that is usually suppressed, which requires naming it concretely; that is not an identifiable-victim manipulation but the correction of one, since the deaths from delayed and forgone drugs are the statistical side that never gets a face. Peltzman's finding is a point in the essay's favour, not against it. And the essay explicitly declines to say which way the balance falls, which is the whole content of \"policy debates should not appear one-sided.\""
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Can you imagine a politician saying that? Neither can I.",
+    "content": "That the value of a statistical life is used in every regulatory impact analysis is the essay's thesis demonstrated, not refuted: the analysis is done because the tradeoff is real, and it is done in documents nobody reads because, as the annotation concedes, no politician will say it aloud. The essay's subject is public argument, where the tradeoff is unspeakable, and the gap between the regulatory arithmetic and the political rhetoric is precisely the phenomenon being named. An objection that the arithmetic exists in the appendix has located the essay's point."
+  }
+]

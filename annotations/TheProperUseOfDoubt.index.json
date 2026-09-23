@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/TheProperUseOfDoubt.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/TheProperUseOfDoubt.ropusOld.json",
+    "default": false
   }
 ]

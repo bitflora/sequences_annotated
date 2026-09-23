@@ -3,12 +3,24 @@
     "id": 1,
     "side": "left",
     "quote": "If you want to argue against transhumanism or the intelligence explosion, you have to directly challenge the arguments of Nick Bostrom or Eliezer Yudkowsky post-2003.",
-    "content": "The weak-man worry is real and it does not apply to the sentence quoted, which is a rule about how to <em>refute a position</em>, not about what to conclude regarding a movement. Both are legitimate targets and they answer different questions: what a movement's typical members believe is evidence about the movement, and the strongest form of an argument is what settles whether the idea is true. The essay is explicit that it is discussing the second. That the author names himself is awkward and is also just the situation of anyone writing about a position they hold; the remedy is to name a rival advocate, which the sentence does."
+    "content": "The first name on the list is Nick Bostrom's, a professor of philosophy at Oxford, not the author's. \"Post-2003\" excludes positions their author had publicly given up, and arguing against abandoned positions is the straw man. Talisse and Aikin's \"weak man\" is a fallacy, and the essay's rule is a rule against it. The rule is scoped to ideas: \"To argue against an idea honestly.\" What a movement's typical members say is evidence about the movement, and Every Cause Wants to Be a Cult tells readers to use that evidence to judge groups. Evaluating the strongest version of an idea while watching the actual behaviour of its adherents is what the sequence recommends. Naming yourself among the strongest advocates is a claim critics can test, and plenty have."
   },
   {
     "id": 2,
     "side": "right",
+    "quote": "Someone once said, “Not all conservatives are stupid, but most stupid people are conservatives.”",
+    "content": "The quip is Mill's, and \"someone once said\" should have named him. On the substance, the next essay settles the matter the way this one needs: once you have the arguments, who else holds the conclusion is screened off. The essay asks whether Mill's line bears on \"a critique of conservatism,\" meaning its arguments, and on arguments the distribution of believers is screened off. Hodson &amp; Busseri's small correlations are evidence about believers (<a href=\"https://doi.org/10.1177/0956797611421206\">Hodson &amp; Busseri 2012</a>), exactly the kind the essay tells you not to confuse with evidence about policies. Ad hominem is weak before you have heard the argument and close to nothing after. The essay's \"not valid\" is the post-argument case."
+  },
+  {
+    "id": 3,
+    "side": "left",
     "quote": "By the Bayesian definition of evidence, the observation “flying saucer cults exist” is not evidence against the existence of flying saucers.",
-    "content": "The absence of expert endorsement is evidence, and the essay grants it in the very next essay of this sequence, which argues that authority is evidence when arguments are unavailable. What this essay denies is the narrower and genuinely common inference from the <em>quality of a claim's proponents</em> to the claim's falsity, which is a different observation from the absence of good proponents. The distinction matters because the two come apart: cold fusion had cranks and also had a plausible mechanism to check, and the checking, not the cranks, is what settled it."
+    "content": "Fable's closing sentence, \"the stupidity is not the evidence,\" is the essay's principle. The essay isolates the cult observation because that is the observation people misuse, and it says its own disbelief rests elsewhere: \"my disbelief has nothing to do with the awful embarrassing irrationality of flying saucer cults.\" The pattern of expert silence and no instrument data is the evidence. The epigraph's point is also that the cult observation can be manufactured. Piper's \"smother-out technique\" discredits a true story \"by setting up ten others, palpably false, parallel to it,\" and a reasoner who counts the crowd of cranks as evidence can be steered by whoever supplies the cranks. The example needs the principle because the principle is what defeats that manipulation."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Many New Agers have been made crazier by their personal apprehension of quantum mechanics.",
+    "content": "No one has measured it, and the sentence is a quip. It could be cut without loss, since the principle it illustrates, that deranged adherents are no evidence against an idea, stands on the probability argument that comes before it. As Fable notes, the essay's own rule applies to its examples: a principle about evidence should be illustrated with evidence or with a clearly marked hypothetical, not with an unmeasured remark about a disliked group."
   }
 ]

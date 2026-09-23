@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "a few centuries ago, saying this would have gotten you burned at the stake",
+    "content": "The stake sentence is invented and should go; apophatic theology, fideism and the Thomistic limits on natural theology are all orthodox, and nobody was burned for saying that God is not an evidential hypothesis. What the correction does not touch is the essay's example, which is a mother praying for a specific outcome, and the point that this is a factual anticipation regardless of what the theologians hold. An essay about repeating what you have not checked should be corrected here in public, which is what these notes are for."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s a good guess that the actual majority of human cognition consists of cache lookups.",
+    "content": "The hundred-step rule constrains serial depth, and the conclusion the essay draws from it is the same one the connectionists drew: most of what a brain does in a second cannot be a fresh derivation. Whether the reuse is a lookup table or pattern completion in a trained network is a difference in implementation and not in the essay's point, which is that the output arrives without the work being redone and therefore carries whatever was stored. Distributed retrieval is still retrieval of something previously shaped by input, which is exactly why the essay ends by asking where the stored thing came from."
+  }
+]

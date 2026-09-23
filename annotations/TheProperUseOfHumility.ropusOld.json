@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Does acting this way make you stronger, or weaker?",
+    "content": "The test is not empty; it is the instruction to state the cost of the precaution and the cost of the error, which is why every worked example reduces to an expected-value calculation. That is the point. The essay's complaint about \"humility\" is precisely that it floats free of any such calculation, and its remedy is to replace a virtue term with a decision, so an objection that the examples \"need no virtue term at all\" has restated the thesis. The degrees of freedom warning applies to principles that cannot be cashed out; this one can be, and the essay cashes it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Scientific humility is something you would practice even if you were alone in a spacesuit, light years from Earth with no one watching",
+    "content": "The essay does not say self-correction is <em>only</em> private, and this book is the argument that it is not: the sequences on expressing your concerns, on lonely dissent, on evaporative cooling and on Asch are about the social machinery of error-catching. What the astronaut image says is that the precaution must not be <em>performed for an audience</em>, which is the distinction between a discipline and a display, and it is the same distinction the intellectual-humility scale draws. Mercier and Sperber's theory also does not say that solitary reasoners cannot double-check an instrument; it says they are bad at criticizing their own conclusions, which is a different operation from adding a redundant cable."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "because physicists have this arrogant idea that their models should work all the time, not just most of the time, they follow up on small flaws",
+    "content": "The history is the essay's case rather than against it. Le Verrier quantified Mercury's anomaly and hunted Vulcan for it precisely because the discrepancy was intolerable to a physicist who expected the model to work to arcseconds; the solar-neutrino deficit was chased for thirty years by people building larger and larger detectors rather than declaring three-eighths close enough. That is following up a small flaw, at enormous cost, for decades, with the wrong hypothesis in hand — which is what the essay is describing and what Lakatos is describing. A discipline that tolerates an anomaly while continuing to measure it is not the same as one that never noticed."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The problem is motivated skepticism a.k.a. disconfirmation bias",
+    "content": "The Tappin–Druckman confound is real and it is a confound, not a refutation: it establishes that asymmetric scrutiny is <em>consistent with</em> unmotivated updating, not that motivation is absent. The evidence that separates them exists and goes the essay's way. A meta-analysis of ninety-one selective-exposure studies found a reliable preference for congenial information that grew with commitment to the belief and with the defensibility of the position, which is a pattern about motivation, not about priors (<a href=\"https://doi.org/10.1037/a0015701\">Hart et al. 2009</a>); and myside bias in argument evaluation is uncorrelated with cognitive ability, which a purely prior-driven account does not predict (<a href=\"https://doi.org/10.1037/0022-3514.94.4.672\">Stanovich &amp; West 2008</a>)."
+  }
+]

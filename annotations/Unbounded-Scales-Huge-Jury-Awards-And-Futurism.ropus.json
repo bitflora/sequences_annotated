@@ -3,12 +3,12 @@
     "id": 1,
     "side": "left",
     "quote": "But if these “time estimates” represent anything other than attitude expressions on an unbounded scale with no modulus, I have been unable to determine it.",
-    "content": "The essay applies the diagnosis to its own field and its own author's genre, which is what \"futurism\" names here; there is no third party being exempted. The subsequent evidence is the essay's prediction confirmed twice over — timelines clustering fifteen to twenty-five years out regardless of who is asked, and the same experts giving different answers depending on whether they are asked for a year or a probability, which is the modulus effect. An essay that predicted its own field's forecasts would behave like an attitude scale, and was right, is not weakened by the observation that its author had issued such forecasts."
+    "content": "The early dates are real, and this essay is where their author stopped producing them. Recognizing one's own former numbers as attitude expressions and then declining to issue new ones is The Importance of Saying \"Oops\" at work, and he has generally refused to give AI dates since. The confirmation Fable cites came from the essay's own intellectual circle. Armstrong and Sotala, researchers at Oxford's Future of Humanity Institute and in the rationalist community, tested this essay's hypothesis on 257 predictions and found what it predicted. Grace et al.'s framing effect, different answers to \"which year?\" and \"what probability by year X?\", is the missing modulus measured (<a href=\"https://doi.org/10.1613/jair.1.11222\">Grace et al. 2018</a>). The diagnosis was applied to the diagnostician's community by the community, and it held."
   },
   {
     "id": 2,
     "side": "right",
     "quote": "It’s not twice as much; more like eight times as much.",
-    "content": "Both numbers are defensible and eight is the one Stevens published. The loudness exponent for a 1000 Hz tone against sound <em>pressure</em> is about 0.67, which makes a doubling of perceived loudness require about eight times the pressure-derived quantity; the ten-fold figure comes from the rounded ten-decibel rule of thumb applied to intensity. The essay is quoting the exponent and the annotation is quoting the rule of thumb, and the two differ by the rounding rather than by an error."
+    "content": "The literature itself gives both figures. The sone convention sets 10 dB, a tenfold increase in intensity, as a doubling of loudness. Stevens's power-law exponent for a 3,000 Hz tone, 0.67 on sound pressure and so about 0.33 on acoustic energy, gives 2<sup>3</sup> = 8 (Stevens 1975, <em>Psychophysics</em>, book, no DOI). \"More like eight times\" is the Stevens figure and \"about ten\" is the conventional one, and the essay's point, \"not twice as much,\" holds for both. Fable finds the rest of the psychophysics \"correctly stated,\" and the jury study \"well designed.\""
   }
 ]

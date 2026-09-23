@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/TheMeditationOnCuriosity.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/TheMeditationOnCuriosity.ropusOld.json",
+    "default": false
   }
 ]

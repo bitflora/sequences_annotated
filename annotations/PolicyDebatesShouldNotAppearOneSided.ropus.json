@@ -3,18 +3,24 @@
     "id": 1,
     "side": "left",
     "quote": "The experimental evidence for a purely genetic component of 0.6–0.8 is overwhelming",
-    "content": "\"Purely genetic component\" is loose phrasing for a number the essay does not need, and it says so in the next sentence: the birth-lottery argument goes through on any account of why people differ, including a purely environmental one. The heritability corrections are right and they cut against the essay only if the argument depended on genes, which it does not — it depends on the fact that nobody chooses the endowment they start with, which the gene–environment correlation the annotation describes makes <em>more</em> true, not less."
+    "content": "\"Purely genetic component\" is the wrong phrase. Heritability is a population variance ratio, and \"additive genetic variance\" or \"heritability of 0.6–0.8 in adults\" is what the essay should have said. The number is right for the adults it concerns, as Fable grants, and the Turkheimer interaction replicated only in American samples (<a href=\"https://doi.org/10.1177/0956797615612727\">Tucker-Drob &amp; Bates 2016</a>). The essay also forestalls the dispute in the same sentence: \"but even if this were to be denied, you don't choose your parental upbringing or your early schools either.\" The birth lottery is the argument, the heritability figure is a side remark, and the essay says so."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "But, as a matter of simple fact, she’s still going to die.",
-    "content": "The essay is arguing that the policy question has costs on both sides and then supplying the cost that is usually suppressed, which requires naming it concretely; that is not an identifiable-victim manipulation but the correction of one, since the deaths from delayed and forgone drugs are the statistical side that never gets a face. Peltzman's finding is a point in the essay's favour, not against it. And the essay explicitly declines to say which way the balance falls, which is the whole content of \"policy debates should not appear one-sided.\""
+    "quote": "Like all primates, humans have strong negative reactions to perceived unfairness",
+    "content": "\"All primates\" overreaches, and the ape replications Fable cites are real. The evidence did not collapse to the capuchin demonstration, though. Brosnan and de Waal's later review sets out inequity responses under controlled conditions in capuchins, macaques and chimpanzees, and in species outside the primates, notably dogs, and argues that the responses track cooperative species rather than phylogeny (<a href=\"https://doi.org/10.1126/science.1251776\">Brosnan &amp; de Waal 2014</a>). The essay's argument needs only the human half, \"humans have strong negative reactions to perceived unfairness,\" which Fable grants on ultimatum-game evidence from many cultures. The naturalizing clause is decoration that is only partly supported, and the claim the argument uses is solid."
   },
   {
     "id": 3,
     "side": "left",
+    "quote": "But, as a matter of simple fact, she’s still going to die.",
+    "content": "The essay separates \"she's still going to die,\" a claim about existence, from whether the shops raise or lower total deaths, a claim about net effect. Across millions of customers, someone will buy the acid, and that is as near certain as a policy fact gets. Peltzman's question, whether regulation reduced net harm, is the many-sided one, and the essay says so: \"You may also think that making things illegal just makes them more expensive, that regulators will abuse their power...\" The identified victim was a deliberate test. The essay's second paragraph asks, \"Why did some people think it was an argument in favor of regulation?\" Readers who heard an argument for regulation were showing the one-sidedness reflex the essay is about. The vivid victim was the stimulus, and their reaction was the finding."
+  },
+  {
+    "id": 4,
+    "side": "right",
     "quote": "Can you imagine a politician saying that? Neither can I.",
-    "content": "That the value of a statistical life is used in every regulatory impact analysis is the essay's thesis demonstrated, not refuted: the analysis is done because the tradeoff is real, and it is done in documents nobody reads because, as the annotation concedes, no politician will say it aloud. The essay's subject is public argument, where the tradeoff is unspeakable, and the gap between the regulatory arithmetic and the political rhetoric is precisely the phenomenon being named. An objection that the arithmetic exists in the appendix has located the essay's point."
+    "content": "The essay predicts this and says it: economists might \"say it in journal articles, suitably dressed up in polysyllabismic obfuscationalization so the media can't quote it.\" A regulatory impact analysis, with a value of a statistical life of about ten million dollars, is that dressed-up version. Fable's summary, \"What politicians will not do is say it on television,\" is the essay's claim, \"Can you imagine a politician saying that? Neither can I,\" in other words. The essay knew about the field. Its point is the gap between the analysis agencies run and what public officials can say out loud, and Fable's note confirms that the gap exists."
   }
 ]

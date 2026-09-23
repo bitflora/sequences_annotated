@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "You know, given human nature, if people got hit on the head by a baseball bat every week, pretty soon they would invent reasons why getting hit on the head with a baseball bat was a good thing.",
+    "content": "Bostrom and Ord's exceptions do not cover this case. Senescence is not a parameter optimized for the individual's benefit; it is the standard consequence of declining selection pressure at later ages, which is why the evolutionary-tuning exception fails here (Williams 1957, <em>Evolution</em> 11, \"Pleiotropy, natural selection, and the evolution of senescence\"). And the essay is not using the reversal to prove that death is bad; it is diagnosing a rationalization, which requires only that the argument offered for death would also be offered for the baseball bat. The failure of mortality-salience effects is a caution about terror management, which the essay does not invoke."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But my suspicion is that I came across as “deep” because I coherently violated the cached pattern for “deep wisdom” in a way that made immediate sense.",
+    "content": "Pennycook's effect is about vague statements rated profound by unreflective raters, and the essay's own hypothesis is the opposite: that what was said made <em>immediate sense</em> and was specific enough to be checked. The essay is also not claiming the compliment was earned — the title puts \"seem\" before \"be\" and the closing advice is a recipe for seeming, offered with the warning attached. That is the essay marking its own finding as weak evidence, which is what the annotation asks for."
+  }
+]

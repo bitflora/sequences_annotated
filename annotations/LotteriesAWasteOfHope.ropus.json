@@ -2,19 +2,31 @@
   {
     "id": 1,
     "side": "left",
-    "quote": "paying a dollar for a day’s worth of pleasant anticipation, imagining yourself as a millionaire",
-    "content": "The consumption-value model is not an alternative to the essay's claim; it is the essay's claim, with the sign of the welfare judgment flipped. \"Buying a dream\" and \"paying a dollar for a day's worth of pleasant anticipation\" are the same sentence, and the essay grants it explicitly before arguing that the dream is available for free and the dollar is therefore wasted. Whether that argument succeeds is a fair question. Reporting the model as though the essay had not stated it, when the essay stated it in the words quoted, is answering the essay with the essay."
+    "quote": "the people who play are the ones who can least afford to lose",
+    "content": "This is agreed, and the refinement sharpens the essay's point. If a small fraction of heavy players supply most of the take, the \"sink of emotional energy\" is concentrated where the essay says it is: among the people who have put their hope in the draw most completely. Clotfelter and Cook's study of state lotteries found that play was concentrated in that way, and that the heaviest players were disproportionately poor and poorly educated (<em>Selling Hope</em>, 1989, book, no DOI). Kearney's crowd-out result, in which spending on the lottery replaces spending on food and rent, measures the essay's claim in dollars (<a href=\"https://doi.org/10.1016/j.jpubeco.2004.07.004\">Kearney 2005</a>). Heavy play is where the dream is bought most often, and the essay's criticism is aimed at the dream."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "If not for the lottery, maybe they would fantasize about going to technical school, or opening their own business, or getting a promotion at work",
-    "content": "Oettingen's finding is about <em>indulging</em> a positive fantasy in place of planning, and her remedy, mental contrasting with obstacles followed by implementation intentions, is what \"fantasize about going to technical school\" means when the person then enrolls. The essay's counterfactual is not that daydreaming about a trade school works; it is that the lottery fantasy is structurally incapable of turning into a plan, because there is no obstacle to contrast and no action to intend. That is the one property Oettingen's programme identifies as decisive, and the lottery ticket lacks it by design."
+    "quote": "paying a dollar for a day’s worth of pleasant anticipation, imagining yourself as a millionaire",
+    "content": "A model can fit demand without showing that the demand is wise. The \"buying a dream\" model fits because sales track the size of the jackpot, which is a feature of the fantasy, not of the value received. The evidence on what players believe also does not look like informed consumers pricing a daydream. Lottery players hold systematic false beliefs: lucky numbers, \"due\" numbers, near-misses read as signs that a win is coming, and confidence from choosing their own numbers (<a href=\"https://doi.org/10.1023/A:1023042708217\">Rogers 1998</a>). A welfare judgment about someone's consumption is fair to make when the consumer is misperceiving the product. The essay supplies the argument behind its judgment, the opportunity cost of hope, and does not rest on fiat."
   },
   {
     "id": 3,
     "side": "left",
+    "quote": "If not for the lottery, maybe they would fantasize about going to technical school, or opening their own business, or getting a promotion at work",
+    "content": "Oettingen's finding is the essay's argument once it is completed. What turns fantasy into action is mental contrasting, and it produces commitment only in proportion to the expectation of success (<a href=\"https://doi.org/10.1037/0022-3514.80.5.736\">Oettingen, Pak &amp; Schnetter 2001</a>). A technical-school daydream can be contrasted with its obstacles and made into a plan, which is the essay's \"in the 20th visualization of the pleasant fantasy, notice a way to really do it.\" A lottery daydream cannot. There is no obstacle to plan around and the expectation is zero, so it is fantasy that can never become a plan. Unplanned fantasy about achievable goals is also unproductive, as Oettingen shows. The lottery takes the hope that might have been contrasted and puts it where contrasting is impossible."
+  },
+  {
+    "id": 4,
+    "side": "right",
     "quote": "it can’t devalue the emotional force of a pleasant anticipation by a factor of 0.00000001 without dropping the line of reasoning entirely",
-    "content": "The essay is not claiming people cannot discriminate small probabilities; it is claiming they cannot <em>feel</em> them in proportion, which is what a probability weighting function with an overweighted tail says. Overweighting is the affirmative form of the essay's complaint: a one-in-a-hundred-million chance that is felt as though it were one in ten thousand is exactly a device for selling hope at a markup, and the affect-rich amplification the annotation cites makes the essay's case stronger, not weaker (<a href=\"https://doi.org/10.1111/1467-9280.00334\">Rottenstreich &amp; Hsee 2001</a>). The essay reinvented the weighting function without the name; it did not get its shape wrong."
+    "content": "The sentence is prospect theory's own. \"Because people are limited in their ability to comprehend and evaluate extreme probabilities, highly unlikely events are either ignored or overweighted\" (<a href=\"https://doi.org/10.2307/1914185\">Kahneman &amp; Tversky 1979</a>, p. 283). \"Can't devalue... by a factor of 0.00000001 without dropping the line of reasoning entirely\" says the same thing: at extreme probabilities the brain either overweights or drops, and does not multiply. The lottery sits on the overweighting branch, as Fable says. Sensitivity to the jackpot with only weak sensitivity to the odds is also the essay's picture of a brain that feels the prize and not the probability. The shape is right. What is missing is the citation."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "This seems sufficient to explain the popularity of lotteries.",
+    "content": "Haisley, Mostafa and Loewenstein's other lottery paper is the direct test of the essay's account. When people decided whether to buy tickets one at a time, they bought many more than when the same purchases were presented as a single bundled decision, where the small probabilities were combined into one visible number (<a href=\"https://doi.org/10.1007/s11166-008-9041-1\">Haisley, Mostafa &amp; Loewenstein 2008</a>). Changing how the arithmetic was presented changed the demand, which is the essay's mechanism. Feeling relatively poor does increase the wish for a way out. A buyer who could feel a one-in-a-hundred-million chance would not buy a ticket at a 50% expected loss for that reason, so status amplifies the error without replacing it. Step three is as easy as the essay says, and Haisley's bundling shows that step four can be done."
   }
 ]

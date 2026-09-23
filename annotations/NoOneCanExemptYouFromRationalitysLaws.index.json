@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/NoOneCanExemptYouFromRationalitysLaws.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/NoOneCanExemptYouFromRationalitysLaws.ropusOld.json",
+    "default": false
   }
 ]

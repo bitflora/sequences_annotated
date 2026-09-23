@@ -3,12 +3,12 @@
     "id": 1,
     "side": "left",
     "quote": "I was not half right or even the tiniest fraction right.",
-    "content": "The bijection is correct and the essay should say so: mapping each natural number to the set of positions of the ones in its binary expansion enumerates the finite subsets, which is a real result the thirteen-year-old found. What the essay is right about is that the <em>proof he thought he had</em> — a refutation of Cantor — contained nothing, and that the temptation was to salvage the refutation rather than the enumeration. The corrected version is a better story for the essay's purpose, because it shows exactly what clinging costs: he had found something worth keeping and spent his attention defending the part that was wrong."
+    "content": "The lemma was right. Binary expansion is a bijection between the naturals and the finite subsets of the naturals, and Fable deserves credit for noticing. The sentence refers to the thing the thirteen-year-old was trying to do: disprove the Diagonal Argument. That conclusion was not a fraction right, and the essay's warning is about exactly the move of salvaging part of a refuted conclusion because some lemma survived. Every crank has a correct lemma. What makes the crank is carrying the lemma's correctness over to the conclusion, and the essay's \"It's not half-true or even a little true\" is aimed at the conclusion. The phrase about the reals outnumbering the rationals is true as stated, though the argument the boy attacked, Cantor's theorem for the power set of the naturals, was a different one."
   },
   {
     "id": 2,
     "side": "right",
     "quote": "I wonder how many people writing angry letters in green ink were thirteen when they made that first fatal misstep.",
-    "content": "The essay writes \"I wonder how many,\" which is the honest form and which the annotation quotes. Dudley's profile is a fair correction to the developmental guess. The mechanism the essay proposes is not thereby damaged, because escalation of commitment to a public position is documented across domains and does not require a childhood origin; what should go is the suggestion that crankery is typically seeded in gifted adolescence."
+    "content": "Dudley's population of adult cranks from technical trades is a fair correction to the modal case. The essay's claim is a question (\"I wonder how many... I wonder how many were promising minds before then\"), and Fable concedes that it is \"the honest form.\" Dudley also supports the mechanism the essay cares about. The defining trait in his account is the refusal to accept that one's proof is wrong, the clinging the essay calls \"the opportunity to become a crackpot.\" \"It's the clinging that defines it\" is the essay's definition, and it is Dudley's too. The thirteen-year-old in the essay was offered the same bargain at a younger age than most of Dudley's cases."
   }
 ]

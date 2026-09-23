@@ -12,5 +12,12 @@
     "code": "R",
     "file": "annotations/Update-Yourself-Incrementally.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Update-Yourself-Incrementally.ropusOld.json",
+    "default": false
   }
 ]

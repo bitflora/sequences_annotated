@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "but if your current belief is 70%, you should be as ready to drop it to 69% as raising it to 71%",
+    "content": "The essay's \"as ready\" is about willingness, not about equal probability of the two moves, and the sentence following it in the essay is about not knowing in advance which way you will go. Asymmetric step sizes with zero expected change is the correct statement and it is what the sequence's Update Yourself Incrementally says; this essay is paraphrasing that essay for a reader who is being asked to notice their own reluctance to move downward. The instruction \"be as ready to drop it to 69\" is addressed to a psychological asymmetry, not proposed as a theorem."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But you can’t produce curiosity just by willing it, any more than you can will your foot to feel warm when it feels cold.",
+    "content": "The essay's own remedy is the gap-creating procedure and the annotation grants that it works. What the essay denies is that curiosity can be produced by <em>willing it directly</em>, which is true and is why the essay spends its length on indirect techniques — ask a question you cannot predict the answer to, notice what you do not know, guess first. That is Loewenstein's mechanism arrived at from the inside, and the essay's theory of why it works being incomplete does not make the practice borrowed."
+  }
+]

@@ -19,5 +19,12 @@
     "code": "R",
     "file": "annotations/EvaporativeCoolingOfGroupBeliefs.ropus.json",
     "default": true
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/EvaporativeCoolingOfGroupBeliefs.ropusOld.json",
+    "default": false
   }
 ]

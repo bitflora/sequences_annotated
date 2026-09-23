@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This you cannot do. It is mathematically impossible.",
+    "content": "Duhem–Quine does not leave the landing spot undefined; it distributes it. Bayesian conditionalization assigns the loss across the conjuncts of a refuted bundle in proportion to their priors and to how strongly each was required, which is why \"there is an eighth planet\" absorbed the Uranus anomaly and \"gravity is inverse-square\" did not. The honest and the motivated reasoner may shift different beliefs, and they will not both be coherent unless their priors differ, which is a checkable difference rather than a licence. What the essay is prohibiting — no shift at all — is ruled out by the theorem regardless of where the shift lands."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Yet it is widely believed, especially in the court of public opinion, that a true theory can have no failures and a false theory no successes.",
+    "content": "The essay names the third position and rejects it: qualitative rejection at a threshold is the \"Traditional Rationality\" it spends the sequence arguing against, and its objection is not that threshold methods produce no progress but that they misdescribe the epistemic state of the practitioner between thresholds. The court-of-public-opinion figure is not a strawman either; it is the public understanding of falsification that the essay was written for, and the annotation's own examples of scientists tolerating anomalies for decades are precisely cases where the public account and the practice diverge."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If the theory is true, supporting evidence will come in shortly, and the probability will climb again.",
+    "content": "The reassurance is a claim about what happens if the theory is true, which is what \"if\" is doing in the sentence, and it is correct: over the long run, evidence accumulates in the direction of the truth, which is the merging-of-opinions result. Nothing in it requires the next observation to be soon. And the essay's advice scales with the weight of the evidence — \"shift downward a little\" is the response to a little evidence, and a whole class of contrary observations is not a little; the sentence the annotation wants is in the same essay, where the size of the shift is set by the likelihood ratio."
+  }
+]

@@ -3,12 +3,18 @@
     "id": 1,
     "side": "left",
     "quote": "Again, these three arguments outweigh the first (by three arguments against one argument), so you keep your belief that Sylvania is responsible.",
-    "content": "The essay is not endorsing the tally; the tally is the mistake being narrated, and the essay's conclusion is that each new argument must be integrated once, at its own weight, rather than re-defeated by rehearsal. Non-independence and the difference between an argument against the mechanism and an argument against the fit are both real and both instances of the essay's point rather than corrections to it, since each is a reason the count is not the quantity. What the essay adds, and what the annotation does not dispute, is the specific failure of re-running old support to neutralize new evidence, which is a distinct error from mis-weighting."
+    "content": "Tallying is the Freedonian's error, and the essay presents it as one: \"these three arguments outweigh the first (by three arguments against one argument)\" is the voice of the reasoner being mocked. The essay's prescription is \"integrating all the evidence,\" shifting \"the probability down,\" and Book I spells out the method: likelihood ratios multiplied against a prior. Fable's two refinements, that the three Sylvanian signs are correlated and that \"no space program\" strikes at the prior for the mechanism, are what a reader who does that integration will find. The meteor scenario was chosen to make the Freedonian's confidence absurd. A reader who spots the mechanism objection has absorbed the essay's lesson."
   },
   {
     "id": 2,
     "side": "right",
     "quote": "You encounter further arguments by the pro-Sylvania traitors—again, and again, and a hundred times again—but each time the new argument is handily defeated by 3 to 1.",
-    "content": "The Gish-gallop worry is answered two essays later, by the essay the annotation cites: evidence from a source that selects what to show must be conditioned on the selection rule, which discounts the hundredth argument from an interested party to nearly nothing. That is not a contradiction between the two essays but a division of labour, and the sequence puts them in this order deliberately. The rule in this essay is what to do with an argument whose weight you have already assessed; the rule in the next is how to assess it."
+    "content": "The prescription is to downshift in proportion to the likelihood ratio, not by a fixed step per argument. The essay's own statement is \"shift the probability down... from whatever it was before you heard the contrary evidence,\" and a counterargument with a likelihood ratio near 1 moves you by nearly nothing. A Gish gallop of weak points is a stream of such arguments, and it produces a correspondingly small total shift. Conservation of expected evidence, which the essay's sequence cites next, adds that if you expected the traitors to produce a hundred weak points, the hundredth tells you almost nothing. Fable's filtered-evidence adjustment is the essay's own next essay applied correctly. \"Always shift down\" means never shift <em>up</em> on counterevidence by rehearsing support, and the gallop gives no license for that either."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Imagine a scientist who does an experiment with 50 subjects and fails to obtain statistically significant results, so the scientist counts all the data twice.",
+    "content": "Agreed, and Fable's extension is one the sequence would sign. \"The literature\" counted as many independent confirmations when it rests on one paradigm, one lab or one theoretical commitment is the Freedonian's three signs at scale. The behavioural-priming literature that Book II's annotations watch collapse is the type specimen: dozens of conceptual replications from overlapping groups, counted as independent support, then failing together under direct preregistered replication. Hurlbert's pseudoreplication (<a href=\"https://doi.org/10.2307/1942661\">Hurlbert 1984</a>) and the scientist who counts the data twice are the same error, and the essay chose the right caricature."
   }
 ]
