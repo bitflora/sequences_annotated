@@ -2,13 +2,25 @@
   {
     "id": 1,
     "side": "left",
-    "quote": "Since the reversal sounds abnormal, the unreversed statement is probably normal, implying it does not convey new information.",
-    "content": "The counterexample fails on the test’s own terms. A government that has been torturing prisoners is one for which \"we will torture prisoners\" is entirely conceivable as a policy, so the reversal is <em>not</em> abnormal, and the test correctly classifies the statement as informative — which is why it is worth saying. That is the whole content of the heuristic: reverse it, and if the reverse is a live option, the statement selected among live options. The essay states the speech-act qualification in the paragraph after introducing the test, and the name collision with Bostrom and Ord’s reversal test is a collision of names, not of tools."
+    "quote": "Something like the Human Genome Project—that was an internationally sponsored research project.",
+    "content": "The Bermuda Principles settled when to release data. The essay asked \"How would different interest groups resolve their conflicts,\" meaning conflicts over what the project should do. The Human Genome Project had a single goal that everyone shared, which is why it needed no such mechanism, and the essay's point is that \"if all groups had the same preferred policies, there would be no need for democracy.\" Its central conflict, with Celera, was settled by a negotiated joint announcement brokered by the White House, not by any democratic procedure. The evidence for the diagnosis is the speaker's own answer to the question: \"I don't know.\""
   },
   {
     "id": 2,
     "side": "right",
+    "quote": "The substance of a democracy is the specific mechanism that resolves policy conflicts.",
+    "content": "Dahl's two dimensions of polyarchy are contestation and participation (Dahl 1971, <em>Polyarchy</em>, book, no DOI): who may compete for power and who may take part in choosing. Those are the rules by which policy conflicts are settled. Accountability, transparency and civil liberties are the conditions that make those rules work. So the essay's \"The substance of a democracy is the specific mechanism that resolves policy conflicts\" is the core of every standard definition, not a Schumpeterian outlier. A call for \"democratic\" AI development that names no mechanism of participation or contestation has said nothing under any of those definitions."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Since the reversal sounds abnormal, the unreversed statement is probably normal, implying it does not convey new information.",
+    "content": "The test sorts the torture case correctly. For a government that has been torturing prisoners, the reversal, \"we will torture prisoners,\" is not abnormal; it describes current policy. So the unreversed statement conveys information, and the test says it is not an applause light. The essay's next sentences list \"plenty of legitimate reasons for uttering a sentence that would be uninformative in isolation,\" and they restrict the diagnosis to cases where \"no specifics follow.\" The note faults a heuristic with a stated scope and stated exceptions for the very cases it exempts."
+  },
+  {
+    "id": 4,
+    "side": "right",
     "quote": "I think it means that you have said the word “democracy,” so the audience is supposed to cheer.",
-    "content": "The essay does not claim to have discovered the phenomenon; it names a specific mechanism, which is that the sentence is predictable given the audience and therefore carries no information in Shannon’s sense. That is a sharper claim than \"glittering generalities,\" and it comes with a procedure — attempt the reversal, count the bits — that the 1937 catalogue does not supply. And the closing observation the annotation offers as a correction is the essay’s own: it says applause lights are for coordination and group identification, and that this is a real function. The essay’s complaint is that the speaker believed he had answered a question about AI governance."
+    "content": "The Institute's \"glittering generalities\" named the device. The essay supplies a test for detecting it, the reversal, which the 1937 catalogue did not have. Fable concedes the substance, that an applause light is \"not a propositional statement,\" and it supplies the essay's own account of what applause lights do: coordination and coalition signaling. That is what the essay says the speaker was doing: \"you have said the word 'democracy,' so the audience is supposed to cheer.\" Mistaking a coalition signal for a policy suggestion was the embarrassment the essay described."
   }
 ]

@@ -2,19 +2,31 @@
   {
     "id": 1,
     "side": "left",
-    "quote": "neutrality is a definite judgment",
-    "content": "This misreads Tetlock. Foxes did not decline to commit; they gave numerical probability judgments like everyone else in the tournament, and beat the hedgehogs by being better calibrated and by updating more readily — they summed up the evidence more often, not less. The follow-on work makes it explicit: superforecasters are distinguished by making <em>more</em> precise, more frequently revised probability estimates, in finer increments, than ordinary forecasters (<a href=\"https://doi.org/10.1177/0956797614524255\">Mellers et al. 2014</a>). \"I estimate sixty percent\" is a summation of the evidence and is exactly what the essay is asking for; the target is the person who will not produce a number or a lean and calls that judiciousness."
+    "quote": "Of course it matters who started the fight.",
+    "content": "The essay addresses the verifiability case directly: \"The principal may not have access to good information about this critical fact, but if so, the principal should say so, not dismiss the importance of who threw the first punch.\" The objection concludes that the honest statement is \"I cannot verify who started it,\" which is the essay's own recommendation. The difference matters because rules teach. A school that treats instigator and target alike tells the bully that provocation costs nothing. Zero-tolerance discipline, which punishes everyone in a fight regardless of role, has not been shown to make schools safer (<a href=\"https://doi.org/10.1037/0003-066X.63.9.852\">APA Zero Tolerance Task Force 2008</a>). A rule keyed to the variable you can verify is fine. Announcing that the variable you cannot verify does not matter is the error."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "It’s common to put on a show of neutrality or suspended judgment in order to signal that one is mature, wise, impartial",
-    "content": "Grossmann’s instrument scores the <em>content</em> of a person’s reasoning about a described conflict — whether they acknowledge uncertainty, seek others’ perspectives, and predict change — from open-ended transcripts, and higher scorers reach determinate views about how the conflicts will resolve. Nothing in it rewards declining to have a view. The essay’s target is the pose adopted in place of the work, and it says so: it explicitly allows that genuine balance is fine and that the problem is claiming the credit for balance without doing the weighing. An operationalization of wise reasoning is not a defense of the imitation of it."
+    "quote": "neutrality is a definite judgment",
+    "content": "Tetlock's foxes did not decline to commit. His forecasters were scored on explicit probabilities, and the foxes won by combining many sources into calibrated numbers, which is the \"summing up of evidence\" the essay says the Wise refuse to do (Tetlock 2005, <em>Expert Political Judgment</em>, book, no DOI). A forecaster who answered every question with \"the evidence is balanced\" would have scored at chance and lost to hedgehogs and foxes alike. The later tournaments found that the best forecasters were the most granular, the ones who distinguished 60 percent from 65, not the most reticent (<a href=\"https://doi.org/10.1177/0956797614524255\">Mellers et al. 2014</a>). Calibrated commitment beats both confident error and studied neutrality."
   },
   {
     "id": 3,
     "side": "left",
+    "quote": "or just has a superior vantage point",
+    "content": "The essay separates the behaviors from the pose in the list that closes it: passing neutral judgment; declining to invest marginal resources; and \"pretending that either of the above is a mark of deep wisdom, maturity, and a superior vantage point.\" Grossmann's wise reasoners acknowledge uncertainty and weigh other perspectives in order to resolve conflicts better (<a href=\"https://doi.org/10.1073/pnas.1001715107\">Grossmann et al. 2010</a>). What they do is judge well, not refuse to judge. The essay also says \"There are cases where it is rational to suspend judgment.\" What it calls pretentious is presenting suspended judgment as a higher vantage point, and Grossmann's measures do not reward that."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If someone says that both pro-life and pro-choice sides have good points and that they really should try to compromise and respect each other more, they are not taking a position above the two standard sides in the abortion debate.",
+    "content": "The essay's claim here is not about evidence. It is that \"both sides have good points and should compromise\" is a definite position, \"every bit as particular\" as either side. Fable's reply grants the point: saying both sides have a point \"is a claim that both goods are real.\" A committed pro-lifer, for whom abortion is homicide, rejects that claim as firmly as any factual error. So the generalization from factual disputes to value disputes keeps the one feature that matters. In both kinds of dispute, neutrality is a position, not a vantage point above the sides."
+  },
+  {
+    "id": 5,
+    "side": "left",
     "quote": "Paolo Freire said",
-    "content": "The essay makes this objection itself, in the sentence the annotation quotes: it says the Freire position is \"just as attackable as propounding any particular side,\" which is the concession being demanded. It is quoted as an illustration of how the neutrality dispute has two sides that mirror each other, not as a premise. An essay whose thesis is that both \"I am neutral\" and \"neutrality is complicity\" are substantive positions requiring defense has not smuggled in the second as self-evident."
+    "content": "The first name is misspelled in the text and correct in the footnote, which is a proofreading error. The quotation is used for the case it fits, a conflict between the powerful and the powerless, with the playground bully as the illustration. It is not offered as a rule about every bystander to every conflict. A few paragraphs later the essay says neutrality is \"just as attackable as propounding any particular side.\" That is the opposite of treating Freire as self-evident: it treats neutrality as a claim that carries the same burden as any other."
   }
 ]

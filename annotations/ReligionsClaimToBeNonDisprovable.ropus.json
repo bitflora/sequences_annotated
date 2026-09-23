@@ -2,25 +2,43 @@
   {
     "id": 1,
     "side": "left",
-    "quote": "In not one single passage of the Old Testament will you find anyone talking about a transcendent wonder at the complexity of the universe.",
-    "content": "This is a real error, and it is the kind worth conceding cleanly: Psalm 8, Psalm 19, Psalm 104 and the voice from the whirlwind in Job 38–41 are a sustained register of wonder at the created order, and the sentence as written is false. What survives is the essay’s actual argument, which is that these texts also make many checkable claims about history and nature and were understood as doing so. The Wisdom literature’s wonder is not offered in place of factual assertion; Job’s speeches assert a cosmology, with storehouses of snow and foundations of the earth, that its author took to be how things are."
+    "quote": "Back in the old days, people actually believed their religions instead of just believing in them.",
+    "content": "Orthopraxy is anticipation. Romans performed their cult because they held that it worked: the pax deorum secured victory and harvest, and neglected rites were blamed for disaster. At Drepana in 249 BC the consul Publius Claudius Pulcher threw the sacred chickens overboard because they would not eat, and then lost the fleet. Romans took that as a lesson about the gods, and Cicero repeats it as one (<em>De Natura Deorum</em> II.7). Oracles, augury and haruspicy were consulted for predictions, and the predictions were acted on. Whatever mode the Greeks held their myths in, their religion made claims about what would happen if the rites were or were not performed, and that is the sense of \"believed\" the essay means."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "rabbits chewing their cud",
-    "content": "The biology does not support the defense. Cecotrophy is not rumination: the soft caecal pellets are taken directly and swallowed whole, without mastication and without regurgitation from a fore-stomach, which is what the Hebrew <em>ma‘aleh gerah</em>, \"brings up what is chewed,\" describes (Hirakawa 2001, \"Coprophagy in leporids,\" <em>Mammal Review</em> 31). Lagomorphs do move the jaw more or less continuously, which is where the impression comes from and which is why the example is a good one: a Bronze Age observer generalized from a surface resemblance and got the anatomy wrong. That is the essay’s point about the text’s epistemic standing, and it stands."
+    "quote": "In not one single passage of the Old Testament will you find anyone talking about a transcendent wonder at the complexity of the universe.",
+    "content": "Conceded: Psalm 8, Psalm 19, Psalm 104 and Job 38–41 express exactly the wonder the sentence says is absent, so the sentence is false. The larger thesis survives the correction, because the wonder in those passages is wonder at a God who did things: laid the earth's foundations, shut in the sea with doors, provides prey for the lions. Job 38 is a catalogue of claims about how the world was made and how it is run. The Wisdom literature is not a register of wonder detached from factual claims. It is wonder attached to them."
   },
   {
     "id": 3,
     "side": "left",
-    "quote": "The orthogonality of religion and factual questions is a recent and strictly Western concept.",
-    "content": "The allegorists cited did not hold anything like non-overlapping magisteria. Augustine insisted that scripture yield to demonstrated natural knowledge and also insisted that the resurrection, the creation of the soul and the miracles were literal historical fact; Maimonides argued the world’s eternity was undemonstrated and therefore that scripture ruled on it. Their principle is that scripture must be read in light of what is <em>proved</em>, which presupposes that scripture is making claims in the same domain and can lose there — the opposite of a separate magisterium. The doctrine that religion makes no factual claims at all, so that no evidence could bear on it, is the recent construction the essay names."
+    "quote": "rabbits chewing their cud",
+    "content": "The Talmud read the verse the way the essay does, as a claim that could be checked. Chullin 59a argues that the list of animals with only one of the two kosher signs proves the Torah divine, because no human legislator could have known there were no others. That is a factual prediction offered as evidence. Cecotrophy is also not rumination: a hare re-ingests soft pellets passed from its hindgut; it does not bring up cud from a stomach chamber (<a href=\"https://doi.org/10.1046/j.1365-2907.2001.00079.x\">Hirakawa 2001</a>). Whether a Bronze Age observer was describing real chewing is beside the essay's point, which is that scripture made taxonomic claims and its readers treated them as such."
   },
   {
     "id": 4,
     "side": "right",
+    "quote": "enforced religious tolerance",
+    "content": "Partly conceded: Rome suppressed cults it judged subversive, and \"enforced religious tolerance\" overstates its policy. The argument does not rest on the phrase. It rests on Rome having libraries, historians and bureaucratic records, so that the evangelists could not narrate the destruction of Rome without living readers contradicting them. Fable's own list of suppressions comes from those records. The Jewish communities from which the New Testament came lived under explicit imperial guarantees of their practice, recorded in the decrees Josephus preserves (<em>Antiquities</em> XIV.10), and that is the local sense in which tolerance was enforced."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "the New Testament doesn’t claim big, showy, large-scale geopolitical miracles as the Old Testament routinely did",
+    "content": "The examples bear out the essay's mechanism more than they refute it. The earthquake and the dead saints walking into Jerusalem appear in Matthew alone. Mark and Luke keep the darkness and the torn veil, and John has none of it, which is what one would expect if the more checkable a claim was, the less the other writers would carry it. The massacre at Bethlehem concerns a village of a few hundred people, the scale the essay calls \"smaller miracles.\" Revelation's fall of Babylon is prophecy, a claim about the future that no library could yet contradict. None of these is a geopolitical miracle on the scale of the Exodus, narrated as past history in a region with record-keepers."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "The orthogonality of religion and factual questions is a recent and strictly Western concept.",
+    "content": "Origen, Augustine, Maimonides and Averroes held the opposite of the separate-magisterium view. Each held that scripture makes claims about the world that must agree with demonstrated truth, because both come from one source, and that where the two seem to conflict, the reading must give way. That is the doctrine that religion and natural knowledge form one magisterium, reconciled by interpretation. Maimonides said he would read Genesis allegorically if Aristotle's eternity of the world were demonstrated, and he kept creation because it had not been (<em>Guide</em> II.25). That is religion making a factual claim and defending it on the evidence. None of them held that scripture's claims \"cannot be proven or disproven,\" which is the view the essay calls the Big Lie. Each affirmed the miracles of his scripture as historical events."
+  },
+  {
+    "id": 7,
+    "side": "left",
     "quote": "Ethics is what’s left.",
-    "content": "The essay is not asserting the secularization thesis; it is describing a rhetorical retreat within educated religious apologetics, and it says in the passage the annotation quotes that the majority of religious people on Earth do not accept the separate-magisteria view. That is not a self-contradiction, it is the distinction between what apologists say when pressed and what believers hold. Berger’s recantation concerned the prediction that modernization would erode religiosity worldwide; it did not concern the observation that where the argument is conducted in public, religions have progressively vacated the empirical claims they once defended, which is the trend the essay documents with the retreat from Genesis, from geocentrism and from a young Earth."
+    "content": "The next words are \"Or rather, people think ethics is what's left,\" and the essay goes on to argue that ethics is not immune either. It is describing where religion's defenders have retreated in educated Western discourse, not forecasting global religious affiliation. On that narrower claim, secularization in the essay's own world has held up. Even in the United States, long offered as the counterexample, attendance, belief and affiliation have declined cohort by cohort (<a href=\"https://doi.org/10.1086/684202\">Voas &amp; Chaves 2016</a>). There is no contradiction with the majority of religious people still holding factual beliefs. The essay calls the ethics-only view a Big Lie precisely because they do hold them."
   }
 ]

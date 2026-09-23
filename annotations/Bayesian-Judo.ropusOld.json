@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "starts talking about an emotional life that sounds like ours, that means your religion is wrong",
+    "content": "The test was run and it went the essay’s way, not the guest’s. The guest’s claim was that no machine could ever talk about an inner life, because souls cannot be manufactured; machines now do, and both his prediction and its antecedent have been overtaken. That everyone, on both sides, still declines to call the talk decisive is a fact about how hard the underlying question is, not a vindication of a position that said the behavior was impossible. Lay attribution of experience to these systems has risen sharply (Colombatto &amp; Fleming 2024, <em>Neuroscience of Consciousness</em>), which is what you would expect if the operationalization the guest was offered had bite."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If two people disagree with each other, at least one of them must be doing something wrong.",
+    "content": "The line quoted is not Aumann’s theorem; it is a claim about maps and territory. If two people hold different beliefs about a single matter of fact, at most one of those maps matches the territory, so at least one of them has a map that is wrong — which is all \"doing something wrong\" means here, and which holds whatever their priors were. The theorem is invoked for the narrower point that honest Bayesians who share their reasoning cannot <em>knowingly</em> settle into stable disagreement, and the common-prior assumption is defensible on the grounds that priors are themselves posteriors from prior evidence. Merging-of-opinions results make the same point without the assumption: agents whose priors are mutually absolutely continuous converge almost surely as evidence accumulates (<a href=\"https://doi.org/10.1214/aoms/1177704456\">Blackwell &amp; Dubins 1962</a>)."
+  }
+]

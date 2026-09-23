@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/Whats-A-Bias-Again.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Whats-A-Bias-Again.ropusOld.json",
+    "default": false
   }
 ]

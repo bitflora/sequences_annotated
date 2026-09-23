@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/Pretending-To-Be-Wise.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Pretending-To-Be-Wise.ropusOld.json",
+    "default": false
   }
 ]

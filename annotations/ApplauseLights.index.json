@@ -19,5 +19,12 @@
     "code": "RA",
     "file": "annotations/ApplauseLights.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/ApplauseLights.ropusOld.json",
+    "default": false
   }
 ]

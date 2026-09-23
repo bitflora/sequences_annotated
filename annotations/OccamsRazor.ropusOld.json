@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Then there’s only a constant complexity penalty to design your own universal Turing machine",
+    "content": "The constant is unbounded but it is a <em>constant</em>: it does not grow with the data, so for any two hypotheses the machine-choice advantage is overwhelmed by enough observation, and the resulting predictor’s total expected error is bounded independently of the environment. That is what makes Solomonoff induction a theorem rather than a convention. Leike and Hutter’s bad priors are adversarial constructions in which the reference machine encodes the deception in advance; they show the guarantee is asymptotic rather than uniform, which is a known limitation of a result nobody claimed was uniform. Sterkenburg’s circularity objection applies to the ambition of a fully language-independent simplicity, and the essay’s claim is the weaker and true one, that simplicity is well defined once you fix any reasonable machine and that reasonable machines agree up to a small additive term."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s enormously easier (as it turns out) to write a computer program that simulates Maxwell’s equations, compared to a computer program that simulates an intelligent emotional mind like Thor.",
+    "content": "This is the essay’s calculus applied correctly, and it comes out the essay’s way. A transformer’s weights are a compression of the observed corpus, so on the Minimum Message Length accounting they are paid for by the data they encode — that is what it means for a model to compress. The Thor hypothesis has no such ledger: the specification of a mind with motives is not recovered from the lightning it is invoked to explain, and no amount of thunderstorm data shortens it. Maxwell plus boundary conditions is expensive per storm and cheap per theory, which is why it generalizes to the next storm and Thor does not."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The complexity of anger, and indeed the complexity of intelligence, was glossed over by the humans who hypothesized Thor the thunder-agent.",
+    "content": "This is the essay’s thesis restated as an objection. That agency hypotheses are cheap relative to a human brain’s existing machinery is exactly why humans over-apply them, and it is a fact about the availability of the hypothesis, not about its probability — which is the distinction the whole sequence exists to draw. The reference machine cannot be the hearer’s cortex, because then any hypothesis a species finds intuitive would thereby be probable, and the Norse and the Greeks would both be right about incompatible pantheons. Occam’s Razor is a claim about the world’s prior, not about the mind’s."
+  }
+]

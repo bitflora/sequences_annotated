@@ -2,19 +2,25 @@
   {
     "id": 1,
     "side": "left",
-    "quote": "Wöhler’s later synthesis of urea",
-    "content": "The chronology is wrong in the essay and worth fixing: Wöhler’s synthesis is 1828, decades before the Kelvin passage, and the historians are right that it did not kill vitalism by itself. What the correction leaves standing is the essay’s use of the case, which is not that one experiment refuted a doctrine but that the doctrine’s adherents kept the mystery after the mystery had begun dissolving. Ramberg’s revisionism is about the myth of a single decisive blow; it is not a defense of vitalism, which lost, slowly, to exactly the accumulation of mechanism the essay describes."
+    "quote": "Lord Kelvin sure did get a tremendous emotional kick out of not knowing something.",
+    "content": "Kelvin's vital principle was not a claim about energy balance. The passage says living creatures can direct \"the motions of moving particles,\" and direction is exactly what an energy audit cannot detect: redirecting a particle need not change the energy of the system. Kelvin, one of the founders of thermodynamics, did not dispute the conservation of energy in living bodies. Atwater and Benedict's calorimeters confirmed a law Kelvin had helped establish and left his vital principle untouched. The part of the passage that could not be tested is the part the essay quotes, that life's influence is \"infinitely beyond the range of any scientific inquiry,\" and that is the cherished ignorance the essay reads there."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "Second, the hypothesis has no moving parts",
-    "content": "The four signs are conjunctive symptoms, and the gene fails the others decisively. Mendel’s factors had internal structure that generated quantitative predictions — 3:1 and 9:3:3:1 ratios, independent assortment, and then linkage and recombination frequencies that mapped to physical distance — which is precisely what \"moving parts\" means in the essay: the hypothesis has interior machinery whose operation constrains what you will see. Caloric gave Carnot a cycle; the neutrino was assigned a spin, a mass bound and a cross-section, and was hunted with those numbers. The sign flags an explanation whose only content is the name of the thing to be explained, and none of the successful posits listed had that property for a day."
+    "quote": "Wöhler’s later synthesis of urea",
+    "content": "\"Later\" is relative to the vitalism the paragraph describes, not to Kelvin's 1903 remarks. Grant Ramberg's history, that the synthesis was not taken as decisive and that vitalism declined slowly under a mass of results (<a href=\"https://doi.org/10.1179/amb.2000.47.3.170\">Ramberg 2000</a>). That is the essay's charge: the vitalists were \"loath to relinquish their ignorance when evidence came knocking.\" The doctrine survived seventy-five years of chemists synthesizing organic products and was still being quoted approvingly by the most eminent physicist of the age. That is the reluctance, measured."
   },
   {
     "id": 3,
     "side": "left",
+    "quote": "Second, the hypothesis has no moving parts",
+    "content": "The essay's signs are four and must hold together, and the gene fails three of them. Mendel's factor controlled anticipation from the start, predicting 3:1 and 9:3:3:1 ratios before the crosses were made. Geneticists hunted for its material basis: Muller called the nature of the gene the central problem of biology in 1922. And the explanation left inheritance far less mysterious than it had been. The neutrino came with spin, charge, a continuous energy spectrum for beta decay and Fermi's quantitative theory, and physicists searched for it until they found it. Caloric predicted Carnot's efficiency limit. \"No moving parts\" is one sign of four. A hidden carrier with predictive consequences, searched for rather than revered, is the successful move, and the essay's criteria leave it alone."
+  },
+  {
+    "id": 4,
+    "side": "right",
     "quote": "In a comedy written by Moliére",
-    "content": "The essay does not claim dispositional explanations are always vacuous; the sequence uses them approvingly elsewhere, and \"the drug is sedative\" is a fine thing to say when it summarizes a tested regularity. Molière’s doctor is not summarizing a regularity — he is answering the question \"why does opium cause sleep?\" with a Latinized restatement of \"opium causes sleep,\" offered as though the mechanism had been supplied. That is the move the essay names, and the joke works in 1673 for the same reason it works now. The accent on Molière should be fixed."
+    "content": "Molière it is. The joke works because the physician is asked why opium causes sleep and answers that opium has a power to cause sleep. That the cause lies in the opium was the premise of the question, not the content of the answer. Dispositional terms are useful labels, and medicine uses \"sedative\" as a label, not as an explanation of sedation; the pharmacologist's explanation is the receptor. Molière's physicians dressed up a restatement as a cause, which is the move the essay calls a mysterious answer. The joke has lasted three centuries because it identified something real."
   }
 ]

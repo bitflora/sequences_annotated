@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/What-Do-I-Mean-By-Rationality.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/What-Do-I-Mean-By-Rationality.ropusOld.json",
+    "default": false
   }
 ]

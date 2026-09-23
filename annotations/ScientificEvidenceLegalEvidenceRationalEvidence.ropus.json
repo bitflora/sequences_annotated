@@ -3,18 +3,24 @@
     "id": 1,
     "side": "left",
     "quote": "No, because there is no experiment you can perform yourself to verify it.",
-    "content": "Light deflection is repeatable and has been repeated: subsequent eclipses, and then radio interferometry, measured it to a precision four orders of magnitude better than 1919, and the same is true of the historical sciences generally — Chicxulub’s iridium layer can be sampled again by anyone with a drill. The essay’s criterion is reproducibility in principle, which convergent trace evidence satisfies, and Cleland’s argument is that historical science meets a different but equally rigorous standard, not that it fails this one. The line the essay draws is between claims the public pool has checked and claims it has not, and geology is on the checked side."
+    "content": "The essay puts historical knowledge outside \"scientific knowledge\" as a label, and in the same paragraph it says a rationalist is licensed to believe it. It calls the label \"pragmatic\" and denies that \"Is it really science?\" is even a well-formed question. So Cleland's argument that the historical sciences are not epistemically inferior (<a href=\"https://doi.org/10.1086/342455\">Cleland 2002</a>) is the essay's own position. As for 1919, the eclipse tested a generalization, that the Sun's field bends light. That generalization was retested at later eclipses and then by radio interferometry, to a precision the plates never approached (<a href=\"https://doi.org/10.12942/lrr-2014-4\">Will 2014</a>). The repeatability is what the essay's definition asks for."
   },
   {
     "id": 2,
     "side": "right",
     "quote": "Science is the publicly reproducible knowledge of humankind.",
-    "content": "The replication crisis is the essay’s criterion being enforced, not refuted. Reproducibility is what the standard demands, checking is how the failures were found, and the reform that followed — preregistration, direct replication, open data — is the community deciding to actually do what the definition already required. That trust in testimony carries most of the load day to day is compatible with the pool being defined by what could be checked; the point of the definition is to say which claims are <em>eligible</em> for that trust. An essay written in 2007 whose standard predicts that unreproduced results should not have been trusted looks better after 2015, not worse."
+    "content": "The replication crisis is the definition being enforced. The Open Science Collaboration's hundred replications applied science's reproducibility requirement, late, and the findings that failed were removed from the protected pool by the procedure the essay names (<a href=\"https://doi.org/10.1126/science.aac4716\">Open Science Collaboration 2015</a>). Plutarch cannot be checked that way even in principle; a psychology finding can be, and was. That the checking came decades late is an indictment of practice. The essay's definition is what made the indictment possible."
   },
   {
     "id": 3,
     "side": "left",
     "quote": "why bother to run the experiment?",
-    "content": "These are not in tension, and the essay’s title is the distinction: scientific evidence is what the public pool has verified, rational evidence is what an individual’s state of information licenses. A theorist may be personally at 0.99 while the claim has no standing in the shared pool, and the essay’s \"dangerous\" is about mistaking the second for the first. The answer to \"why bother to run the experiment\" is given in the essay itself — because the pool needs the check, and because your 0.99 is not everyone’s — and the value-of-information argument is an additional reason, not a correction."
+    "content": "The two essays use different terms. This one separates \"scientific belief,\" a status in the public pool, from rational credence, and says only that an untested prediction is \"theory Q's prediction\" rather than scientific knowledge. Einstein's Arrogance is about rational credence: a theorist can be justifiably confident of an outcome while the result still waits to enter the pool. The experiment is worth running because confidence short of certainty leaves value in the information (<a href=\"https://doi.org/10.1093/bjps/17.4.319\">Good 1967</a>), and because the public pool admits results, not theorists' confidence. The sequence holds both views because they are compatible."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "only open knowledge counts as the public, reproducible knowledge pool of humankind",
+    "content": "The essay's reason for openness is that results must be open to criticism: \"Can we trust a result if people must pay to criticize it?\" The decade that followed answered the question. Open papers and open data are what post-publication critics needed: the image-duplication audits, the forensic analyses that exposed fabricated datasets and journals' reproducibility checks all depended on access to the papers and, even more, to the data. Predatory journals are a failure of the pay-to-publish business model, not of free reading, and they could have thrived under subscription too. The distribution problem and the epistemic problem meet exactly where the essay joined them: a result that no outsider can read or check is not in the public pool."
   }
 ]

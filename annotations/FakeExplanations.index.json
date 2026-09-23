@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/FakeExplanations.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/FakeExplanations.ropusOld.json",
+    "default": false
   }
 ]

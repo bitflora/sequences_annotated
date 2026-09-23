@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Despite feedback through a thousand trials, subjects cannot bring themselves to believe that the situation is one in which they cannot predict.",
+    "content": "Shanks and colleagues report that convergence toward maximizing requires substantial payoffs, unambiguous feedback and several hundred trials, and that a substantial minority never converges — which is the essay’s claim, that people persist in seeking pattern where there is none for far longer than the evidence warrants. Gaissmaier and Schooler’s matchers are the subjects who search for sequential structure, and in a genuinely random environment that search costs them; that the same disposition pays when the experimenter has hidden a pattern is a fact about which environment you are in, and the essay’s subject is the environment where you have been told there is none. Being right in a different experiment is not being right in this one."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Decision theory does not burst into flames and die when faced with an opponent who disobeys decision theory.",
+    "content": "Every case listed is one in which randomization substitutes for information the agent does not have, and none is a case where noise improves an estimate. A mixed strategy is the correct <em>deterministic</em> policy over actions when your opponent models you; randomized algorithms trade certainty for expected running time and are conjectured to be derandomizable; randomization in trials creates independence for the inference, it does not make any single assignment better. The essay’s claim is the information-theoretic one — a random input carries no information about the target, so it cannot on its own move you toward it — and that claim is untouched by cases where the randomness is buying unpredictability rather than knowledge."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "How many theories of AI?",
+    "content": "Stochastic gradient descent, dropout and sampled decoding are noise used as regularization and exploration, which is to say they are ways of not committing to an estimate you have not earned — and each is tuned <em>down</em> as information accumulates: learning rates decay, dropout is disabled at inference, temperature is lowered when accuracy matters. That is the essay’s principle implemented, not refuted. The claim under dispute is that adding entropy to your output substitutes for understanding, which is what the essay denies and what no optimizer does."
+  }
+]

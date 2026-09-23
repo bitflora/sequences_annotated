@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/ExpectingShortInferentialDistances.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/ExpectingShortInferentialDistances.ropusOld.json",
+    "default": false
   }
 ]

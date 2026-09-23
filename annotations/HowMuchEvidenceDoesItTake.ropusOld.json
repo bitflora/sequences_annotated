@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "On average, 131 losing tickets will pass such a test for every winner.",
+    "content": "The arithmetic slip is real: twenty bits of filter against 131,115,984 losing tickets leaves 125, not 131. It is worth noting that the error is in the direction of understating the essay’s case, and that every other number in the piece — the binomial coefficient, the 27 bits needed to locate the winner, the 34 bits for a one-percent error rate — checks out. The framework itself is Turing and Good’s, and the essay reproduces it correctly. This is a proofreading failure in a passage whose point is that you cannot get more certainty out than you put evidence in."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Suppose you can use another black box to test combinations twice, independently.",
+    "content": "The essay states the condition in the sentence quoted. \"Independently\" is the stipulation of the thought experiment, and the multiplication is licensed by it; the Sally Clark disaster was a witness asserting independence that did not hold, which is a violation of the stated condition rather than an artifact of teaching it. The sequence returns to the point repeatedly afterward — the essays on correlated evidence, on argument screening off authority, and on double-counting in causal networks are all about exactly this — so the reader who leaves with \"just multiply\" has stopped reading at the second essay of a four-book treatment."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The larger the space of possibilities in which the hypothesis lies",
+    "content": "The reference-class problem is a reason the answer depends on your prior, which is what the essay says. Its claim is a conditional one — given a prior that spreads probability over N possibilities, you need log2(N) bits to single one out — and that conditional is invariant under every choice of partition; what changes is N, not the exchange rate. This is why the sequence spends the next essay on Occam’s Razor, which is precisely the attempt to say which prior a rational agent should start from. Noting that a theorem has inputs is not an objection to the theorem."
+  }
+]

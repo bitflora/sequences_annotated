@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/A-Fable-Of-Science-And-Politics.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/A-Fable-Of-Science-And-Politics.ropusOld.json",
+    "default": false
   }
 ]

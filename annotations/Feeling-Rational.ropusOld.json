@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "our emotions arise from our models of reality",
+    "content": "Bidirectional causation is an argument for the essay’s thesis, not against it. If a belief was produced by hunger or weather rather than by evidence, that belief is inaccurate, and the emotion resting on it is by the essay’s own criterion irrational — which is the diagnosis the annotation says the criterion cannot make. The evidential base offered for the reverse arrow is also weaker than presented: Schachter and Singer’s misattribution study is among the most famous non-replications in social psychology, with the key emotion-transfer effects failing in direct replications (<a href=\"https://doi.org/10.1037/0022-3514.37.6.970\">Marshall &amp; Zimbardo 1979</a>; <a href=\"https://doi.org/10.1037/0022-3514.37.6.953\">Maslach 1979</a>). Johnson and Tversky’s mood effect is real and is a bias to be corrected, which is the book’s subject."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "That which the truth nourishes should thrive.",
+    "content": "Depressive realism is one of the weakest findings invoked against the maxim. The meta-analysis reports an overall effect near zero once judgment domain and design are controlled, with the pattern confined to specific contingency-estimation tasks (<a href=\"https://doi.org/10.1016/j.cpr.2012.05.004\">Moore &amp; Fresco 2012</a>), and the Taylor–Brown thesis that illusion is characteristic of mental health has been challenged on measurement grounds, with the \"illusion\" indices largely tracking narcissism and defensiveness (<a href=\"https://doi.org/10.1037/0033-2909.116.1.3\">Colvin &amp; Block 1994</a>). Even granting the effect, it concerns beliefs about the self, and it establishes at most that one narrow class of false belief has a local benefit. The maxim is a claim about what happens when truth is available, not a claim that no comforting falsehood ever pays."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Since the days of Socrates at least, and probably long before, the way to appear cultured and sophisticated has been to never let anyone see you care strongly about anything.",
+    "content": "Plato is the counterexample to the counterexample. <em>Republic</em> X banishes the tragic poets precisely because they nourish the emotional part of the soul at reason’s expense, and in the <em>Phaedo</em> Socrates rebukes his weeping friends and sends Xanthippe away so that the death can be conducted with composure. Stoic <em>apatheia</em>, on which the sage is undisturbed by passion, became the dominant elite ideal of the Hellenistic and Roman world. The sentimental traditions listed here are real and later; the essay’s claim is that the pose of unmoved sophistication has been prestigious since Socrates, and Socrates’ own student wrote the founding text of it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "My sadness on waking is rational; there is no truth which destroys it.",
+    "content": "The essay offers a sufficient condition, not a definition, and the listed cases are not counterexamples to a sufficient condition. Grief for a fictional character is standardly explained without any false belief, by imaginative participation in a represented situation (Walton 1978, \"Fearing Fictions,\" <em>Journal of Philosophy</em>, no DOI), so it is not an emotion resting on an error either. The phobic who knows the spider is harmless is the essay’s own paradigm of an emotion that a truth <em>should</em> destroy and does not, which is why the essay says the test is whether a truth destroys it, not whether one has been told the truth. A criterion that classifies some emotions as rational, some as irrational, and leaves moods unclassified is doing the work it was introduced to do."
+  }
+]

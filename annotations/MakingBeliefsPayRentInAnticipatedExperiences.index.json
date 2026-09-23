@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/MakingBeliefsPayRentInAnticipatedExperiences.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/MakingBeliefsPayRentInAnticipatedExperiences.ropusOld.json",
+    "default": false
   }
 ]

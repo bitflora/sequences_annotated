@@ -19,5 +19,12 @@
     "code": "RA",
     "file": "annotations/TrulyPartOfYou.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/TrulyPartOfYou.ropusOld.json",
+    "default": false
   }
 ]

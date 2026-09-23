@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/IllusionOfTransparencyWhyNoOneUnderstandsYou.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/IllusionOfTransparencyWhyNoOneUnderstandsYou.ropusOld.json",
+    "default": false
   }
 ]

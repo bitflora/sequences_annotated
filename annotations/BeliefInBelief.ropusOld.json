@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The claimant must have an accurate model of the situation somewhere in their mind, because they can anticipate, in advance, exactly which experimental results they’ll need to excuse.",
+    "content": "A generator of excuses that reliably produces the <em>right</em> excuse requires a model of which tests would fail, which is the essay’s claim, not a rival to it. Kunda’s account says the same: motivated reasoning is constrained by an \"illusion of objectivity,\" so the reasoner must track what would actually be checkable in order to construct a rationalization that survives, and the search is directed by an implicit representation of the outcome. Notice also that the dragon-claimant excuses each test <em>before</em> it is run, not after it fails — flour is refused in advance. Anticipating which experiments to head off is anticipation."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Some philosophers have been much confused by such scenarios",
+    "content": "The essay credits Dennett by name for \"belief in belief\" in its opening line, so it is not claiming to have found something the field missed; the mocked position is that a person cannot hold two inconsistent representations at once, which is a real position and not Sperber’s. Sperber’s reflective beliefs, Gendler’s alief and Van Leeuwen’s religious credence are convergent formulations, and their existence is evidence that the distinction is real. A sequence written for general readers that arrives independently at a distinction three philosophers had drawn is doing better than one that misses it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "not unless they are unusually capable of acknowledging their own lack of virtue",
+    "content": "Luhrmann’s evangelicals are the essay’s thesis, stated by the subjects themselves. A cultivated, chosen, worked-at \"as if\" faith undertaken because it is good to have is belief in belief with the introspective report attached, and Mark 9:24 and Pascal’s wager are the doctrine of it. The essay predicts that people will find this configuration hard to <em>admit</em>, and the annotation’s reply is a list of the people who admit it — which the essay’s own clause allows for. A hypothesis that says \"most will not report X, some will\" is not immunized by the existence of the some."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "the dragon-claimant anticipates as if there is no dragon in their garage, and makes excuses as if they believed in the belief",
+    "content": "Coexistence of natural and supernatural explanation is not what the essay calls pathological, and Legare’s finding is one the sequence assumes throughout. What the essay diagnoses is the specific configuration where a person’s <em>anticipations</em> are all governed by one model while their assertions are governed by another, and the gap is maintained by excuses generated on demand. Legare’s subjects switch by context without excuse-making; the dragon-claimant cannot switch, because the garage is one context and he needs both answers in it. The taxonomy distinguishes these, which is why it has more than one category."
+  }
+]

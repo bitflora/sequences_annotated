@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "No, because there is no experiment you can perform yourself to verify it.",
+    "content": "Light deflection is repeatable and has been repeated: subsequent eclipses, and then radio interferometry, measured it to a precision four orders of magnitude better than 1919, and the same is true of the historical sciences generally — Chicxulub’s iridium layer can be sampled again by anyone with a drill. The essay’s criterion is reproducibility in principle, which convergent trace evidence satisfies, and Cleland’s argument is that historical science meets a different but equally rigorous standard, not that it fails this one. The line the essay draws is between claims the public pool has checked and claims it has not, and geology is on the checked side."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Science is the publicly reproducible knowledge of humankind.",
+    "content": "The replication crisis is the essay’s criterion being enforced, not refuted. Reproducibility is what the standard demands, checking is how the failures were found, and the reform that followed — preregistration, direct replication, open data — is the community deciding to actually do what the definition already required. That trust in testimony carries most of the load day to day is compatible with the pool being defined by what could be checked; the point of the definition is to say which claims are <em>eligible</em> for that trust. An essay written in 2007 whose standard predicts that unreproduced results should not have been trusted looks better after 2015, not worse."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "why bother to run the experiment?",
+    "content": "These are not in tension, and the essay’s title is the distinction: scientific evidence is what the public pool has verified, rational evidence is what an individual’s state of information licenses. A theorist may be personally at 0.99 while the claim has no standing in the shared pool, and the essay’s \"dangerous\" is about mistaking the second for the first. The answer to \"why bother to run the experiment\" is given in the essay itself — because the pool needs the check, and because your 0.99 is not everyone’s — and the value-of-information argument is an additional reason, not a correction."
+  }
+]

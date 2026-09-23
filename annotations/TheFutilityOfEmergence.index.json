@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/TheFutilityOfEmergence.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/TheFutilityOfEmergence.ropusOld.json",
+    "default": false
   }
 ]

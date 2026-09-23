@@ -19,5 +19,12 @@
     "code": "RA",
     "file": "annotations/ProfessingAndCheering.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/ProfessingAndCheering.ropusOld.json",
+    "default": false
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Could I regenerate this knowledge if it were somehow deleted from my mind?",
+    "content": "The essay proposes an exercise, not a criterion for knowledge, and the exercise targets structures rather than facts. Nobody is asked to regenerate the date of Hastings; the question is whether you could rederive the <em>inferential</em> content — why entropy increases, why natural selection produces adaptation — because those are the beliefs that can rot into passwords while still being repeated correctly. Testimony is evidence and the sequence says so; what testimony cannot supply is the connection to the rest of your model, and the test is a way of checking whether the connection is there. Einstein did learn Riemannian geometry from Grossmann, and then rederived the field equations, which is the distinction the essay is drawing."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "then you do not have any beliefs about beavers, true or false",
+    "content": "Kripke and Putnam secure <em>reference</em>, which the essay is not disputing; the claim at issue is about content, and about what work the belief does. A child told beavers are white desert giants can be corrected because her word refers, and she also has no beaver-knowledge — both are true, and only the second is the essay’s subject. The Wittgenstein image is used for the idea of a component that turns without engaging anything, which is a general point in the <em>Investigations</em> about the emptiness of a mechanism with no connections, and it is apt here whatever its original target. The essay’s thesis is that a belief which cannot be regenerated is often one that was never connected, which is a claim about inference, not about reference."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If all proofs of the Pythagorean Theorem were deleted from my mind, could I re-prove it? I think so.",
+    "content": "\"I think so\" is offered about the Pythagorean theorem, where the reader can check the claim in five minutes with a sheet of paper, which is why the essay picked it. And the essay’s instruction is to actually attempt the regeneration, not to estimate whether you could — the whole exercise is \"close the book and derive it,\" which is the technique the illusion-of-explanatory-depth studies use as their <em>measurement</em> and which reliably deflates false confidence (<a href=\"https://doi.org/10.1207/s15516709cog2605_1\">Rozenblit &amp; Keil 2002</a>). A test that consists of doing the thing is not a test that consists of asking yourself whether you could."
+  }
+]

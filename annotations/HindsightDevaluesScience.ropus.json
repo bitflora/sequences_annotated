@@ -2,19 +2,25 @@
   {
     "id": 1,
     "side": "left",
-    "quote": "assign much higher probabilities they “would have” guessed for that answer",
-    "content": "Guilbault’s mean is pooled across designs that measure very different things, and the memoric designs — where subjects misremember their own prior estimates — show substantially larger shifts than the hypothetical ones the meta-analysis also includes. The comprehensive review a decade later characterizes hindsight bias as robust across domains, ages, cultures and expert populations, with three dissociable components each independently demonstrated (<a href=\"https://doi.org/10.1177/1745691612454303\">Roese &amp; Vohs 2012</a>). The essay’s claim is qualitative — that findings feel more predictable after the fact than before — and the direction is not in dispute anywhere in the literature. An effect that survived the replication decade intact is a strange one to fault an essay for relying on."
+    "quote": "closely based on an excerpt from Meyers’s",
+    "content": "The name is misspelled and should be Myers. The demonstration's content has independent experimental support: people told a study's result judge it far more predictable than people who must predict it, which Slovic and Fischhoff measured directly using descriptions of real experiments (<a href=\"https://doi.org/10.1037/0096-1523.3.4.544\">Slovic &amp; Fischhoff 1977</a>). Baratz's dissertation is one instance of a design that has been run many times. The Lazarsfeld reversal is a teaching device, and the essay uses it as one, asking readers to run the experiment on themselves."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "We need to make a conscious effort to be shocked enough.",
-    "content": "These are two different pieces of advice about two different moments and both are right. Before the result is known, expect a surprising social-science finding to fail replication; that is a prior. After the result is known, do not tell yourself you would have predicted it; that is hindsight, and it is what the essay is about. Conflating them yields the position that one should be unsurprised by findings one could not have predicted, which is the exact error the essay names. The replication data support the essay here: it is the results that people <em>felt</em> they already knew — the ones that seemed obvious in retrospect — that were waved through without scrutiny."
+    "quote": "assign much higher probabilities they “would have” guessed for that answer",
+    "content": "The mean effect in the meta-analysis averages across designs and tasks, many of them almanac questions with nothing at stake (<a href=\"https://doi.org/10.1080/01973533.2004.9646399\">Guilbault et al. 2004</a>). Where the institutional stakes the essay worries about are real, the effect is large. In a mock negligence case, about a quarter of the jurors asked in foresight judged a flood precaution necessary. More than half of those told that the flood had happened found the city negligent for not taking it (<a href=\"https://doi.org/10.1007/BF01499075\">Kamin &amp; Rachlinski 1995</a>). Averages hide where the bias does its damage."
   },
   {
     "id": 3,
     "side": "left",
+    "quote": "We need to make a conscious effort to be shocked enough.",
+    "content": "Being shocked enough is how the prediction markets win. Traders who expected surprising findings to fail were giving them the low prior their surprisingness warranted (<a href=\"https://doi.org/10.1038/s41562-018-0399-z\">Camerer et al. 2018</a>). Hindsight bias is the force that makes a surprising result feel obvious once it is reported, and so strips away that low prior. The essay's worry is that readers will fail \"to notice when you are seeing evidence that doesn't fit what you really would have expected.\" Noticing is the first step toward demanding more evidence, and \"expect it to be false\" is where a properly shocked reader ends up."
+  },
+  {
+    "id": 4,
+    "side": "right",
     "quote": "Do your thought processes at this point, where you really don’t know the answer, feel different",
-    "content": "The essay’s method is not introspection about the causes of a judgment; it is a procedure — commit to a prediction before you see the answer, then check. That is why the essay presents the reversed findings first and asks the reader to notice how each felt obvious. Fischhoff’s null results concern warnings without a task; the technique with support, structured generation of reasons the opposite outcome could have occurred, is a conscious effort of the kind the essay recommends and is now known to work well enough to persist for months when trained (<a href=\"https://doi.org/10.1177/2372732215600886\">Morewedge et al. 2015</a>). \"Make a conscious effort to be shocked enough\" is an instruction to run the check, not to introspect."
+    "content": "The essay's method is the one the note endorses. It asks readers to commit to predictions for five findings, reveals that they were reversed, and then says \"Unless, of course, I reversed the results again. What do you think?\", asking readers to compare how reasoning toward each side feels. That is structured consideration of the opposite outcome, the technique Arkes and colleagues found reduces hindsight bias (<a href=\"https://doi.org/10.1037/0021-9010.73.2.305\">Arkes et al. 1988</a>), delivered as an exercise rather than a warning. Fischhoff's finding that instructions alone fail is why the essay does not stop at instructions."
   }
 ]

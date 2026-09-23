@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Since the reversal sounds abnormal, the unreversed statement is probably normal, implying it does not convey new information.",
+    "content": "The counterexample fails on the test’s own terms. A government that has been torturing prisoners is one for which \"we will torture prisoners\" is entirely conceivable as a policy, so the reversal is <em>not</em> abnormal, and the test correctly classifies the statement as informative — which is why it is worth saying. That is the whole content of the heuristic: reverse it, and if the reverse is a live option, the statement selected among live options. The essay states the speech-act qualification in the paragraph after introducing the test, and the name collision with Bostrom and Ord’s reversal test is a collision of names, not of tools."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I think it means that you have said the word “democracy,” so the audience is supposed to cheer.",
+    "content": "The essay does not claim to have discovered the phenomenon; it names a specific mechanism, which is that the sentence is predictable given the audience and therefore carries no information in Shannon’s sense. That is a sharper claim than \"glittering generalities,\" and it comes with a procedure — attempt the reversal, count the bits — that the 1937 catalogue does not supply. And the closing observation the annotation offers as a correction is the essay’s own: it says applause lights are for coordination and group identification, and that this is a real function. The essay’s complaint is that the speaker believed he had answered a question about AI governance."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Lest you think this a trivial ability, remember how rare it is in the animal kingdom.",
+    "content": "The annotation’s last two sentences are the essay’s claim. Rat uncertainty-monitoring is contested, with associative accounts that require no metacognitive representation still on the table, but nothing in the essay turns on whether some animals track reliability implicitly; the ability at issue is the explicit theory — \"my visual system is subject to a known illusion\" — which is what makes the correction transmissible, teachable and improvable. That the percept is impenetrable is why the essay speaks of a reflective correction applied to the <em>belief</em> rather than a repair of the sensor. Knowing you cannot trust the picture is the whole of what the lens is being credited with."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "then you can apply a reflective correction",
+    "content": "Debiasing research has moved since 2009 and now includes interventions that work and persist. A single hour of training — an interactive game or an instructional video — produced reductions of roughly nineteen to thirty percent in confirmation bias, anchoring and fundamental attribution error, still present at a two-month follow-up (<a href=\"https://doi.org/10.1177/2372732215600886\">Morewedge et al. 2015</a>), and a later study found transfer to a consequential field decision months afterward (<a href=\"https://doi.org/10.1177/0956797619861429\">Sellier, Scopelliti &amp; Morewedge 2019</a>). The techniques that work — consider the opposite, structured reason generation, format change — are techniques a person applies to himself after learning that he is biased, which is what \"reflective correction\" names. The bias blind spot shows that people underrate their own susceptibility, not that instruction cannot reduce it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Pondering this business of “performing replicable experiments to falsify theories,” we can see why it works.",
+    "content": "Falsification is not abandoned later in the book; it is derived. In the Bayesian treatment a refuted prediction is the limiting case where the likelihood is zero and the posterior collapses, and the sequence’s complaint about Traditional Rationality is that it stops there and has nothing to say about the far more common case of evidence that is merely unfavorable. Lakatos’s point that theories are protected by auxiliary hypotheses is also handled quantitatively rather than rejected: Bayesian updating distributes the loss of probability across the members of a refuted conjunction in proportion to their priors and likelihoods, which is the standard resolution of the Duhem–Quine problem (<a href=\"https://doi.org/10.1093/bjps/52.3.515\">Strevens 2001</a>). A refinement that contains its predecessor as a special case is not a contradiction of it."
+  }
+]

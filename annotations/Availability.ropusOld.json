@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Men on flood plains appear to be very much prisoners of their experience",
+    "content": "The misattribution is real and worth correcting: the sentence is Kates’s, and the 1993 paper is about insurers. It bears on the citation and not on the finding. That experienced floods bound imagined ones is confirmed by the later work the next annotation cites, and the essay’s conclusion — that unexperienced events are underweighted rather than merely discounted — has independent support in the decisions-from-experience literature, where rare events are systematically underweighted when probabilities are learned by sampling rather than described (<a href=\"https://doi.org/10.1111/j.0956-7976.2004.00715.x\">Hertwig, Barron, Weber &amp; Erev 2004</a>). A bad citation trail for a true sentence is an error of scholarship, not of psychology."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "events that have never happened are not recalled, and hence deemed to have probability zero",
+    "content": "Gallagher’s paper is evidence for the essay, not against it. Its headline finding is that take-up spikes after a flood and then <em>decays over roughly a decade</em>, which is availability decaying with memory; the paper models it as Bayesian learning with forgetting, and forgetting is the mechanism the essay names. The spillover to neighboring unflooded communities is likewise availability, since those residents experienced no flood and updated anyway. \"Probability zero\" is the essay’s compression of a limiting case it explicitly attributes to Kunreuther’s subjects; the price and subsidy effects are real and are additive to it, not alternatives."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "damage per flood is afterward so much greater that average yearly damage increases",
+    "content": "This is the safe-development paradox, and it is the mainstream position in hazards research rather than an overreach. Structural protection lowers perceived risk, induces intensive development behind the works, and thereby raises the losses when the design flood is exceeded; the literature traces it to White’s 1945 dissertation and treats it as a first-order explanation of rising catastrophic flood losses in the United States (<a href=\"https://doi.org/10.1177/0002716205284676\">Burby 2006</a>). Normalizing damage by floodplain wealth cannot refute it, because the induced wealth in the floodplain is the effect being claimed. That the mechanism runs partly through incentives and subsidized relief is compatible with, and was argued alongside, the perception effect."
+  }
+]

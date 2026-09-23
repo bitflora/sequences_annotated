@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/ReligionsClaimToBeNonDisprovable.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/ReligionsClaimToBeNonDisprovable.ropusOld.json",
+    "default": false
   }
 ]

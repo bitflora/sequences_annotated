@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/ScientificEvidenceLegalEvidenceRationalEvidence.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/ScientificEvidenceLegalEvidenceRationalEvidence.ropusOld.json",
+    "default": false
   }
 ]

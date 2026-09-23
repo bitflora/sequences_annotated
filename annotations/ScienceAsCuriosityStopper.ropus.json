@@ -3,12 +3,18 @@
     "id": 1,
     "side": "left",
     "quote": "But because someone else knows, it devalues the knowledge in your eyes.",
-    "content": "Loewenstein’s gap theory says curiosity peaks when a gap is felt and closable, and \"science already knows\" closes the gap for the question the essay is talking about — which is not \"how does electricity work\" but \"is this a mystery?\" Kang and colleagues found curiosity highest when subjects were uncertain of the answer and confident an answer existed, and the essay’s case is the person for whom the second clause has removed the first: he now believes the matter is settled and feels no uncertainty of his own. Trivia works because the player does not know the answer; the light switch fails because the reader believes he does. The essay’s phenomenon is the misplaced sense of already knowing, which is the illusion of explanatory depth the annotation goes on to endorse."
+    "content": "Loewenstein's information-gap theory says curiosity requires a felt gap. The essay's claim is that \"Science!\" closes the felt gap without supplying the answer. There is direct evidence for this: people told that scientists understand a phenomenon rate their own understanding of it higher than people told that scientists do not (<a href=\"https://doi.org/10.1177/0956797616662271\">Sloman &amp; Rabb 2016</a>). The community's knowledge is borrowed as a feeling of personal understanding, and the gap that would have driven curiosity disappears. Trivia works because the gap stays open. The light switch fails because \"someone knows\" shuts it."
   },
   {
     "id": 2,
     "side": "right",
     "quote": "Is this not spite?",
-    "content": "The essay makes the prioritization point itself and the annotation quotes it. Its claim is that the felt response to \"somebody already knows\" is not experienced as a budget calculation but as deflation — the question stops being interesting rather than being ranked lower — and that this feeling is unreliable, because it fires on the light switch, where the reader could not in fact give the explanation. Division of cognitive labor is a good reason not to reinvent electromagnetism, and no reason at all to believe you understand your light switch."
+    "content": "The essay separates the two things the note runs together: \"There are goods that knowledge may serve besides curiosity, such as the social utility of technology. For these instrumental goods, it matters whether some other entity in local space already knows.\" Kitcher's division of labor governs those goods, and the essay grants that before it says \"Prioritize, if you must.\" Its claim is about the raw emotion, and the light switch shows the point. The switch seems unremarkable only because it is familiar, and familiarity is not understanding. The elephant shows the danger of a curiosity keyed to \"someone knows,\" and the note agrees that the elephant should not be walked past."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "In school, one is taught that the password to the light bulb is “Electricity!”",
+    "content": "The cheap fix the note describes, asking for the explanation, is the essay's remedy: \"Does saying 'Electricity!' let you do calculations that will control your anticipation of experience?\" The essay's list of everyday puzzles, knees, shoes, the glow of the monitor, is in all but name the set of items Rozenblit and Keil used (<a href=\"https://doi.org/10.1207/s15516709cog2605_1\">Rozenblit &amp; Keil 2002</a>). What the essay adds is that the word \"Science!\" is one of the things that sustains the illusion, and Sloman and Rabb's community-of-knowledge finding supplies the mechanism."
   }
 ]

@@ -2,13 +2,19 @@
   {
     "id": 1,
     "side": "left",
-    "quote": "feel every added detail as a burden, even a single extra roll of the dice",
-    "content": "The essay is making a claim about probability, and Popper’s trade-off is that claim, stated approvingly. Added content lowers probability; that is why a detailed theory must be <em>paid for</em> with evidence, and the whole of the sequence’s treatment of Occam’s Razor is the other half of the ledger. Nothing here recommends preferring the disjunction: it recommends noticing that you have spent probability, so that you notice when you have spent it on details that bought you nothing, which is what the futurist adding a plausible-sounding clause has done. Newton’s laws are indeed less probable a priori than \"bodies move somehow,\" and were bought with two centuries of observation."
+    "quote": "A long series of cleverly designed experiments, which weeded out alternative hypotheses and nailed down the standard interpretation",
+    "content": "The essay's case study is the one the frequency and pragmatic accounts handle worst. The 1982 forecasters were professionals giving probabilities in their own field, and each group saw only one proposition, so there was no side-by-side comparison to prompt a reading of \"probable\" as \"typical\" (<a href=\"https://doi.org/10.1037/0033-295X.90.4.293\">Tversky &amp; Kahneman 1983</a>). Tentori and Crupi's confirmation account keeps the essay's structure and changes what gets substituted: on their view, people judge how well the evidence supports the conjunction instead of how probable it is (<a href=\"https://doi.org/10.1016/j.cognition.2011.10.007\">Tentori &amp; Crupi 2012</a>). \"Substitute X for probability\" survives with X revised. The essay's practical moral, to feel each added detail as a cost, follows whichever X turns out to be right."
   },
   {
     "id": 2,
     "side": "right",
+    "quote": "feel every added detail as a burden, even a single extra roll of the dice",
+    "content": "Popper's point was about which theories to test, and the essay agrees with it. Nothing in the essay tells a scientist to stop proposing hypotheses with content. It tells the forecaster not to judge the detailed story more probable, and Popper held that too: he insisted that more content means lower probability (<em>The Logic of Scientific Discovery</em>, book, no DOI). The essay's instruction is to ask of each detail \"How do we know this detail?\" That penalizes detail without support and leaves supported detail alone. Newton's laws carry a great deal of detail and a great deal of evidence for each part of it. The penalty falls on the futurist's choice of China, not on the physicist's inverse square."
+  },
+  {
+    "id": 3,
+    "side": "left",
     "quote": "where the absurdity is the log probability, so you can add it",
-    "content": "The qualitative moral survives the loss of independence, because the inequality does. P(A&amp;B) ≤ min(P(A), P(B)) is a theorem with no independence assumption, so every added conjunct can only lower the probability, which is the entire content of \"feel every added detail as a burden.\" Additivity in log-space is the special case, flagged in the essay by \"roughly,\" and correlation between conjuncts can only make the joint <em>more</em> probable than the sum of absurdities implies, never less — so the error, where it occurs, runs against the essay’s conclusion and the conclusion holds anyway. Support theory explains why unpacking inflates judged probability; it does not make the unpacked conjunction more probable."
+    "content": "Correlation cannot rescue a conjunction. P(A, B) = P(A) × P(B|A), which is at most P(A) whatever the dependence, so the \"one strike and it's out\" reading the essay offers next is exact. Correlation changes only how much the second conjunct is charged. In the Reagan example the correlation runs against the objection: federal support for unwed mothers was a liberal policy and cutting support to local governments a conservative one, so for Reagan the second is, if anything, less likely given the first. The essay's arithmetic undercharges rather than overcharges. Support theory is the formal home of the effect, and its explanation, that unpacked descriptions recruit more evidential support than packed ones, is the essay's \"corroborative detail\" in other words (<a href=\"https://doi.org/10.1037/0033-295X.101.4.547\">Tversky &amp; Koehler 1994</a>)."
   }
 ]

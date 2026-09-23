@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/OccamsRazor.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/OccamsRazor.ropusOld.json",
+    "default": false
   }
 ]

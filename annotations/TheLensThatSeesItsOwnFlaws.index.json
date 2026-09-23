@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/TheLensThatSeesItsOwnFlaws.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/TheLensThatSeesItsOwnFlaws.ropusOld.json",
+    "default": false
   }
 ]

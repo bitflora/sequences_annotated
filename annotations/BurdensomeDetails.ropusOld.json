@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "feel every added detail as a burden, even a single extra roll of the dice",
+    "content": "The essay is making a claim about probability, and Popper’s trade-off is that claim, stated approvingly. Added content lowers probability; that is why a detailed theory must be <em>paid for</em> with evidence, and the whole of the sequence’s treatment of Occam’s Razor is the other half of the ledger. Nothing here recommends preferring the disjunction: it recommends noticing that you have spent probability, so that you notice when you have spent it on details that bought you nothing, which is what the futurist adding a plausible-sounding clause has done. Newton’s laws are indeed less probable a priori than \"bodies move somehow,\" and were bought with two centuries of observation."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "where the absurdity is the log probability, so you can add it",
+    "content": "The qualitative moral survives the loss of independence, because the inequality does. P(A&amp;B) ≤ min(P(A), P(B)) is a theorem with no independence assumption, so every added conjunct can only lower the probability, which is the entire content of \"feel every added detail as a burden.\" Additivity in log-space is the special case, flagged in the essay by \"roughly,\" and correlation between conjuncts can only make the joint <em>more</em> probable than the sum of absurdities implies, never less — so the error, where it occurs, runs against the essay’s conclusion and the conclusion holds anyway. Support theory explains why unpacking inflates judged probability; it does not make the unpacked conjunction more probable."
+  }
+]

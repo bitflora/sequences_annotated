@@ -2,13 +2,19 @@
   {
     "id": 1,
     "side": "left",
-    "quote": "starts talking about an emotional life that sounds like ours, that means your religion is wrong",
-    "content": "The test was run and it went the essay’s way, not the guest’s. The guest’s claim was that no machine could ever talk about an inner life, because souls cannot be manufactured; machines now do, and both his prediction and its antecedent have been overtaken. That everyone, on both sides, still declines to call the talk decisive is a fact about how hard the underlying question is, not a vindication of a position that said the behavior was impossible. Lay attribution of experience to these systems has risen sharply (Colombatto &amp; Fleming 2024, <em>Neuroscience of Consciousness</em>), which is what you would expect if the operationalization the guest was offered had bite."
+    "quote": "You mean if I can make an Artificial Intelligence, it proves your religion is false?",
+    "content": "The man's own words show that he did not hold a Searlean position. His first claim was \"I don't believe Artificial Intelligence is possible,\" which is about what can be built. Faced with its consequence, he retreated to \"couldn't be emotional,\" and then to \"you can't make something eternal.\" Someone who held the Chinese Room view would have stood firm at the first step: build whatever you like, it will not understand. That he moved twice is the essay's evidence that his anticipations did not forbid AI, and the essay's first line names its target: \"people whose anticipations get out of sync with what they believe they believe.\" Searle's position predicts nothing about behavior. It is the dragon made permeable to flour in advance."
   },
   {
     "id": 2,
     "side": "right",
+    "quote": "starts talking about an emotional life that sounds like ours, that means your religion is wrong",
+    "content": "The sentence's condition is \"without being deliberately preprogrammed with any sort of script.\" A language model trained to reproduce human text about feelings has been handed the script at one remove, because fluent emotional talk is what it was trained to produce. The experiment the essay describes is the one proposed since: train a system on data scrubbed of human talk about inner experience and see whether such talk appears anyway (Schneider 2019, <em>Artificial You</em>, book, no DOI). That test has not been run. When both sides now say, of an imitation engine, that \"the talk is not the thing,\" they are applying the essay's own clause. The dinner guest did something different: he retreated before any experiment was run."
+  },
+  {
+    "id": 3,
+    "side": "left",
     "quote": "If two people disagree with each other, at least one of them must be doing something wrong.",
-    "content": "The line quoted is not Aumann’s theorem; it is a claim about maps and territory. If two people hold different beliefs about a single matter of fact, at most one of those maps matches the territory, so at least one of them has a map that is wrong — which is all \"doing something wrong\" means here, and which holds whatever their priors were. The theorem is invoked for the narrower point that honest Bayesians who share their reasoning cannot <em>knowingly</em> settle into stable disagreement, and the common-prior assumption is defensible on the grounds that priors are themselves posteriors from prior evidence. Merging-of-opinions results make the same point without the assumption: agents whose priors are mutually absolutely continuous converge almost surely as evidence accumulates (<a href=\"https://doi.org/10.1214/aoms/1177704456\">Blackwell &amp; Dubins 1962</a>)."
+    "content": "The man's beliefs did move, from \"AI is impossible\" to \"AI can't be emotional\" to \"nothing made can be eternal\": three positions in five minutes. The narrator's closing \"agreement\" is a joke at the expense of that retreat, and the bystander's \"That was beautiful\" is the punchline. On the theorem itself (<a href=\"https://doi.org/10.1214/aos/1176343654\">Aumann 1976</a>), the common-prior assumption is contested. Hanson showed, though, that agents who know their priors differ must regard the difference as coming from some process, and unless one of them has a reason to trust the origin of his own prior more, both should treat their priors as common (Hanson 2006, <em>Theory and Decision</em>). Persistent disagreement that both parties know about then still means someone is doing something wrong, which is the sentence the essay wrote."
   }
 ]

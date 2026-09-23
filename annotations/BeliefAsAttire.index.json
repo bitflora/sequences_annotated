@@ -19,5 +19,12 @@
     "code": "RA",
     "file": "annotations/BeliefAsAttire.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/BeliefAsAttire.ropusOld.json",
+    "default": false
   }
 ]

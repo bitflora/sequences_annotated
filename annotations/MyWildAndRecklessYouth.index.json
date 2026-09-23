@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/MyWildAndRecklessYouth.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/MyWildAndRecklessYouth.ropusOld.json",
+    "default": false
   }
 ]

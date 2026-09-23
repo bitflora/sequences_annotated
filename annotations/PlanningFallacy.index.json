@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/PlanningFallacy.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/PlanningFallacy.ropusOld.json",
+    "default": false
   }
 ]

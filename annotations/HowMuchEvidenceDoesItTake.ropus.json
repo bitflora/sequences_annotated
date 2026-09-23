@@ -3,18 +3,18 @@
     "id": 1,
     "side": "left",
     "quote": "On average, 131 losing tickets will pass such a test for every winner.",
-    "content": "The arithmetic slip is real: twenty bits of filter against 131,115,984 losing tickets leaves 125, not 131. It is worth noting that the error is in the direction of understating the essay’s case, and that every other number in the piece — the binomial coefficient, the 27 bits needed to locate the winner, the 34 bits for a one-percent error rate — checks out. The framework itself is Turing and Good’s, and the essay reproduces it correctly. This is a proofreading failure in a passage whose point is that you cannot get more certainty out than you put evidence in."
+    "content": "Conceded: 2<sup>20</sup> is 1,048,576, and 131,115,984 divided by that is 125, not 131. The conclusion the sentence supports is unchanged, since the first ticket to pass the test is still almost certainly a loser, and the essay's other numbers are correct. An arithmetic slip in an illustration is a slip, and the kind of checking the essay recommends is what corrects it."
   },
   {
     "id": 2,
     "side": "right",
     "quote": "Suppose you can use another black box to test combinations twice, independently.",
-    "content": "The essay states the condition in the sentence quoted. \"Independently\" is the stipulation of the thought experiment, and the multiplication is licensed by it; the Sally Clark disaster was a witness asserting independence that did not hold, which is a violation of the stated condition rather than an artifact of teaching it. The sequence returns to the point repeatedly afterward — the essays on correlated evidence, on argument screening off authority, and on double-counting in causal networks are all about exactly this — so the reader who leaves with \"just multiply\" has stopped reading at the second essay of a four-book treatment."
+    "content": "The condition is in the sentence the note quotes: \"test combinations twice, independently.\" The essay states the independence assumption at the point where it multiplies, as part of the definition of its hypothetical box. The Sally Clark disaster was a failure to ask whether the second death was independent of the first, which is exactly the question the word \"independently\" raises (<a href=\"https://doi.org/10.1111/j.1365-3016.2004.00560.x\">Hill 2004</a>). The essay teaches the multiplication together with its condition. The error in the Clark case was dropping the condition."
   },
   {
     "id": 3,
     "side": "left",
     "quote": "The larger the space of possibilities in which the hypothesis lies",
-    "content": "The reference-class problem is a reason the answer depends on your prior, which is what the essay says. Its claim is a conditional one — given a prior that spreads probability over N possibilities, you need log2(N) bits to single one out — and that conditional is invariant under every choice of partition; what changes is N, not the exchange rate. This is why the sequence spends the next essay on Occam’s Razor, which is precisely the attempt to say which prior a rational agent should start from. Noting that a theorem has inputs is not an objection to the theorem."
+    "content": "The essay chose the lottery because it has a natural partition. Its claim, that the evidence required grows with the size of the space, holds under any partition: the bits needed to reach a posterior of one half are the negative logarithm of the prior, whatever the prior is. Hájek's paper is titled \"The reference class problem is your problem too,\" and it argues that every interpretation of probability faces the problem (<a href=\"https://doi.org/10.1007/s11229-006-9138-5\">Hájek 2007</a>). It is not an objection peculiar to Bayesian bookkeeping. The sequence's answer to where priors come from is the simplicity prior of Occam's Razor, two essays on. Disagreement does live in the setup, and the essay tells you where it has moved."
   }
 ]

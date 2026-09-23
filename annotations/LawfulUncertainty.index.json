@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/LawfulUncertainty.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/LawfulUncertainty.ropusOld.json",
+    "default": false
   }
 ]

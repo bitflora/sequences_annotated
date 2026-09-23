@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/Making-History-Available.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/Making-History-Available.ropusOld.json",
+    "default": false
   }
 ]

@@ -3,18 +3,18 @@
     "id": 1,
     "side": "left",
     "quote": "advocating that the Internet would “wake up” and become an AI when it became “sufficiently complex.”",
-    "content": "Scaling laws are the opposite of \"sufficient complexity does it.\" They are quantitative relations between compute, data, parameters and loss, found by measurement, for a specific architecture with a specific objective — which is to say someone did the work of saying how, in equations, and the equations make predictions that were used to allocate budgets before the models were trained. The prediction the essay was arguing against was that the Internet would wake up spontaneously once it got complicated enough, and that did not happen and is not what happened. \"Train a particular architecture on a particular corpus at a particular scale\" is a mechanism; \"sufficient complexity\" is the absence of one."
+    "content": "Scaling laws are the opposite of \"some amount of complexity that does it.\" They are quantitative predictions, loss as a power law in parameters, data and compute, derived from a specific architecture trained on a specific objective with a specific optimizer (<a href=\"https://arxiv.org/abs/2001.08361\">Kaplan et al. 2020</a>). Someone did work out how X might happen, by measuring it. And the Internet did not wake up. What produced capable systems was a deliberate algorithm, attention plus next-token prediction plus gradient descent, trained on Internet text by people who knew what each part did. Complexity grew, but it was not the explanation. The explanation was a mechanism."
   },
   {
     "id": 2,
     "side": "right",
     "quote": "How would an AI invent for itself the concept of an “operator,” or “macro,” which is the key to solving the Rubik’s Cube?",
-    "content": "The solver is a mechanism, and the essay asked for a mechanism. DeepCubeA works by approximate value iteration from the goal state to produce a learned heuristic, then A* search over that heuristic — a specification precise enough to reimplement (<a href=\"https://doi.org/10.1038/s42256-019-0070-z\">Agostinelli et al. 2019</a>), and its learned value function encodes the distance structure that hand-coded macro operators were built to exploit. What the essay was refusing was not the claim that a learning system could do it; it was the answer \"complexity\" given in place of any account at all. The history supplied a better answer than the essay expected, in the form the essay demanded."
+    "content": "DeepCubeA is a mechanism of exactly the kind the essay asked Marcello to think about. Approximate value iteration learns a cost-to-go function from scrambles worked backward from the solved state, and weighted A* search uses that function to find short solutions (<a href=\"https://doi.org/10.1038/s42256-019-0070-z\">Agostinelli et al. 2019</a>). Its authors could say how X happens, which is what \"Don't say 'complexity'\" demands. That the mechanism does not use macro-operators corrects the essay's guess about which mechanism would work. It does not vindicate \"complexity,\" which still predicts nothing about the cube."
   },
   {
     "id": 3,
     "side": "left",
     "quote": "That was when I thought to myself, “Maybe this one is teachable.”",
-    "content": "What Marcello produced was the application of a distinction to a new case, unprompted, which is the transfer test the sequence endorses everywhere. The password failure mode is producing a term with nothing attached; Marcello caught himself using a word as a placeholder and said so, which requires having the concept rather than the word. The essay is explicit that the moment of interest is his noticing, not his vocabulary. A student who spots his own semantic stopsign has done the thing the previous essays asked for."
+    "content": "Marcello did not repeat the phrase; he drew the inference. \"Like 'emergence'\" applies the principle to a case the essay had not mentioned in that conversation, and \"So... now I've got to think about how X might actually happen\" is the action the principle calls for. Guessing the teacher's password means producing the rewarded word in place of an answer to the teacher's question. Carrying a principle over to a new word and then changing one's next step is the evidence of understanding that, according to the password essay, passwords lack."
   }
 ]

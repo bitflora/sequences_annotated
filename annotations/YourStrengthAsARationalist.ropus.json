@@ -3,12 +3,24 @@
     "id": 1,
     "side": "left",
     "quote": "Anyone reporting sudden chest pains should have been hauled off by an ambulance instantly.",
-    "content": "This is the essay’s lesson, obtained by the essay’s method. If ambulance non-transport is common and paramedic under-triage of chest pain is documented, then the narrator’s model was wrong and his confusion was a real signal pointing at a real defect — which is what \"your strength as a rationalist is your ability to be more confused by fiction than by reality\" instructs him to notice. The essay does not claim the confusion identified <em>which</em> falsehood was present; it claims that the feeling of strain should have been treated as data instead of explained away. The annotation supplies a second thing the strain was tracking."
+    "content": "The model was wrong, and the essay says what to do in exactly that case: \"Either Your Model Is False Or This Story Is Wrong.\" Confusion is valuable as a signal that one of the two has failed. It is not a guarantee that the model is right. Had the narrator heeded it, he would have gone looking and found either that the story was invented or, as the EMS data show, that paramedics do leave chest-pain patients behind and his model of ambulances needed revising. Fable's evidence makes the confusion more valuable, not less: it was flagging two errors, and the narrator ignored both."
   },
   {
     "id": 2,
     "side": "right",
+    "quote": "And the Medical Establishment was always right. Every single time.",
+    "content": "The sentence is the narrator reporting his own mistaken induction, in the paragraph that begins \"And this is where I fell down as a rationalist.\" The essay's lesson is that this over-trust in the establishment was the error, because it let him explain away an anomaly instead of noticing it. The diagnostic-error rates the note cites (<a href=\"https://doi.org/10.1056/NEJM200004203421603\">Pope et al. 2000</a>) are the facts the narrator would have recalled if he had given his confusion its proper weight. Fable agrees with the essay while presenting the essay's confession as its claim."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It makes you wonder what’s the point of having economists if we’re just going to ignore them.",
+    "content": "Partly conceded: the parenthesis asserts a contested causal story in passing, and the evidence on emergency-department closures points mainly to margins and ownership (<a href=\"https://doi.org/10.1001/jama.2011.620\">Hsia, Kellermann &amp; Shen 2011</a>). Thin margins at safety-net hospitals are partly the unfunded screening-and-stabilization mandate at work, so the aside is not baseless, but it is unsourced. Nothing in the essay's argument rests on it. The lesson about confusion would be the same with the aside deleted."
+  },
+  {
+    "id": 4,
+    "side": "right",
     "quote": "Alas, belief is easier than disbelief",
-    "content": "The essay’s use of Gilbert is illustrative and the correction narrows it in a way that leaves the case intact. Richter and colleagues found that fast rejection of false statements requires <em>relevant background knowledge</em>; where the reader has none, comprehension proceeds without validation, which is precisely the narrator’s situation on a question about emergency-medicine practice. The essay’s own diagnosis, in the sentence after the one quoted, is that he generated a specific rationalization to protect a model he was attached to — so motivated reasoning is named in the text, not substituted for it. The two accounts describe the same failure at different stages."
+    "content": "Richter and colleagues found that the Spinozan default appears when readers lack relevant knowledge and disappears when they have it (<a href=\"https://doi.org/10.1037/a0014038\">Richter, Schroeder &amp; Wöhrmann 2009</a>). A secondhand story about a stranger's friend on IRC is the model case of a claim the listener has no knowledge to check against. That is the condition under which even the revised account predicts acceptance. The essay also names both mechanisms: default acceptance of the story, then motivated fitting of it into his model. Gilbert's effect let the story in, and motivated reasoning kept it there."
   }
 ]

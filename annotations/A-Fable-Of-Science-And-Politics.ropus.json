@@ -3,12 +3,23 @@
     "id": 1,
     "side": "left",
     "quote": "it would be rare to find a city merchant who believed the sky was blue, and yet advocated an individual tax and freer marriage laws",
-    "content": "The expressive-responding literature is invoked here and disowned two essays later, where the same annotator writes that on political rumors \"people who say they believe mostly do, and expressive responding accounts for little\" (<a href=\"https://doi.org/10.1086/694258\">Berinsky 2018</a>). The subsequent work supports the second reading: incentive experiments shrink partisan gaps modestly and mostly among the least informed, and large designs find partisan factual divides are predominantly sincere rather than cheerleading (<a href=\"https://doi.org/10.1111/ajps.12535\">Peterson &amp; Iyengar 2021</a>). Partisans really do hold different beliefs about the world. The fable stipulates a world where they do because that is the world we are in."
+    "content": "Eddin's ending is the world Fable describes. He looks at the sky and sees \"just one pointless thing that had been blown out of all proportion,\" so the fable already contains the expressive reading as one of its six branches. The incentive studies also leave a sincere half standing. When Peterson and Iyengar paid partisans for accurate answers, the partisan gaps on factual questions barely narrowed, and the paid respondents sought out congenial information. That is the signature of sincere motivated belief, not cheerleading (<a href=\"https://doi.org/10.1111/ajps.12535\">Peterson &amp; Iyengar 2021</a>). Bullock et al.'s own result was that incentives cut the gap roughly in half, which means the other half is belief (<a href=\"https://doi.org/10.1561/100.00014074\">Bullock et al. 2015</a>)."
   },
   {
     "id": 2,
     "side": "right",
+    "quote": "Now history branches, depending on which member of the sightseeing party decided to follow the corridor to the surface.",
+    "content": "No character in the fable shows a backfire effect. All six look up and accept that the sky is blue. Aditya is vindicated. Barron's \"understanding\" lands as a punch to the stomach. Daria concedes, Eddin laughs, Charles plans to hide the passage, and Ferris goes exploring. That is Wood and Porter's finding: people update on the fact (<a href=\"https://doi.org/10.1007/s11109-018-9443-y\">Wood &amp; Porter 2019</a>). What the six branches vary is what each person does with the updated fact next, which matches Nyhan, Porter, Reifler and Wood's finding that corrections leave attitudes and loyalties largely where they were (<a href=\"https://doi.org/10.1007/s11109-019-09528-x\">Nyhan et al. 2020</a>). Fable's \"realistic seventh ending\" is already the fable's six endings."
+  },
+  {
+    "id": 3,
+    "side": "left",
     "quote": "Ferris gasped involuntarily, frozen by sheer wonder and delight.",
-    "content": "The fable does not make Ferris its hero; it gives six endings and rates none of them. Daria, who has everything to lose and updates anyway, is the character the essay elsewhere returns to as the model — \"Daria, Or the Craft\" is written about her — and the mournfulness is the cost being acknowledged rather than a demotion. A parable that shows the same evidence producing conversion, rationalization, silence, and honest grief in four different people, sorted by what each stands to lose, is a parable about exactly the mechanism the annotation says it exempts its hero from. Choosing a character with no stake is how you isolate the variable."
+    "content": "The fable locates the obstacle in the stakes, which is Fable's own mechanism. The character given the author's voice is Daria, not Ferris: \"I will not flinch,\" \"Speak the truth, even if your voice trembles,\" with friends and family as the price. Ferris is the control condition, a reminder that the sky is just a sky once the tribe is taken away. A parable that shows one fact received in six ways by people in six situations demonstrates that situation governs updating. That is the conclusion the objection itself draws from Mason and Iyengar."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "content": "A parable makes a claim vivid; it does not prove it. Generalizing from fictional evidence means treating a story as data about how often things happen, and the fable does not do that. On the Byzantine factions, Cameron's thesis supports the essay. <em>Circus Factions</em> argues that the Blues and Greens were not political or religious parties with platforms but sporting and theatrical organizations, and that their violence was about the colors (Cameron 1976, book, no DOI). The patronage the note mentions is what Gibbon, quoted in the essay, describes: a faction's support \"became necessary to every candidate.\" The Nika riot began when both factions demanded pardons for their own condemned members, and its battle cry was the shout from the chariot races."
   }
 ]

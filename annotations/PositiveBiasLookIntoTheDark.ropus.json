@@ -3,12 +3,18 @@
     "id": 1,
     "side": "left",
     "quote": "For by instinct, we human beings only live in half the world.",
-    "content": "Klayman and Ha’s result concerns the efficiency of a search strategy; the essay’s target is the confidence with which Wason’s subjects announced rules they had never tried to break. Those are separable, and the data separate them: only about a fifth of subjects reached the rule, but nearly all were sure of theirs, and the modal subject announced a hypothesis after a run of confirming instances with no disconfirming test attempted. The DAX/MED result is the essay’s remedy, not a counterexample — it works because the framing forces subjects to seek instances that would fall outside their hypothesis, which is \"look into the dark\" implemented as an experimental manipulation."
+    "content": "Klayman and Ha's analysis marks where positive testing fails: when the hypothesis sits inside a broader truth, so that every positive test confirms it and no negative test is ever run (<a href=\"https://doi.org/10.1037/0033-295X.94.2.211\">Klayman &amp; Ha 1987</a>). That is the situation of the over-specific, over-complicated rule, the kind subjects \"devise, 'test,' and announce\" in the essay, and of every fake explanation, whose fault is that it fits everything. The DAX–MED result shows the essay's prescription working: when the framing makes subjects look at the negative class, the success rate triples (<a href=\"https://doi.org/10.1080/00335558008248231\">Tweney et al. 1980</a>). Look into the dark, and you find the rule."
   },
   {
     "id": 2,
     "side": "right",
+    "quote": "but phlogiston theory could just as well have explained the flame not going out",
+    "content": "The note's own history supplies the explanation the essay describes. A flame that kept burning in a sealed vessel would have been explained by air with spare capacity for phlogiston, and that is the explanation Priestley gave for the candle that burned longer in \"dephlogisticated air.\" The theory could explain a flame going out (the air is saturated) and a flame burning on (the air is free of phlogiston) by giving the air whatever capacity the observation required. \"Finite capacity\" was a parameter fitted after the fact. The essay's point is that the theory's defenders looked for positive instances and did not ask what observation the parameter would forbid."
+  },
+  {
+    "id": 3,
+    "side": "left",
     "quote": "I replied that non-superconductivity and non-ferromagnetism were also examples of emergence, which was the problem.",
-    "content": "The reply is the essay’s point about what the word communicates. If both the superconducting and the normal phase are emergent, then hearing \"superconductivity is emergent\" has not told you which regularity holds or why the transition occurs at that temperature — the content is in the order parameter and the critical exponents, which the speaker did not supply. The essay is testing what the assertion excluded, which is the correct test for an explanation, and the honest answer in that exchange was that it excluded nothing the speaker had stated."
+    "content": "The claim the commenter made, and the note defends, is carried by BCS theory, Landau's order parameters and the renormalization group. Those are specific models that predict which phase a sample enters and at what temperature (<a href=\"https://doi.org/10.1126/science.177.4047.393\">Anderson 1972</a>). That is the essay's permitted \"emerges from,\" with a model attached. The word \"emergent\" adds nothing to those predictions, and the fact that both phases count as \"emergent\" is the reason: a label that applies both to a phenomenon and to its absence does not discriminate between them. \"Non-combustion is chemical\" is true and uninformative, which is the essay's diagnosis of \"emergent,\" not a rebuttal of it."
   }
 ]

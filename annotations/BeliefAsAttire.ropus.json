@@ -3,18 +3,30 @@
     "id": 1,
     "side": "left",
     "quote": "undoubtedly saw themselves as heroes defending truth, justice, and the Islamic Way from hideous alien monsters a la the movie Independence Day",
-    "content": "The hijackers left a document describing exactly the self-image the essay attributes to them. The four-page \"Spiritual Manual\" recovered from Atta’s luggage frames the operation as a sacred raid, instructs the men to see themselves as answering an assault on the community, and promises the reward of martyrs; Atran’s own analysis, cited here against the essay, reconstructs that framing in detail and concludes the recruits were ordinary men bound to a heroic narrative by small-group loyalty (<a href=\"https://doi.org/10.1126/science.1078854\">Atran 2003</a>). Pape’s strategic logic is a claim about what organizations pursue, which is a different level of description from what individual volunteers believe about themselves. \"Undoubtedly\" is strong; the documentary record supports it."
+    "content": "The hijackers left their self-image in writing. The instructions found in Mohamed Atta's luggage frame the attack as a raid in the path of God, the passengers as allies of Satan, and death as a wedding in paradise (Lincoln 2003, <em>Holy Terrors</em>, which translates and analyzes the document, book, no DOI). Several hijackers also recorded martyrdom testaments in the same language. Atran's later fieldwork describes such recruits as \"devoted actors\" defending sacred values alongside their band of brothers (Atran 2016, <em>Current Anthropology</em>; see also <a href=\"https://doi.org/10.1126/science.1078854\">Atran 2003</a>). Pape's strategic logic concerns the organizations that deploy attackers, not what the attackers think of themselves. \"Heroes defending truth, justice, and the Islamic Way\" is a fair summary of the document; the Independence Day comparison is the essay's joke."
   },
   {
     "id": 2,
     "side": "right",
-    "quote": "Or so I suspect; I confess I’m not an expert here.",
-    "content": "The essay is not claiming that non-anticipatory belief produces no emotion; it is claiming that the emotion has a different source, and it names the source. Ritual, synchrony and belonging are precisely the \"belief as attire\" mechanism, and the fire-walking and high-ordeal studies show it operating independently of doctrinal content — which is the essay’s thesis with instrumentation attached. Nothing in the taxonomy requires that anticipation-belief ever be the fuel; the claim is that people <em>report</em> their passion as though it were, and the discrepancy is the finding."
+    "quote": "There are no quote marks you can use to talk about how the Enemy sees the world",
+    "content": "The note's own evidence establishes the thesis. A network host said the sentence and lost his show; one of the country's most prominent critics said it and was denounced across the press. The essay's \"cannot\" is social: the same passage says it \"would be like dressing up as a Nazi for Halloween,\" which is also physically possible and socially forbidden. The essay also located the prohibition precisely: \"Only a very inexperienced nerd... would say this out loud in an Alabama bar.\" Maher and Sontag said it on air and in print and paid for it, which is attire being enforced."
   },
   {
     "id": 3,
     "side": "left",
+    "quote": "Or so I suspect; I confess I’m not an expert here.",
+    "content": "Fable's evidence confirms the essay's alternative and then assigns the essay a claim it did not make. The essay says belief in belief and professing \"would have some trouble\" producing deep emotion, and it proposes belonging as the source. Synchronized heart rates at a fire-walk and ritual-driven generosity are belonging, measured (<a href=\"https://doi.org/10.1073/pnas.1016955108\">Konvalinka et al. 2011</a>). Nothing in the essay says religious passion originally came only from anticipation. It says the passion people show after they stop anticipating is either desperate self-persuasion or tribal belonging, and the fire-walk data are the second."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "But it’s not the same fire they had as a child.",
+    "content": "Children's belief is testimonial, but testimonial belief can be proper belief. A child who believes in germs on an adult's word washes her hands, and a child who believes in a listening God prays expecting to be heard. Children are also readier than adults to see purpose and design in nature, an intuitive theism that education damps down (<a href=\"https://doi.org/10.1111/j.0956-7976.2004.00672.x\">Kelemen 2004</a>). That a child's confidence in God tracks how adults talk shows how the belief is transmitted; it is not a reason to think the belief hedged. A child who expects prayers to be answered is anticipating, and that is the fire the essay says fades."
+  },
+  {
+    "id": 5,
+    "side": "left",
     "quote": "Identifying with a tribe is a very strong emotional force. People will die for it.",
-    "content": "Identity fusion strengthens the essay rather than dissolving it. What the essay says will not come off is the tribal identification; what it says can be swapped freely is the propositional content worn on top of it, and fusion research finds exactly this — fused individuals endorse dying for the group while the doctrinal commitments attached to that group shift with the group’s circumstances. The minimal-group paradigm was cited for the weak claim it supports, that arbitrary markers suffice to start the process. That the strong form requires shared ordeal is an addition to the mechanism, not a refutation of the metaphor."
+    "content": "Identity fusion is the essay's claim at full strength. Swann's fused participants endorse dying for the group (<a href=\"https://doi.org/10.1037/a0013668\">Swann et al. 2009</a>), which is \"People will die for it.\" The objection is to the metaphor, and the essay applies the metaphor to the beliefs, not to the identity: once people identify with a tribe, \"the beliefs which are attire of that tribe will be spoken with the full passion of belonging.\" Fusion makes the belonging impossible to take off. The beliefs worn as its sign are still worn, and they can be swapped when the tribe changes its uniform, which is the property the metaphor names."
   }
 ]

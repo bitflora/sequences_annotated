@@ -26,5 +26,12 @@
     "code": "RA",
     "file": "annotations/FocusYourUncertainty.RationalistAstra.json",
     "default": false
+  },
+  {
+    "id": "ropusOld",
+    "label": "Old Rationalist Opus",
+    "code": "RO",
+    "file": "annotations/FocusYourUncertainty.ropusOld.json",
+    "default": false
   }
 ]
