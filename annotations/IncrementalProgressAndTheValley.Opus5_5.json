@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Rationality is systematized winning.",
+    "content": "The slogan does not survive the next three sentences. “Even perfectly rational agents can lose. They just can't know in advance that they'll lose” replaces winning with <em>expected</em> performance judged ex ante — the standard decision-theoretic view, and a different claim. The slogan version cannot be tested: any rational-seeming person who loses was not rational enough, any irrational one who wins was lucky. The corrected version can, and it is the one the book should use; but it is the uncorrected version that became the motto."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There is no companion theorem which says that, starting from some flawed initial form, every incremental modification of the algorithm that takes the structure closer to the ideal must yield an incremental improvement in performance.",
+    "content": "True, and there is a theorem that says so. The general theory of the second best (<a href=\"https://doi.org/10.2307/2296233\">Lipsey &amp; Lancaster, 1956</a>) proved that when one condition for an optimum cannot be met, satisfying more of the remaining conditions need not move the system closer to the best achievable outcome and can move it further away. The “valley of bad rationality” is its application to a single mind. The essay reinvents the result; it is correct, and has been known to economists for fifty years."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I find it hard to believe that the optimally motivated individual, the strongest entrepreneur a human being can become, is still wrapped up in a blanket of comforting overconfidence.",
+    "content": "The evidence mostly agrees with this. Overconfident people are more likely to found businesses — and more likely to enter markets where they will fail (<a href=\"https://doi.org/10.1257/aer.89.1.306\">Camerer &amp; Lovallo, 1999</a>; <a href=\"https://doi.org/10.1016/j.joep.2006.11.002\">Koellinger, Minniti &amp; Schade, 2007</a>). Among founders, higher dispositional optimism predicted <em>worse</em> revenue and employment growth (<a href=\"https://doi.org/10.5465/amj.2009.41330755\">Hmieleski &amp; Baron, 2009</a>). The “believing in yourself” story is survivorship; the essay's scepticism of it is well supported."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I’d rather stake my hopes on neurofeedback or Zen meditation, though I’ve tried neither.",
+    "content": "Neurofeedback is a poor choice of hope. In double-blind trials with sham feedback, it has repeatedly failed to beat placebo: for insomnia, real and sham neurofeedback produced the same improvement (<a href=\"https://doi.org/10.1093/brain/awx011\">Schabus et al., 2017</a>); for ADHD, effects largely disappear when outcomes are rated by assessors blind to treatment (<a href=\"https://doi.org/10.1016/j.jaac.2016.03.007\">Cortese et al., 2016</a>). The essay contrasts comforting illusions with techniques backed by evidence, and names as its hope a technique whose evidence rests mainly on unblinded reports."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Even the surveys are comparing the average religious person to the average atheist, not the most advanced theologians to the most advanced rationalists.",
+    "content": "This moves the goalposts: when data show the average believer happier, the comparison is declared unfair to the best rationalists, who have not been measured. The data themselves have a better answer. Across more than 150 nations, the association between religiosity and wellbeing depends on circumstances: it is strong where life is hard and largely disappears in secure, prosperous societies, where religious and non-religious people report similar wellbeing (<a href=\"https://doi.org/10.1037/a0024402\">Diener, Tay &amp; Myers, 2011</a>). The “valley” may be a feature of the environment, not of losing illusions."
+  }
+]

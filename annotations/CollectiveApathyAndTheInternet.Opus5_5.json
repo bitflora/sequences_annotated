@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Not hearing a voiced plea for help.",
+    "content": "The list is speculative, but at least one item has been tested and holds. In chat rooms, requests for help posted to larger groups took longer to receive a response — an online bystander effect — and addressing the request to a specific person by name eliminated it (<a href=\"https://doi.org/10.1016/S0747-5632(99)00056-4\">Markey, 2000</a>). That is Cialdini's “point to one bystander” advice from the previous essay, working in exactly the medium this essay is worried about."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Put up names and photos or even brief videos if available of the first people who helped",
+    "content": "Good ideas, and within a few years they were built at scale: Kickstarter (2009) and GoFundMe (2010) display backers, progress bars and early supporters; GitHub displays contributors. The mechanism has experimental support: announcing that a campaign has already raised a substantial share of its target sharply increases subsequent giving (<a href=\"https://doi.org/10.1086/324392\">List &amp; Lucking-Reiley, 2002</a>). The essay's instinct that visible early contributors unlock later ones was right, and it is one of the book's forecasts about technology that came true."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "But mostly I just hand you an open, unsolved problem: make it possible/easier for groups of strangers to coalesce into an effective task force over the Internet",
+    "content": "The next sentence cites the counterexample. Wikipedia, which the essay mentions as a fraction of television time, was already by 2009 a volunteer encyclopaedia written by strangers coordinating asynchronously over the Internet; Linux and most of the open-source stack were built the same way, and Benkler's <em>The Wealth of Networks</em> (2006; a book, no DOI) had analysed the phenomenon as commons-based peer production. Two years after the essay, anonymous players of the online game Foldit solved in weeks the structure of a retroviral protease that had resisted specialists for a decade (<a href=\"https://doi.org/10.1038/nsmb.2119\">Khatib et al., 2011</a>). The problem was open to the author; it was not unsolved."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Think of that old statistic about Wikipedia representing 1/2,000 of the time spent in the US alone on watching television.",
+    "content": "The statistic is Clay Shirky's, from his 2008 “cognitive surplus” talk, which put the total human effort in Wikipedia at around 100 million hours against roughly 200 billion hours of American television a year. It is an order-of-magnitude illustration, not a measurement, and it was given in support of the opposite thesis from this essay's: that people will coordinate online in large numbers when the tools let them. The essay borrows the number and not the conclusion."
+  }
+]

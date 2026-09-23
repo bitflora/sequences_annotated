@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I present to you a little-known outtake from the scene",
+    "content": "The outtake is invented, and the joke is plain to anyone who reads the whole thing; but it is the only evidence the essay offers for its conclusion, and in the book it arrives without the blog's context. The claim it dramatizes — that people give up on hard tasks absurdly early — is an empirical claim with mixed evidence. People do underestimate how much a further round of effort would produce on creative tasks (<a href=\"https://doi.org/10.1037/pspa0000030\">Lucas &amp; Nordgren, 2015</a>); they also persist far too long on failing courses of action, which is the escalation-of-commitment literature. Which failure dominates depends on the task, and a comic sketch cannot say."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Mark: “Impossible? What did he do, run a formal calculation to arrive at a mathematical proof?",
+    "content": "The actual scene has a diagnosis, and the parody drops it. After Yoda lifts the X-wing, Luke says “I don't believe it,” and Yoda answers “That is why you fail.” Lucas's scene is about expectancy, not stamina — and expectancy is what the persistence literature finds doing the work: self-efficacy beliefs predict persistence on academic tasks at about r = .34 across studies (<a href=\"https://doi.org/10.1037/0022-0167.38.1.30\">Multon, Brown &amp; Lent, 1991</a>). A student told by an 800-year-old master that a task is doable, and who does not believe it, will quit; the fix is the belief, not a scolding for weakness. The film understood the mechanism better than the rewrite."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "People wouldn’t try for five minutes before giving up if the fate of humanity were at stake.",
+    "content": "Offered as the punchline and the thesis, and the evidence runs the other way even when the stakes are trivial. Laboratory subjects handed unsolvable puzzles for course credit persist a long time — control participants in the classic persistence paradigm kept at them for around twenty minutes before quitting (<a href=\"https://doi.org/10.1037/0022-3514.74.5.1252\">Baumeister et al., 1998</a>; the depletion effect that paper claimed has not survived, but the baseline persistence was simply measured); the problem-solving literature's standard complaint is fixation and perseveration, not premature quitting. At civilizational stakes, the historical cases people cite — Manhattan Project, Apollo, smallpox eradication, the COVID-19 vaccines — are cases of huge sustained effort. The line is a feeling about human nature, delivered by a fictional George Lucas, with no attempt to check it."
+  }
+]

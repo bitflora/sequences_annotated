@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "(If the one doubts this, let them name any other who simultaneously says “I intend to build an Artificial General Intelligence,” “Right now I can’t build an AGI because I don’t know X,” and “I am currently trying to figure out X.”)",
+    "content": "Easily named. Marcus Hutter's <em>Universal Artificial Intelligence</em> (2005), cited in this book's own introduction, states a formal model of general intelligence, proves it incomputable, and sets out a research programme for the missing approximations; Jürgen Schmidhuber's Gödel machine papers of the same years say the same in so many words. Shane Legg's 2008 thesis ends with the plan that became DeepMind, founded in 2010 with a stated mission to solve intelligence by first working out what it lacked. The challenge was a rhetorical question when it was asked and has no force now. The irony runs the other way: the organization that said “I'm not ready to write code” never did write it, and by its own later account redirected itself from technical research to public advocacy."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It is unsafe to say what other people are thinking. But it seems rather likely that when the one reacts to the prospect of Friendly AI by saying, “If you delay development to work on safety, other projects that don’t care at all about Friendly AI will beat you to the punch,” the prospect of they themselves making a mistake followed by six billion thuds is not really real to them",
+    "content": "The essay flags that it is about to mind-read, then does it, and uses the result to dismiss a strategic argument without answering it. Whether a careful project should slow down when careless ones will not is a question about race dynamics, and it has been modelled: <a href=\"https://doi.org/10.1007/s00146-015-0590-y\">Armstrong, Bostrom &amp; Shulman (2016)</a> found that the answer depends on the number of competitors, the information they have about each other and how much capability safety costs. Their model supports some of the essay's worry, which is the point — the argument has content that can be evaluated. Diagnosing the people who make it as emotionally unable to imagine death is how the sequences elsewhere tell readers not to argue."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "“I will not proceed until I know positively that the ground is safe.”",
+    "content": "This is the strong precautionary principle, and its standard objection is that it is incoherent rather than merely cautious: when every available option carries risk — including not proceeding while others proceed — a rule that forbids acting until safety is known forbids every option, including the one it recommends (<a href=\"https://doi.org/10.2307/3312884\">Sunstein, 2003</a>). Four essays earlier, <em>Raised in Technophilia</em> counted the deaths caused by regulators who would not approve drugs until they knew them safe. The lesson here is the one that essay mocked, unmodified. Either the sequence must say what distinguishes AI from medicine, or one of these essays is wrong."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I would try to explain to them the smallness of the target in the search space",
+    "content": "The small-target argument counts: of all possible goals, very few are compatible with human survival, so a mind built without precise understanding will almost surely have one of the others. The count only means something under a measure — it assumes a roughly uniform draw from goal-space. Systems produced by search do not land uniformly: trained neural networks are strongly biased toward simple functions of the data they were trained on (<a href=\"https://arxiv.org/abs/1805.08522\">Valle-Pérez, Camargo &amp; Louis, 2019</a>), and their data are human-generated. The conclusion may still be true, but the argument for it is a lottery analogy with the one crucial premise left out, which is what the ignorant interlocutor's “how can you be sure I won't win?” was pointing at."
+  }
+]

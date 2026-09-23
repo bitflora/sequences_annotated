@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "To teach you something, the catastrophe must come as a surprise.",
+    "content": "The learning sciences have tested this and found the opposite: failure can be provoked artificially, and designed failure teaches. In “productive failure” instruction, students are deliberately set problems they cannot yet solve before being taught the canonical method, and a meta-analysis of 53 studies found better conceptual understanding and transfer than instruction-first, when the failure phase is well designed (<a href=\"https://doi.org/10.3102/00346543211019105\">Sinha &amp; Kapur, 2021</a>). More generally, errors induced in low-stakes practice, followed by corrective feedback, improve retention compared with error-free learning (<a href=\"https://doi.org/10.1146/annurev-psych-010416-044022\">Metcalfe, 2017</a>). The master's line has the cadence of hard-won wisdom and the content of an untested assumption — delivered by a character whose authority is stipulated by the author."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The first flaw is to look just the slightest bit harder for flaws in arguments whose conclusions you would rather not accept.",
+    "content": "Well chosen: this is motivated skepticism, among the better-established findings in the book's catalogue. <a href=\"https://doi.org/10.1037/0022-3514.63.4.568\">Ditto &amp; Lopez (1992)</a> showed people demanding more evidence before accepting an unwelcome medical diagnosis than a welcome one, and the asymmetry has been measured repeatedly since, including in people with high numeracy and education. That it heads the list is correct. Placing it first in a text whose book-length arguments rarely consider the strongest version of opposing views is, at least, self-aware."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The third flaw is underconfidence, modesty, humility.",
+    "content": "Here the fiction departs from the evidence. The most robust calibration result is overprecision — confidence intervals that are too narrow, certainty that outruns accuracy — which appears across populations, domains and levels of expertise; underestimation of one's own performance shows up mainly on easy tasks (<a href=\"https://doi.org/10.1037/0033-295X.115.2.502\">Moore &amp; Healy, 2008</a>). Nothing suggests that people trained in probability are exempt, and the author's own record in this book — the brain in a box, the lie detectors, the dead field of AI — is of overprecision. Naming underconfidence as a besetting sin of rationalists is a hypothesis about a population nobody has measured, set against the pattern everyone else shows."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "It was, Brennan realized, a stupid proverb.",
+    "content": "The best moment in the story, and it matches the evidence. Expert intuition is trustworthy only when the expert has practised in an environment regular enough to be learned and with fast, accurate feedback; otherwise it is confident noise (<a href=\"https://doi.org/10.1037/a0016755\">Kahneman &amp; Klein, 2009</a>). “Futile to inquire how a master knows a thing” is the proverb of every field where that condition fails. Brennan's refusal of it is the right lesson, and a better one than several that the master delivers."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "The existing Shangri-La Diet is visibly incomplete—for some people, like me, it doesn’t seem to work, and there is no apparent reason for this or any logic permitting it.",
+    "content": "The essay's showcase of advice made powerful by deep theory is a diet with no published controlled trial, which the author reports does not work for him, and whose theory — a flavour–calorie association lowering a body-weight set point — supplies no account of who it fails for. By the essay's own grades of evidence, it has neither the concrete experimental result nor a causal account shown to be true. What it has is a story that made sense of anecdotes, which is the thing the essay says theory is supposed to rescue us from. Seth Roberts's own self-experimentation was admirably open, but it was n = 1."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "(You also know to save the dessert for last.)",
+    "content": "The peak–end rule was tested on meals, and it largely failed there. <a href=\"https://doi.org/10.1016/j.appet.2006.09.006\">Rode, Rozin &amp; Durlach (2007)</a> found duration neglect in people's memories of meals but minimal peak or end effects: the pleasantness of the last course did not dominate remembered pleasure the way the rule predicts. Later work found that how an eating episode ends affects when people want to eat the food again (<a href=\"https://doi.org/10.1177/0956797614534268\">Garbinsky, Morewedge &amp; Shiv, 2014</a>), which is a different claim. The confident “you now possess a deep theory about the rules governing your memory” is a laboratory result about colonoscopies and cold water, extended to dinner without the check the essay says makes advice trustworthy."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "thanks to experiments that give them a vocabulary of cognitive phenomena that actually exist, as opposed to phenomena they just made up.",
+    "content": "The list of “phenomena that actually exist” two lines earlier includes ego depletion, which failed multi-lab preregistered replication (<a href=\"https://doi.org/10.1177/1745691616652873\">Hagger et al., 2016</a>; <a href=\"https://doi.org/10.1177/0956797621989733\">Vohs et al., 2021</a>). The suggested safeguard — prefer results with p &lt; 0.01 — has some support: in the Reproducibility Project, original results with smaller p-values replicated more often (<a href=\"https://doi.org/10.1126/science.aac4716\">Open Science Collaboration, 2015</a>). But the ego-depletion literature was full of p &lt; 0.01 results produced by small samples and flexible analysis. A lower threshold does not protect against a literature in which the threshold itself is the target."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Causal accounts that are actually true (which may be most reliably obtained by looking for the theories that are used by a majority within a given science)",
+    "content": "Good advice — and a standard the books do not apply to themselves. The introduction to this volume concedes that one-boxing on Newcomb's Problem is a minority view among decision theorists; the quantum-mechanics sequence argues for many-worlds against the majority practice of physicists; the recommended practice of cryonics is rejected by most cryobiologists; and <em>The Sin of Underconfidence</em>, the next essay, lists “we will be better off on average if we always adopt the majority belief” among the reasonable-sounding arguments that impede the Way. Either majority use within a science is the reliable guide, or the books' central contrarian positions need a better defence than they get."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Notice how “You overestimate how much you’re explaining and your listeners overestimate how much they’re hearing” becomes much more forceful as advice, after I back it up with a cognitive science experiment and some evolutionary psychology?",
+    "content": "More forceful is not more valid, and there is an experiment about that too. Adding irrelevant neuroscience to explanations of psychological findings made laypeople and students rate <em>bad</em> explanations as considerably more satisfying, while barely changing their ratings of good ones (<a href=\"https://doi.org/10.1162/jocn.2008.20040\">Weisberg et al., 2008</a>). The effect the essay invites readers to notice in themselves is the seductive allure of scientific-sounding backing — which operates whether or not the backing is sound, and which the evolutionary-psychology half of the backing here, an unsourced adaptive story about ancestral inferential distance, exemplifies."
+  }
+]

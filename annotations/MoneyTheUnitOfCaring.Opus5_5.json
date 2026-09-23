@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Steve Omohundro has suggested a folk theorem to the effect that, within the interior of any approximately rational self-modifying agent, the marginal benefit of investing additional resources in anything ought to be about equal.",
+    "content": "This is the equimarginal principle, stated by Hermann Heinrich Gossen in 1854 and the first-order condition of every constrained optimization problem in economics — not a suggestion from 2007, and not a special property of self-modifying agents. It also holds only under conditions the essay omits: divisible resources, diminishing returns, and an interior solution. Where returns are increasing or goods are lumpy, a rational agent concentrates rather than equalizing."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "In our society, this common currency of expected utilons is called “money.” It is the measure of how much society cares about something.",
+    "content": "The essay's own first paragraph refutes this sentence. If rational agents equalize <em>marginal</em> benefit per dollar, prices measure what society would give for one more unit, not how much it cares about the thing — which is the diamond–water paradox that Adam Smith posed and marginalism resolved: water is cheap and indispensable. Prices also weight each person's preferences by their wealth, so a market “measure of caring” counts a billionaire's whim above a poor family's need. Money measures willingness to pay at the margin. Calling that “caring” is the slide the essay describes as brutal and obvious."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "There is this very, very old puzzle/observation in economics about the lawyer who spends an hour volunteering at the soup kitchen, instead of working an extra hour and donating the money to hire someone to work for five hours at the soup kitchen.",
+    "content": "The arithmetic assumes the lawyer can sell one more hour at the margin. Most workers cannot: hours are set by employers and contracts, and people's actual working hours differ systematically from the hours they would choose at their wage (<a href=\"https://doi.org/10.1086/298183\">Altonji &amp; Paxson, 1988</a>). An hour of Saturday volunteering is usually not convertible into an hour of billable work. And the time spent is not merely a cost to the volunteer: people who spend time helping others report feeling that they have <em>more</em> time afterwards (<a href=\"https://doi.org/10.1177/0956797612442551\">Mogilner, Chance &amp; Norton, 2012</a>). The “grownup” calculation leaves out the constraint that makes it irrelevant for most people."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "if you would, in fact, spend $5 on a burrito, then whatever you will not spend $5 on, you care about less than you care about the burrito.",
+    "content": "Revealed preference works for private goods and fails for public ones, which is what charity mostly buys. Five dollars on a burrito buys the whole burrito; five dollars to a cause buys a vanishing share of an outcome that others are also funding, and that the donor will enjoy whether or not they contribute. A person who cares enormously about malaria eradication can rationally decline to give $5 to it, because the difference their $5 makes is tiny — which is the standard free-rider result, and why models of giving need a “warm glow” to explain why anyone gives at all (<a href=\"https://doi.org/10.2307/2234133\">Andreoni, 1990</a>). Not spending on a public good does not reveal not caring about it."
+  }
+]

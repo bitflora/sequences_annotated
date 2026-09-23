@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "And this, despite all skepticism, looks like it’s actually a pretty useful measure of some things, if you ask 100 people and average the results.",
+    "content": "Averaging is exactly the step that has turned out to be fragile. Self-reported happiness is an ordinal response on a bounded scale; <a href=\"https://doi.org/10.1086/701679\">Bond &amp; Lang (2019)</a> showed that for most published comparisons of mean happiness between groups, a monotone rescaling of the underlying variable — equally consistent with the responses — reverses which group is happier. On the other side, some famous threats to the measure have faded: the claim that sunny weather inflates life-satisfaction reports all but vanished in samples of over a million (<a href=\"https://doi.org/10.1037/a0032124\">Lucas &amp; Lawless, 2013</a>). The essay's instinct that the measure is useful for “some things” is right; averaging 1-to-10 answers across groups is one of the things it is least good for."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "High schools do nothing but teach to statewide tests.",
+    "content": "Campbell's law, stated almost word for word and uncredited (<a href=\"https://doi.org/10.1016/0149-7189(79)90048-X\">Campbell, 1979</a>: “the more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures”). The empirical record is more mixed than “nothing but.” After No Child Left Behind introduced high-stakes state tests, fourth-grade maths scores rose not only on the gamed state tests but on the low-stakes national assessment that nobody taught to (<a href=\"https://doi.org/10.1002/pam.20586\">Dee &amp; Jacob, 2011</a>). Gameable measures degrade, and they also sometimes work; the useful question is when."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I consider it drop-dead obvious that the task of verifying acquired skills and hence the power to grant degrees should be separated from the institutions that do the teaching",
+    "content": "Not obvious, but correct, and already practised. Many countries set curriculum-based external exit examinations; comparisons across countries and across German states find higher achievement where examinations are set centrally rather than by the teaching school (<a href=\"https://doi.org/10.1080/09645290500031165\">Woessmann, 2005</a>), and British universities have long used external examiners from other institutions to moderate degree classifications. The proposal is a good one with a track record; it would have been stronger for knowing it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If a hedge fund posts 20% returns, are they really that much better than the indices, or are they selling puts that will blow up in a down market?",
+    "content": "Exactly right, and the example has a source. <a href=\"https://doi.org/10.2469/faj.v57.n6.2490\">Lo (2001)</a> constructed a hypothetical fund, “Capital Decimation Partners,” that did nothing but sell out-of-the-money index puts, and showed that it would have posted a stellar, low-volatility record through most of the 1990s — the kind of record that attracts investors — while carrying a large hidden probability of ruin. The general answer to the essay's organizational-level question is also known for forecasts: a proper scoring rule, under which a forecaster maximizes expected score only by reporting honest probabilities (<a href=\"https://doi.org/10.1198/016214506000001437\">Gneiting &amp; Raftery, 2007</a>), is a verification method that resists gaming by construction."
+  }
+]

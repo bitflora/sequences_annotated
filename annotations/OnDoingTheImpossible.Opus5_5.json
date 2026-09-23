@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "and realized that I had overestimated the difficulty of almost every single important problem.",
+    "content": "Two problems. First, the best-established finding about how people estimate difficulty is the opposite: they underestimate how long and how hard their own projects will be (<a href=\"https://doi.org/10.1037/0022-3514.67.3.366\">Buehler, Griffin &amp; Ross, 1994</a>). Second, the sample is selected. The “important problems” counted are the ones that became tractable to the author; the central one — a provably Friendly AI, which the essay says became “merely extremely difficult” — was not solved, and in 2022 the author published “MIRI announces new ‘Death With Dignity’ strategy” — on April Fools' Day, and explicitly not as a joke — concluding that the problem would probably not be solved in time. By the essay's own principal test case, the difficulty was not overestimated."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Richard Hamming used to go around asking his fellow scientists two questions: “What are the important problems in your field?,” and, “Why aren’t you working on them?”",
+    "content": "Hamming defined the phrase, in the same talk (“You and Your Research,” 1986), in a way that excludes this essay's use of it. He said that he and his colleagues did not work on time travel, teleportation or antigravity, and that these were <em>not</em> important problems, “because we do not have an attack”; importance, for Hamming, meant a problem whose solution would matter <em>and</em> for which there was a reasonable line of attack. The essay borrows his authority for the opposite claim — that “not uncommonly, the most important problems in your field are impossible.” For Hamming, a problem without an attack was the very thing you should not be working on."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "That’s why you don’t see more philosophers working on reductionist decompositions of consciousness.",
+    "content": "You see many. Reductive and functionalist accounts of consciousness are a large literature — Dennett, the Churchlands, higher-order theories, global workspace theory — and the empirical programmes descended from them are now tested head-to-head: the preregistered adversarial collaboration between global neuronal workspace and integrated information theory published its results in <a href=\"https://doi.org/10.1038/s41586-025-08888-1\"><em>Nature</em> (Cogitate Consortium, 2025)</a>, with each theory failing some of its own predictions. That is what working on the “impossible” problem looks like when a field does it. The sentence mistakes the author's not having read the literature for its absence."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "And I realized that the word “impossible” had two usages:",
+    "content": "A useful distinction as far as it goes, but the list omits the categories that most often matter. A problem can be possible in principle and computationally intractable (NP-hard, or undecidable in general, as Rice's theorem makes most interesting program properties); possible and infeasible with any resources that will exist in time; or impossible in its stated form because the specification is inconsistent, as Arrow's theorem shows for some demands on aggregating preferences — the kind of demand an AI meant to act on “humanity's values” makes. The essay's dichotomy makes every non-proof “impossible” a failure of nerve; the missing categories are where most sensible judgments of impossibility live."
+  }
+]

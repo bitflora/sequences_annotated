@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "For a long time, I thought that the moral of this story was that experience was no match for sheer raw native intelligence.",
+    "content": "A warning that applies to the whole of this sequence. Twelve essays reconstruct what the author believed as a teenager and why, from memory, and cast the earlier self as a named character (Eliezer<sub>1995</sub>, Eliezer<sub>1996</sub>…) to be diagnosed. Autobiographical memory is rebuilt to fit the rememberer's current self-image (<a href=\"https://doi.org/10.1037/0033-295X.107.2.261\">Conway &amp; Pleydell-Pearce, 2000</a>), and people who believe they have changed exaggerate how bad they used to be: <a href=\"https://doi.org/10.1037/0033-295X.96.2.341\">Ross (1989)</a> on implicit theories of change, and <a href=\"https://doi.org/10.1037/0022-3514.80.4.572\">Wilson &amp; Ross (2001)</a>, “From chump to champ,” on derogating past selves to manufacture a sense of progress. The genre here — a wiser present self narrating a foolish past self — is the exact configuration those studies found to be least reliable. Read the sequence as parable, not as data about how minds go wrong."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It was dysrationalia that did them in; they used their intelligence only to defeat itself.",
+    "content": "Dysrationalia is Stanovich's term for a measured gap between intelligence and performance on rational-thinking tasks; no measurement is taken here, so the word is doing the work of a diagnosis without one. The actual correlation between intelligence and religiosity is modest — about −.20 in <a href=\"https://doi.org/10.1177/1088868313497266\">Zuckerman, Silberman &amp; Hall's (2013)</a> meta-analysis — which means very large numbers of highly intelligent people are religious for reasons the correlation does not capture. Religious continuity across generations is predicted chiefly by family warmth and community ties, not by the quality of the parents' reasoning (Bengtson, <em>Families and Faith</em>, 2013; a book, no DOI). Explaining one's parents' religion as a cognitive malfunction is the kind of move the sequences elsewhere call “Are your enemies innately evil?”"
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "We are the cards we are dealt, and intelligence is the unfairest of all those cards. More unfair than wealth or health or home country",
+    "content": "Checkable, and wrong on the most important comparison. <a href=\"https://doi.org/10.1162/REST_a_00432\">Milanović (2015)</a> found that country of residence alone accounts for more than half of the variation in individual income across the world, and that adding parental income class raises the share much further; nothing about cognitive ability comes close at global scale. Within a single country, <a href=\"https://doi.org/10.1016/j.intell.2006.09.004\">Strenze's (2007)</a> meta-analysis puts intelligence's correlation with income at about .2, comparable to parental socioeconomic status — real, but not the unfairest card. The “happiness set-point” in the same list is also less fixed than implied: <a href=\"https://doi.org/10.1037/0022-3514.88.1.158\">Fujita &amp; Diener (2005)</a> found about a quarter of a large German panel shifting significantly over seventeen years. The sentence is a feeling, stated as a ranking."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "just try explaining the Prisoner’s Dilemma to a chimpanzee, right?",
+    "content": "The essay offers the young self's argument as the obvious error, but the human data partly side with the young self. Smarter groups cooperate more in repeated Prisoner's Dilemmas (<a href=\"https://doi.org/10.1086/701355\">Proto, Rustichini &amp; Sofianos, 2019</a>), and children with higher childhood IQ grow into adults with more tolerant and egalitarian attitudes (<a href=\"https://doi.org/10.1111/j.1467-9280.2008.02036.x\">Deary, Batty &amp; Gale, 2008</a>). As for the chimpanzee, in competitive games chimpanzees converge on the equilibrium faster than humans do (<a href=\"https://doi.org/10.1038/srep05182\">Martin et al., 2014</a>). What refutes “superintelligence implies supermorality” is not an observation but an argument about possible minds (orthogonality), and the systems actually built since then acquired a fluent command of human ethics along with their capabilities — the open question moved from whether a smart system can know what is good to whether knowing is enough. The essay's rebuttal rests on a possibility claim, not the data."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "It was just massively obvious in retrospect that smarter-than-human intelligence was going to change the future more fundamentally than any mere material science.",
+    "content": "“Massively obvious in retrospect” is hindsight with the dates filed off. The idea the young author “encountered” has a named origin — <a href=\"https://doi.org/10.1016/S0065-2458(08)60418-0\">I. J. Good (1965)</a> on the ultraintelligent machine as “the last invention that man need ever make,” popularized by Vinge in 1993 — and it has been tested as an economic prediction. <a href=\"https://doi.org/10.1257/mac.20170105\">Nordhaus (2021)</a> derived seven observable signatures an approaching growth singularity should produce and found, as of his data, that most pointed the other way. Whatever one now thinks of AI's trajectory, the proposition was a forecast with evidence for and against it, not something a sixteen-year-old could see at a glance."
+  }
+]

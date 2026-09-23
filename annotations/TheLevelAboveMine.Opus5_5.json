@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "For whatever reason, the sense I get of Jaynes is one of terrifying swift perfection—something that would arrive at the correct answer by the shortest possible route, tearing all surrounding mistakes to shreds in the same motion.",
+    "content": "Jaynes was a great probabilist, and he was also wrong in public, forcefully. His reply to the marginalization paradoxes of <a href=\"https://doi.org/10.1111/j.2517-6161.1973.tb00952.x\">Dawid, Stone &amp; Zidek (1973)</a> did not persuade them or most statisticians, and the later survey of formal prior rules sided with the paradox (<a href=\"https://doi.org/10.1080/01621459.1996.10477003\">Kass &amp; Wasserman, 1996</a>). His 1989 essay “Clearing up mysteries” argued that Bell's theorem rested on a probabilistic error; the experiments since, culminating in the loophole-free Bell tests of 2015, went against the local-realist conclusion he was defending. <em>Probability Theory: The Logic of Science</em> was unfinished at his death and completed by an editor. The “terrifying swift perfection” is, as the essay half-admits, an effect of reading one polished book — the halo effect Book II describes."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It’s a general rule, I’ve observed, that you can’t discriminate between levels too far above your own.",
+    "content": "Flagged by the essay itself as “a cool-sounding wild guess,” and then used to explain why nobody senses the author's own level. What is known is that people judge intelligence moderately well from brief exposure — correlations with measured IQ around .3–.4 for strangers (<a href=\"https://doi.org/10.1037/0022-3514.65.3.546\">Borkenau &amp; Liebler, 1993</a>) — with no documented ceiling above which the raters' own ability stops them discriminating. The claim has the convenient property that any failure to be recognized as brilliant becomes evidence of the observer's limits rather than one's own."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I’ll hit a brick wall at 40",
+    "content": "The age–achievement literature does not have a brick wall at 40. <a href=\"https://doi.org/10.1162/rest.2009.11724\">Jones (2010)</a> found that the typical age of great invention and Nobel-winning work rose through the twentieth century into the late thirties and beyond, and even for mathematics, the canonical young person's field, productivity does not collapse with age (<a href=\"https://doi.org/10.1177/030631277800800105\">Stern, 1978</a>). The fear shapes the strategy the essay announces — pass the resources to a younger mind — so it matters that the premise is folklore."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Because I do know… that’s not how it works.",
+    "content": "The evidence is mixed, and the essay only knows half of it. On one side, <a href=\"https://doi.org/10.1126/science.178.4059.368\">Cole &amp; Cole (1972)</a> found that important physics builds mostly on the work of other elite physicists, not on a broad base of ordinary contributions — which supports the essay. On the other, <a href=\"https://doi.org/10.1126/science.aaf5239\">Sinatra et al. (2016)</a>, tracking thousands of careers, found a scientist's highest-impact paper equally likely to be any paper in their sequence, with impact decomposing into a stable personal parameter multiplied by a large component of luck. “Important things” are done by the very able, more often than chance would predict, and by others often enough that “that's not how it works” is a claim about temperament rather than about how science works."
+  }
+]

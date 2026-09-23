@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I generalized that any math simple enough to be formalized in a neat equation was probably not going to work for, you know, real intelligence.",
+    "content": "The history since has refuted both the young author and the mature one. What produced the capable systems of the 2020s was a very neat piece of math — minimize next-token cross-entropy by gradient descent — applied at scale, with performance following smooth power laws in parameters, data and compute (<a href=\"https://arxiv.org/abs/2001.08361\">Kaplan et al., 2020</a>). That falsifies “no neat equation.” But it equally fails to vindicate the corrected view the essay moves to, that the math of intelligence is Bayes and decision theory: none of the working systems computes a posterior or maximizes an explicit expected utility. Sutton's “bitter lesson” — general methods plus computation beat hand-built insight about minds — is the moral the record supports, and neither Eliezer in this essay predicted it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "I had mostly written it off as a sick, dead field.",
+    "content": "In the years the essay describes (1996–2000), the field produced Pearl's graphical models, support-vector machines (<a href=\"https://doi.org/10.1007/BF00994018\">Cortes &amp; Vapnik, 1995</a>), TD-Gammon playing backgammon at world-class level by self-play (<a href=\"https://doi.org/10.1145/203330.203343\">Tesauro, 1995</a>), Deep Blue, and convolutional networks reading cheques commercially (<a href=\"https://doi.org/10.1109/5.726791\">LeCun et al., 1998</a>). The essay concedes it was wrong and blames reading “the wrong Artificial Intelligence books,” but the error is worth naming precisely: it is the outside-view dismissal of a whole discipline from its public reputation, the same move the book elsewhere condemns when others make it about cryonics or the singularity."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "even though I now think that an Artificial Intelligence should look nothing like a human brain.",
+    "content": "This is the prediction the subsequent decade tested hardest, and it failed. The successful architectures descend directly from neuroscience: the convolutional network from Hubel and Wiesel's simple and complex cells via Fukushima's <a href=\"https://doi.org/10.1007/BF00344251\">neocognitron (1980)</a>, temporal-difference learning from the same mathematics that turned out to describe dopamine neurons (<a href=\"https://doi.org/10.1126/science.275.5306.1593\">Schultz, Dayan &amp; Montague, 1997</a>). The winning vision networks are also the best existing models of primate ventral stream responses (<a href=\"https://doi.org/10.1073/pnas.1403112111\">Yamins et al., 2014</a>), and the leaders of the labs that built them credit that lineage explicitly (<a href=\"https://doi.org/10.1016/j.neuron.2017.06.011\">Hassabis et al., 2017</a>). An AI need not copy a brain; the ones that work, however, resemble one more than any other design on offer in 2008."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "What you actually end up doing screens off the clever reason why you’re doing it.",
+    "content": "This is outcome bias, presented as a principle. <a href=\"https://doi.org/10.1037/0022-3514.54.4.569\">Baron &amp; Hershey (1988)</a> showed that people rate the same decision as better when it happens to turn out well, and treat that as a reasoning error; the moral here does the same thing, grading a line of reasoning by where it happened to lead. It also misuses “screens off”: the reason for an action is what determines what you will do in the <em>next</em> situation, where the same reasoning may lead you not to read the books, so it is exactly the variable that is not screened off for anyone deciding whether to adopt it. The essay's own next paragraph admits the successes were “semi-accidental” — which is the argument against this moral, not for it."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "you should chalk this up to the anthropic principle: if I’d fallen into a true dead end, you probably wouldn’t be hearing from me in this book.",
+    "content": "The honest thing in this essay, and it undercuts the project it introduces. The stated purpose of the sequence is “to leave a trail to where I ended up,” so that others need not rely on luck. But a trail drawn by a survivor is the sample survivorship bias corrupts: the people who followed similar reasoning and ended in dead ends are invisible, so the features the survivor attributes his success to cannot be distinguished from features every failure also had (<a href=\"https://doi.org/10.1287/orsc.14.2.227.15164\">Denrell, 2003</a>). Lessons extracted from one survived path are hypotheses at best."
+  }
+]

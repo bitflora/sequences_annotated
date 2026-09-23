@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "When subjects know about a bias or are warned about a bias, overcorrection is not unheard of as an experimental result.",
+    "content": "Correct, and the literature explains when. People correct for a bias according to their naive theory of its direction and size, so when the theory is wrong or exaggerated they overcorrect, sometimes producing a bias in the opposite direction (<a href=\"https://doi.org/10.1037/0022-3514.68.1.36\">Wegener &amp; Petty, 1995</a>). That is a real danger for readers of these books, who have been given many naive theories about their biases. It is not, however, evidence that underconfidence is common; it is evidence that correction without measurement is unreliable in either direction."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It is said that this is linked to defining yourself in terms of your “intelligence” rather than “effort,”",
+    "content": "This is Carol Dweck's mindset theory, and its large claims have shrunk under testing. Meta-analyses found the correlation between growth mindset and academic achievement to be very weak, and the average effect of mindset interventions on achievement near zero (<a href=\"https://doi.org/10.1177/0956797617739704\">Sisk et al., 2018</a>). A large preregistered national trial found a small effect, concentrated among lower-achieving students (<a href=\"https://doi.org/10.1038/s41586-019-1466-y\">Yeager et al., 2019</a>). “It is said” carries a claim whose robust core is much smaller than the essay's use of it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "So that was how I learned that doubting yourself does not always make you stronger—especially if it interferes with your ability to be moved by good information, such as your math intuitions.",
+    "content": "The anecdote may be true of the author; the lesson it is used to support is the reverse of what testing finds for most people. When students change answers on multiple-choice exams, changes from wrong to right outnumber changes from right to wrong, roughly two to one, and people nonetheless believe that sticking with the first instinct is wiser — because the painful memory of changing a right answer is more vivid (<a href=\"https://doi.org/10.1037/0022-3514.88.5.725\">Kruger, Wirtz &amp; Miller, 2005</a>). The closing story of an essay about calibrating confidence is a textbook case of the first-instinct fallacy."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Because underconfidence actually does seem quite common among aspiring rationalists who I meet—though rather less common among rationalists who have become famous role models—I would indeed name it third among the three besetting sins of rationalists.",
+    "content": "The ranking rests on the author's impressions of the people who approach him, a sample selected in ways that bear directly on the question (the confident do not ask for advice; the timid do). No measurement is offered, although calibration is one of the few rationality skills that can be measured easily. The one population where it has been measured at scale — forecasters trained in probabilistic reasoning — showed overconfidence rather than underconfidence, reduced but not reversed by training and experience (<a href=\"https://doi.org/10.1287/mnsc.2016.2525\">Moore et al., 2017</a>). An essay whose first advice is “if there's a way to find out how good you are, test it” assigns its headline sin without testing."
+  }
+]

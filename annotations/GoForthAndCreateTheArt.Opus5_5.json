@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "As David Stove observes, most “great thinkers” in philosophy, e.g., Hegel, are properly objects of pity.",
+    "content": "Stove's <em>The Plato Cult</em> is a polemic, and its method is ridicule — quotation of passages chosen to sound absurd, followed by mockery — not observation. Citing it as though it had established a finding about the history of philosophy is an argument from a sympathetic author's authority. The essay's larger claim, that people who set out to theorize about thinking usually produce fake answers, may well be true; Stove is not evidence for it, and Hegel, whose influence on the history of social thought, logic and historiography is not in doubt, is a strange example of an object of pity."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And so instead they… go off and invent Freudian psychoanalysis. Or a new religion. Or something. That’s what happens by default, when people start thinking about thinking.",
+    "content": "The warning applied closer to home than the essay anticipated. Within a decade, the milieu formed around these writings had produced several groups organized around a charismatic founder's theories of mind and technique, with the features Russell listed in <em>Epistemic Viciousness</em>: former members of Leverage Research published accounts of its practices in 2021, and a later splinter group formed around its founder's idiosyncratic decision theory and theories of the mind was linked by authorities to several violent deaths. The book supplied a vocabulary for spotting fake explanations; it did not supply the institutional protections — external verification, exit, dispersed authority — that the psychotherapy and martial-arts examples show are needed."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "To the best of my knowledge there is no true science that draws its strength from only one person. To the best of my knowledge that is strictly an idiom of cults.",
+    "content": "The best sentence in the essay, and one of the best supported. The history of science is full of multiple independent discoveries — calculus, natural selection, oxygen, the conservation of energy — and statistical analysis of hundreds of such cases finds them occurring about as often as a model of many researchers working in parallel on ripe problems predicts (<a href=\"https://doi.org/10.1037/0022-3514.37.9.1603\">Simonton, 1979</a>). A science's findings belong to the state of its field, not to a person. The reader should apply the sentence where the essay does not: to a body of work written almost entirely by one author, for a community named after his website."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "But maybe I’m wrong, and the next leg of the work will be done by direct, specific investigation of “rationality,” without any need of a specific application considered more important.",
+    "content": "This hedge proved right, and the author's own guess wrong. The durable advances in teachable rationality since 2009 came from direct, specific investigation: randomized trials of probabilistic-reasoning training in forecasting tournaments (<a href=\"https://doi.org/10.1017/S1930297500004599\">Chang et al., 2016</a>), debiasing interventions evaluated with field transfer (<a href=\"https://doi.org/10.1177/0956797619861429\">Sellier, Scopelliti &amp; Morewedge, 2019</a>), and the measurement of decision-making competence as an individual difference. They were done mostly by academic researchers who had never read this book, and they answered, at least in part, the question <em>Three Levels of Rationality Verification</em> posed."
+  }
+]

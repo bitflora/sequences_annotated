@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But none of those donors posted their agreement to the mailing list. Not one.",
+    "content": "The diagnosis is good, and there is field-experimental evidence for the remedy the essay reaches at the end. When students at the University of Zurich were told that a high share of their peers had contributed to a university social fund, their own contributions rose (<a href=\"https://doi.org/10.1257/0002828043052187\">Frey &amp; Meier, 2004</a>); when public-radio pledge-drive callers heard that a previous donor had given a large amount, they gave more (<a href=\"https://doi.org/10.1111/j.1468-0297.2009.02267.x\">Shang &amp; Croson, 2009</a>). Visible giving begets giving, and invisible giving next to visible objection produces the pluralistic ignorance the essay names correctly. The synagogue's format is supported by the data."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "In the end the Light Side will always lose in any group conflict, and the future inevitably belongs to the Dark.",
+    "content": "The essay rejects the fatalism but grants the premise — that fanatical unity beats pluralist disunity in conflict — and the premise is false on the evidence. Democracies have won the large majority of the wars they initiated and a majority of those they were drawn into (<a href=\"https://doi.org/10.2307/2585670\">Reiter &amp; Stam, 1998</a>), and terrorist groups pursuing their stated political aims through violence against civilians have rarely achieved them (<a href=\"https://doi.org/10.1162/isec.2006.31.2.42\">Abrahms, 2006</a>). The pluralist societies the essay worries about have, over the past century, outlasted the fanatically unified ones. The coordination problem it describes is real, but it is not the problem that decides who wins."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I recall a lovely experiment which showed that politically opinionated students with more knowledge of the issues reacted less to incongruent evidence",
+    "content": "The “lovely experiment” is Taber &amp; Lodge (2006), and the family of findings it belongs to has not held up well. Three large preregistered experiments looking for attitude polarization in response to balanced evidence found that people of all prior views moved in the same direction as the evidence, by similar amounts (<a href=\"https://doi.org/10.1017/S0007123418000327\">Guess &amp; Coppock, 2020</a>). The companion claim that numerate partisans reason worse about politically uncongenial data failed a preregistered replication (<a href=\"https://doi.org/10.1016/j.cognition.2021.104768\">Persson et al., 2021</a>). The essay's larger claim — that partial rationality can arm motivated reasoning — may be true, but its one piece of evidence is weaker than it was in 2009."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Can you imagine training prospective rationalists to wear a uniform and march in lockstep, and practice sessions where they agree with each other and applaud everything a speaker on a podium says?",
+    "content": "This has been tested, and it works as advertised — for everything. Acting in synchrony increases subsequent cooperation in economic games (<a href=\"https://doi.org/10.1111/j.1467-9280.2008.02253.x\">Wiltermuth &amp; Heath, 2009</a>); it also increases compliance with an instruction to harm a third party (<a href=\"https://doi.org/10.1016/j.jesp.2011.10.007\">Wiltermuth, 2012</a>). The coordination technology the essay proposes is content-neutral, which is exactly why armies and cults use it. Training people to agree is not the mirror image of training them to disagree; one of the two techniques leaves them able to notice when the podium is wrong."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "it is an elementary proposition that an uncoordinated mob gets slaughtered.",
+    "content": "True, and beside the point, because the military alternative to the mob is not the ignorant, order-following group 1. Modern doctrine — German <em>Auftragstaktik</em>, now mission command in NATO armies — trains subordinates in the commander's intent precisely so that they can deviate from orders intelligently when circumstances change, and the armies that practised it are usually credited with outfighting larger forces. Group 2, “everyone knows tactics and strategy,” is the goal of that doctrine, not a mob. The analogy supports teaching people to understand the purpose of a group effort, not practising agreement."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Cooperation is unstable, in both game theory and evolutionary biology, without some kind of punishment for defection.",
+    "content": "Stated as a law, and it is not one. <a href=\"https://doi.org/10.1126/science.1133755\">Nowak (2006)</a> reviews five distinct mechanisms that sustain cooperation — kin selection, direct reciprocity, indirect reciprocity via reputation, network structure and group selection — none of which requires costly punishment. Where punishment has been tested directly, it often destroys more value than it protects: in a repeated Prisoner's Dilemma with a punishment option, the players who earned the most were those who never punished (<a href=\"https://doi.org/10.1038/nature06723\">Dreber et al., 2008</a>). Withholding cooperation from defectors, or simply choosing other partners, does the work; the essay's premise is one mechanism among several, promoted to a necessity."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "then that is punishment of non-punishers, a far more dangerous idiom that can lock an equilibrium in place even if it’s harmful to everyone involved.",
+    "content": "This is the best insight in the essay, and it is a theorem. <a href=\"https://doi.org/10.1016/0162-3095(92)90032-Y\">Boyd &amp; Richerson (1992)</a> showed that once punishment extends to those who fail to punish, it can stabilize cooperation in large groups — or, as their title says, “anything else,” including norms that harm everyone. Sociologists then showed the mechanism in people: individuals who privately reject a norm publicly enforce it, and sanction others for not enforcing it, to prove their own sincerity (<a href=\"https://doi.org/10.1086/427321\">Centola, Willer &amp; Macy, 2005</a>; experimentally, <a href=\"https://doi.org/10.1086/599250\">Willer, Kuwabara &amp; Macy, 2009</a>). The essay gets both the structure and the danger right."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "I wouldn’t be surprised to find it a human universal; it does have an obvious evolutionary rationale—one which would make it a very unpleasant and dangerous adaptation.",
+    "content": "Asserted, not tested — and when tested, people turn out to be reluctant second-order punishers. In public-goods experiments that allowed it, participants were far more willing to reward those who rewarded cooperators than to punish those who failed to punish, and second-order punishment did little to sustain cooperation (<a href=\"https://doi.org/10.1037/a0011381\">Kiyonari &amp; Barclay, 2008</a>). The false-enforcement effect is real but is driven by fear of looking insincere, which is a social mechanism with a social remedy, not an adaptation. “Obvious evolutionary rationale” is the phrase the book warns about in <em>Evolutionary Psychology</em>."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I certainly don’t believe in being “intolerant of intolerance,” as some inconsistently hold.",
+    "content": "There is a well-known consistent version, and it is older than the essay's objection. Popper's paradox of tolerance (<em>The Open Society and Its Enemies</em>, 1945) argues that unlimited tolerance leads to the disappearance of tolerance, and so a tolerant society may withhold tolerance from those who would destroy it; Rawls (<em>A Theory of Justice</em>, §35) refines this to a rule of tolerating the intolerant unless they threaten the institutions of liberty. One can disagree with both. Calling the position “inconsistent” without meeting either formulation is a straw man."
+  }
+]

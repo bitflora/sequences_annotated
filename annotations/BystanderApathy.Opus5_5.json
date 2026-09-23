@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Seventy-five percent of the subjects will leave to report it.",
+    "content": "The figures are reported accurately from <a href=\"https://doi.org/10.1037/h0026570\">Latané &amp; Darley (1968)</a>: 75% alone, 38% of three-person groups, 10% with two passive confederates. The samples behind them were small — two dozen solo participants, eight groups of three, ten participants with confederates — as was normal for social psychology then. The smoke study is a vivid, much-cited demonstration built on a few dozen Columbia students, and the book presents it with “will,” as though it were a law of human behaviour."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The bystander effect, also known as bystander apathy, is that larger groups are less likely to act in emergencies—not just individually, but collectively.",
+    "content": "The collective version is the one that fails. <a href=\"https://doi.org/10.1037/a0023304\">Fischer et al. (2011)</a>, meta-analysing over a hundred studies, found the classic effect in ambiguous, low-danger situations but attenuated or reversed in clearly dangerous emergencies. In real public conflicts captured on CCTV in three countries, at least one bystander intervened in about nine in ten incidents, and the chance that someone helped went <em>up</em> with the number of bystanders (<a href=\"https://doi.org/10.1037/amp0000469\">Philpot et al., 2020</a>). Each individual may be less likely to act in a crowd, but crowds as a whole help. The essay's opening definition asserts the reverse."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "(Come to think, I can’t actually recall seeing shyness discussed in analyses of the bystander effect, but that’s probably just my poor memory.)",
+    "content": "It is central to them. Latané and Darley's original model has three processes, and the third, “audience inhibition,” is fear of embarrassment at acting wrongly in front of others; the standard review of the first two decades of research treats it as one of the three core mechanisms (<a href=\"https://doi.org/10.1037/0033-2909.89.2.308\">Latané &amp; Nida, 1981</a>). The essay's guess about status and choking is a speculative reconstruction of a mechanism that was in the founding paper."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If the experimental subjects actually know the apparent victim, the chances of helping go way up",
+    "content": "Correct, but the explanation the essay draws from it — that acquaintance restores ancestral-band instincts — is not what the later work found. What matters is shared social identity, and the identity can be one that no ancestor ever had: in <a href=\"https://doi.org/10.1177/0146167204271651\">Levine et al. (2005)</a>, football supporters were far more likely to help an injured stranger wearing their own team's shirt than a rival team's or a plain one, and widening the salient identity to “football fans” widened who was helped. Group cohesion among bystanders also increases helping (<a href=\"https://doi.org/10.1037/0022-3514.44.3.545\">Rutkowski, Gruder &amp; Romer, 1983</a>). The mechanism is flexible, category-based and modern, which is why it can be recruited."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "telling people about the bystander effect reduces the bystander effect",
+    "content": "The source is <a href=\"https://doi.org/10.1177/014616727800400309\">Beaman et al. (1978)</a>: students who heard a lecture on bystander intervention helped a stranger in an ambiguous situation more often two weeks later than controls did. It is one of the few demonstrations that learning about a bias reduces it in a new setting, and the essay rightly calls it unusual. It rests on one study with modest samples, and it reduces an effect that turns out to be much weaker in the field than in the laboratory."
+  }
+]

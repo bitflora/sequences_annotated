@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Who are they thinking of? Probably an Objectivist or some such. Maybe someone they know who’s an ordinary scientist. Or an ordinary atheist.",
+    "content": "The move here is worth naming: someone reports that the rational people they know aren't happier, and the reply is that those people were not really rational — not enough Bayes, not the right kind. That is the no-true-Scotsman structure, and it makes the claim “rationality makes you visibly more formidable” immune to every observation of rational-seeming people who aren't. There is evidence that measured decision-making competence predicts better life outcomes independent of intelligence (<a href=\"https://doi.org/10.1037/0022-3514.92.5.938\">Bruine de Bruin, Parker &amp; Fischhoff, 2007</a>) — which is the kind of evidence the essay could have cited, instead of defining the counterexamples away."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There are experiments done now and again on debiasing interventions for particular biases, but it tends to be something like, “Make the students practice this for an hour, then test them two weeks later.”",
+    "content": "The derided hour-long interventions turned out to be where the durable results are. An hour of training in probabilistic reasoning, given at random to forecasters in the IARPA tournaments, improved accuracy by around 6–11% over the following year of real forecasting (<a href=\"https://doi.org/10.1017/S1930297500004599\">Chang et al., 2016</a>). A single session of a debiasing video game reduced confirmation bias and related errors months later, and transferred to decisions in a disguised business case outside the training context (<a href=\"https://doi.org/10.1177/0956797619861429\">Sellier, Scopelliti &amp; Morewedge, 2019</a>). The “Casual Potshots That Require Like An Hour Of Effort” produced the evidence-based training the essay says does not exist; the three-month program with a five-year follow-up still has not been run by the people who proposed it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "they could tell when they had hit someone; and the schools competed against each other regularly in realistic contests with clearly-defined winners.",
+    "content": "For most of the history of the Asian martial arts this is false, and the very next essay says so. Traditional schools generally forbade or avoided open contests with rivals; when realistic, few-rules competition did arrive — Brazilian vale tudo, and in 1993 the first Ultimate Fighting Championship — most traditional styles performed badly and were quickly displaced by wrestling and grappling. The martial arts are an example of what happens to a practice that does <em>not</em> verify, which is the argument of Gillian Russell's “Epistemic Viciousness” quoted in the next essay. The analogy is sound only in reverse."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The chief obstacle to doing this the way it really should be done is the difficulty of testing the results of rationality training programs, so you can have evidence-based training methods.",
+    "content": "Correct, and the most important sentence in the essay. Without a way to tell successful training from failure, a discipline of rationality will select for what feels effective and what its founders already believed — exactly the dynamic of the martial-arts schools. The question to put to everything that follows in this sequence, and to the organizations founded on it, is whether this obstacle was ever surmounted; on the published record, the answer is that the forecasting tournaments and the debiasing laboratories surmounted it and the rationality community largely did not."
+  }
+]

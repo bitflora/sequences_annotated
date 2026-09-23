@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "So long as I knock to tell them about the open trunk, and so long as the one says “Thank you!,” my brain feels like it’s done its wonderful good deed for the day.",
+    "content": "This part has evidence behind it. People randomly assigned to spend money on others report more happiness afterwards than those assigned to spend it on themselves (<a href=\"https://doi.org/10.1126/science.1150952\">Dunn, Aknin &amp; Norton, 2008</a>), and a large preregistered replication found the effect smaller than the original but real (<a href=\"https://doi.org/10.1037/pspa0000191\">Aknin et al., 2020</a>). That small direct acts of help are emotionally rewarding, and that the reward may sustain further altruism, is a reasonable claim. The “willpower restorer” language is the depletion model again; the happiness effect does not need it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Trying to optimize for all three criteria in one go only ensures that none of them end up optimized very well—just vague pushes along all three dimensions.",
+    "content": "True only if the three goods are separable — if what buys status has no effect on what buys utilons. They are not. Public recognition raises the amount people give (<a href=\"https://doi.org/10.1016/j.jebo.2014.06.013\">Karlan &amp; McConnell, 2014</a>), and visible giving by one donor raises others' giving through social information, so a donation made publicly can purchase status and additional utilons at once. With complementarities, optimizing the combination beats optimizing each separately. Conversely, buying fuzzies first may license doing less afterwards: moral licensing, a small effect in meta-analysis (<a href=\"https://doi.org/10.1177/0146167215572134\">Blanken, van de Ven &amp; Zeelenberg, 2015</a>) whose robustness in preregistered tests is uncertain, is at least a hypothesis the essay should have considered."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "find some hard-working but poverty-stricken woman who’s about to drop out of state college after her husband’s hours were cut back, and personally, but anonymously, give her a cashier’s check for $10,000.",
+    "content": "Offered as the paradigm of inefficient but satisfying giving, it is close to one of the most rigorously tested efficient interventions. Unconditional cash transfers to poor households in Kenya produced large, lasting gains in assets, consumption and wellbeing (<a href=\"https://doi.org/10.1093/qje/qjw025\">Haushofer &amp; Shapiro, 2016</a>), and spilled over into the local economy with a multiplier of about 2.5 (<a href=\"https://doi.org/10.3982/ECTA17945\">Egger et al., 2022</a>). Directly giving money to a poor person was then adopted as the benchmark against which other charities are measured. The separation of fuzzies from utilons turned out to be less sharp than the thought experiment needs."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I would furthermore advise the billionaire that what they spend on utilons should be at least, say, 20 times what they spend on warm fuzzies",
+    "content": "“Say” is where the number comes from. Nothing in the essay derives the ratio from how much fuzzy-purchasing actually sustains the donor's motivation, which is the only justification the essay offers for fuzzies at all. And two essays earlier, <em>Rationality: Common Interest of Many Causes</em> argued that people should be allowed to spread their giving across causes to reduce regret; here all utilon money goes to the single top charity until its marginal return falls. The book offers both pieces of advice without reconciling them."
+  }
+]

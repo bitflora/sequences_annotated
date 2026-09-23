@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Maybe the passage in the Old Testament, “Thou shalt not boil a young goat in its mother’s milk.”",
+    "content": "A small defence of the essay against its critics: the gloss is not baseless. Rabbinic law reads the verse as the source of the separation of meat and milk, and Maimonides (<em>Guide</em> III.48) guessed at a polemic against a pagan rite; but Philo (<em>On the Virtues</em> 143–144) read it as forbidding the perversion of a thing given for nourishment into the instrument of destruction — the mother's milk that sustained the kid used to cook it. That is not far from “someone who helps you shouldn't have their help turned against them.” The essay offers it as a stab in the dark; it lands closer to an ancient reading than the author seems to know."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Or what if genuine lie detectors are invented before the Singularity, sometime over the next thirty years?",
+    "content": "A dated prediction that has run 26 of its 30 years, and the human lie detector has not arrived. The National Research Council's review of polygraph science (<a href=\"https://doi.org/10.17226/10420\">2003</a>) found accuracy well above chance but far below what screening needs, with no prospect of rapid improvement, and fMRI-based detection remains unvalidated for real-world use (<a href=\"https://doi.org/10.1038/nrn3665\">Farah et al., 2014</a>). The irony is that working lie detectors did appear, for machines: probes on the internal activations of language models can often tell when a model's output contradicts what it represents as true (<a href=\"https://arxiv.org/abs/2212.03827\">Burns et al., 2022</a>). The honesty argument was built on a forecast about human technology that did not happen."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Actions screen off justifications.",
+    "content": "Empirically, why you do a thing predicts how well and how long you do it. <a href=\"https://doi.org/10.1037/a0035661\">Cerasoli, Nicklin &amp; Ford's (2014)</a> meta-analysis of four decades of data found intrinsic motivation predicting the quality of performance over and above incentives; reasons for acting shape persistence when the task gets hard, which is the only case the essay cares about. Formally, “screens off” means that once the action is known, the justification adds no further information about the outcome — but the question anyone reading this book faces is which reasoning to adopt <em>before</em> acting, where the reasons are the only thing that is known. The moral is the same outcome-graded principle as <em>My Best and Worst Mistake</em>, and the same objection applies."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Also, perfectionism really matters.",
+    "content": "The research separates two things this word covers. Perfectionistic strivings — high personal standards — are associated with better performance and wellbeing, while perfectionistic concerns — fear of mistakes, self-criticism, the sense that anything less than perfect is failure — predict depression, anxiety, burnout and procrastination (<a href=\"https://doi.org/10.1207/s15327957pspr1004_2\">Stoeber &amp; Otto, 2006</a>; <a href=\"https://doi.org/10.1002/jclp.22435\">Limburg et al., 2017</a>). The essay's own vocabulary (“astronomically high standard,” “Nature does not accept even the most righteous excuses,” “either you match it, or you fail”) is the language of the second kind. The lesson drawn from a single case where perfectionism paid off is the claim the literature most qualifies."
+  }
+]

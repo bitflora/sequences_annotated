@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Thus, modern rabbis are not allowed to overrule ancient rabbis.",
+    "content": "Halakhic tradition has an explicit rule pointing the other way for all but the earliest layers: <em>hilkheta ke-batrai</em>, “the law follows the later authorities,” established in the Geonic period and applied by the medieval codifiers, on the reasoning that later scholars knew the earlier opinions and could weigh them. The Talmud itself tells of a court outvoting a heavenly voice (the oven of Akhnai, Bava Metzia 59b), and on questions of natural fact later authorities developed the doctrine that “nature has changed” precisely to depart from Talmudic biology without denying the Talmud. The decline-of-generations idea is real, but it is one principle in a system that also has mechanisms for development, and the essay presents it as the whole system."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "it expresses a sentiment embodied more intensely in Japanese works than in any Western literature I’ve read.",
+    "content": "The Western canon of striving is not thin — Tennyson's “to strive, to seek, to find, and not to yield,” Longfellow's “Excelsior,” Nietzsche's self-overcoming, the Olympic <em>citius, altius, fortius</em>. More to the point, cultural psychology has found what makes the Japanese version distinctive, and it undercuts the essay's contrast. Japanese participants persist longer after <em>failure</em> and North Americans after success (<a href=\"https://doi.org/10.1037/0022-3514.81.4.599\">Heine et al., 2001</a>), and the self-improvement orientation is bound up with self-criticism — the ritual of <em>hansei</em>, reflecting on one's shortcomings — rather than opposed to it (<a href=\"https://doi.org/10.1037/0033-295X.106.4.766\">Heine et al., 1999</a>). The tradition the essay admires is built on the confession of flaws the essay sets against it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "By the same token, the Ashamnu does not end, “But that was this year, and next year I will do better.”",
+    "content": "The liturgy does not, but the practice it belongs to does. Maimonides' Laws of Repentance (2:2) define repentance as abandoning the sin, regretting it, and resolving before God never to return to it; confession without that resolution is compared to immersing in a ritual bath while holding the source of impurity in one's hand (2:3). Yom Kippur is the culmination of a month of <em>teshuvah</em> whose entire point is to do better next year. The essay describes the one recited text and omits the framework the text sits in — which is the inference from a single ritual to the tradition's whole attitude that it would reject anywhere else."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Never confess to me that you are just as flawed as I am unless you can tell me what you plan to do about it.",
+    "content": "A fair demand, and the evidence on how to meet it favours a gentler route than this essay's temper. <a href=\"https://doi.org/10.1177/0146167212445599\">Breines &amp; Chen (2012)</a> found that people prompted to treat a personal failing with self-compassion were more motivated to improve and spent more time studying after a failure than those prompted to boost their self-esteem or given no prompt. Admitting a flaw without self-flagellation seems to be what makes a plan to fix it more likely. The essay is right that confession is not a plan; it is wrong to imply that confession gets in the way of one."
+  }
+]

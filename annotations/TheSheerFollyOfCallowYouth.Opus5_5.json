@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "But, if we suppose that life has no meaning—that the utility of all outcomes is equal to zero—that possibility cancels out of any expected utility calculation.",
+    "content": "The essay treats this as a confusion so obvious it is painful to transcribe. It is a published position in moral philosophy: <a href=\"https://doi.org/10.1086/505234\">Ross (2006)</a> argues exactly that an agent uncertain whether nihilism is true may act as if it is false, because nihilism gives no action-guidance to weigh; the moral-uncertainty literature treats it as a serious option (<a href=\"https://doi.org/10.1093/oso/9780198722274.001.0001\">MacAskill, Bykvist &amp; Ord, 2020</a>). And the refutation offered below — that the argument “works equally well with utility = 100” — is not a refutation: a theory on which all outcomes are equally valuable also gives no action-guidance and also drops out. That is the point of the argument, not a reductio of it. The real problems (intertheoretic comparison, fanaticism) are ones the essay does not mention."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Don’t ask me to read my old writings; that’s too much pain.",
+    "content": "The old writings exist, are public and are dated — “Staring into the Singularity” (1996), “Coding a Transhuman AI” (1998–2000), <em>Creating Friendly AI</em> (2001). The essay acknowledges one sentence earlier that memory is reconstructed at each recall and that it doesn't trust its own assembly, and then declines to consult the record that would settle the matter. For a book that makes checking your beliefs against evidence the first duty, the sequence narrating the author's intellectual history is built, by choice, on the weaker source."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "No, you don’t use the best concepts you can use at the time.",
+    "content": "As a decision rule this is incoherent. Every option — including stopping to think, waiting, or “shutting down everything” — is an action taken under the current, imperfect concepts, so there is no choice that avoids relying on them. Decision theory's answer to “should I act now or learn more first?” is the value of information (<a href=\"https://doi.org/10.1109/TSSC.1966.300074\">Howard, 1966</a>), which is computed with exactly the best current estimate the essay forbids. The slogan also contradicts the book's own <em>Raised in Technophilia</em>, which counted the deaths caused by regulators who refused to act until they understood; here, refusing to act until confusion dissolves is the lesson."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "We all know what happened to Donald Rumsfeld, when he went to war with the army he had, instead of the army he needed.",
+    "content": "A partisan applause line in a book containing <em>Politics Is the Mind-Killer</em>, and it teaches the wrong lesson. The remark was about vehicle armour in December 2004; the invasion itself succeeded in three weeks, and what failed was the occupation, where the mistakes identified in the official histories were over-confident planning on a single optimistic scenario — not a refusal to wait for perfect concepts. Military doctrine since Moltke says the opposite of this essay: no plan survives contact, so act on the best available picture and adapt. The example is recruited for a moral it does not support."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "The ancient alchemists had no logical way of knowing the exact reasons why it was hard for them to turn lead into gold. So they poisoned themselves and died.",
+    "content": "The historians of alchemy tell a different story. Early modern alchemists were laboratory chemists whose practical results — mineral acids, distillation techniques, pharmaceutical preparations, quantitative mass-balance methods — fed directly into the chemistry that replaced them (Newman &amp; Principe, <em>Alchemy Tried in the Fire</em>, 2002; Principe, <em>The Secrets of Alchemy</em>, 2013; books, no DOI). Some were poisoned, notably Chinese emperors taking mercurial elixirs; the European tradition's typical fate was to become chemistry. So the example teaches the reverse of the essay's moral: people working with confused concepts, putting their weight on best guesses, built the knowledge that dissolved the confusion."
+  }
+]

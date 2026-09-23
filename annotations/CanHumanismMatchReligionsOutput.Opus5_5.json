@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "we can resist motivation for a short time, but then we run out of mental energy (hat tip: infotropism).",
+    "content": "This is ego depletion, the idea that self-control draws on a limited resource that runs down with use — and it is one of the signature collapses of the replication crisis. A 23-laboratory preregistered replication found an effect indistinguishable from zero (<a href=\"https://doi.org/10.1177/1745691616652873\">Hagger et al., 2016</a>), and a second, 36-laboratory attempt designed with the theory's proponents found d ≈ 0.06 (<a href=\"https://doi.org/10.1177/0956797621989733\">Vohs et al., 2021</a>). The essay's explanation of why fear of hell does not produce perfect behaviour, and of why akrasia limits altruism, rests on a mechanism the field no longer supports."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Cognitive-behavioral therapy and Zen meditation are two mental disciplines experimentally shown to yield real improvements.",
+    "content": "For the use proposed here — fighting akrasia in pursuit of a cause — the evidence is thinner than the sentence implies. CBT's trials are mostly of clinical disorders; for procrastination specifically, intervention studies find a moderate benefit, strongest for CBT-style programmes (<a href=\"https://doi.org/10.1016/j.edurev.2018.09.002\">van Eerde &amp; Klingsieck, 2018</a>), which is something. Zen practice as such has almost no controlled trials; the evidence is for secular mindfulness programmes, which improve anxiety and depression moderately and do no better than other active treatments (<a href=\"https://doi.org/10.1001/jamainternmed.2013.13018\">Goyal et al., 2014</a>). “Experimentally shown” is true of different interventions, for different outcomes, than the ones this essay needs."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Really, I suspect that what’s going on here has less to do with the motivating power of eternal damnation, and a lot more to do with the motivating power of physically meeting other people who share your cause.",
+    "content": "The best guess in the essay, and the data agree. Across 26 countries, church attendance — not belief, not denomination — predicted volunteering, and the effect was <em>stronger</em> in more secular countries (<a href=\"https://doi.org/10.1177/000312240607100202\">Ruiter &amp; De Graaf, 2006</a>); in American panel data, the religious advantage in life satisfaction is carried by friendships within the congregation, with belief adding nothing once those are controlled (<a href=\"https://doi.org/10.1177/0003122410386686\">Lim &amp; Putnam, 2010</a>). The two thirds of the essay spent on hell versus truth as motivators were on the wrong variable; the final paragraphs find the right one."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "How much of its earnings does the Catholic Church spend on all that useless religious stuff instead of actually helping people? More than 50%, I would venture.",
+    "content": "“I would venture” is how a number enters the argument without a source, and the 5% tithe proposal is then calculated from it. The essay's own best insight makes the figure incoherent: if the physical gathering of the congregation is what produces the church's altruistic output, then the buildings, services and clergy — the “useless religious stuff” — are the machinery that produces it, not overhead to be subtracted. An organization whose product is community cannot be scored on the fraction of revenue that bypasses community."
+  }
+]

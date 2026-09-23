@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Since you’re reading this, you can guess the answer is simply “No.”",
+    "content": "Not simply. <a href=\"https://doi.org/10.1037/a0029406\">Mihura et al. (2013)</a> meta-analysed the validity data for each of 65 Rorschach variables and found strong support for about a fifth of them and modest support for more, especially the variables measuring cognitive and perceptual disturbance, while many popular variables had none. The test was subsequently rebuilt around the validated variables. The Rorschach is a poor instrument with a real residue, not a null — and the essay's dismissal, which calls it an example of believing a good story against the evidence, is itself a good story told without checking the evidence. (Dawes's book is from 1994, not the '80s.)"
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Yes, patients who see psychotherapists have been known to get better faster than patients who simply do nothing.",
+    "content": "This sentence contradicts the one two paragraphs later, “in the entire absence of the slightest experimental evidence for their effectiveness.” Controlled comparison of treated patients with untreated ones <em>is</em> experimental evidence of effectiveness, and there is a great deal of it: <a href=\"https://doi.org/10.1037/0003-066X.32.9.752\">Smith &amp; Glass (1977)</a> pooled 375 controlled studies and found the average treated patient better off than about three quarters of the untreated. What the evidence failed to show is that the <em>schools</em> differ much — a claim about the theories, not about whether therapy works. The essay slides from the second to the first."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "There is no discernible gain from years of expertise.",
+    "content": "This part holds up, and more strongly than the essay knew. Tracking 170 therapists and over 6,500 clients across as many as eighteen years, <a href=\"https://doi.org/10.1037/cou0000131\">Goldberg et al. (2016)</a> found that outcomes did not improve with experience and, on average, slightly declined. What does exist is stable differences between individual therapists — some consistently get better results than others — which means skill is real but is not being acquired through years of practice without feedback. That is a finding about practice without measurement, and it supports the essay's closing demand."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "And there’s also no discernible difference between seeing a psychotherapist and spending the same amount of time talking to a randomly selected college professor from another field.",
+    "content": "The professors were not randomly selected. In <a href=\"https://doi.org/10.1001/archpsyc.1979.01780100095009\">Strupp &amp; Hadley (1979)</a>, the comparison group was college professors chosen specifically for their reputation for warmth and trustworthiness and their ability to form understanding relationships with students; the patients were a small sample of mildly to moderately distressed male undergraduates. The study is a result about the power of a warm relationship for mild distress. “Talking to anyone helps” is a distortion that the study's own design rules out."
+  }
+]

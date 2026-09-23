@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "“Well, what you just gave is the Bayesian answer, but in orthodox statistics the answer is 1/3.",
+    "content": "The founding anecdote of the author's Bayesian identity has a confused frequentist in it, not frequentism. A frequentist answers “what is the probability?” with a long-run frequency under a specified sampling process — and under the process the author describes (a parent of one boy and one girl mentions either sex at random), the long-run frequency of two boys among parents who say “at least one is a boy” is 1/2, the same as the Bayesian answer. The dependence of the answer on how the information was generated is a point about modelling the protocol, made in the psychology literature by <a href=\"https://doi.org/10.1016/0010-0277(82)90021-X\">Bar-Hillel &amp; Falk (1982)</a>, and both schools get it right when they model the protocol and wrong when they don't. The story shows that one person at a party was wrong."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Here was probability theory, laid out not as a clever tool, but as The Rules, inviolable on pain of paradox.",
+    "content": "The Bayesians who do the most applied Bayesian statistics do not hold this view. <a href=\"https://doi.org/10.1111/j.2044-8317.2011.02037.x\">Gelman &amp; Shalizi (2013)</a> argue that good Bayesian practice is hypothetico-deductive: models are posited, fitted, checked against data by methods — posterior predictive checks — that step outside Bayesian updating, and then discarded when they fail, a process that coherence alone does not license. <a href=\"https://doi.org/10.1214/aos/1176346785\">Rubin (1984)</a> made the same point earlier, calling for “Bayesianly justifiable and relevant frequency calculations.” Jaynes's book is one school's manifesto; the discipline that uses Bayes for a living treats it as a very good tool."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If you tried to approximate The Rules because they were too computationally expensive to use directly, then, no matter how necessary that compromise might be, you would still end up doing less than optimal.",
+    "content": "Only on a definition of “optimal” that ignores the cost of computing. Exact probabilistic inference in belief networks is NP-hard (<a href=\"https://doi.org/10.1016/0004-3702(90)90060-D\">Cooper, 1990</a>), so for any agent with finite time the best available policy is some approximation, and the question of which approximation is best is itself the optimization problem. The resource-rational programme in cognitive science (<a href=\"https://doi.org/10.1017/S0140525X1900061X\">Lieder &amp; Griffiths, 2020</a>) makes this precise and finds that many human “biases” are good trade-offs between accuracy and effort. Exact Bayes is the right answer to a question no physical reasoner is ever asked."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Like frequentist statistical methods, no two of them agreed with each other.",
+    "content": "Bayesian analysts do not agree with each other either — about priors, about Bayes factors versus posterior estimation, about whether to test point hypotheses at all. When <a href=\"https://doi.org/10.1177/2515245917747646\">Silberzahn et al. (2018)</a> gave 29 research teams the same dataset and the same question, the answers ranged from no effect to a large one, and the spread was driven by modelling choices, not by statistical philosophy; the Bayesian teams were among the spread. Disagreement among analysts is a fact about analysis under uncertainty, and a sneer at frequentists for it is a sneer at every school."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "It was while studying Judea Pearl, for example, that I realized that precision can save you time.",
+    "content": "The Pearl the author was reading was the Pearl of 1988. By 2001 Pearl had published an essay titled “Bayesianism and causality, or, why I am only a half-Bayesian” (<a href=\"https://doi.org/10.1007/978-94-017-1586-7_2\">Pearl, 2001</a>), arguing that causal knowledge cannot be expressed in the language of probability at all, so that the probability calculus alone, however precisely applied, cannot answer the interventional and counterfactual questions an agent most needs. The author reached his Bayesian enlightenment by reading a book whose author concluded, a few years later, that Bayes was only half the story."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "Do nothing because it is righteous, or praiseworthy, or noble, to do so; do nothing because it seems good to do so; do only that which you must do, and which you cannot do in any other way.",
+    "content": "Taken as a research standard — design only what you can see could be done no other way — it has a record now. The programme it launched produced some genuine mathematics: logical induction (<a href=\"https://arxiv.org/abs/1609.03543\">Garrabrant et al., 2016</a>) is a real result by any standard. It produced no design for a safe AI and no argument that any design is the only possible one, and the systems that were actually built were built by the opposite method, trying what seemed like a good idea and keeping what worked. A standard so high that no engineering artefact has ever met it cannot be told apart from never starting."
+  }
+]

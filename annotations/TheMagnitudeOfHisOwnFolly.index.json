@@ -1,10 +1,17 @@
 [
   {
-    "id": "opus",
-    "label": "Opus",
+    "id": "Opus5_5",
+    "label": "Opus 5.5",
     "code": "O",
-    "file": "annotations/TheMagnitudeOfHisOwnFolly.opus.json",
+    "file": "annotations/TheMagnitudeOfHisOwnFolly.Opus5_5.json",
     "default": true
+  },
+  {
+    "id": "OpusOld",
+    "label": "Opus (old)",
+    "code": "OO",
+    "file": "annotations/TheMagnitudeOfHisOwnFolly.OpusOld.json",
+    "default": false
   },
   {
     "id": "SkepticAstra",

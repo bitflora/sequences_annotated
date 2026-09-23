@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "“Different things work for different people.” That sentence may give you a squicky feeling; I know it gives me one.",
+    "content": "The squick is well founded, but not for the reason given. Where it has been checked, the heterogeneity of response that “different things work for different people” asserts is often much smaller than it seems. If a treatment worked strongly for some patients and not at all for others, outcomes in the treated arm of a trial would be more variable than in the control arm; in meta-analyses of antipsychotic trials, the variances are nearly identical (<a href=\"https://doi.org/10.1001/jamapsychiatry.2019.1530\">Winkelbeiner et al., 2019</a>). Much of the apparent person-to-person difference is noise and regression to the mean in uncontrolled self-experiments. That cuts against the eager advice-giver, who generalizes from one success, and equally against the essay's own “X, which worked so well for me.”"
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There was a post on Overcoming Bias on how being in a position of power has been shown to decrease our ability to empathize with and understand the other, though I can’t seem to locate it now.",
+    "content": "The study is probably <a href=\"https://doi.org/10.1111/j.1467-9280.2006.01824.x\">Galinsky et al. (2006)</a>, in which participants primed to feel powerful by recalling a past episode were more likely to draw an E on their foreheads oriented to themselves rather than to an observer. It belongs to the family of recall-priming paradigms that have fared poorly when retested in preregistered replications, and the effect of briefly feeling powerful in a laboratory is a long way from holding real authority over someone. The practical advice — be careful with power over others — needs no such support; the citation, recalled and unlocated, adds confidence without adding evidence."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "It’s just that your earnest personal advice, that amazing thing you’ve found to actually work by golly, is no more and no less likely to work for me than a random personal improvement blog post written by an intelligent author is likely to work for you.",
+    "content": "The best advice in the sequence, and it is an application of a well-documented bias rather than a new one. People systematically over-weight their own experience relative to other information and discount advice from others, a finding replicated across dozens of studies of advice-taking (<a href=\"https://doi.org/10.1006/obhd.2000.2909\">Yaniv &amp; Kleinberger, 2000</a>); the essay's observation is the mirror image, that advice-givers over-weight their own experience when prescribing for others. It would have been a stronger essay for putting the next one's “deep theories” in second place to this humility."
+  }
+]

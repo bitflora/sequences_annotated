@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "This text’s definition of normative rationality in terms of Bayesian probability theory and decision theory is standard in cognitive science.",
+    "content": "“Standard” hides a fight. Whether probability theory and expected utility are the right normative yardstick for human reasoning was the subject of a long exchange in <em>Behavioral and Brain Sciences</em>: <a href=\"https://doi.org/10.1017/S0140525X00003435\">Stanovich &amp; West (2000)</a> catalogued the objections from the “Panglossian” side, Gigerenzer's ecological-rationality programme rejected the yardstick outright, and <a href=\"https://doi.org/10.1017/S0140525X1100001X\">Elqayam &amp; Evans (2011)</a> argued that the psychology of reasoning should stop grading people against normative systems at all. What is standard is using probability theory as a <em>benchmark</em> for measuring deviations. What the books do with it — treat it as the definition of what thinking correctly is, and read every deviation as a defect — is one side of a live dispute, and the reader is told it is the consensus."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "a minority position among working decision theorists.",
+    "content": "Credit where due: the introduction states plainly what the body of the books did not. <a href=\"https://doi.org/10.3998/phimp.2109\">Bourget &amp; Chalmers (2023)</a>, surveying philosophers in 2020, found two-boxing ahead of one-boxing, 39% to 31%. The problem is how the rest of the corpus handles that fact: the Newcomb essay treats two-boxing as a failure to want to win, and the successor theory the author later co-developed, functional decision theory, has so far circulated as preprints with critical referee reports (Wolfgang Schwarz published his in 2018) rather than as an accepted result. A position that has persuaded a minority of the specialists after two decades is a position, not a finding."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Kruschke and Yudkowsky have replied that frequentism is even more “subjective” than Bayesianism, because frequentism’s probability assignments depend on the intentions of the experimenter.",
+    "content": "The “intentions” in question are the stopping rule — which is a fact about the procedure that actually generated the data, written down in a preregistration and checkable by anyone, not a private mental state. <a href=\"https://doi.org/10.1017/9781107286184\">Mayo (2018)</a> builds a whole account of evidence on the point that the sampling plan changes how severely the data have tested a claim. Nor do Bayesians escape: the stopping rule is ignorable only if the model and prior are correct, and <a href=\"https://doi.org/10.3758/s13423-020-01803-x\">de Heide &amp; Grünwald (2021)</a> show Bayes factors losing their advertised guarantees under optional stopping with the default priors people actually use. Kruschke's own textbook, cited two footnotes later, devotes a section to showing that stopping on a Bayesian decision criterion biases the estimates and recommends stopping on precision instead. The quip is a debating point; the design of the experiment matters to both schools."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "(Classes in formal logic and informal fallacies have not proven similarly useful.)",
+    "content": "This parenthesis is uncited, and the study behind it is <a href=\"https://doi.org/10.1016/0010-0285(86)90002-2\">Cheng, Holyoak, Nisbett &amp; Oliver (1986)</a>: one semester of undergraduate logic, tested on variants of the Wason selection task. Critical-thinking instruction has since been meta-analysed properly — <a href=\"https://doi.org/10.3102/0034654314551063\">Abrami et al. (2015)</a> pooled 341 effect sizes and found an average of about g = 0.30 for explicit instruction, larger with dialogue and applied problems. Meanwhile the statistics-training effect it is contrasted with is modest and domain-bound: <a href=\"https://doi.org/10.1037/0003-066X.43.6.431\">Lehman, Lempert &amp; Nisbett (1988)</a> found it in graduate students of psychology and medicine but not of chemistry, and the broader far-transfer literature is bleak (<a href=\"https://doi.org/10.1177/0963721417712760\">Sala &amp; Gobet, 2017</a>). The sentence ranks two small, context-bound effects as if one worked and the other didn't."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "E. T. Jaynes’s position that not all possible priors are equally reasonable.",
+    "content": "Nobody disputes that some priors are unreasonable; the dispute is whether any formal rule picks out the reasonable ones, and the answer from the people who tried is no. <a href=\"https://doi.org/10.1080/01621459.1996.10477003\">Kass &amp; Wasserman (1996)</a> reviewed every formal rule on offer — Jeffreys, maximum entropy, reference priors, invariance — and concluded that each fails somewhere (improper posteriors, dependence on parametrization, marginalization paradoxes) and that none can be used blindly. The Hutter programme the paragraph aligns the books with ran into the same wall: <a href=\"http://proceedings.mlr.press/v40/Leike15.html\">Leike &amp; Hutter (2015)</a> proved that the choice of universal reference machine can make AIXI behave arbitrarily badly and render its optimality claims vacuous. The “optimality criterion for priors” the books hope for is an open problem that its best-known pursuers have reported against."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "the resultant material has proven useful to a much wider audience.",
+    "content": "“Proven” by what? The evidence offered in the paragraph is institutional — a website, a movement, a nonprofit — which is exactly the reputational level that <em>Three Levels of Rationality Verification</em>, later in this book, calls the weakest kind. The Center for Applied Rationality's published self-evaluation was an uncontrolled pre–post survey of its own workshop attendees, a design that cannot separate the training from selection, regression to the mean and demand effects. The introduction to a book about testing prescriptions asserts, without a test, that the prescriptions work."
+  }
+]

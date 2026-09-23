@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "It was part of the gestalt of bushido, which was not reserved only for fighting.",
+    "content": "The etymology is roughly right — <em>isshokenmei</em> began as <em>issho kenmei</em>, staking one's life on a single granted landholding — but “the gestalt of bushido” is largely a modern construction. Historians of Japan have shown that bushido as a unified national ethic was assembled in the Meiji era and after, from selectively revived Tokugawa texts, for purposes of nation-building and later militarism (Benesch, <em>Inventing the Way of the Samurai</em>, 2014; a book, no DOI). The two epigraphs are an eighteenth-century primer and a 1995 martial-arts manual. The essay's own warning, “there's a tremendous selectivity in which parts of Eastern culture the West gets to hear about,” applies to the sources it is quoting."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Robert Aumann, the Nobel laureate who first proved that Bayesians with the same priors cannot agree to disagree, is a believing Orthodox Jew. Surely he understands the math of probability theory, but that is not enough to save him.",
+    "content": "This is the third appearance of Aumann in the books as a cautionary example, and the charge is still made without asking him. In a long published interview (<a href=\"https://doi.org/10.1017/S1365100505050078\">Hart, 2005</a>), Aumann explains his religious practice in terms of tradition, community and meaning, and says plainly that he does not treat it as a scientific hypothesis in competition with science. One can think that position mistaken; it is a position, argued by someone who understands the agreement theorem better than anyone, and “that is not enough to save him” assumes that the only coherent relationship to a religious tradition is literal belief in its metaphysics — the same assumption the book's own discussions of belief-in-belief complicate."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "The Japanese don’t rule the world today, though in the 1980s it was widely suspected that they would (hence the Japanese asset bubble). Why not?",
+    "content": "Two unsupported moves. The bubble's economic history runs through the 1985 Plaza Accord, the Bank of Japan's prolonged low interest rates and bank deregulation, not through a belief in Japanese world domination. And the answer offered — “the nail that sticks up gets hammered down” — is national character used as an all-purpose explanation: in the 1980s, Western business books explained Japan's rise by the same culture's discipline and conformity, and after 1990 its stagnation by the same traits. Since 2000, researchers born in Japan have won more than twenty Nobel prizes in the sciences. A cultural explanation that fits whichever outcome occurs is the “mysterious answer” the book warns against."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "That’s why I tend to think in terms of the privately funded “brain in a box in a basement” model.",
+    "content": "The prediction has been tested, and it failed on every element. The systems that most resemble general AI were built not in a basement but by the largest corporations on earth and their close partners, with training runs whose cost grew by a factor of two to three per year to hundreds of millions of dollars (<a href=\"https://arxiv.org/abs/2405.21015\">Cottier et al., 2024</a>). They were not boxed; they were deployed to hundreds of millions of users. The objection the essay dismisses two paragraphs earlier — “the first AIs will be built by powerful corporations” — was the correct forecast, and the respondents were right not to treat it as defeatism."
+  }
+]

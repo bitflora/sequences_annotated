@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "so it drives me up the wall when people lump together natural selection and intelligence-driven processes as “evolutionary.”",
+    "content": "Those who lump them do it on purpose and with arguments. <a href=\"https://doi.org/10.1037/h0040373\">Donald Campbell (1960)</a> proposed that creative thought and scientific discovery run on the same logic as natural selection — blind variation and selective retention — and Dennett's <em>Darwin's Dangerous Idea</em> (1995) built a whole account of design space on treating evolution and engineering as one algorithmic kind. Both are the unification this essay arrives at by generalizing from three points to “optimization process,” and both came first. One can disagree with them; what the essay does instead is complain that others make the move, and then make it."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "And so that was the point at which I generalized the notion of an optimization process, of a process that squeezes the future into a narrow region of the possible.",
+    "content": "The core of the idea — purposive behaviour defined as a system's steering of outcomes toward a target, with no mentalistic language required — is the founding paper of cybernetics (<a href=\"https://doi.org/10.1086/286788\">Rosenblueth, Wiener &amp; Bigelow, 1943</a>), and the biologists had a word for goal-directedness without goals, “teleonomy” (Pittendrigh 1958; Mayr 1974). Nothing in the essay names them. And the definition does not escape what it claims to: “narrow” is only defined relative to a ranking of outcomes (which region counts as the target?) and a measure over them (narrow compared with what?). Specify those and you have written down a goal. The “naturalistic enlightenment” renames the mentalistic object rather than eliminating it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "but if you look at Shane Legg’s collection of 71 definitions of intelligence, you’ll see that “squeezing the future into a constrained region” is a less obvious reply than it seems.",
+    "content": "The author of that collection published, the same year, a formal definition of machine intelligence as an agent's “ability to achieve goals in a wide range of environments” (<a href=\"https://doi.org/10.1007/s11023-007-9079-x\">Legg &amp; Hutter, 2007</a>) — mathematically, expected reward across environments weighted by simplicity. That is the “achieving goals” formulation the essay says is only equivalent to its own in hindsight, made fully precise and non-empathic by the person the essay cites against it. The collection shows that definitions of intelligence are various; it does not show that the goal-based ones are mentalistic."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "I even saw, in a flash of the same enlightenment, that a mind had to output waste heat in order to obey the laws of thermodynamics.",
+    "content": "This one holds up, and it is older than the essay. Steering outcomes into a narrow region lowers the entropy of the steered system, and the Second Law requires that to be paid for elsewhere — the argument Szilard made about Maxwell's demon in 1929. The refinement since is that the unavoidable cost attaches to erasing information (<a href=\"https://doi.org/10.1147/rd.53.0183\">Landauer, 1961</a>), not to computing or measuring, which can in principle be done reversibly (<a href=\"https://doi.org/10.1147/rd.176.0525\">Bennett, 1973</a>; <a href=\"https://doi.org/10.1007/BF02084158\">Bennett, 1982</a>); a mind with finite memory that keeps steering must keep forgetting, and so must keep radiating. A true conclusion, reached by generalization, eighty years after it was reached by physics."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "I dub the alternative the “Completely Alien Mind Design” and reply that a CAMD is probably too difficult for human engineers to create, even if it’s possible in theory, because we wouldn’t be able to understand something so alien while we were putting it together.",
+    "content": "Both the young reply and the essay's rebuttal of it rest on a premise the next two decades overturned: that you must understand a mind to build one. The systems now built were grown by optimization, not assembled, and nobody understood them while putting them together — the field of mechanistic interpretability exists precisely because they arrived first and understanding is being attempted afterwards (<a href=\"https://doi.org/10.23915/distill.00024.001\">Olah et al., 2020</a>). The rebuttal (“what you genuinely understand, you can reconfigure”) answers a question about engineering by understanding, and the route actually taken bypassed understanding altogether."
+  }
+]

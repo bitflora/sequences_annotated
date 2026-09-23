@@ -1,10 +1,17 @@
 [
   {
-    "id": "opus",
-    "label": "Opus",
+    "id": "Opus5_5",
+    "label": "Opus 5.5",
     "code": "O",
-    "file": "annotations/MyChildhoodDeathSpiral.opus.json",
+    "file": "annotations/MyChildhoodDeathSpiral.Opus5_5.json",
     "default": true
+  },
+  {
+    "id": "OpusOld",
+    "label": "Opus (old)",
+    "code": "OO",
+    "file": "annotations/MyChildhoodDeathSpiral.OpusOld.json",
+    "default": false
   },
   {
     "id": "SkepticAstra",

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In the art of rationality it’s far more efficient to admit one huge mistake, than to admit lots of little mistakes.",
+    "content": "The best evidence on belief updating in the real world says the reverse. In the multi-year geopolitical forecasting tournaments, the forecasters who updated most often, in small increments, were the most accurate (<a href=\"https://doi.org/10.1037/xap0000040\">Mellers et al., 2015</a>); Atanasov and colleagues later titled their analysis of the same data “Small steps to accuracy: incremental belief updaters are better forecasters.” Bayesian conditionalization is, by construction, a gradient of shifting probability. The essay notices one bad thing that can happen when updates are small — each can be absorbed by re-rationalizing the plan — but the remedy for that is to re-derive the plan from the current credences, not to hoard evidence until it can be admitted in a single lump."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "declare an HMC event—Halt, Melt, and Catch Fire.",
+    "content": "The formal theory of rational belief change was built on the opposite principle. The AGM postulates (<a href=\"https://doi.org/10.2307/2274239\">Alchourrón, Gärdenfors &amp; Makinson, 1985</a>) require that a rational agent revising on new information give up as little as possible, and Quine's “maxim of minimum mutilation” is the same idea in the philosophy of science. The reason is not cowardice: every belief not touched by the new evidence still carries its old support, and throwing it out to “rethink everything from scratch” discards evidence as surely as ignoring the new fact would. What the story actually describes — a plan kept after its premise failed — is a failure to propagate an update, and the fix for that is to propagate it, not to burn the house down."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "There’s some kind of instinct humans have, I think, to preserve their former strategies and plans",
+    "content": "Not “I think”: this is escalation of commitment, one of the most-studied effects in organizational psychology (<a href=\"https://doi.org/10.5465/amj.2010.0696\">Sleesman et al., 2012</a>, meta-analysing 166 studies). That literature also tested remedies, and they are not the heroic internal act the essay prescribes. What reduces escalation is structural: evaluating decision-makers on the quality of their process rather than their outcome, and separating the person who made the original commitment from the person who decides whether to continue (<a href=\"https://doi.org/10.1037/0021-9010.77.4.419\">Simonson &amp; Staw, 1992</a>). The essay treats a social-institutional problem as a matter of individual willpower."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Eliezer2001 hadn’t read up on the Manhattan Project and wasn’t familiar with the similar argument that Leó Szilárd had with Enrico Fermi.",
+    "content": "The historical argument does not go the way the essay implies. Szilárd's campaign to withhold fission research in 1939 failed — Joliot-Curie's group published neutron multiplication anyway — and the secrecy of the Manhattan Project itself did not stop the Soviet Union obtaining the design through Fuchs and others. The author's organization later tried the policy for itself, announcing in 2018 that its research would be non-disclosed by default; by its own subsequent account the research directions pursued under that policy did not pan out, and it pivoted to public advocacy. Secrecy has a record in both cases, and the record is not the one this sentence assumes."
+  }
+]

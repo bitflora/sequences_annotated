@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Until I introduced myself and my quest to a transhumanist mailing list, and got back responses along the general lines of (from memory):",
+    "content": "Look at the four replies the young author “kicked to pieces” and what became of them. “A superintelligence would form its own morality” is the orthogonality thesis. “It would just seize all the resources” is instrumental convergence — <a href=\"https://selfawaresystems.com/wp-content/uploads/2008/01/ai_drives_final.pdf\">Omohundro's “basic AI drives” (2008)</a>, and the core of the author's later case for AI risk. “Upload humans first” was a position serious people held and still hold. “No AI without a control system that watches it” is what the field now calls AI control (<a href=\"https://arxiv.org/abs/2312.06942\">Greenblatt et al., 2024</a>). The essay presents these as obviously wrong arguments that a skilled refuter was right to defeat and wrong only to use as reassurance. On the record, the anonymous mailing-list correspondents were closer to the author's mature views than he was — and the essay, recalled “from memory,” never says so."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Today I try not to take any human being as my opponent. That just leads to overconfidence.",
+    "content": "The research on how reasoning goes wrong points the other way. Individuals reasoning alone are at their worst at finding flaws in their own positions; groups arguing with each other find them, as in <a href=\"https://doi.org/10.1080/135467898394148\">Moshman &amp; Geil (1998)</a>, where about three quarters of discussion groups solved the Wason selection task against under a tenth of individuals. <a href=\"https://doi.org/10.1017/S0140525X10000968\">Mercier &amp; Sperber (2011)</a> built a theory of reasoning on the point, and the practical remedy for motivated research disputes is adversarial collaboration with a named opponent (<a href=\"https://doi.org/10.1111/1467-9280.00350\">Mellers, Hertwig &amp; Kahneman, 2001</a>). Facing “Nature” alone, without an adversary to show you what you missed, is the configuration in which the bias blind spot operates unchecked."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "presented him with the dissolution of the mystery—the full reduction of morality that analyzes all his cognitive processes debating “morality,”",
+    "content": "The essay speaks as though the metaethics sequence of Book V supplied this “full reduction.” It did not persuade the field it addressed, and it was not new: morality as the output of an idealized human valuation procedure is Firth's ideal-observer theory (<a href=\"https://doi.org/10.2307/2103988\">Firth, 1952</a>) and close kin to Jackson's moral functionalism and Railton's naturalism. Surveyed in 2020, 62% of philosophers accepted moral realism and debate continues on every axis (<a href=\"https://doi.org/10.3998/phimp.2109\">Bourget &amp; Chalmers, 2023</a>). Diagnosing the young self for having needed a solution handed to him, while treating one's own contested proposal as the solution, is the error the essay describes, one level up."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Therefore is it written:",
+    "content": "The scripture being quoted is the author's own earlier text. The device recurs through these books (“Thus is it said”), and it has a function worth naming: it lends a claim the authority of tradition without the claim having passed through any of the processes — criticism, replication, other people — that give a tradition its authority. The quoted passage may well be right. It is not more right for being set in the cadence of a proverb."
+  }
+]

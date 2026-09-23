@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Obviously, the rationalists will lose. The Barbarians believe in an afterlife where they’ll be rewarded for courage; so they’ll throw themselves into battle without hesitation or remorse.",
+    "content": "The essay rejects this conclusion on decision-theoretic grounds while leaving its empirical premise — that zealotry makes better soldiers — unchallenged. The premise is weak. Studying battles from 1800 onward, <a href=\"https://doi.org/10.1177/0022002798042003003\">Reiter &amp; Stam (1998)</a> found that soldiers of democracies showed more initiative and better leadership, and fought more effectively, than those of autocracies, whose coerced and indoctrinated troops surrendered more readily. The strongest answer to the Barbarian hypothetical is historical rather than game-theoretic: open societies have usually been the better fighters, for reasons the essay's argument does not reach."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "A society of agents that use my kind of decision theory, and have common knowledge of this fact, will end up at Pareto optima instead of Nash equilibria.",
+    "content": "When the essay was written, “my kind of decision theory” was unpublished; the claim was a promissory note. The relevant formal work cuts two ways. When programs can read each other's source code, <a href=\"https://doi.org/10.1016/j.geb.2004.02.002\">Tennenholtz (2004)</a> proved a folk theorem: essentially <em>any</em> individually rational outcome, not only Pareto optima, can be sustained as an equilibrium — so reaching one is a selection problem the theory does not solve. Later work did establish robust mutual cooperation between suitably designed bounded proof-searching agents in the Prisoner's Dilemma (<a href=\"https://doi.org/10.1017/jsl.2017.42\">Critch, 2019</a>). That is a real result for a single game; “Pareto optima instead of Nash equilibria” for societies is a much larger claim than anything proved."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Consistently, I do not believe that if an election is settled by 100,000 to 99,998 votes, that all of the voters were irrational in expending effort to go to the polling place",
+    "content": "Agreed, but no exotic decision theory is needed to reach it. Ordinary expected-utility reasoning makes voting rational for anyone who places even modest weight on the welfare of others: the probability of being decisive is small, but the social stakes of the outcome are large in proportion to the electorate (<a href=\"https://doi.org/10.1177/1043463107077384\">Edlin, Gelman &amp; Kaplan, 2007</a>). The essay presents this as a consequence of one-boxing on Newcomb's Problem, which makes it look like evidence for the author's decision theory; it is equally a consequence of causal decision theory with altruistic preferences."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "we can perhaps all agree that it is a good idea to give the selectees drugs that will induce extra courage, and shoot them if they run away.",
+    "content": "The research on why soldiers fight does not support coercion as the mechanism. <a href=\"https://doi.org/10.1086/265951\">Shils &amp; Janowitz (1948)</a>, interviewing German prisoners, found that the Wehrmacht held together through the loyalty of small primary groups, not ideology or fear of punishment, and disintegrated when those groups broke up. Using Union Army records, <a href=\"https://doi.org/10.1162/003355303321675446\">Costa &amp; Kahn (2003)</a> found desertion best predicted by how socially homogeneous and cohesive a soldier's company was. The United States executed one soldier for desertion in the Second World War. The essay reaches for the firing squad because its model is game theory; the evidence says cohesion does the work."
+  }
+]

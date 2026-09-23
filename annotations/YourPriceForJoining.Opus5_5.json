@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "A 100 USD game played in Indonesia (average per capita income at the time: 670 USD) showed offers of 30 USD being turned down, although this equates to two week’s wages.",
+    "content": "The study is <a href=\"https://doi.org/10.1111/j.1465-7295.1999.tb01415.x\">Cameron (1999)</a>, and its headline finding is the one the essay omits: as stakes rose from a day's to about three months' expenditure, responders became <em>more</em> willing to accept low offers. A few 30% offers were refused, but the trend ran against the essay's point. The later test with truly large stakes is decisive: in villages in north-east India, with stakes up to roughly a year's income, rejection rates fell toward zero as stakes rose (<a href=\"https://doi.org/10.1257/aer.101.7.3427\">Andersen et al., 2011</a>). The anecdote is being used for the opposite of what its source reports."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "this is just the way people feel about Ultimatum Games, even ones played for real money.",
+    "content": "“Just the way people feel” is contradicted by the cross-cultural data. In fifteen small-scale societies, mean offers ranged from about a quarter to over half the stake, and rejection behaviour varied even more — the Machiguenga of Peru almost never rejected low offers, while some groups rejected offers that were <em>too generous</em> (<a href=\"https://doi.org/10.1017/S0140525X05000142\">Henrich et al., 2005</a>). Across Western laboratory studies the average offer is about 40% and the average rejection rate about 16% (<a href=\"https://doi.org/10.1023/B:EXEC.0000026978.14316.74\">Oosterbeek, Sloof &amp; van de Kuilen, 2004</a>). Ultimatum behaviour tracks local norms of exchange, which is a poor foundation for an argument from human nature."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "(Has it been studied? I’d hope so…)",
+    "content": "It has — for decades, and under the essay's own framing. Hirschman's <em>Exit, Voice, and Loyalty</em> (1970; a book, no DOI) is the classic analysis of exactly when a member dissatisfied with an organization should stay and complain, leave, or threaten to leave, and its central result cuts against the essay's advice: the credible threat of exit is what gives members' voice its force, and organizations whose members join and stay unconditionally lose their main mechanism for correcting themselves. The essay's own caveat — “unconditional support would create its own problems” — is Hirschman's thesis, relegated to a parenthesis."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Our intuitions for when to join groups, versus when to hold out for more concessions to our own preferred way of doing things, would have been honed for hunter-gatherer environments of, e.g., 40 people, all of whom you knew personally.",
+    "content": "The ethnographic data describe a different world. Most co-resident adults in 32 forager societies are neither close kin nor in-laws, and people move between bands through their lives (<a href=\"https://doi.org/10.1126/science.1199071\">Hill et al., 2011</a>); tracking actual interactions, Ache and Hadza men were estimated to interact with hundreds of other adults over a lifetime, a large share of them from other bands (<a href=\"https://doi.org/10.1371/journal.pone.0102806\">Hill et al., 2014</a>). Negotiating with near-strangers and choosing which of several groups to join is the ancestral condition, not a modern novelty. The just-so story that explains why nerds won't join has its premise backwards."
+  }
+]

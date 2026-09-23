@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "where you could assemble the historical evidence about the actual outcomes.",
+    "content": "The emblem of that evidence is the Simon–Ehrlich wager, which Ehrlich lost when all five metals fell in price between 1980 and 1990. <a href=\"https://doi.org/10.1016/j.ecolecon.2010.03.007\">Kiel, Matheson &amp; Golden (2010)</a> ran the same bet over every ten-year window of the twentieth century and found Ehrlich would have won most of them; the decade Simon picked was unusually kind to him. Ehrlich's famine forecasts genuinely failed, but “the historical evidence about the actual outcomes” was assembled from favourable windows and remembered through a partisan lens — which is the young author's error the essay goes on to describe, still operating in the premise."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "those who had once opposed smallpox vaccinations, anesthetics during childbirth, steam engines, and heliocentrism: The theologians",
+    "content": "Each item on this list is a myth or a distortion. Theological opposition to obstetric anaesthesia has no primary sources behind it (<a href=\"https://doi.org/10.1080/00033798300200171\">Farr, 1983</a>). Smallpox inoculation in Boston was pushed by the minister Cotton Mather against the town's leading physician; the nineteenth-century anti-vaccination leagues were chiefly libertarian protests against compulsion. And the early resistance to Copernicus was, to an underappreciated degree, scientific: without detectable stellar parallax, a moving Earth required stars of absurd size, and Riccioli's case against it was the better-supported astronomy of its day (Graney, <em>Setting Aside All Authority</em>, 2015; a book, no DOI). The Good Guys/Bad Guys lineup was assembled from the folk history the young author read, and the essay retracts the attitude without checking the facts."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "According to this source, the FDA’s longer approval process prevents 5,000 casualties per year by screening off medications found to be harmful, and causes at least 20,000–120,000 casualties per year",
+    "content": "“This source” is a hyperlink, and behind it stands Gieringer's 1985 <em>Cato Journal</em> paper — an extrapolation from the delayed US approval of beta-blockers, with figures spanning a factor of six. It was also out of date when the essay was written: after the 1992 user-fee act the “drug lag” reversed, and by 2001–2010 the FDA was approving novel drugs faster than both the European Medicines Agency and Health Canada (median 303 days against 366 and 352; <a href=\"https://doi.org/10.1056/NEJMsa1200223\">Downing et al., 2012</a>). Drugs approved in the rush before those deadlines were more likely to be withdrawn for safety (<a href=\"https://doi.org/10.1056/NEJMsa0706341\">Carpenter et al., 2008</a>). The number anchors the essay's moral and is a single contested estimate about a regime that no longer existed."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Would humanity have done better if there’d been a sincere, concerned, public debate on the adoption of fire, and committees set up to oversee its use?",
+    "content": "The essay's heroes are the people who warn that caution kills and its villains the ones who set up “solemn-looking bureaucratic committees.” Its author later became the best-known public advocate of stopping a technology outright: in <a href=\"https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/\"><em>Time</em> (2023)</a> he called for an indefinite worldwide moratorium on large AI training runs, enforced by international treaty, including by destroying rogue datacentres. One can think that position right and this essay wrong, or the reverse. What cannot be kept is the essay's general law — that the presumption belongs against people who say a technology's risks might outweigh its benefits — alongside the author's own most famous application of the opposite presumption."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "offense has had defense beat since 1945",
+    "content": "The field that studies this concluded close to the opposite. Nuclear weapons made conquest of a nuclear-armed state essentially impossible, and the dominant reading in international-relations theory is that they strengthened the status quo — defence by deterrence rather than by walls (<a href=\"https://doi.org/10.2307/2009958\">Jervis, 1978</a>, and Jervis's later <em>The Meaning of the Nuclear Revolution</em>). Specialists also disagree on whether the offense–defense balance can be measured at all (<a href=\"https://doi.org/10.1162/isec.22.4.44\">Glaser &amp; Kaufmann, 1998</a>). The one-line history of 1945 is the premise from which the essay reasons that nanotechnology will favour attack; it is a contested claim stated as a truism."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "Some teenagers think they’re immortal and ride motorcycles.",
+    "content": "The cliché is the reverse of what teenagers report. Asked for the probability that they would die in the next year or by age 20, American adolescents gave estimates many times the actuarial risk (<a href=\"https://doi.org/10.1086/317762\">Fischhoff et al., 2000</a>), and <a href=\"https://doi.org/10.1037/0003-066X.48.2.102\">Quadrel, Fischhoff &amp; Davis (1993)</a> found adolescents no more prone to feelings of invulnerability than their parents. Adolescent risk-taking is better explained by reward sensitivity and peer presence than by a belief in immortality. A small thing, but the book uses folk psychology in exactly the places it tells readers to check."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Not just the obvious causes like atheism, but things like marijuana legalization—where you could wish that people were a bit more self-aware about their motives and the nature of signaling, and a bit more moved by inconvenient cold facts.",
+    "content": "The book's own <em>Politics Is the Mind-Killer</em> warns against exactly this: treating one's policy preferences as what rationality delivers. The chosen example has its own inconvenient cold facts. Daily use of high-potency cannabis is associated with several-fold higher odds of psychotic disorder, and in a multi-country study the population share of first-episode psychosis attributable to it was substantial in cities where such cannabis was common (<a href=\"https://doi.org/10.1016/S2215-0366(19)30048-3\">Di Forti et al., 2019</a>). One can still favour legalization on balance. But the claim that it takes “more rationality than usual” to see its case is the claim that thinking clearly leads to one's own politics — the pattern that <a href=\"https://doi.org/10.1017/S1930297500005271\">Kahan (2013)</a> found cognitive reflection fails to correct on either side."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "If you and they don’t agree on everything—especially priorities—you have to be willing to agree to shut up about the disagreement.",
+    "content": "The movement that grew out of this community did the opposite, and it grew. Effective altruism made public, explicit, quantitative comparison of causes its defining practice — “which is the best thing you can do” — and attracted pledges and billions of dollars in commitments, falsifying the prediction that fighting over priorities shrinks total altruism. Experimental evidence on donors is mixed: effectiveness information raised giving among previous large donors and lowered it among small ones (<a href=\"https://doi.org/10.1016/j.socec.2016.05.005\">Karlan &amp; Wood, 2017</a>). And a norm of keeping disagreements quiet in the main venue is, four essays after <em>Why Our Kind Can't Cooperate</em>, the recipe for the pluralistic ignorance that essay deplored."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "and telling someone about an additional cause may increase the total amount they’re willing to help.",
+    "content": "It may, but the field evidence says it usually doesn't. On a large online charity platform, extra fundraising for one project substantially reduced donations to similar projects, rather than creating new giving (<a href=\"https://doi.org/10.1016/j.jpubeco.2016.11.009\">Meer, 2017</a>). Charitable giving in the United States has hovered around 2% of disposable income for decades despite an ever-growing number of causes asking for it. The picture of “altruistic akrasics” whose total giving expands with each new appeal is hopeful, and the data suggest a budget that is mostly being divided."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Dollars come out of different mental accounts, cost different amounts of willpower (the true limiting resource) under different circumstances.",
+    "content": "“Willpower (the true limiting resource)” is the ego-depletion model again, stated as fact. Its core laboratory effect has not survived multi-lab replication (<a href=\"https://doi.org/10.1177/1745691616652873\">Hagger et al., 2016</a>), and the alternative accounts that replaced it treat self-control failures as shifts in motivation and attention rather than exhaustion of a reservoir. The practical argument — do not argue over priorities, because doing so drains a finite willpower tank — needs the reservoir to be real."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Almost any effort will serve to convince us that we have “tried our hardest,” if trying our hardest is all we are trying to do.",
+    "content": "The observation is sound and has quantitative backing. The intention–behaviour gap is one of the most robust findings in health and social psychology: in <a href=\"https://doi.org/10.1037/0033-2909.132.2.249\">Webb &amp; Sheeran's (2006)</a> meta-analysis of experiments that actually changed people's intentions, a medium-to-large change in intention produced only a small-to-medium change in behaviour. People who intend, and feel they have committed, frequently do not act. The essay reaches this by introspection and a detour through quotation marks; the finding is real."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Want to try to make a million dollars? Buy a lottery ticket.",
+    "content": "The essay offers this as the reductio of “maximize your probability of success with available resources.” It is actually the correct answer to the essay's own recommendation. If the objective is to reach a fixed target — win, or fail, with no credit for coming close — and the odds are unfavourable, the strategy that maximizes the probability of reaching the target is bold play: stake everything on the fewest, largest bets (Dubins &amp; Savage, <em>How to Gamble If You Must</em>, 1965; a book, no DOI). “Win or fail, there is no best” is precisely the utility function that makes the lottery ticket rational. What prevents lottery-buying is caring about outcomes short of the target, which is to say, caring about doing your best."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Don’t try your best. Win, or fail. There is no best.",
+    "content": "Half right. Across hundreds of studies, specific difficult goals beat “do your best” instructions on performance (<a href=\"https://doi.org/10.1037/0003-066X.57.9.705\">Locke &amp; Latham, 2002</a>) — which supports the essay. But the same research programme found the boundary: on complex, novel tasks, where the performer does not yet know how to succeed, outcome goals <em>impair</em> performance relative to learning goals, because they direct attention to the result instead of the search for a strategy (<a href=\"https://doi.org/10.1177/1059601196212007\">Winters &amp; Latham, 1996</a>). And stretch goals framed as win-or-fail raise risk-taking and cheating (<a href=\"https://doi.org/10.5465/amp.2009.37007999\">Ordóñez et al., 2009</a>). The essay's use case — an unsolved, novel, world-scale problem — is exactly where the evidence says its advice backfires."
+  }
+]

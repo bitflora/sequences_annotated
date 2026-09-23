@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "In those days, you had some idea of who the real masters were, and which school could defeat others.",
+    "content": "The essay admits Russell never said this, then asserts it anyway, and the historical record does not cooperate. Real, lethal fighting coexisted comfortably with magical doctrine: the Boxers of 1900, practitioners of martial arts in an actual war, believed their spirit-possession rituals made them invulnerable to bullets and charged rifles on that belief (Esherick, <em>The Origins of the Boxer Uprising</em>, 1987; a book, no DOI). Evidence-rich environments do not automatically discipline belief; people in them also find ways to explain away the evidence. What corrected the martial arts was not violence but a public, repeated, rule-bound contest with recorded outcomes — which is to say, an institution."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Deference to famous historical masters.",
+    "content": "“Sound familiar?” is aimed at religion and at the humanities. It applies just as well closer to home. The community built on these books developed its own canon (the Sequences, recommended to newcomers as foundational reading), its own specialized vocabulary, and an author whose essays are cited as settled argument in its forums. Russell's point is not that deference is always wrong — physics students defer to textbooks — but that deference in a data-poor field, with a founder's texts as the reference point, is the configuration that produces viciousness. That configuration describes the setting of a rationality dojo as well as a karate one."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Every single one of these risk factors transfers straight over to any attempt to start a “rationality dojo.” I put to you the question: What can be done about it?",
+    "content": "The strongest prediction in the book, and it came true. Communities formed around the practice of applied rationality produced, within a decade, exactly the pathologies on Russell's list: in 2021 former members of Leverage Research, an organization in the community's orbit, published accounts describing untestable psychological techniques, intense deference to leadership, and a closed world in which outside evidence counted for little; similar accounts were published about other groups in the same milieu. The essay asks what can be done and leaves the question open, and nothing later in the book answers it. That honesty is to its credit; the absence of an answer is the finding."
+  }
+]

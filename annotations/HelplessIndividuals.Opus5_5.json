@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "why 200 million adult Americans have such tremendous trouble supervising the 535 members of Congress, for example.",
+    "content": "This is Mancur Olson's <em>The Logic of Collective Action</em> (1965; a book, no DOI): large groups under-provide collective goods because each member's contribution is tiny and the benefit is shared, so organization succeeds only with “selective incentives” for members or with small, concentrated interests. Olson explains the essay's examples without any appeal to ancestral bands. And the sequel undercuts the essay's pessimism: Elinor Ostrom's Nobel-winning fieldwork documented large populations governing shared resources for centuries through nested, locally monitored institutions (<em>Governing the Commons</em>, 1990; a book, no DOI). The problem is real, well theorized, and solved often enough to have a literature of solutions."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "But by and large, the answer to the question “How do large institutions survive?” is “They don’t!” The vast majority of large modern-day institutions—some of them extremely vital to the functioning of our complex civilization—simply fail to exist in the first place.",
+    "content": "Institutions that “fail to exist” cannot be counted, so the claim cannot be checked; what can be checked are the voluntary large institutions that do exist, and there are many. Mutual insurers, cooperatives, trade unions, the Red Cross, open-source software and Wikipedia are built largely on individual voluntary contributions. Patient foundations fund science directly: the Cystic Fibrosis Foundation's investment led to ivacaftor, and the individual donations of the 2014 Ice Bucket Challenge funded the consortium that identified <em>NEK1</em> as an ALS gene (<a href=\"https://doi.org/10.1038/ng.3626\">Kenna et al., 2016</a>). And before the Second World War, much of American science was funded by private philanthropy, not government."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "These are examples of obviously ridiculously underfunded science, with applications (if true) that would be relevant to many, many individuals.",
+    "content": "The essay's own two examples show why science is not funded by individuals choosing what sounds promising to them. Seth Roberts's Shangri-La diet never received a controlled trial that supported it, and Roberts died in 2014 with the hypothesis untested. Bussard's polywell was not neglected: it received US Navy research contracts across several years, and the resulting experiments did not produce a path to net fusion power. “Obviously ridiculously underfunded” was a judgment made from the author's priors, and the grant committees that the next paragraph disparages were, in these two cases, right."
+  }
+]

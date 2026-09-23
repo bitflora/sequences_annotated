@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Among most hunter-gatherer tribes, a hunter who brings in a spectacular kill will carefully downplay the accomplishment to avoid envy.",
+    "content": "True — the !Kung practice of “insulting the meat” is well documented — but the essay misreads what the egalitarian instinct suppresses. In <a href=\"https://doi.org/10.1086/204166\">Boehm's (1993)</a> account of foragers' “reverse dominance hierarchy,” what the group levels is dominance: bossiness, bullying, claims to command. Excellence is not levelled; it earns prestige, a separate status currency granted freely by others (<a href=\"https://doi.org/10.1016/S1090-5138(00)00071-4\">Henrich &amp; Gil-White, 2001</a>), and good hunters have measurably higher reproductive success (<a href=\"https://doi.org/10.1007/s12110-004-1013-9\">Smith, 2004</a>). The modest hunter is not ashamed of being better; he is avoiding the appearance of converting being better into a right to rule. That is a different instinct, and not obviously one to be overcome."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Hunter-gatherer tribes are usually highly egalitarian (at least if you’re male)— the all-powerful tribal chieftain is found mostly in agricultural societies, rarely in the ancestral environment.",
+    "content": "Broadly correct for the ethnographically recent mobile foragers, but the inference to “the ancestral environment” is weaker than it looks. The societies studied are a residual sample pushed into marginal environments, and the archaeological record includes sedentary, hierarchical hunter-gatherers with rich burials, inherited rank and, on the Northwest Coast, slavery; <a href=\"https://doi.org/10.1016/j.evolhumbehav.2022.07.003\">Singh &amp; Glowacki (2022)</a> argue that Pleistocene social organization was more variable than the nomadic-egalitarian model allows. The instinct the essay posits may be real, but “ancestral” is carrying more certainty than the evidence licenses."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Maybe it’s not healthy to pride yourself on doing better than someone else. Personally I’ve found it to be a useful motivator",
+    "content": "The meta-analytic evidence on whether competition improves performance is a near-zero overall effect. <a href=\"https://doi.org/10.1037/a0028324\">Murayama &amp; Elliot (2012)</a> found that competition raises both approach motivation (wanting to beat others), which helps, and avoidance motivation (fear of losing to them), which hurts, and the two roughly cancel. Goals framed as mastering the task predict interest and persistence more consistently than goals framed as outperforming others. One person's experience that comparison motivates him is consistent with that; it does not make comparison a technique to recommend."
+  }
+]

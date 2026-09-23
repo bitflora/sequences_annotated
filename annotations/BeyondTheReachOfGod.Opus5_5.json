@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Some would account this a virtue (zettai daijobu da yo), and others would say that it’s a thing necessary for mental health.",
+    "content": "What the essay is dismantling has a name and a literature: the belief in a just world (Lerner, <em>The Belief in a Just World</em>, 1980; a book, no DOI). That literature complicates the essay in a way it does not acknowledge. The belief that the world is fair <em>to me</em> is consistently associated with better coping, lower stress and more investment in long-term goals, while the belief that it is fair <em>in general</em> predicts victim-blaming and harshness toward the poor (<a href=\"https://doi.org/10.1016/S0191-8869(02)00072-7\">Furnham, 2003</a>). The essay treats the whole cluster as a single bias to be smashed, and waves off the mental-health side in one clause. The honest version would say which of the two beliefs it is attacking, and what the evidence says it costs to lose the other."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "There is no particular empirical justification that I happen to have heard of for doubting this.",
+    "content": "Then the author had not read the historiography of Nazi Germany, which for half a century has been a debate on exactly this question. The “functionalist” historians (Broszat, Mommsen) argued that Nazi policy radicalized through competition among agencies with Hitler as arbiter, and <a href=\"https://doi.org/10.1017/S0960777300000382\">Kershaw (1993)</a> synthesized the field around the idea of officials “working towards the Führer” — a model in which his personality mattered enormously and still did not act alone. The source named is Shirer, a journalist writing in 1960 before the archives were worked through. And “World War II” is not only Europe: Japan's war in China began in 1937 on its own dynamics. The possibility the essay wants — that one conception changed the century — is fair to raise; “no justification I've heard of for doubting it” is the sound of not having looked."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Democracies—modern liberal democracies, anyway—won’t ever legalize torture.",
+    "content": "This lands, and it was not hypothetical. In 2002 the United States Justice Department's Office of Legal Counsel issued memoranda defining torture narrowly enough to authorize waterboarding and other “enhanced interrogation” of detainees, and the practices were carried out under that legal cover; the Senate Intelligence Committee's 2014 report documented them. The essay's sharpest example is a real event from the years just before it was written, used correctly: a belief that something is “not allowed” was falsified by a liberal democracy acting through its lawyers. This part of the argument owes nothing to its thought experiments."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "so that a trick as simple and stupid-sounding as vitrifying people in liquid nitrogen can save them from total annihilation—and a 10-second rejection of the silly idea can destroy someone’s soul?",
+    "content": "The essay's worked example of an unfair universe is a contested empirical premise presented as a fact. No vitrified mammalian brain has been revived; the best-preserving method yet shown, aldehyde-stabilized cryopreservation (<a href=\"https://doi.org/10.1016/j.cryobiol.2015.09.003\">McIntyre &amp; Fahy, 2015</a>), keeps the connectome visible under the electron microscope by chemically fixing it, which rules out biological revival and is not what cryonics organizations had been doing to their patients. The institutional risk is also real: the Cryonics Society of California lost all its patients to thawing in the 1970s when its money ran out. Maybe cryonics works. The claim that rejecting it “can destroy someone's soul” assumes the answer to the question on which the whole example turns."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Maybe think of it just long enough to sign up themselves and their family for cryonics, and/or write a check to an existential-risk-mitigation agency now and then.",
+    "content": "The practical upshot of an essay about the universe's absolute neutrality is to recommend two purchases, one of them from the class of organization the author ran. That is not an argument against either recommendation, but it is a conflict of interest, and an essay whose method is to imagine the universe without a protector should apply the same scrutiny to the reasons its author finds for a reader to send money."
+  }
+]

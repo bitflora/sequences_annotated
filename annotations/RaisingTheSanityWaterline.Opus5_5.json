@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "imagine that we’re going to go and survey all your students five years later, and see how many of them have lost their religions compared to a control group",
+    "content": "Versions of this experiment have been run. The best-known — <a href=\"https://doi.org/10.1126/science.1215647\">Gervais &amp; Norenzayan (2012)</a>, in which analytic-thinking primes reduced religious belief — failed a direct preregistered replication (<a href=\"https://doi.org/10.1371/journal.pone.0172636\">Sanchez et al., 2017</a>) and the large <em>Science/Nature</em> replication project. The natural experiment of higher education is mixed: in American panel data, more education reduces belief in biblical literalism but <em>increases</em> religious attendance and participation (<a href=\"https://doi.org/10.1007/s13644-011-0007-4\">Schwadel, 2011</a>). There is a real correlation between reflective thinking and non-belief (<a href=\"https://doi.org/10.1371/journal.pone.0153039\">Pennycook et al., 2016</a>), but the causal manipulation the essay imagines has not produced the effect it predicts."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "religion is a sign, a symptom, of larger problems that don’t go away just because someone loses their religion.",
+    "content": "The canary metaphor takes a side in a debate the essay does not mention. The cognitive science of religion treats religious belief as a by-product of ordinary, well-functioning cognition — agency detection, teleological intuition, theory of mind — rather than of a reasoning deficit (<a href=\"https://doi.org/10.1016/S1364-6613(99)01419-9\">Barrett, 2000</a>). And the strongest predictors of how religious a population is are not measures of its reasoning but of its insecurity: across countries, religiosity falls as welfare spending rises (<a href=\"https://doi.org/10.1177/1043463104046694\">Gill &amp; Lundsgaarde, 2004</a>), the pattern Norris and Inglehart document at global scale. If that is right, the canary is measuring exposure to risk, not the sanity waterline."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Could you—realistically speaking, regardless of fairness—win a Nobel while advocating the existence of Santa Claus?",
+    "content": "The argument assumes its conclusion. It works only if theistic belief is epistemically equivalent to belief in Santa Claus — which is the proposition in dispute, not a premise both sides grant. Religious Nobel laureates in the sciences are not rare exceptions to be explained away: William Phillips (Physics 1997), Charles Townes (Physics 1964) and Arthur Schawlow (Physics 1981) all spoke publicly of their faith, and surveys of scientists at elite American universities find roughly a third holding some belief in God (<a href=\"https://doi.org/10.1525/sp.2007.54.2.289\">Ecklund &amp; Scheitle, 2007</a>). The inference from “some excellent scientists are religious” to “the sanity waterline is ridiculously low even in the highest halls” needs the equivalence it smuggles in."
+  }
+]
