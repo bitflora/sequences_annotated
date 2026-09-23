@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Similarly, to this day, it is still quite popular to try to program an AI with “semantic networks”",
+    "content": "By 2008 hand-built semantic networks had been out of fashion for more than a decade, replaced by statistical methods. More damaging to the essay, the \"lever\" turned out to be enough. Models trained on nothing but text, the five ASCII characters and the company they keep, recover much of the machinery the essay says is missing. Language models trained with no perception at all encode the perceptual geometry of color words (<a href=\"https://doi.org/10.18653/v1/2021.conll-1.9\">Abdou et al. 2021</a>), and large models now answer detailed questions about how apples taste, what they weigh and what they're used for. The essay pictured a word as a lever attached to nothing unless someone builds the machinery. It missed that the way words are distributed is itself a rich trace of the machinery that produced them."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "It is a truism in evolutionary biology that conditional responses require more genetic complexity than unconditional responses.",
+    "content": "It is not a truism, and the history often runs the other way. Responses triggered by the environment are frequently the ancestral state, and unconditional expression evolves afterward by canalization. <a href=\"https://doi.org/10.1111/j.1558-5646.1953.tb00070.x\">Waddington (1953)</a> used heat shock to induce a wing-vein defect in fruit flies. By selecting the flies that responded, he got lines that showed the defect with no heat shock at all. The conditional response came first, and the unconditional one was the later state. West-Eberhard's <em>Developmental Plasticity and Evolution</em> (2003; book, no DOI) makes this \"plasticity-first\" route a general theme. The essay's inference, that a response conditional on parenting must be an elaborate, specially evolved add-on, rests on a false premise."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "If children grow up with a mixture of pseudo-languages being spoken around them, the children will learn a grammatical, syntactical true language.",
+    "content": "This is Bickerton's language bioprogram hypothesis presented as a \"classic example,\" and the historical creoles don't support it in this form. Creolists have documented that creoles formed gradually over generations, with heavy input from adult speakers and from the languages the adults already spoke, and that they carry no special mark of a grammar supplied by children (<a href=\"https://doi.org/10.1353/lan.2003.0114\">DeGraff 2003</a>). The closest case is Nicaraguan Sign Language, where the grammar did grow as successive groups of children built on each other's signing (<a href=\"https://doi.org/10.1126/science.1100199\">Senghas, Kita &amp; Özyürek 2004</a>). That is a real case of children adding structure, but through shared, cumulative transmission over several cohorts, not a bioprogram acting within one generation."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "The Marxists found to their regret that no amount of scowling posters and childhood indoctrination could raise children to be perfect Soviet workers and bureaucrats.",
+    "content": "\"Perfect\" does all the work here. Judged by any realistic standard, the indoctrination worked quite well. After reunification, East Germans remained markedly more in favor of state provision than West Germans, and the gap was expected to take decades to close (<a href=\"https://doi.org/10.1257/aer.97.4.1507\">Alesina &amp; Fuchs-Schündeln 2007</a>). The wider literature on cultural transmission finds norms of trust, cooperation and punishment that persist for centuries and differ widely between societies (<a href=\"https://doi.org/10.1017/s0140525x05000142\">Henrich et al. 2005</a>). On that evidence, \"culture is not nearly so powerful\" is the weaker claim. The essay needs culture to be weak so that \"raising\" an AI looks hopeless. The evidence says culture is strong in humans, and it says nothing either way about AIs."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "while abused children have a much higher probability of growing up to abuse their own children",
+    "content": "\"Much higher\" overstates what the prospective studies find. Kaufman &amp; Zigler's classic review put the transmission rate at roughly 30% (<a href=\"https://doi.org/10.1111/j.1939-0025.1987.tb03528.x\">Kaufman &amp; Zigler 1987</a>). A prospective study of court-documented cases found that, in official records, much of the apparent transmission of physical abuse reflected closer surveillance of families already known to child services, though the next generation did report more sexual abuse and neglect (<a href=\"https://doi.org/10.1126/science.1259917\">Widom, Czaja &amp; DuMont 2015</a>). Most abused children do not become abusers. The essay's \"a good many of them break the loop\" is nearer the truth than \"much higher probability,\" and part of the loop it describes is produced by who is being watched."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "If you have something that just maximizes the number of paperclips in its future light cone, and you raise it with loving parents, it’s still going to come out as a paperclip maximizer.",
+    "content": "True, and irrelevant to the proposal being mocked. Nobody who proposed \"raising\" an AI proposed a hard-coded paperclip objective. The proposal was a system whose objectives are themselves learned from its environment, and in outline that is what happened. Current systems are pretrained on the record of human culture and then shaped by human feedback (<a href=\"https://arxiv.org/abs/2203.02155\">Ouyang et al. 2022</a>). They do absorb norms from that \"upbringing,\" with characteristic failures such as sycophancy, a niceness that tracks approval rather than the good. The essay's advice, \"program in unconditional niceness,\" had no known implementation then and has none now. The learned, conditional route it called a lever pried off the bridge became the method that works."
+  }
+]

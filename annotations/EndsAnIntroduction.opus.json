@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "not consistently enough to formally qualify as agents with utility functions",
+    "content": "The paragraph runs two different failures together. Violating the von Neumann–Morgenstern axioms is a failure of coherence; acting against one's own wishes is akrasia. The second sentence then defines \"not instrumentally rational\" as the second failure, when the first sentence has established only the first. The two come apart in the data: when <a href=\"https://doi.org/10.1002/bs.3830190603\">Slovic &amp; Tversky (1974)</a> showed subjects the argument for Savage's independence axiom beside the argument against it, most who had violated the axiom did not switch. They endorsed the \"incoherent\" choice on reflection, which is not what people acting against their own wishes do. The book will repeatedly read \"what you really want\" as \"what the axioms demand,\" and this paragraph is where that equation slips in without argument."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "for designing safe autonomous adaptive AI",
+    "content": "The introduction treats a \"reliable and pragmatically useful specification of your goals\" as something you need before you can build a safe machine. The systems that actually arrived were not steered that way. Since <a href=\"https://arxiv.org/abs/1706.03741\">Christiano et al. (2017)</a> and <a href=\"https://arxiv.org/abs/2203.02155\">Ouyang et al. (2022)</a>, the dominant method has been to learn a reward model from human comparisons, and nobody specifies a theory of value along the way. Book V's AI essays mock that approach (\"raising\" a machine from examples). Whether it is safe enough is still disputed, and reward hacking of learned proxies is a real failure mode the book foresaw. But events falsified the premise that specification must come before construction, and the book's architecture rests on that premise."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "partly because we’re empirically terrible at translating utopias into realities",
+    "content": "No evidence is offered for \"empirically terrible,\" and the evidence that exists is more interesting than the slogan. The nineteenth-century American communes are the natural dataset, and there <a href=\"https://doi.org/10.1177/106939710003400105\">Sosis (2000)</a> found that religious communes consistently outlasted secular ones. Kanter's <em>Commitment and Community</em> (1972; book, no DOI) had already found that the communes that lasted were the ones that demanded costly commitment from their members. Some utopian communities, such as the Hutterites and the Shakers, lasted for generations. The honest lesson is that the utopias that last run on shared sacred commitment. That is awkward for a secular \"fun theory,\" and the book never engages it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "Even the word utopia reflects this cynicism; it is derived from the Greek for “non-place.”",
+    "content": "The etymology is a pun, not a verdict. Thomas More coined \"Utopia\" in 1516 to be read two ways: <em>ou-topos</em>, no place, and <em>eu-topos</em>, good place. Verses printed with the first edition, credited to the laureate \"Anemolius,\" say outright that the island deserves the name Eutopia. So the \"eutopia\" the next sentence offers as a corrective was More's own joke, built into the word from the start. His irony was aimed at whether his rational commonwealth was desirable at all (its narrator is Hythloday, \"peddler of nonsense\"), which is a subtler point about utopian writing than the one drawn here. (More, <em>Utopia</em>; book, no DOI.)"
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "We could feasibly abolish aging and disease within a few decades or centuries.",
+    "content": "This sample transhumanist argument has aged badly on its own empirical premise. <a href=\"https://doi.org/10.1038/s43587-024-00702-3\">Olshansky et al. (2024)</a> show that life-expectancy gains in the longest-lived populations slowed sharply after 1990, and that radical life extension this century is implausible. The comparison organisms don't deliver what the footnote needs either. \"Negligible senescence\" means mortality that does not rise with age; it does not mean the end of death. Lobsters die of failed molts and shell disease, and a human population that did not age would still die of accidents, violence and infection at a steady rate. \"A few decades\" was the forecast of the 2000s, and those decades have now passed."
+  }
+]

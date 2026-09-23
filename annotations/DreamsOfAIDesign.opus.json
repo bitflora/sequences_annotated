@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "And that is still a fake reduction and you still haven’t looked inside the black box.",
+    "content": "The essay's rule is that you can't build a capability until you can predict it without empathy, from a model whose moving parts you can see. The history of AI since has falsified the rule. Capable systems were built by combining \"lots of little neurons\" and training them, and nobody first had a non-empathic theory of what they would do. Interpretability research exists because the builders don't understand how what they built works. The essay is right that \"lots of neurons plus learning\" is not an explanation. It turned out to be a construction method, and the essay treated the two as the same thing."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Like the relationship between the feeling of evidence-ness, of justificationness, and E. T. Jaynes’s Probability Theory: The Logic of Science.",
+    "content": "The model example of a \"real reduction\" is weaker than presented. Jaynes's derivation rests on Cox's theorem, and <a href=\"https://doi.org/10.1613/jair.536\">Halpern (1999)</a> gave a counterexample showing the theorem fails under the assumptions usually stated; extra, less intuitive conditions are needed. Philosophers of evidence have also argued that raising a probability is neither necessary nor sufficient for being evidence (Achinstein, <em>The Book of Evidence</em>, 2001; book, no DOI). Bayes' theorem is a real tool. The claim that it reduces \"evidence-ness\" to non-mental parts is a philosophical position with live competitors, offered here as the standard example of a finished reduction."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "Another excellent example of genuine reduction can be found in Judea Pearl’s Probabilistic Reasoning in Intelligent Systems",
+    "content": "The 1988 book cited is about Bayesian networks, which encode conditional independence, not causation. The burglar-alarm example is probabilistic \"explaining away\" and needs no causal meaning at all. Pearl himself later argued that probabilistic networks can't support causal reasoning, because interventions and counterfactuals need machinery the 1988 framework lacks, and he built that machinery in <em>Causality</em> (2000; book, no DOI). The essay credits the earlier book with a reduction of causation that its own author said it didn't achieve."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "it’s all for naught until you come up with the notion of a mini-max search tree",
+    "content": "The strongest chess systems now are built the way this passage says can't work. AlphaZero started with no human chess knowledge and learned its own evaluation through self-play, using Monte Carlo tree search rather than minimax (<a href=\"https://doi.org/10.1126/science.aar6404\">Silver et al. 2018</a>). A transformer trained on positions labeled by a chess engine plays at grandmaster strength with no search at all during play (<a href=\"https://arxiv.org/abs/2402.04494\">Ruoss et al. 2024</a>). Search trees mattered historically, and search still helps. But the sentence says nothing works \"until you come up with the notion of a mini-max search tree,\" and what works best now is mostly learned evaluation."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "or perhaps they build a “massively parallel neural net, just like the human brain.” And are shocked—shocked!—when nothing much happens.",
+    "content": "This is the essay's clearest testable prediction, and it failed. Four years later a large convolutional network trained on GPUs, which are massively parallel hardware, cut the ImageNet error rate far below anything else in the field (<a href=\"https://doi.org/10.1145/3065386\">Krizhevsky, Sutskever &amp; Hinton 2012/2017</a>), and neural networks have been at the center of AI ever since. Something very much happened. The detached-lever critique of symbolic AI was fair. Lumping neural networks in with symbolic AI was not, and the mistake wasn't incidental: it followed from the essay's thesis that you must understand a mind before you can build one."
+  },
+  {
+    "id": 6,
+    "side": "right",
+    "quote": "Planes would fly just as well, given a fixed design, if birds had never existed; they are not kept aloft by analogies.",
+    "content": "\"Given a fixed design\" concedes the point that matters, since the question is where designs come from. The Wright brothers got roll control by wing-warping from watching buzzards twist their wingtips, and Lilienthal built his gliders on his study of stork flight. In AI, the convolutional network descends from Hubel and Wiesel's work on the visual cortex through Fukushima's neocognitron (<a href=\"https://doi.org/10.1007/bf00344251\">Fukushima 1980</a>). The architects of deep reinforcement learning describe neuroscience as a continuing source of design ideas (<a href=\"https://doi.org/10.1016/j.neuron.2017.06.011\">Hassabis et al. 2017</a>). \"Don't fund anyone who says their AI will work like a human\" would have excluded much of the work that succeeded."
+  },
+  {
+    "id": 7,
+    "side": "left",
+    "quote": "bearing in mind that this is demonstrably a very difficult art, which is not learned by a supermajority of students",
+    "content": "No demonstration comes with \"demonstrably.\" No study, course outcome or group of students is cited for the claim that students taught existing reductions fail to learn \"fundamental work on strong AI,\" and it isn't clear what the measurement would be. The sentence serves to justify the author's own long curriculum (rationality, Taboo, anthropomorphism) as the prerequisite for AI research. The field's actual history doesn't bear that out: the people who built the systems that worked were trained in statistics, optimization and engineering."
+  }
+]

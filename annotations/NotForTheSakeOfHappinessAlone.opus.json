@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "I agree that such pills are probably possible, but I wouldn’t voluntarily take them.",
+    "content": "This is Nozick's experience machine (<em>Anarchy, State, and Utopia</em>, 1974; book, no DOI), left unnamed, and the essay's evidence for it is the same as Nozick's: the author's own refusal. That evidence has not held up. <a href=\"https://doi.org/10.1080/09515080903532290\">De Brigard (2010)</a> told subjects they were <em>already</em> plugged in and asked whether they wanted out. Many chose to stay, and in some conditions most did. So the refusal tracks the status quo, not a value placed on reality. If the intuition flips depending on which side of the machine you start from, it can't be a report of what you terminally value. Yet the essay's whole case for irreducible terminal values starts from exactly that intuition, one known to depend on framing."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "One often sees ethicists arguing as if all human desires are reducible, in principle, to the desire for ourselves and others to be happy.",
+    "content": "The ethicists are never named. The one example is Sam Harris, a neuroscientist writing a polemic against religion, in a book the author had \"just finished perusing.\" Among actual ethicists, hedonism about well-being has been a minority view at least since Parfit sorted theories of well-being into hedonistic, desire-fulfilment and objective-list accounts (<em>Reasons and Persons</em>, 1984, Appendix I; book, no DOI). In the 2020 PhilPapers survey the most popular answer on well-being was the objective-list view, well ahead of hedonism (<a href=\"https://doi.org/10.3998/phimp.2109\">Bourget &amp; Chalmers 2023</a>), and that view is essentially the pluralism this essay arrives at. The essay presents the field's mainstream position as its own discovery, against an opponent the field barely contains."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "(I originally found this point in a Sober and Wilson paper, not sure which one.)",
+    "content": "The citation is to a paper the author can't identify, and the likely source says something else. Sober and Wilson's <em>Unto Others</em> (1998; book, no DOI) reviews the classic philosophical arguments against psychological hedonism and concludes that none is decisive. That is why they turn to an evolutionary argument instead. An argument its probable source judged inconclusive appears here as a \"tough standard\" the hedonist can't meet. It also targets the wrong thesis. Psychological hedonism is a claim about what motivates us; ethical hedonism is a claim about what is good for us. The essay's own question, \"whether we should care,\" is about the second."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "If I claim to value art for its own sake, then would I value art that no one ever saw? A screensaver running in a closed room, producing beautiful pictures that no one ever saw? I’d have to say no.",
+    "content": "This concession gives away most of the dispute. If art, science and \"everything I value\" are worthless without \"people and their experiences somewhere along the line,\" then experience is a necessary condition of value. What remains is Parfit's composite view, on which what is good is pleasure taken in the right objects, and that is not a refutation of the hedonist. The essay then sorts values case by case into those that need someone to experience them (art, science) and those that don't (freedom from an undetected puppet master, a few paragraphs later). No principle divides the two lists; each item is placed by consulting the author's reaction. Moore ran the same closed-room thought experiment (<em>Principia Ethica</em> §50) and reached the opposite verdict, which shows how little the method constrains."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "Which means that my decision system has a lot of terminal values, none of them strictly reducible to anything else.",
+    "content": "This is the load-bearing inference of Book V, and it doesn't follow. Showing that value can't be reduced to happiness doesn't show it can't be reduced to anything. Desire-satisfaction theories, objective-list theories with a short list, or a single value such as autonomy all remain open. The step from \"not happiness\" to \"many irreducible terminal values\" is taken by introspection, the faculty <a href=\"https://doi.org/10.1037/0033-295X.84.3.231\">Nisbett &amp; Wilson (1977)</a> showed to be a poor guide to what actually drives our choices. Later essays (\"Fake Utility Functions,\" \"Value is Fragile\") treat \"a thousand shards\" as settled. This paragraph is the only place it gets settled, and it is settled by assertion."
+  }
+]

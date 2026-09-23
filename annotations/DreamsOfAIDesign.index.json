@@ -1,5 +1,12 @@
 [
   {
+    "id": "opus",
+    "label": "Opus",
+    "code": "O",
+    "file": "annotations/DreamsOfAIDesign.opus.json",
+    "default": true
+  },
+  {
     "id": "fable",
     "label": "Fable",
     "code": "F",

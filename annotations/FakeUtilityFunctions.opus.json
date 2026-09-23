@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "We have every reason to believe that insofar as humans can said to be have values, there are lots of them—high Kolmogorov complexity.",
+    "content": "No reason is given, and the technical term does not fit. Kolmogorov complexity can't be computed and is defined only up to a constant that depends on the reference machine, so nobody has measured it for human values. Having \"lots\" of values doesn't imply high complexity either, since a short generator can produce many outputs. The measurements that do exist point toward compressible structure. <a href=\"https://doi.org/10.1016/S0065-2601(08)60281-6\">Schwartz (1992)</a> recovers ten basic values in a stable circular arrangement across dozens of countries, and moral-foundations research finds a handful of dimensions. Those models are surely too simple, but \"high Kolmogorov complexity\" is an intuition dressed up as a theorem."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "A human brain implements a thousand shards of desire, though this fact may not be appreciated by one who has not studied evolutionary psychology.",
+    "content": "\"A thousand shards\" is a figure of speech presented as a finding. The evolutionary psychology it leans on, massive modularity with a genetically specified adaptation for each value, is the most contested part of that field (Fodor, <em>The Mind Doesn't Work That Way</em>, 2000; Buller, <em>Adapting Minds</em>, 2005; books, no DOI). The rival picture has far better support in neuroscience. On it, a small set of primary reinforcers drives a general-purpose learning system (<a href=\"https://doi.org/10.1126/science.275.5306.1593\">Schultz, Dayan &amp; Montague 1997</a>), and most human values are learned rather than built in. Then the complexity of human value lives largely in the environment and is picked up by learning. That sits badly with the book's later insistence that values can't be acquired by learning."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "have not been cognitively derived from each other or from any other value",
+    "content": "The essay calls this \"a descriptive fact about human beings,\" and what is known of the underlying machinery contradicts it. Maternal love and romantic love activate overlapping reward regions (<a href=\"https://doi.org/10.1016/j.neuroimage.2003.11.003\">Bartels &amp; Zeki 2004</a>). Both rest on shared oxytocin and vasopressin attachment systems, and pair bonding appears to have been built by reusing the mother–infant bond (<a href=\"https://doi.org/10.1038/35053579\">Insel &amp; Young 2001</a>). The loves are not derived from each other by reasoning, but they aren't independent shards either; they are variations on common circuitry. The \"shard\" picture is chosen because it makes value look impossible to compress, not because the biology supports it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "(Jack Williamson’s “With Folded Hands…,” in this case.)",
+    "content": "The evidence that leaving out a single value produces \"a fate worse than death\" is a 1947 science-fiction novelette. The sequences explicitly warn against generalizing from fictional evidence, and here fiction carries the essay's central claim: that one missing value is catastrophic rather than merely costly. Whether a future missing one human value is a dystopia or a slightly worse world depends on how values interact. That is an empirical and mathematical question the essay never asks. Williamson's humanoids make a good story about paternalism, but they are not data about value."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "You shouldn’t expect to be able to compress a human morality down to a simple utility function, any more than you should expect to compress a large computer file down to 10 bits.",
+    "content": "The analogy assumes its conclusion. A large file with structure compresses enormously. The real question is whether morality has structure, and comparing it to an incompressible file simply stipulates that it doesn't. The practical question was never a ten-bit formula anyway. It was whether a learned model could approximate human moral judgment well enough to act on, and there the evidence has moved: language models trained on human text do well on broad benchmarks of everyday moral judgment (<a href=\"https://arxiv.org/abs/2008.02275\">Hendrycks et al. 2021</a>). They do it imperfectly and with known failure modes, but far better than \"requiring an infinite number of patches\" predicts. The sentence before this one, that only your morality reliably regenerates your morality, is true by definition and settles nothing."
+  }
+]

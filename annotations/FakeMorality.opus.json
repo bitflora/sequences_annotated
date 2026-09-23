@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "God, say the religious fundamentalists, is the source of all morality; there can be no morality without a Judge who rewards and punishes.",
+    "content": "Two different theses are fused here. Divine command theory, the serious philosophical version, is a claim about what makes acts right: obligation consists in God's commands (Adams, <em>Finite and Infinite Goods</em>, 1999; book, no DOI). It says nothing about fear of punishment as a motive. The motivational claim, that people behave well because they fear hell, is an empirical hypothesis, and the little evidence on it does not favor the essay. Across countries, belief in hell relative to belief in heaven predicts lower crime rates (<a href=\"https://doi.org/10.1371/journal.pone.0039048\">Shariff &amp; Rhemtulla 2012</a>), and people who see God as punishing cheat less in the lab than people who see God as loving (<a href=\"https://doi.org/10.1080/10508619.2011.556990\">Shariff &amp; Norenzayan 2011</a>). Both findings are correlational and small, but the essay assumes the effect is zero without looking."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "The very fact that a religious person would be afraid of God withdrawing Its threat to punish them for committing murder shows that they have a revulsion of murder",
+    "content": "The argument switches whose behavior is in question. The fundamentalist's question, quoted in the first paragraph, is \"what would stop <em>people</em> from murdering each other,\" a worry about other people. The Omega analogy asks whether you would fear the withdrawal of a threat against <em>yourself</em>. You can fear that a deterrent on other people will be removed while feeling no temptation yourself; that is the reasoning behind every criminal statute. So the fear the essay diagnoses is not evidence of an independent personal revulsion, and the \"moral compass\" it hands the doubting believer answers a worry the believer did not have."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "You don’t hear religious fundamentalists using the argument: “If we did not fear hell and yearn for heaven, then what would stop people from eating pork?”",
+    "content": "One does hear exactly this, in the tradition the sentence gestures at. Rabbinic Judaism counts the pork prohibition among the <em>chukim</em>, decrees given without a reason. The Sifra, quoted by Rashi on Leviticus 20:26, says a person should not say \"I have no desire for pork\" but \"I would like it, and what can I do? My Father in heaven has forbidden it.\" That is divine command offered as the only barrier between a person and pork. The essay's prediction about what believers never say is refuted by one of the best-known texts on the subject."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "the strategy that fares best is Tit for Tat with initial cooperation",
+    "content": "Even as a paraphrase of the second philosopher's view, the game theory is dated. Tit for Tat won Axelrod's tournaments, but when moves are sometimes mistaken it falls into cycles of retaliation, and more forgiving strategies such as win-stay, lose-shift beat it (<a href=\"https://doi.org/10.1038/364056a0\">Nowak &amp; Sigmund 1993</a>). In the repeated Prisoner's Dilemma no pure strategy is evolutionarily stable at all (<a href=\"https://doi.org/10.1038/327058a0\">Boyd &amp; Lorberbaum 1987</a>). The claim that Tit for Tat is optimal recurs across Book V as settled background (\"Detached Lever Fallacy,\" \"Sympathetic Minds\"). It was already unsettled when these essays were written."
+  },
+  {
+    "id": 5,
+    "side": "left",
+    "quote": "So which of these two is the actual altruist? Whichever one actually holds open doors for little old ladies.",
+    "content": "The essay spends its argument on how each philosopher justifies a recommendation, then settles the question with a behavioral test that makes all that analysis idle. The behavioral test can't do the job anyway. Holding doors is cheap, public and good for one's reputation, exactly the kind of act an egoist performs routinely. If \"actual altruist\" means \"performs prosocial acts,\" both philosophers may qualify and the essay's distinction disappears. If it means \"is motivated by others' welfare,\" door-holding is no evidence either way."
+  }
+]
