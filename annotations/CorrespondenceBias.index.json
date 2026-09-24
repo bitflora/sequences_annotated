@@ -1,10 +1,10 @@
 [
   {
-    "id": "opus",
-    "label": "Opus",
-    "code": "O",
-    "file": "annotations/CorrespondenceBias.opus.json",
-    "default": true
+    "id": "OpusOld",
+    "label": "Opus (old)",
+    "code": "OO",
+    "file": "annotations/CorrespondenceBias.OpusOld.json",
+    "default": false
   },
   {
     "id": "fable",

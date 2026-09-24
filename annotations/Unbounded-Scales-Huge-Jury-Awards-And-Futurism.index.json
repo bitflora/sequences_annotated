@@ -1,10 +1,10 @@
 [
   {
-    "id": "opus",
-    "label": "Opus",
-    "code": "O",
-    "file": "annotations/Unbounded-Scales-Huge-Jury-Awards-And-Futurism.opus.json",
-    "default": true
+    "id": "OpusOld",
+    "label": "Opus (old)",
+    "code": "OO",
+    "file": "annotations/Unbounded-Scales-Huge-Jury-Awards-And-Futurism.OpusOld.json",
+    "default": false
   },
   {
     "id": "fable",

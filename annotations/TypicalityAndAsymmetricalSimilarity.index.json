@@ -1,10 +1,10 @@
 [
   {
-    "id": "opus",
-    "label": "Opus",
-    "code": "O",
-    "file": "annotations/TypicalityAndAsymmetricalSimilarity.opus.json",
-    "default": true
+    "id": "OpusOld",
+    "label": "Opus (old)",
+    "code": "OO",
+    "file": "annotations/TypicalityAndAsymmetricalSimilarity.OpusOld.json",
+    "default": false
   },
   {
     "id": "fable",

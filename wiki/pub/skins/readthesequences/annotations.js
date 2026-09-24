@@ -18,12 +18,24 @@
         return name.replace(/\.html$/, '');
     }
 
+    // Superseded sets; stored choices for them are dropped once so they fall
+    // back to their index default (off).
+    var OLD_SET_IDS = ['OpusOld', 'ropusOld'];
+    var OLD_SETS_RESET_FLAG = '_oldSetsReset2';
+
     function loadPrefs() {
+        var prefs;
         try {
-            return JSON.parse(window.localStorage.getItem(PREF_KEY)) || {};
+            prefs = JSON.parse(window.localStorage.getItem(PREF_KEY)) || {};
         } catch (e) {
             return {};
         }
+        if (!prefs[OLD_SETS_RESET_FLAG]) {
+            OLD_SET_IDS.forEach(function (id) { delete prefs[id]; });
+            prefs[OLD_SETS_RESET_FLAG] = true;
+            savePrefs(prefs);
+        }
+        return prefs;
     }
 
     function savePrefs(prefs) {

@@ -98,8 +98,19 @@ def strip_html(s):
     return html.unescape(re.sub(r"<[^>]+>", "", s))
 
 
+def _logical_set(set_id, index_ids):
+    """Books I-IV keep their only Opus pass as `OpusOld` (off by default for
+    readers) but the dashboard still counts it as `opus`; Book VI's `OpusOld`
+    is superseded by `Opus5_5` and stays out."""
+    if set_id == "OpusOld" and "Opus5_5" not in index_ids:
+        return "opus"
+    return set_id
+
+
 def load_set(article, set_id):
     p = os.path.join(ANN, f"{article}.{set_id}.json")
+    if set_id == "opus" and not os.path.exists(p):
+        p = os.path.join(ANN, f"{article}.OpusOld.json")
     if not os.path.exists(p):
         return None
     with open(p, encoding="utf-8") as f:
@@ -115,7 +126,9 @@ def annotated_articles():
         art = fn[: -len(".index.json")]
         with open(os.path.join(ANN, fn), encoding="utf-8") as f:
             idx = json.load(f)
-        sets = [e["id"] for e in idx if e["id"] in SETS]
+        ids = [e["id"] for e in idx]
+        sets = [_logical_set(i, ids) for i in ids]
+        sets = [s for s in sets if s in SETS]
         if sets:
             out.append((art, sets))
     return out

@@ -1,10 +1,10 @@
 [
   {
-    "id": "opus",
-    "label": "Opus",
-    "code": "O",
-    "file": "annotations/BeliefInBelief.opus.json",
-    "default": true
+    "id": "OpusOld",
+    "label": "Opus (old)",
+    "code": "OO",
+    "file": "annotations/BeliefInBelief.OpusOld.json",
+    "default": false
   },
   {
     "id": "fable",
