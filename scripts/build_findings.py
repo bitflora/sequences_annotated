@@ -24,6 +24,7 @@ from findings_common import (BOOKS, REBUTTAL_SETS, ROOT, SETS, SKEPTIC_SETS,
 
 FINDINGS = os.path.join(ROOT, "analysis", "findings.jsonl")
 SUMMARY = os.path.join(ROOT, "analysis", "findings-summary.json")
+INDEX = os.path.join(ROOT, "index.html")
 
 TARGETS = ["cited_study", "empirical_claim", "historical_fact", "attribution",
            "ai_prediction", "argument", "prior_work", "other"]
@@ -106,6 +107,38 @@ def load_rows(expected):
 
 def counter_dict(c, keys):
     return {k: c.get(k, 0) for k in keys}
+
+
+def write_index_bars(study_fate):
+    """Rewrite the per-book cited-study bars between the <!-- studies:B --> markers in index.html."""
+    with open(INDEX, encoding="utf-8") as f:
+        page = f.read()
+    for b in BOOKS:
+        c = collections.Counter()
+        for v, n in study_fate[b].items():
+            c[GROUP[v]] += n
+        total = sum(c.values())
+        if total:
+            segs = "".join(f'<span style="flex:{c[g]};background:var(--st-{g})"></span>'
+                           for g in ("stands", "open", "damaged") if c[g])
+            label = f"{c['stands']} of {total} cited studies hold up"
+            extra = [f"{c['damaged']} damaged"] if c["damaged"] else []
+            extra += [f"{c['open']} contested"] if c["open"] else []
+            detail = " · ".join(extra)
+            aria = label + (", " + ", ".join(extra) if extra else "")
+            html = (f'<a class="book-studies" href="Findings.html" title="Cited studies in Book {b}">'
+                    f'<span class="bar" role="img" aria-label="{aria}">{segs}</span>'
+                    f'<span class="cap">{label}</span>'
+                    + (f'<span class="cap">{detail}</span>' if detail else "") + '</a>')
+        else:
+            html = ""
+        start, end = f"<!-- studies:{b} -->", f"<!-- /studies:{b} -->"
+        i, j = page.find(start), page.find(end)
+        if i < 0 or j < i:
+            die(f"index.html has no {start} ... {end} markers")
+        page = page[:i + len(start)] + html + page[j:]
+    with open(INDEX, "w", encoding="utf-8") as f:
+        f.write(page)
 
 
 def main():
@@ -260,6 +293,7 @@ def main():
     }
     with open(SUMMARY, "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=1)
+    write_index_bars(study_fate)
     t = summary["totals"]
     print(f"{t['notes']} notes ({t['skeptic_notes']} skeptic, {t['rebuttal_notes']} rebuttal) in {t['articles']} articles")
     print(f"{t['studies']} distinct cited studies: {stands} stand, {t['studies_damaged']} damaged")

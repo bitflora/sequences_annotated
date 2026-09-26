@@ -1,8 +1,9 @@
 {
- "generated": "2026-09-23",
+ "generated": "2026-09-25",
  "sets": {
   "skeptic": [
    "opus",
+   "OpusOld",
    "fable",
    "Opus5_5",
    "SkepticAstra"
@@ -64,7 +65,8 @@
   "studies_stand": 51,
   "studies_damaged": 55,
   "by_set": {
-   "opus": 439,
+   "opus": 187,
+   "OpusOld": 252,
    "fable": 876,
    "Opus5_5": 179,
    "SkepticAstra": 154,
@@ -178,14 +180,14 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Hindsight bias is robust; Guilbault et al. meta-analysis confirms a reliable moderate effect.",
      "article": "FakeCausality",
      "title": "Fake Causality"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Hindsight bias is one of the most robust findings and has weathered the replication crisis.",
      "article": "HindsightDevaluesScience",
@@ -199,21 +201,21 @@
      "title": "Hindsight Devalues Science"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Hindsight bias is robust, but consider-the-alternative partly reduces it; 'can't de-interpret' overstates.",
      "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
      "title": "Illusion of Transparency: Why No One Understands You"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Hindsight bias robust, but resistant to debiasing by willful remembering.",
      "article": "Making-History-Available",
      "title": "Making History Available"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Hindsight bias invoked implicitly is well replicated (Guilbault et al. 2004 meta-analysis).",
      "article": "TheFutilityOfEmergence",
@@ -231,7 +233,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Weak spontaneous far transfer is robust across decades and survived the replication crisis.",
      "article": "FocusYourUncertainty",
@@ -249,7 +251,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Lexical semantic priming is robust; the problem is extending it to social and behavioral priming.",
      "article": "Priming-And-Contamination",
@@ -267,7 +269,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Asymmetric category-based induction confirmed and formalized by Osherson et al. 1990.",
      "article": "TypicalityAndAsymmetricalSimilarity",
@@ -292,7 +294,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Cat LGN reconstruction is accurate; later human fMRI decoding goes further.",
      "article": "ZombiesZombies",
@@ -310,7 +312,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Asymmetric similarity is genuine and replicated, as the contrast model predicts.",
      "article": "TypicalityAndAsymmetricalSimilarity",
@@ -382,7 +384,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Three-quarters conformed once, but most trial responses were independent; headline oversells conformity.",
      "article": "AschsConformityExperiment",
@@ -400,7 +402,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Unpublished dissertation is weak, but conclusion matches robust hindsight-bias literature.",
      "article": "HindsightDevaluesScience",
@@ -436,7 +438,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Scarcity principle survives, but Cialdini's dramatic magnitudes are illustrations, not stable effect sizes.",
      "article": "Scarcity",
@@ -454,7 +456,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Warren anecdote fits unfalsifiable-hypothesis error; confirmation bias is nuanced per Klayman & Ha.",
      "article": "AbsenceOfEvidenceIsEvidenceOfAbsence",
@@ -472,7 +474,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Ratio bias replicates well, but denominator neglect is a numeracy mechanism distinct from affect.",
      "article": "TheAffectHeuristic",
@@ -497,7 +499,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Hundred-step rule is a rough heuristic; 'cognition is mostly cache lookups' is metaphor, not a result.",
      "article": "CachedThoughts",
@@ -551,7 +553,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Illusion of transparency replicates but concerns emotional states, not knowledge or inferential chains.",
      "article": "ExpectingShortInferentialDistances",
@@ -587,7 +589,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Beauty premium robust, but partly confidence and sorting channels rather than pure halo.",
      "article": "TheHaloEffect",
@@ -605,7 +607,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Chinese digit-span effect is sound (rehearsal rate), but the 'seven plus or minus two' benchmark is outdated.",
      "article": "ZombiesZombies",
@@ -623,7 +625,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Evaluability hypothesis robust, but reversal needs hard-to-evaluate attributes and fades with reference standards or expertise.",
      "article": "Evaluability-And-Cheap-Holiday-Shopping",
@@ -641,7 +643,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Less-is-better effect is real but rests on small hypothetical samples; specific prices are illustrations only.",
      "article": "Evaluability-And-Cheap-Holiday-Shopping",
@@ -677,7 +679,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Attitude-attribution effect replicates, but is partly Bayesian and weaker in East Asian samples.",
      "article": "CorrespondenceBias",
@@ -731,7 +733,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Strong study, but individual ratings, not deliberating juries, which shift and polarize awards.",
      "article": "Unbounded-Scales-Huge-Jury-Awards-And-Futurism",
@@ -749,7 +751,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Speakers overestimate by 11 points against high actual success; title dramatizes a modest effect.",
      "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
@@ -774,7 +776,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Landauer cost confirmed experimentally (Bérut 2012); demon exorcism remains philosophically disputed.",
      "article": "TheSecondLawOfThermodynamicsAndEnginesOfCognition",
@@ -814,7 +816,7 @@
      "title": "Bystander Apathy"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Diffusion of responsibility real, but CCTV field data show someone intervenes in 90% of conflicts.",
      "article": "EvolvingToExtinction",
@@ -839,7 +841,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Lazarsfeld reversal is a pedagogical demonstration, not a controlled experiment.",
      "article": "HindsightDevaluesScience",
@@ -857,14 +859,14 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Maier's single contrived role-play, reported thirdhand; related group-ideation research is suggestive, not proof.",
      "article": "HoldOffOnProposingSolutions",
      "title": "Hold Off On Proposing Solutions"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Dawes admits no objective criterion; practitioner evidence is impressionistic, backing thin.",
      "article": "HoldOffOnProposingSolutions",
@@ -889,7 +891,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Best-guess/best-case convergence is real but narrower; 'worse than worst case' is a quip, not finding.",
      "article": "PlanningFallacy",
@@ -907,7 +909,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Pluralistic ignorance is well supported, but distinct from Asch conformity; merging them overstates Asch's relevance.",
      "article": "OnExpressingYourConcerns",
@@ -925,7 +927,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Typicality effects replicate, but Armstrong et al. show they don't imply non-classical categories.",
      "article": "TypicalityAndAsymmetricalSimilarity",
@@ -943,7 +945,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "False consensus replicates, but is partly rational and distinct from correspondence bias.",
      "article": "CorrespondenceBias",
@@ -986,7 +988,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Preference-reversal demonstration is solid, though reversals shrink with learning and markets and require separate evaluation.",
      "article": "Evaluability-And-Cheap-Holiday-Shopping",
@@ -1029,7 +1031,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Implausible anchors often produce smaller effects (Wegener et al. 2001); equal-effect claim overgeneralizes.",
      "article": "Anchoring-And-Adjustment",
@@ -1047,7 +1049,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Minimal groups produce favoritism, not the lethal out-group hatred the fable depicts.",
      "article": "A-Fable-Of-Science-And-Politics",
@@ -1065,7 +1067,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Supernormal stimuli are solid ethology; extension to candy and civilizational collapse is analogy.",
      "article": "SuperstimuliAndTheCollapseOfWesternCivilization",
@@ -1083,14 +1085,14 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Probability matching is real but strongly moderated by incentives, feedback and deliberation.",
      "article": "LawfulUncertainty",
      "title": "Lawful Uncertainty"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "76% figure is one study's value; many subjects converge toward maximizing in other designs.",
      "article": "LawfulUncertainty",
@@ -1115,14 +1117,14 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Availability effect holds, but ease of retrieval, not amount recalled, is the operative cue (Schwarz 1991).",
      "article": "Availability",
      "title": "Availability"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Availability replicates, but fluency not count drives it, so effortful recall of history may backfire.",
      "article": "Making-History-Available",
@@ -1140,21 +1142,21 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Anchoring replicated robustly in Many Labs 1 and 2.",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Anchor-and-adjust mechanism applies to self-generated anchors; provided anchors work via selective accessibility (Epley & Gilovich).",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Anchoring is fairly incentive-resistant, but incentives can reduce it (Simmons et al. 2010); 'did not reduce' too strong.",
      "article": "Anchoring-And-Adjustment",
@@ -1179,21 +1181,21 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Conjunction fallacy replicates, but pragmatics and frequency formats shrink it; swindle-by-narrative leap is larger.",
      "article": "BurdensomeDetails",
      "title": "Burdensome Details"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Representativeness account is one contested interpretation, not nailed down; risks circularity.",
      "article": "BurdensomeDetails",
      "title": "Burdensome Details"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Dice dominance violation is format-dependent; changing representation addresses the cause, not a band-aid.",
      "article": "BurdensomeDetails",
@@ -1207,14 +1209,14 @@
      "title": "Burdensome Details"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Conjunction fallacy replicates; interpretation contested and knowing its name doesn't immunize.",
      "article": "MyWildAndRecklessYouth",
      "title": "My Wild and Reckless Youth"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Conjunction violation genuine in strict setup but partly dissolves under pragmatics and frequency formats.",
      "article": "What-Do-I-Mean-By-Rationality",
@@ -1228,7 +1230,7 @@
      "title": "What Do I Mean By “Rationality”?"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Listed biases differ in robustness; conjunction and base-rate neglect shrink with frequencies, overconfidence partly artifact.",
      "article": "Whats-A-Bias-Again",
@@ -1246,7 +1248,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Censorship reactance is real but moderated by censor legitimacy; can shrink or reverse.",
      "article": "Scarcity",
@@ -1300,7 +1302,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Sex-differentiated mate preferences shrink in gender-equal societies; adaptationist reading disputed.",
      "article": "EvolutionaryPsychology",
@@ -1401,7 +1403,7 @@
      "title": "The Scales of Justice, the Notebook of Rationality"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Inverse risk-benefit correlation has alternative interpretations; affect heuristic is an umbrella hypothesis, not settled.",
      "article": "TheAffectHeuristic",
@@ -1419,7 +1421,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Spinozan default-acceptance model is contested; Hasson et al. and Richter et al. find plausibility-dependent validation.",
      "article": "Do-We-Believe-Everything-Were-Told",
@@ -1437,7 +1439,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Causal Bayes nets fit many judgments but are a debated computational account; Markov violations persist.",
      "article": "FakeCausality",
@@ -1505,14 +1507,14 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Conformity declined across cohorts and varies by culture; not a fixed universal phenomenon.",
      "article": "AschsConformityExperiment",
      "title": "Asch’s Conformity Experiment"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Sex difference small and task/author confounded (Eagly & Carli 1981); gloss about agreeableness unwarranted.",
      "article": "AschsConformityExperiment",
@@ -1537,7 +1539,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Forbidden-toy effect appeared only in boys in a small study; thin support for a universal claim.",
      "article": "Scarcity",
@@ -1555,7 +1557,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Result reproduces qualitatively, but meta-analysis shows direction and size vary; some tasks show overestimation.",
      "article": "PlanningFallacy",
@@ -1598,7 +1600,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Tracking media coverage is rational updating on available data; the problem is the environment, not a bias.",
      "article": "Availability",
@@ -1616,21 +1618,21 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "0.92 correlation is between smooth curves over few age bins; precision largely an artifact.",
      "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
      "title": "An Especially Elegant Evolutionary Psychology Experiment"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Rating imagined grief measures folk theory, not grief; confounds could manufacture the correlation.",
      "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
      "title": "An Especially Elegant Evolutionary Psychology Experiment"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "One unpreregistered, rarely replicated correlation cannot answer the post-hoc storytelling critique of evo psych.",
      "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
@@ -1680,7 +1682,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Dunbar's number re-analysis gives huge confidence intervals; 200 figure is illustrative, not established.",
      "article": "ExpectingShortInferentialDistances",
@@ -1716,7 +1718,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Election figure from an unpublished thesis, confounded raw correlation; denial evidence ambiguous.",
      "article": "TheHaloEffect",
@@ -1735,7 +1737,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "When Prophecy Fails is a single tiny contaminated case; later reviews find intensified belief is the exception.",
      "article": "EvaporativeCoolingOfGroupBeliefs",
@@ -1749,7 +1751,7 @@
      "title": "Evaporative Cooling of Group Beliefs"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Belief maintenance after disconfirmation is real, but predicted proselytizing surge is inconsistent in later cases.",
      "article": "ReligionsClaimToBeNonDisprovable",
@@ -1828,7 +1830,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Single correlational study; low-volatility anomaly means negative risk-return perception may track reality.",
      "article": "TheAffectHeuristic",
@@ -1879,7 +1881,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Single unreplicated study; effect only under load, non-busy readers largely rejected falsehoods.",
      "article": "Do-We-Believe-Everything-Were-Told",
@@ -1900,7 +1902,7 @@
      "title": "Do We Believe Everything We’re Told?"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Spinozan automatic-belief model only partly supported; one 1993 paper does not settle belief architecture.",
      "article": "YourStrengthAsARationalist",
@@ -1925,7 +1927,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "24-colleague convenience sample is an anecdote; cannot distinguish rarely changing minds from consulting once decided.",
      "article": "WeChangeOurMindsLessOftenThanWeThink",
@@ -1950,7 +1952,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Affection effect rests on small hypothetical WTP samples; consolation reading makes it possibly rational.",
      "article": "TheAffectHeuristic",
@@ -2065,7 +2067,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Mortality misjudgments are real but confounded with regression toward the mean; availability not established as cause.",
      "article": "Availability",
@@ -2156,7 +2158,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "'Fundamental attribution error' neither fundamental nor clearly an error; actor-observer half failed meta-analysis.",
      "article": "CorrespondenceBias",
@@ -2181,7 +2183,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Courtroom studies small and mixed; meta-analysis finds small, crime-specific effects, reversing for fraud.",
      "article": "TheHaloEffect",
@@ -2206,7 +2208,7 @@
      "title": "Fake Optimization Criteria"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Wade's experiments showed group selection strong and fast, contrary to the essay's cautionary framing.",
      "article": "TheTragedyOfGroupSelectionism",
@@ -2263,14 +2265,14 @@
      "title": "Conservation of Expected Evidence"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Low solve rate replicates, but DAX/MED framing raises success; not a fixed 20% ceiling.",
      "article": "PositiveBiasLookIntoTheDark",
      "title": "Positive Bias: Look into the Dark"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Positive testing is real but often rational (Klayman & Ha); the task is engineered to defeat it.",
      "article": "PositiveBiasLookIntoTheDark",
@@ -2331,7 +2333,7 @@
      "title": "Rationality: Common Interest of Many Causes"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "failed_replication",
      "gist": "Ego depletion failed multi-lab registered replication (Hagger 2016); bias-corrected effect near zero.",
      "article": "SuperstimuliAndTheCollapseOfWesternCivilization",
@@ -2436,7 +2438,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "failed_replication",
      "gist": "Actor-observer asymmetry near zero in Malle's 2006 meta-analysis of 173 studies.",
      "article": "CorrespondenceBias",
@@ -2480,14 +2482,14 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "failed_replication",
      "gist": "Prior-attitude and disconfirmation effects hold, but attitude polarization and backfire largely failed to replicate.",
      "article": "KnowingAboutBiasesCanHurtPeople",
      "title": "Knowing About Biases Can Hurt People"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Sophistication effect rests on two issues; knowledge hurts mainly on identity-relevant topics, otherwise improves accuracy.",
      "article": "KnowingAboutBiasesCanHurtPeople",
@@ -2537,14 +2539,14 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "retracted_or_fraud",
      "gist": "Failed Middle Grove precursor was buried and staff engineered conflict (Perry 2018).",
      "article": "The-Robbers-Cave-Experiment",
      "title": "The Robbers Cave Experiment"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Single uncontrolled study of 22 boys with experimenter-staff; illustration, not decisive evidence.",
      "article": "The-Robbers-Cave-Experiment",
@@ -2569,7 +2571,7 @@
    "conflict": false,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "retracted_or_fraud",
      "gist": "Source is Wansink, whose lab had many retractions; store persistence is survivorship, not evidence.",
      "article": "Priming-And-Contamination",
@@ -2637,7 +2639,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Cited meta-analysis finds near-zero halo for honesty and kindness; halo is selective.",
      "article": "TheHaloEffect",
@@ -2662,7 +2664,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Keysar's sarcasm study replicates reasonably but uses vignettes with deliberately strong manipulations.",
      "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
@@ -2724,7 +2726,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Stroop effect is among psychology's most robust, replicated findings.",
      "article": "EvolutionaryPsychology",
@@ -2881,14 +2883,24 @@
  },
  "set_x_verdict": {
   "opus": {
-   "holds": 26,
-   "holds_qualified": 94,
-   "contested": 40,
-   "unfalsifiable_or_na": 11,
-   "weakened": 199,
+   "holds": 3,
+   "holds_qualified": 12,
+   "contested": 15,
+   "unfalsifiable_or_na": 5,
+   "weakened": 96,
+   "failed_replication": 0,
+   "retracted_or_fraud": 0,
+   "false_or_misattributed": 56
+  },
+  "OpusOld": {
+   "holds": 23,
+   "holds_qualified": 82,
+   "contested": 25,
+   "unfalsifiable_or_na": 6,
+   "weakened": 103,
    "failed_replication": 4,
    "retracted_or_fraud": 2,
-   "false_or_misattributed": 63
+   "false_or_misattributed": 7
   },
   "fable": {
    "holds": 22,
@@ -8779,7 +8791,7 @@
      "title": "Bystander Apathy"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Diffusion of responsibility real, but CCTV field data show someone intervenes in 90% of conflicts.",
      "article": "EvolvingToExtinction",
@@ -8804,14 +8816,14 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Maier's single contrived role-play, reported thirdhand; related group-ideation research is suggestive, not proof.",
      "article": "HoldOffOnProposingSolutions",
      "title": "Hold Off On Proposing Solutions"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Dawes admits no objective criterion; practitioner evidence is impressionistic, backing thin.",
      "article": "HoldOffOnProposingSolutions",
@@ -8836,14 +8848,14 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Probability matching is real but strongly moderated by incentives, feedback and deliberation.",
      "article": "LawfulUncertainty",
      "title": "Lawful Uncertainty"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "76% figure is one study's value; many subjects converge toward maximizing in other designs.",
      "article": "LawfulUncertainty",
@@ -8868,21 +8880,21 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Anchoring replicated robustly in Many Labs 1 and 2.",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Anchor-and-adjust mechanism applies to self-generated anchors; provided anchors work via selective accessibility (Epley & Gilovich).",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Anchoring is fairly incentive-resistant, but incentives can reduce it (Simmons et al. 2010); 'did not reduce' too strong.",
      "article": "Anchoring-And-Adjustment",
@@ -8907,21 +8919,21 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Conjunction fallacy replicates, but pragmatics and frequency formats shrink it; swindle-by-narrative leap is larger.",
      "article": "BurdensomeDetails",
      "title": "Burdensome Details"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Representativeness account is one contested interpretation, not nailed down; risks circularity.",
      "article": "BurdensomeDetails",
      "title": "Burdensome Details"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Dice dominance violation is format-dependent; changing representation addresses the cause, not a band-aid.",
      "article": "BurdensomeDetails",
@@ -8935,14 +8947,14 @@
      "title": "Burdensome Details"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Conjunction fallacy replicates; interpretation contested and knowing its name doesn't immunize.",
      "article": "MyWildAndRecklessYouth",
      "title": "My Wild and Reckless Youth"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Conjunction violation genuine in strict setup but partly dissolves under pragmatics and frequency formats.",
      "article": "What-Do-I-Mean-By-Rationality",
@@ -8956,7 +8968,7 @@
      "title": "What Do I Mean By “Rationality”?"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Listed biases differ in robustness; conjunction and base-rate neglect shrink with frequencies, overconfidence partly artifact.",
      "article": "Whats-A-Bias-Again",
@@ -8974,7 +8986,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Sex-differentiated mate preferences shrink in gender-equal societies; adaptationist reading disputed.",
      "article": "EvolutionaryPsychology",
@@ -9032,7 +9044,7 @@
      "title": "The Scales of Justice, the Notebook of Rationality"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Inverse risk-benefit correlation has alternative interpretations; affect heuristic is an umbrella hypothesis, not settled.",
      "article": "TheAffectHeuristic",
@@ -9050,7 +9062,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Causal Bayes nets fit many judgments but are a debated computational account; Markov violations persist.",
      "article": "FakeCausality",
@@ -9100,14 +9112,14 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Conformity declined across cohorts and varies by culture; not a fixed universal phenomenon.",
      "article": "AschsConformityExperiment",
      "title": "Asch’s Conformity Experiment"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "Sex difference small and task/author confounded (Eagly & Carli 1981); gloss about agreeableness unwarranted.",
      "article": "AschsConformityExperiment",
@@ -9132,7 +9144,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Result reproduces qualitatively, but meta-analysis shows direction and size vary; some tasks show overestimation.",
      "article": "PlanningFallacy",
@@ -9158,7 +9170,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "weakened",
      "gist": "When Prophecy Fails is a single tiny contaminated case; later reviews find intensified belief is the exception.",
      "article": "EvaporativeCoolingOfGroupBeliefs",
@@ -9172,7 +9184,7 @@
      "title": "Evaporative Cooling of Group Beliefs"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Belief maintenance after disconfirmation is real, but predicted proselytizing surge is inconsistent in later cases.",
      "article": "ReligionsClaimToBeNonDisprovable",
@@ -9191,7 +9203,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Single unreplicated study; effect only under load, non-busy readers largely rejected falsehoods.",
      "article": "Do-We-Believe-Everything-Were-Told",
@@ -9212,7 +9224,7 @@
      "title": "Do We Believe Everything We’re Told?"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "contested",
      "gist": "Spinozan automatic-belief model only partly supported; one 1993 paper does not settle belief architecture.",
      "article": "YourStrengthAsARationalist",
@@ -9244,14 +9256,14 @@
      "title": "Conservation of Expected Evidence"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Low solve rate replicates, but DAX/MED framing raises success; not a fixed 20% ceiling.",
      "article": "PositiveBiasLookIntoTheDark",
      "title": "Positive Bias: Look into the Dark"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Positive testing is real but often rational (Klayman & Ha); the task is engineered to defeat it.",
      "article": "PositiveBiasLookIntoTheDark",
@@ -9312,7 +9324,7 @@
      "title": "Rationality: Common Interest of Many Causes"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "failed_replication",
      "gist": "Ego depletion failed multi-lab registered replication (Hagger 2016); bias-corrected effect near zero.",
      "article": "SuperstimuliAndTheCollapseOfWesternCivilization",
@@ -9338,14 +9350,14 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "failed_replication",
      "gist": "Prior-attitude and disconfirmation effects hold, but attitude polarization and backfire largely failed to replicate.",
      "article": "KnowingAboutBiasesCanHurtPeople",
      "title": "Knowing About Biases Can Hurt People"
     },
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Sophistication effect rests on two issues; knowledge hurts mainly on identity-relevant topics, otherwise improves accuracy.",
      "article": "KnowingAboutBiasesCanHurtPeople",
@@ -9402,7 +9414,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Cited meta-analysis finds near-zero halo for honesty and kindness; halo is selective.",
      "article": "TheHaloEffect",
@@ -9427,7 +9439,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds_qualified",
      "gist": "Keysar's sarcasm study replicates reasonably but uses vignettes with deliberately strong manipulations.",
      "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
@@ -9453,7 +9465,7 @@
    "conflict": true,
    "notes": [
     {
-     "set": "opus",
+     "set": "OpusOld",
      "verdict": "holds",
      "gist": "Stroop effect is among psychology's most robust, replicated findings.",
      "article": "EvolutionaryPsychology",

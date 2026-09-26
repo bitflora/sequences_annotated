@@ -12,7 +12,7 @@ from html.parser import HTMLParser
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ANN = os.path.join(ROOT, "annotations")
 
-SKEPTIC_SETS = ["opus", "fable", "Opus5_5", "SkepticAstra"]
+SKEPTIC_SETS = ["opus", "OpusOld", "fable", "Opus5_5", "SkepticAstra"]
 REBUTTAL_SETS = ["ropus", "RationalistAstra"]
 SETS = SKEPTIC_SETS + REBUTTAL_SETS
 
@@ -98,19 +98,16 @@ def strip_html(s):
     return html.unescape(re.sub(r"<[^>]+>", "", s))
 
 
-def _logical_set(set_id, index_ids):
-    """Books I-IV keep their only Opus pass as `OpusOld` (off by default for
-    readers) but the dashboard still counts it as `opus`; Book VI's `OpusOld`
-    is superseded by `Opus5_5` and stays out."""
-    if set_id == "OpusOld" and "Opus5_5" not in index_ids:
-        return "opus"
-    return set_id
+def _in_scope(set_id, index_ids):
+    """`OpusOld` counts in Books I-IV, where it is the only Opus pass; in Book VI
+    it is superseded by `Opus5_5` and stays out."""
+    if set_id == "OpusOld":
+        return "Opus5_5" not in index_ids
+    return set_id in SETS
 
 
 def load_set(article, set_id):
     p = os.path.join(ANN, f"{article}.{set_id}.json")
-    if set_id == "opus" and not os.path.exists(p):
-        p = os.path.join(ANN, f"{article}.OpusOld.json")
     if not os.path.exists(p):
         return None
     with open(p, encoding="utf-8") as f:
@@ -127,8 +124,7 @@ def annotated_articles():
         with open(os.path.join(ANN, fn), encoding="utf-8") as f:
             idx = json.load(f)
         ids = [e["id"] for e in idx]
-        sets = [_logical_set(i, ids) for i in ids]
-        sets = [s for s in sets if s in SETS]
+        sets = [i for i in ids if _in_scope(i, ids)]
         if sets:
             out.append((art, sets))
     return out
