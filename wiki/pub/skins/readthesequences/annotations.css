@@ -121,6 +121,12 @@ sup.annotation-ref a::after,
     padding: 0.15em 0;
     cursor: pointer;
 }
+.annotation-toggle-count {
+    margin-left: auto;
+    padding-left: 0.8em;
+    color: #999;
+    font-variant-numeric: tabular-nums;
+}
 
 /* Note sheet for narrow screens; shown only by the media query below */
 .annotation-sheet {

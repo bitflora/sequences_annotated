@@ -323,8 +323,12 @@
         pendingNotes.forEach(function (n) { n.el.style.visibility = ''; });
     }
 
+    var jsonCache = {};
     function fetchJson(path) {
-        return fetch(path).then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; });
+        if (!jsonCache[path]) {
+            jsonCache[path] = fetch(path).then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; });
+        }
+        return jsonCache[path];
     }
 
     function loadAndRender(sets, prefs) {
@@ -375,8 +379,15 @@
                 onChange();
             });
 
+            var count = document.createElement('span');
+            count.className = 'annotation-toggle-count';
+            fetchJson(s.file).then(function (list) {
+                if (list) count.textContent = list.length;
+            });
+
             row.appendChild(cb);
             row.appendChild(document.createTextNode(' ' + s.label));
+            row.appendChild(count);
             body.appendChild(row);
         });
 
