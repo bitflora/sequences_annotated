@@ -128,6 +128,7 @@
             }
             note.el.style.top = top + 'px';
         });
+        return Math.max(floorLeft, floorRight);
     }
 
     function buildNote(ann, elId, label) {
@@ -141,6 +142,7 @@
     // Remove any previously injected markers/notes so a toggle can re-render cleanly.
     function clear(wikitext) {
         closeSheet();
+        wikitext.style.minHeight = '';
         wikitext.querySelectorAll('.margin-note').forEach(function (el) { el.remove(); });
         wikitext.querySelectorAll('.annotation-ref').forEach(function (el) { el.remove(); });
         wikitext.querySelectorAll('.annotation-target').forEach(function (span) {
@@ -319,7 +321,9 @@
         });
 
         pendingNotes.forEach(function (n) { void n.el.offsetHeight; });
-        placeNotes(pendingNotes);
+        // Grow #wikitext to hold notes that run past the article's end
+        var notesBottom = placeNotes(pendingNotes);
+        if (notesBottom > 0) wikitext.style.minHeight = (notesBottom + 80) + 'px';
         pendingNotes.forEach(function (n) { n.el.style.visibility = ''; });
     }
 

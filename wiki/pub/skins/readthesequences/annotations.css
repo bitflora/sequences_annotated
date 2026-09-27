@@ -10,6 +10,10 @@
     padding-left: 460px;
     padding-right: 460px;
     box-sizing: border-box;
+    /* skin.css sets overflow: auto, which gives #wikitext its own scrollbar
+       when margin notes extend past the article; JS grows min-height instead */
+    overflow: visible;
+    display: flow-root;
 }
 
 /* Inline annotated text */
