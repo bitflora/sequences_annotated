@@ -1749,18 +1749,23 @@ a:visited::after {
 	}
 }
 
-/* Cited-study pies on the Book pages, written by scripts/build_findings.py.
-   Dark mode inverts .toc, so the pies invert back and use dark tokens. */
-.study-pie { --st-stands: #1c5cab; --st-open: #b8b6ae; --st-damaged: #e34948;
-	display: inline-block; width: 0; overflow: visible; line-height: 0; vertical-align: -1px; }
-.study-pie.sequence { vertical-align: 1px; }
-.toc a.study-pie:hover { text-shadow: none; }
-.toc a.study-pie::after { content: none; }
-/* Zero-width so the centered titles stay centered; the pie hangs to the right. */
-.study-pie svg { display: block; margin-left: 0.45em; }
+/* Cited-study pies in the tables of contents and article titles, written by
+   scripts/build_findings.py (titles inserted by annotations.js). Dark mode
+   inverts the page, so the pies invert back and use dark tokens. */
+.study-pie { --st-stands: #1c5cab; --st-open: #b8b6ae; --st-damaged: #e34948; }
+a.study-pie:hover { text-shadow: none; border: none; }
+a.study-pie:link::after, a.study-pie:visited::after { content: none; }
+/* Inline, not inline-block: an inline-block here opens a blank line when a
+   centered title wraps. The negative right margin cancels the pie's width so
+   centered titles stay centered, with the pie hanging to the right. */
+.study-pie svg { display: inline; margin-left: 6px; }
+.study-pie.chapter svg { vertical-align: -1px; margin-right: -17px; }
+.study-pie.sequence svg { vertical-align: 1px; margin-right: -22px; }
+.study-pie.title svg { vertical-align: 0; margin-left: 12px; margin-right: -32px; }
 .study-pie .stands { fill: var(--st-stands); }
 .study-pie .open { fill: var(--st-open); }
 .study-pie .damaged { fill: var(--st-damaged); }
 @media (prefers-color-scheme: dark) {
-	.study-pie { filter: invert(100%); --st-stands: #86b6ef; --st-open: #6b6a64; --st-damaged: #cc4443; }
+	.study-pie svg { filter: invert(100%); }
+	.study-pie { --st-stands: #86b6ef; --st-open: #6b6a64; --st-damaged: #cc4443; }
 }

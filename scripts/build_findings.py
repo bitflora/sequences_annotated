@@ -28,7 +28,8 @@ from findings_common import (BOOKS, REBUTTAL_SETS, ROOT, SETS, SKEPTIC_SETS,
 FINDINGS = os.path.join(ROOT, "analysis", "findings.jsonl")
 SUMMARY = os.path.join(ROOT, "analysis", "findings-summary.json")
 INDEX = os.path.join(ROOT, "index.html")
-BOOK_PAGES = os.path.join(ROOT, "Book-*.html")
+TOC_PAGES = os.path.join(ROOT, "*.html")
+ARTICLE_PIES = os.path.join(ROOT, "analysis", "article-pies.json")
 
 TARGETS = ["cited_study", "empirical_claim", "historical_fact", "attribution",
            "ai_prediction", "argument", "prior_work", "other"]
@@ -180,33 +181,63 @@ def pie_html(groups, size, cls):
             f'role="img" aria-label="{label}">{pie_svg(c, size)}</a><!--/pie-->')
 
 
-def write_book_pies(studies):
-    """Put a cited-study pie after each chapter link and in each sequence heading on the Book pages."""
+def _toc_region(page):
+    """(start, end) of a page's table of contents: the Book/sequence .toc div or Contents.html's big_toc."""
+    for start in ("<div class='toc' >", "<div class='big_toc' >"):
+        i = page.find(start)
+        if i >= 0:
+            j = page.find("<div class='bottom_nav", i)
+            return (i, j) if j >= 0 else None
+    return None
+
+
+def write_toc_pies(studies):
+    """Put a cited-study pie after every chapter, sequence and book link in the tables of contents
+    (Book pages, sequence pages, Contents.html) and in each sequence page's heading, and write
+    analysis/article-pies.json for annotations.js to put a pie in each article's title."""
     norm = lambda a: re.sub(r"[^a-z0-9]", "", a.lower())
-    by_article = collections.defaultdict(dict)
+    groups = collections.defaultdict(dict)  # normalized page name -> {source: group}
     for st in studies:
         for n in st["notes"]:
-            by_article[norm(n["article"])][st["source"]] = st["group"]
-    link = re.compile(r"(<a class='wikilink' href='([^']+)\.html'>.*?</a>)", re.S)
-    for path in sorted(glob.glob(BOOK_PAGES)):
+            groups[norm(n["article"])][st["source"]] = st["group"]
+    item = re.compile(r"<li[^>]*>\s*<a class='wikilink' href='([^']+)\.html'>")
+    pages = {}
+    for path in sorted(glob.glob(TOC_PAGES)):
         with open(path, encoding="utf-8") as f:
             page = re.sub(r"<!--pie-->.*?<!--/pie-->", "", f.read(), flags=re.S)
-        i = page.find("<div class='toc' >")
-        j = page.find("<div class='bottom_nav", i)
-        if i < 0 or j < 0:
-            continue
-        toc = link.sub(lambda m: m.group(1) + pie_html(by_article.get(norm(m.group(2)), {}), 11, "chapter"),
-                       page[i:j])
+        region = _toc_region(page)
+        if region:
+            pages[path] = (page, region)
+    # Sequence and Book pages pool the studies of the chapters they list.
+    for path, (page, (i, j)) in pages.items():
+        name = os.path.basename(path)[:-5]
+        if name != "Contents":
+            for a in item.findall(page[i:j]):
+                groups[norm(name)].update(groups.get(norm(a), {}))
 
-        def heading(m):
-            groups = {}
-            for a in re.findall(r"<li[^>]*>\s*<a class='wikilink' href='([^']+)\.html'>", m.group(3)):
-                groups.update(by_article.get(norm(a), {}))
-            return m.group(1) + pie_html(groups, 16, "sequence") + m.group(2) + m.group(3)
-        toc = re.sub(r"(<h3>.*?)(</h3>)(.*?)(?=<h3>|$)", heading, toc, flags=re.S)
+    link = re.compile(r"(<a class='wikilink' href='([^']+)\.html'>.*?</a>)", re.S)
+    for path, (page, (i, j)) in pages.items():
+        toc = page[i:j]
+        # Links inside a heading (the Book pages' sequence titles) get the larger pie.
+        heads = [(m.start(), m.end()) for m in re.finditer(r"<h3>.*?</h3>", toc, re.S)]
+        toc = link.sub(lambda m: m.group(1) + pie_html(
+            groups.get(norm(m.group(2)), {}), *((16, "sequence") if any(a <= m.start() < b for a, b in heads)
+                                                else (11, "chapter"))), toc)
+        # A sequence page's own heading has no link; give it the page's pooled pie.
+        toc = re.sub(r"(<h3>(?:(?!<a ).)*?)(</h3>)",
+                     lambda m: m.group(1) + pie_html(groups.get(norm(os.path.basename(path)[:-5]), {}), 16, "sequence")
+                     + m.group(2), toc, flags=re.S)
         page = page[:i] + toc + page[j:]
         with open(path, "w", encoding="utf-8") as f:
             f.write(page)
+
+    articles = {}
+    for st in studies:
+        for n in st["notes"]:
+            articles.setdefault(n["article"], None)
+    with open(ARTICLE_PIES, "w", encoding="utf-8") as f:
+        json.dump({a: pie_html(groups[norm(a)], 20, "title") for a in sorted(articles)}, f,
+                  ensure_ascii=False, indent=0)
 
 
 def main():
@@ -362,7 +393,7 @@ def main():
     with open(SUMMARY, "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=1)
     write_index_bars(study_fate)
-    write_book_pies(studies)
+    write_toc_pies(studies)
     t = summary["totals"]
     print(f"{t['notes']} notes ({t['skeptic_notes']} skeptic, {t['rebuttal_notes']} rebuttal) in {t['articles']} articles")
     print(f"{t['studies']} distinct cited studies: {stands} stand, {t['studies_damaged']} damaged")

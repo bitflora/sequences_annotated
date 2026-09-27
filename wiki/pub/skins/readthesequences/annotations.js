@@ -271,8 +271,18 @@
         });
     }
 
+    // Cited-study pie after the article title, written by scripts/build_findings.py.
+    function addTitlePie(name) {
+        fetchJson('analysis/article-pies.json').then(function (pies) {
+            var h1 = document.querySelector('#wikitext h1');
+            if (!pies || !pies[name] || !h1 || h1.querySelector('.study-pie')) return;
+            h1.insertAdjacentHTML('beforeend', pies[name]);
+        });
+    }
+
     function init() {
         var name = getArticleName();
+        addTitlePie(name);
         fetchJson('annotations/' + name + '.index.json').then(function (sets) {
             if (sets && sets.length) {
                 initWithIndex(sets);
