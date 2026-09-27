@@ -52,7 +52,7 @@ The older Opus pass over Books I–IV lives in the `OpusOld` set (label "Opus (o
 
 A small "Annotations ▾" toggle panel (fixed, top-right) lists every set from the index with a checkbox; the reader's choices are stored in `localStorage` under `seq-annotation-sets` (an object of `setId -> boolean`) and apply across articles. Toggling re-fetches and re-renders in place.
 
-Below 1000px viewport width the margin notes are hidden and the layout collapses to the normal single-column skin; the toggle panel still shows.
+Below 1000px viewport width the margin notes are hidden and the layout collapses to the normal single-column skin; the toggle panel still shows. There, tapping annotated text or its `[F1]` marker opens a bottom sheet (`.annotation-sheet`, appended to `<body>`) with the note(s) for that passage. Nested targets from shared quotes, such as a Fable note and its Rationalist Opus reply, show together. The sheet has ‹ › buttons that step through passages in document order and closes on ×, Escape, or a tap outside it. Its content is copied from the hidden `<aside>` notes.
 
 If `<ArticleName>.index.json` doesn't exist, the JS falls back to fetching `annotations/<ArticleName>.json` directly as a single always-on set with no toggle (legacy/unmigrated articles).
 

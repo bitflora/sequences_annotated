@@ -97,6 +97,7 @@
         var contents = range.extractContents();
         var span = document.createElement('span');
         span.className = 'annotation-target';
+        span.dataset.note = elId;
         span.appendChild(contents);
         range.insertNode(span);
 
@@ -139,6 +140,7 @@
 
     // Remove any previously injected markers/notes so a toggle can re-render cleanly.
     function clear(wikitext) {
+        closeSheet();
         wikitext.querySelectorAll('.margin-note').forEach(function (el) { el.remove(); });
         wikitext.querySelectorAll('.annotation-ref').forEach(function (el) { el.remove(); });
         wikitext.querySelectorAll('.annotation-target').forEach(function (span) {
@@ -147,6 +149,141 @@
             parent.removeChild(span);
         });
         wikitext.normalize();
+    }
+
+    // Narrow screens: margin notes are hidden, so a tap on annotated text or
+    // its marker opens the note(s) in a sheet fixed to the bottom of the screen.
+    var NARROW = window.matchMedia('(max-width: 1000px)');
+    var sheet = null;
+    var sheetIndex = -1;  // index into refList() of the group now shown
+
+    function refList() {
+        var wikitext = document.getElementById('wikitext');
+        return wikitext ? Array.prototype.slice.call(wikitext.querySelectorAll('sup.annotation-ref a')) : [];
+    }
+
+    // The annotation-target spans sharing a passage with span: itself, the
+    // targets it sits inside, and those inside it (shared quotes nest).
+    function groupSpans(span) {
+        var spans = [span];
+        for (var p = span.parentElement; p; p = p.parentElement) {
+            if (p.classList.contains('annotation-target')) spans.unshift(p);
+        }
+        span.querySelectorAll('.annotation-target').forEach(function (s) { spans.push(s); });
+        return spans;
+    }
+
+    function spanForRef(a) {
+        var sup = a.parentElement;
+        var span = sup && sup.previousElementSibling;
+        return span && span.classList.contains('annotation-target') ? span : null;
+    }
+
+    function buildSheet() {
+        sheet = document.createElement('div');
+        sheet.className = 'annotation-sheet';
+        sheet.hidden = true;
+        sheet.innerHTML =
+            '<div class="annotation-sheet-bar">' +
+            '<button type="button" class="annotation-sheet-prev" aria-label="Previous note">‹</button>' +
+            '<span class="annotation-sheet-pos"></span>' +
+            '<button type="button" class="annotation-sheet-next" aria-label="Next note">›</button>' +
+            '<button type="button" class="annotation-sheet-close" aria-label="Close">×</button>' +
+            '</div>' +
+            '<div class="annotation-sheet-body"></div>';
+        sheet.querySelector('.annotation-sheet-prev').addEventListener('click', function () { step(-1); });
+        sheet.querySelector('.annotation-sheet-next').addEventListener('click', function () { step(1); });
+        sheet.querySelector('.annotation-sheet-close').addEventListener('click', closeSheet);
+        document.body.appendChild(sheet);
+    }
+
+    function openGroup(spans, scroll) {
+        if (!sheet) buildSheet();
+        document.querySelectorAll('.annotation-active').forEach(function (el) {
+            el.classList.remove('annotation-active');
+        });
+
+        var body = sheet.querySelector('.annotation-sheet-body');
+        body.innerHTML = '';
+        spans.forEach(function (span) {
+            span.classList.add('annotation-active');
+            var note = document.getElementById(span.dataset.note);
+            if (!note) return;
+            var div = document.createElement('div');
+            div.className = 'annotation-sheet-note';
+            div.innerHTML = note.innerHTML;
+            body.appendChild(div);
+        });
+
+        var refs = refList();
+        var ids = spans.map(function (s) { return s.dataset.note + '-ref'; });
+        sheetIndex = -1;
+        refs.forEach(function (a, i) {
+            if (sheetIndex === -1 && ids.indexOf(a.id) !== -1) sheetIndex = i;
+        });
+        sheet.querySelector('.annotation-sheet-pos').textContent = (sheetIndex + 1) + ' / ' + refs.length;
+        sheet.querySelector('.annotation-sheet-prev').disabled = sheetIndex <= 0;
+        var last = -1;
+        refs.forEach(function (a, i) { if (ids.indexOf(a.id) !== -1) last = i; });
+        sheet.querySelector('.annotation-sheet-next').disabled = last >= refs.length - 1;
+
+        sheet.hidden = false;
+        body.scrollTop = 0;
+        document.body.classList.add('annotation-sheet-open');
+
+        if (scroll) {
+            var top = spans[0].getBoundingClientRect().top + window.scrollY;
+            window.scrollTo({ top: Math.max(0, top - window.innerHeight * 0.15), behavior: 'smooth' });
+        }
+    }
+
+    // Move to the previous/next group of notes in document order.
+    function step(dir) {
+        var refs = refList();
+        var current = document.querySelectorAll('.annotation-active');
+        var ids = Array.prototype.map.call(current, function (s) { return s.dataset.note + '-ref'; });
+        var i = sheetIndex;
+        do { i += dir; } while (i >= 0 && i < refs.length && ids.indexOf(refs[i].id) !== -1);
+        if (i < 0 || i >= refs.length) return;
+        var span = spanForRef(refs[i]);
+        if (span) openGroup(groupSpans(span), true);
+    }
+
+    function closeSheet() {
+        if (sheet) sheet.hidden = true;
+        sheetIndex = -1;
+        document.body.classList.remove('annotation-sheet-open');
+        document.querySelectorAll('.annotation-active').forEach(function (el) {
+            el.classList.remove('annotation-active');
+        });
+    }
+
+    function onWikitextClick(e) {
+        if (!NARROW.matches) return;
+        var ref = e.target.closest('sup.annotation-ref a');
+        var span;
+        if (ref) {
+            e.preventDefault();
+            span = spanForRef(ref);
+        } else if (!e.target.closest('a')) {
+            span = e.target.closest('.annotation-target');
+        }
+        if (span) openGroup(groupSpans(span), false);
+    }
+
+    function initSheet() {
+        var wikitext = document.getElementById('wikitext');
+        if (!wikitext) return;
+        wikitext.addEventListener('click', onWikitextClick);
+        document.addEventListener('click', function (e) {
+            if (!sheet || sheet.hidden) return;
+            if (e.target.closest('.annotation-sheet, .annotation-target, .annotation-ref')) return;
+            closeSheet();
+        });
+        document.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape') closeSheet();
+        });
+        NARROW.addEventListener('change', function () { if (!NARROW.matches) closeSheet(); });
     }
 
     function render(annotations) {
@@ -283,6 +420,7 @@
     function init() {
         var name = getArticleName();
         addTitlePie(name);
+        initSheet();
         fetchJson('annotations/' + name + '.index.json').then(function (sets) {
             if (sets && sets.length) {
                 initWithIndex(sets);

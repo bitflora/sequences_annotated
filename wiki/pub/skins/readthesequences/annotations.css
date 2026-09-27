@@ -122,6 +122,11 @@ sup.annotation-ref a::after,
     cursor: pointer;
 }
 
+/* Note sheet for narrow screens; shown only by the media query below */
+.annotation-sheet {
+    display: none;
+}
+
 /* Narrow screens: collapse to no extra padding; hide margin notes */
 @media (max-width: 1000px) {
     #wikitext {
@@ -132,4 +137,92 @@ sup.annotation-ref a::after,
     .margin-note {
         display: none;
     }
+
+    /* Tapping annotated text or its marker opens the note in the sheet below */
+    .annotation-target {
+        cursor: pointer;
+        -webkit-tap-highlight-color: rgba(220, 160, 0, 0.25);
+    }
+    .annotation-target.annotation-active {
+        background: rgba(220, 160, 0, 0.3);
+    }
+    sup.annotation-ref a {
+        font-size: 0.75em;
+        padding: 0.3em 0.15em;
+    }
+
+    .annotation-sheet {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 101;
+        max-height: 60vh;
+        display: flex;
+        flex-direction: column;
+        background: #fff8ec;
+        border-top: 2px solid #d4a020;
+        box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.15);
+        font-family: 'Proxima Nova', sans-serif;
+        font-size: 0.9em;
+        line-height: 1.55;
+        color: #444;
+        padding-bottom: env(safe-area-inset-bottom);
+        animation: annotation-sheet-in 0.18s ease-out;
+    }
+    .annotation-sheet[hidden] {
+        display: none;
+    }
+    body.annotation-sheet-open {
+        padding-bottom: 60vh;
+    }
+}
+
+@keyframes annotation-sheet-in {
+    from { transform: translateY(100%); }
+    to { transform: translateY(0); }
+}
+
+.annotation-sheet-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.25em;
+    padding: 0.25em 0.5em;
+    border-bottom: 1px solid rgba(212, 160, 32, 0.4);
+    color: #b06000;
+    font-weight: 600;
+}
+.annotation-sheet-bar button {
+    background: none;
+    border: none;
+    color: #b06000;
+    font-size: 1.5em;
+    line-height: 1;
+    min-width: 44px;
+    min-height: 40px;
+    cursor: pointer;
+}
+.annotation-sheet-bar button:disabled {
+    opacity: 0.3;
+    cursor: default;
+}
+.annotation-sheet-close {
+    margin-left: auto;
+}
+
+.annotation-sheet-body {
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 0.5em 1em 1em;
+}
+.annotation-sheet-note + .annotation-sheet-note {
+    margin-top: 0.75em;
+    padding-top: 0.75em;
+    border-top: 1px solid rgba(212, 160, 32, 0.4);
+}
+.annotation-sheet-note a {
+    color: #6060c0;
+}
+.annotation-sheet a::after {
+    content: none;
 }
