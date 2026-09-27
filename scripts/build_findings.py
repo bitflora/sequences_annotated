@@ -15,8 +15,11 @@ first; without, the existing findings.jsonl is used.
 """
 import collections
 import datetime
+import glob
 import json
+import math
 import os
+import re
 import sys
 
 from findings_common import (BOOKS, REBUTTAL_SETS, ROOT, SETS, SKEPTIC_SETS,
@@ -25,6 +28,7 @@ from findings_common import (BOOKS, REBUTTAL_SETS, ROOT, SETS, SKEPTIC_SETS,
 FINDINGS = os.path.join(ROOT, "analysis", "findings.jsonl")
 SUMMARY = os.path.join(ROOT, "analysis", "findings-summary.json")
 INDEX = os.path.join(ROOT, "index.html")
+BOOK_PAGES = os.path.join(ROOT, "Book-*.html")
 
 TARGETS = ["cited_study", "empirical_claim", "historical_fact", "attribution",
            "ai_prediction", "argument", "prior_work", "other"]
@@ -139,6 +143,70 @@ def write_index_bars(study_fate):
         page = page[:i + len(start)] + html + page[j:]
     with open(INDEX, "w", encoding="utf-8") as f:
         f.write(page)
+
+
+def pie_svg(c, size):
+    """A small inline SVG pie of stands/open/damaged study counts."""
+    total = sum(c.values())
+    r = size / 2
+    parts, a = [], -math.pi / 2
+    for g in ("stands", "open", "damaged"):
+        if not c[g]:
+            continue
+        if c[g] == total:
+            parts.append(f'<circle class="{g}" cx="{r}" cy="{r}" r="{r}"/>')
+            break
+        b = a + 2 * math.pi * c[g] / total
+        x0, y0 = r + r * math.cos(a), r + r * math.sin(a)
+        x1, y1 = r + r * math.cos(b), r + r * math.sin(b)
+        large = 1 if b - a > math.pi else 0
+        parts.append(f'<path class="{g}" d="M{r},{r}L{x0:.2f},{y0:.2f}A{r},{r} 0 {large} 1 {x1:.2f},{y1:.2f}Z"/>')
+        a = b
+    return (f'<svg width="{size}" height="{size}" viewBox="0 0 {size} {size}" aria-hidden="true">'
+            + "".join(parts) + "</svg>")
+
+
+def pie_html(groups, size, cls):
+    """Pie plus tooltip for a {source: group} map; empty when no studies are cited."""
+    if not groups:
+        return ""
+    c = collections.Counter(groups.values())
+    total = sum(c.values())
+    extra = [f"{c['damaged']} damaged"] if c["damaged"] else []
+    extra += [f"{c['open']} contested"] if c["open"] else []
+    noun = "study holds" if total == 1 else "studies hold"
+    label = f"{c['stands']} of {total} cited {noun} up" + ("; " + ", ".join(extra) if extra else "")
+    return (f'<!--pie--><a class="study-pie {cls}" href="Findings.html" title="{label}" '
+            f'role="img" aria-label="{label}">{pie_svg(c, size)}</a><!--/pie-->')
+
+
+def write_book_pies(studies):
+    """Put a cited-study pie after each chapter link and in each sequence heading on the Book pages."""
+    norm = lambda a: re.sub(r"[^a-z0-9]", "", a.lower())
+    by_article = collections.defaultdict(dict)
+    for st in studies:
+        for n in st["notes"]:
+            by_article[norm(n["article"])][st["source"]] = st["group"]
+    link = re.compile(r"(<a class='wikilink' href='([^']+)\.html'>.*?</a>)", re.S)
+    for path in sorted(glob.glob(BOOK_PAGES)):
+        with open(path, encoding="utf-8") as f:
+            page = re.sub(r"<!--pie-->.*?<!--/pie-->", "", f.read(), flags=re.S)
+        i = page.find("<div class='toc' >")
+        j = page.find("<div class='bottom_nav", i)
+        if i < 0 or j < 0:
+            continue
+        toc = link.sub(lambda m: m.group(1) + pie_html(by_article.get(norm(m.group(2)), {}), 11, "chapter"),
+                       page[i:j])
+
+        def heading(m):
+            groups = {}
+            for a in re.findall(r"<li[^>]*>\s*<a class='wikilink' href='([^']+)\.html'>", m.group(3)):
+                groups.update(by_article.get(norm(a), {}))
+            return m.group(1) + pie_html(groups, 16, "sequence") + m.group(2) + m.group(3)
+        toc = re.sub(r"(<h3>.*?)(</h3>)(.*?)(?=<h3>|$)", heading, toc, flags=re.S)
+        page = page[:i] + toc + page[j:]
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(page)
 
 
 def main():
@@ -294,6 +362,7 @@ def main():
     with open(SUMMARY, "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=1)
     write_index_bars(study_fate)
+    write_book_pies(studies)
     t = summary["totals"]
     print(f"{t['notes']} notes ({t['skeptic_notes']} skeptic, {t['rebuttal_notes']} rebuttal) in {t['articles']} articles")
     print(f"{t['studies']} distinct cited studies: {stands} stand, {t['studies_damaged']} damaged")
