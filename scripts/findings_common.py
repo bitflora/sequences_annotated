@@ -38,7 +38,8 @@ class _Toc(HTMLParser):
             self.stack.append("alpha" if "upper-alpha" in (a.get("style") or "") else "plain")
             if tag == "ul" and self.book and len(self.stack) == 2:
                 self.seq = None  # an unlettered list between sequences: intro/interlude
-        elif tag == "a" and a.get("href", "").endswith(".html"):
+        elif tag == "a" and a.get("href", "").endswith(".html") and "study-pie" not in (a.get("class") or ""):
+            # The cited-study pies build_findings.py writes are links too; they are not TOC entries.
             self.href = a["href"][:-5]
             self.text = ""
 
