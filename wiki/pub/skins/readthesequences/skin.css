@@ -1749,9 +1749,8 @@ a:visited::after {
 	}
 }
 
-/* Cited-study pies in the tables of contents and article titles, written by
-   scripts/build_findings.py (titles inserted by annotations.js). Dark mode
-   inverts the page, so the pies invert back and use dark tokens. */
+/* Cited-study pies in the tables of contents, written by scripts/build_findings.py.
+   Dark mode inverts the page, so the pies invert back and use dark tokens. */
 .study-pie { --st-stands: #1c5cab; --st-open: #b8b6ae; --st-damaged: #e34948; }
 a.study-pie:hover { text-shadow: none; border: none; }
 a.study-pie:link::after, a.study-pie:visited::after { content: none; }
@@ -1761,11 +1760,25 @@ a.study-pie:link::after, a.study-pie:visited::after { content: none; }
 .study-pie svg { display: inline; margin-left: 6px; }
 .study-pie.chapter svg { vertical-align: -1px; margin-right: -17px; }
 .study-pie.sequence svg { vertical-align: 1px; margin-right: -22px; }
-.study-pie.title svg { vertical-align: 0; margin-left: 12px; margin-right: -32px; }
 .study-pie .stands { fill: var(--st-stands); }
 .study-pie .open { fill: var(--st-open); }
 .study-pie .damaged { fill: var(--st-damaged); }
 @media (prefers-color-scheme: dark) {
 	.study-pie svg { filter: invert(100%); }
 	.study-pie { --st-stands: #86b6ef; --st-open: #6b6a64; --st-damaged: #cc4443; }
+}
+
+/* Cited-study bar under each article's title, as on the front page; written by
+   scripts/build_findings.py and inserted inside the <h1> by annotations.js. */
+#wikitext .article-studies { --st-stands: #1c5cab; --st-open: #b8b6ae; --st-damaged: #e34948; --st-ink: #52514e;
+	display: block; width: 320px; max-width: 100%; margin: 14px auto 0; text-decoration: none;
+	font-family: Garamond Premier Pro, Garamond, Hoefler Text, Baskerville, Libre Baskerville, Georgia, Palatino, Palatino Linotype, serif;
+	font-weight: 400; }
+#wikitext a.article-studies:hover { text-shadow: none; border: none; color: inherit; }
+#wikitext a.article-studies:link::after, #wikitext a.article-studies:visited::after { content: none; }
+.article-studies .bar { display: flex; height: 6px; border-radius: 3px; overflow: hidden; gap: 2px; }
+.article-studies .bar span { display: block; }
+.article-studies .cap { display: block; margin-top: 3px; text-align: center; hyphens: none; font-size: 12px; line-height: 1.3; color: var(--st-ink); }
+@media (prefers-color-scheme: dark) {
+	#wikitext .article-studies { filter: invert(100%); --st-stands: #86b6ef; --st-open: #6b6a64; --st-damaged: #cc4443; --st-ink: #c3c2b7; }
 }

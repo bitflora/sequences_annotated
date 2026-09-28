@@ -29,7 +29,7 @@ FINDINGS = os.path.join(ROOT, "analysis", "findings.jsonl")
 SUMMARY = os.path.join(ROOT, "analysis", "findings-summary.json")
 INDEX = os.path.join(ROOT, "index.html")
 TOC_PAGES = os.path.join(ROOT, "*.html")
-ARTICLE_PIES = os.path.join(ROOT, "analysis", "article-pies.json")
+ARTICLE_BARS = os.path.join(ROOT, "analysis", "article-studies.json")
 
 TARGETS = ["cited_study", "empirical_claim", "historical_fact", "attribution",
            "ai_prediction", "argument", "prior_work", "other"]
@@ -114,6 +114,25 @@ def counter_dict(c, keys):
     return {k: c.get(k, 0) for k in keys}
 
 
+def bar_html(c, cls, title):
+    """A stands/open/damaged bar with its caption, as on the front page; empty when no studies are cited."""
+    total = sum(c.values())
+    if not total:
+        return ""
+    segs = "".join(f'<span style="flex:{c[g]};background:var(--st-{g})"></span>'
+                   for g in ("stands", "open", "damaged") if c[g])
+    noun = "study holds" if total == 1 else "studies hold"
+    label = f"{c['stands']} of {total} cited {noun} up"
+    extra = [f"{c['damaged']} damaged"] if c["damaged"] else []
+    extra += [f"{c['open']} contested"] if c["open"] else []
+    detail = " · ".join(extra)
+    aria = label + (", " + ", ".join(extra) if extra else "")
+    return (f'<a class="{cls}" href="Findings.html" title="{title}">'
+            f'<span class="bar" role="img" aria-label="{aria}">{segs}</span>'
+            f'<span class="cap">{label}</span>'
+            + (f'<span class="cap">{detail}</span>' if detail else "") + '</a>')
+
+
 def write_index_bars(study_fate):
     """Rewrite the per-book cited-study bars between the <!-- studies:B --> markers in index.html."""
     with open(INDEX, encoding="utf-8") as f:
@@ -122,21 +141,7 @@ def write_index_bars(study_fate):
         c = collections.Counter()
         for v, n in study_fate[b].items():
             c[GROUP[v]] += n
-        total = sum(c.values())
-        if total:
-            segs = "".join(f'<span style="flex:{c[g]};background:var(--st-{g})"></span>'
-                           for g in ("stands", "open", "damaged") if c[g])
-            label = f"{c['stands']} of {total} cited studies hold up"
-            extra = [f"{c['damaged']} damaged"] if c["damaged"] else []
-            extra += [f"{c['open']} contested"] if c["open"] else []
-            detail = " · ".join(extra)
-            aria = label + (", " + ", ".join(extra) if extra else "")
-            html = (f'<a class="book-studies" href="Findings.html" title="Cited studies in Book {b}">'
-                    f'<span class="bar" role="img" aria-label="{aria}">{segs}</span>'
-                    f'<span class="cap">{label}</span>'
-                    + (f'<span class="cap">{detail}</span>' if detail else "") + '</a>')
-        else:
-            html = ""
+        html = bar_html(c, "book-studies", f"Cited studies in Book {b}")
         start, end = f"<!-- studies:{b} -->", f"<!-- /studies:{b} -->"
         i, j = page.find(start), page.find(end)
         if i < 0 or j < i:
@@ -194,7 +199,7 @@ def _toc_region(page):
 def write_toc_pies(studies):
     """Put a cited-study pie after every chapter, sequence and book link in the tables of contents
     (Book pages, sequence pages, Contents.html) and in each sequence page's heading, and write
-    analysis/article-pies.json for annotations.js to put a pie in each article's title."""
+    analysis/article-studies.json for annotations.js to put a bar under each article's title."""
     norm = lambda a: re.sub(r"[^a-z0-9]", "", a.lower())
     groups = collections.defaultdict(dict)  # normalized page name -> {source: group}
     for st in studies:
@@ -235,8 +240,9 @@ def write_toc_pies(studies):
     for st in studies:
         for n in st["notes"]:
             articles.setdefault(n["article"], None)
-    with open(ARTICLE_PIES, "w", encoding="utf-8") as f:
-        json.dump({a: pie_html(groups[norm(a)], 20, "title") for a in sorted(articles)}, f,
+    with open(ARTICLE_BARS, "w", encoding="utf-8") as f:
+        json.dump({a: bar_html(collections.Counter(groups[norm(a)].values()), "article-studies",
+                               "Cited studies in this essay") for a in sorted(articles)}, f,
                   ensure_ascii=False, indent=0)
 
 

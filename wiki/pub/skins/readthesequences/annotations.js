@@ -423,20 +423,23 @@
         });
     }
 
-    // Cited-study pie after the article title, written by scripts/build_findings.py.
-    function addTitlePie(name) {
-        fetchJson('analysis/article-pies.json').then(function (pies) {
+    // Cited-study bar under the article title, written by scripts/build_findings.py.
+    // It goes inside the <h1> so the skin's h1 + p rules still apply, and notes
+    // are placed only after it lands, since it changes the height above them.
+    function addTitleBar(name) {
+        return fetchJson('analysis/article-studies.json').then(function (bars) {
             var h1 = document.querySelector('#wikitext h1');
-            if (!pies || !pies[name] || !h1 || h1.querySelector('.study-pie')) return;
-            h1.insertAdjacentHTML('beforeend', pies[name]);
+            if (!bars || !bars[name] || !h1 || h1.querySelector('.article-studies')) return;
+            h1.insertAdjacentHTML('beforeend', bars[name]);
         });
     }
 
     function init() {
         var name = getArticleName();
-        addTitlePie(name);
+        var barReady = addTitleBar(name);
         initSheet();
-        fetchJson('annotations/' + name + '.index.json').then(function (sets) {
+        Promise.all([fetchJson('annotations/' + name + '.index.json'), barReady]).then(function (r) {
+            var sets = r[0];
             if (sets && sets.length) {
                 initWithIndex(sets);
             } else {
