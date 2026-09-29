@@ -19,5 +19,12 @@
     "code": "SA",
     "file": "annotations/MyBayesianEnlightenment.SkepticAstra.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/MyBayesianEnlightenment.replication.json",
+    "default": true
   }
 ]

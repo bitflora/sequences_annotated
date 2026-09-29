@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/TheAllaisParadox.opus.json",
     "default": true
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/TheAllaisParadox.replication.json",
+    "default": true
   }
 ]

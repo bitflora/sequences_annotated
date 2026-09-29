@@ -33,5 +33,12 @@
     "code": "RO",
     "file": "annotations/IllusionOfTransparencyWhyNoOneUnderstandsYou.ropusOld.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/IllusionOfTransparencyWhyNoOneUnderstandsYou.replication.json",
+    "default": true
   }
 ]

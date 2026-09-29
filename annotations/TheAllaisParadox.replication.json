@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Most people prefer 1A to 1B, and most people prefer 2B to 2A.",
+    "content": "Replication check: this holds. A replication of Kahneman and Tversky's 1979 choice problems with 4,098 participants in 19 countries (<a href=\"https://doi.org/10.1038/s41562-020-0886-x\">Ruggeri et al. 2020</a>) reproduced 94% of the items and 12 of 13 theoretical contrasts, including the certainty effect behind the Allais pattern, with somewhat smaller effects than the original. Violation rates still depend on stakes and population, as the note on \"a majority\" says. The effect is not in doubt."
+  }
+]

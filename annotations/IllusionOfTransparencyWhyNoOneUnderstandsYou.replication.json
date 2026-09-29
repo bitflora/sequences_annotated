@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "Mark wanted to conceal his response",
+    "content": "Replication check: the illusory-transparency pattern has been reproduced, and its interpretation is disputed. <a href=\"https://doi.org/10.1207/S15326950dp2902_3\">Gerrig, Ohaeri &amp; Brennan (2000)</a> re-ran Keysar's sarcasm scenarios and obtained the same pattern, but argued it could reflect Gricean reasoning about what the writer expected the reader to catch rather than egocentric projection of privileged knowledge; Keysar replied in the same issue. The broader claim that speakers overestimate how well they are understood has held up in newer work, in its most extreme form when speakers overrated how well listeners with no knowledge of their language understood them (<a href=\"https://doi.org/10.1037/xge0001213\">Lau et al. 2022</a>). No large preregistered direct replication of the 1998 chapter's scenarios exists, so the verdict is that the effect survives and the mechanism remains open."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "Each group thought that listeners would perceive the meaning presented as",
+    "content": "Replication check: I found no independent direct replication of the idiom study. Its authors extended it (Keysar &amp; Bly 1999, Journal of Pragmatics), and it fits the well-replicated curse-of-knowledge literature, in which people who know an answer overestimate how obvious it is to those who do not (<a href=\"https://doi.org/10.1086/261651\">Camerer, Loewenstein &amp; Weber 1989</a>). The design is a small set of rating tasks with archaic idioms, and the finding is plausible and uncontradicted. It rests on one laboratory's data."
+  }
+]

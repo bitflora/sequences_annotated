@@ -6,7 +6,8 @@
    "OpusOld",
    "fable",
    "Opus5_5",
-   "SkepticAstra"
+   "SkepticAstra",
+   "replication"
   ],
   "rebuttal": [
    "ropus",
@@ -68,62 +69,63 @@
   "unassessed"
  ],
  "totals": {
-  "notes": 2203,
-  "skeptic_notes": 1648,
+  "notes": 2225,
+  "skeptic_notes": 1670,
   "rebuttal_notes": 555,
   "articles": 338,
   "studies": 90,
-  "studies_stand": 25,
-  "studies_assessed": 73,
-  "studies_damaged": 38,
+  "studies_stand": 37,
+  "studies_assessed": 90,
+  "studies_damaged": 40,
   "by_set": {
    "opus": 187,
    "OpusOld": 252,
    "fable": 876,
    "Opus5_5": 179,
    "SkepticAstra": 154,
+   "replication": 22,
    "ropus": 394,
    "RationalistAstra": 161
   },
   "skeptic_groups": {
-   "stands": 285,
-   "open": 172,
-   "damaged": 1191
+   "stands": 301,
+   "open": 175,
+   "damaged": 1194
   }
  },
  "study_fate": {
   "all": {
-   "holds": 7,
-   "holds_qualified": 18,
-   "contested": 10,
+   "holds": 11,
+   "holds_qualified": 26,
+   "contested": 13,
    "unfalsifiable_or_na": 0,
-   "weakened": 36,
-   "failed_replication": 0,
+   "weakened": 37,
+   "failed_replication": 1,
    "retracted_or_fraud": 0,
    "false_or_misattributed": 2,
-   "unassessed": 17
+   "unassessed": 0
   },
   "I": {
-   "holds": 1,
-   "holds_qualified": 9,
+   "holds": 2,
+   "holds_qualified": 12,
    "contested": 1,
    "unfalsifiable_or_na": 0,
    "weakened": 7,
    "failed_replication": 0,
    "retracted_or_fraud": 0,
    "false_or_misattributed": 0,
-   "unassessed": 4
+   "unassessed": 0
   },
   "II": {
-   "holds": 3,
-   "holds_qualified": 7,
+   "holds": 4,
+   "holds_qualified": 12,
    "contested": 5,
    "unfalsifiable_or_na": 0,
    "weakened": 15,
-   "failed_replication": 0,
+   "failed_replication": 1,
    "retracted_or_fraud": 0,
    "false_or_misattributed": 0,
-   "unassessed": 7
+   "unassessed": 0
   },
   "III": {
    "holds": 2,
@@ -137,7 +139,7 @@
    "unassessed": 0
   },
   "IV": {
-   "holds": 0,
+   "holds": 1,
    "holds_qualified": 1,
    "contested": 0,
    "unfalsifiable_or_na": 0,
@@ -145,29 +147,29 @@
    "failed_replication": 0,
    "retracted_or_fraud": 0,
    "false_or_misattributed": 0,
-   "unassessed": 1
+   "unassessed": 0
   },
   "V": {
-   "holds": 0,
+   "holds": 1,
    "holds_qualified": 0,
-   "contested": 2,
+   "contested": 5,
    "unfalsifiable_or_na": 0,
    "weakened": 4,
    "failed_replication": 0,
    "retracted_or_fraud": 0,
    "false_or_misattributed": 1,
-   "unassessed": 4
+   "unassessed": 0
   },
   "VI": {
    "holds": 1,
    "holds_qualified": 1,
    "contested": 0,
    "unfalsifiable_or_na": 0,
-   "weakened": 2,
+   "weakened": 3,
    "failed_replication": 0,
    "retracted_or_fraud": 0,
    "false_or_misattributed": 0,
-   "unassessed": 1
+   "unassessed": 0
   }
  },
  "studies": [
@@ -224,6 +226,45 @@
    ]
   },
   {
+   "source": "Kahneman & Tversky 1979",
+   "verdict": "holds",
+   "group": "stands",
+   "books": [
+    "V"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheAllaisParadox",
+     "title": "The Allais Paradox",
+     "footnote": 1
+    },
+    {
+     "article": "ZutAllais",
+     "title": "Zut Allais!",
+     "footnote": 4
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds",
+     "gist": "Prospect-theory choice patterns, certainty effect included, replicated for 94% of items across 19 countries.",
+     "article": "TheAllaisParadox",
+     "title": "The Allais Paradox"
+    },
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds",
+     "gist": "Certainty and reflection effects replicated across 19 countries (Ruggeri et al. 2020).",
+     "article": "ZutAllais",
+     "title": "Zut Allais!"
+    }
+   ]
+  },
+  {
    "source": "Kahneman, Schkade & Sunstein 1998",
    "verdict": "holds",
    "group": "stands",
@@ -258,6 +299,32 @@
    ]
   },
   {
+   "source": "Quattrone et al. 1981",
+   "verdict": "holds",
+   "group": "stands",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Anchoring-And-Adjustment",
+     "title": "Anchoring and Adjustment",
+     "footnote": 3
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds",
+     "gist": "Forewarning fails to reduce anchoring, per Wilson et al. 1996 and Röseler et al.'s 2024 replications.",
+     "article": "Anchoring-And-Adjustment",
+     "title": "Anchoring and Adjustment"
+    }
+   ]
+  },
+  {
    "source": "Rips 1975",
    "verdict": "holds",
    "group": "stands",
@@ -288,6 +355,32 @@
      "gist": "Rips's asymmetry real, but induction depends on property and knowledge; similarity is a novice strategy.",
      "article": "TypicalityAndAsymmetricalSimilarity",
      "title": "Typicality and Asymmetrical Similarity"
+    }
+   ]
+  },
+  {
+   "source": "Schul & Mayo 2003",
+   "verdict": "holds",
+   "group": "stands",
+   "books": [
+    "I"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "LawfulUncertainty",
+     "title": "Lawful Uncertainty",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds",
+     "gist": "Probability matching is a long-replicated finding; strategy-availability work partly supports the essay's guess.",
+     "article": "LawfulUncertainty",
+     "title": "Lawful Uncertainty"
     }
    ]
   },
@@ -327,6 +420,14 @@
      "gist": "Adding a small loss raises gamble attractiveness replicated (Bateman 2007); AI joke aged badly.",
      "article": "Evaluability-And-Cheap-Holiday-Shopping",
      "title": "Evaluability (and Cheap Holiday Shopping)"
+    },
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Proportion dominance generalizes across domains (Bartels 2006) but varies by person and format.",
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic"
     }
    ]
   },
@@ -383,6 +484,97 @@
    ]
   },
   {
+   "source": "Yates et al. 2002",
+   "verdict": "holds",
+   "group": "stands",
+   "books": [
+    "IV"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "ATechnicalExplanationOfTechnicalExplanation",
+     "title": "A Technical Explanation of Technical Explanation",
+     "footnote": 5
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds",
+     "gist": "The quoted calibration/discrimination contrast is a property of forecast scoring, not a fragile effect.",
+     "article": "ATechnicalExplanationOfTechnicalExplanation",
+     "title": "A Technical Explanation of Technical Explanation"
+    }
+   ]
+  },
+  {
+   "source": "Asch 1956",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "II"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "AschsConformityExperiment",
+     "title": "Asch’s Conformity Experiment",
+     "footnote": 1
+    },
+    {
+     "article": "LonelyDissent",
+     "title": "Lonely Dissent",
+     "footnote": null
+    },
+    {
+     "article": "OnExpressingYourConcerns",
+     "title": "On Expressing Your Concerns",
+     "footnote": null
+    },
+    {
+     "article": "CultishCountercultishness",
+     "title": "Cultish Countercultishness",
+     "footnote": null
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Three-quarters conformed once, but most trial responses were independent; headline oversells conformity.",
+     "article": "AschsConformityExperiment",
+     "title": "Asch’s Conformity Experiment"
+    },
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds",
+     "gist": "Asch conformity replicated at 33% (Franzen & Mader 2023); dissenter effect is one of its most stable moderators.",
+     "article": "LonelyDissent",
+     "title": "Lonely Dissent"
+    },
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Pluralistic ignorance is well supported, but distinct from Asch conformity; merging them overstates Asch's relevance.",
+     "article": "OnExpressingYourConcerns",
+     "title": "On Expressing Your Concerns"
+    },
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Asch's effect replicates (Franzen & Mader 2023), with conformity varying by culture and era (Bond & Smith 1996).",
+     "article": "CultishCountercultishness",
+     "title": "Cultish Countercultishness"
+    }
+   ]
+  },
+  {
    "source": "Ashmore, Ramchandra & Jones 1971",
    "verdict": "holds_qualified",
    "group": "stands",
@@ -405,6 +597,58 @@
      "gist": "Censorship reactance is real but moderated by censor legitimacy; can shrink or reverse.",
      "article": "Scarcity",
      "title": "Scarcity"
+    }
+   ]
+  },
+  {
+   "source": "Benson, Karabenick & Lerner 1976",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 11
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Lost-application field study not directly replicated; meta-analysis confirms attractive adults are treated better.",
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect"
+    }
+   ]
+  },
+  {
+   "source": "Budesheim & DePaola 1994",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 5
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Laboratory candidate-appearance effects are backed by field data, though competence cues outpredict beauty.",
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect"
     }
    ]
   },
@@ -443,6 +687,32 @@
    ]
   },
   {
+   "source": "Buehler, Griffin & Ross 1995",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "I"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "PlanningFallacy",
+     "title": "Planning Fallacy",
+     "footnote": 2
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Underestimation of completion times replicates widely, but direction varies by task and the mechanism is disputed.",
+     "article": "PlanningFallacy",
+     "title": "Planning Fallacy"
+    }
+   ]
+  },
+  {
    "source": "Buehler, Griffin & Ross 2002",
    "verdict": "holds_qualified",
    "group": "stands",
@@ -465,6 +735,58 @@
      "gist": "Outside view has real support, but reference-class choice is hard and debiasing effects modest.",
      "article": "PlanningFallacy",
      "title": "Planning Fallacy"
+    }
+   ]
+  },
+  {
+   "source": "Chaiken 1979",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 12
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 3,
+     "verdict": "holds_qualified",
+     "gist": "Attractive communicators persuaded more, but Chaiken's own data show them to be more fluent and able, a confound.",
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect"
+    }
+   ]
+  },
+  {
+   "source": "Chapman & Johnson 2002",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination",
+     "footnote": 2
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Explicit anchors replicate robustly; incidental, merely present numbers largely failed replication (Shanks et al. 2020).",
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination"
     }
    ]
   },
@@ -649,6 +971,32 @@
    ]
   },
   {
+   "source": "Keysar & Bly 1995",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "I"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You",
+     "footnote": 5
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Idiom-transparency result never independently replicated; consistent with later curse-of-knowledge findings.",
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You"
+    }
+   ]
+  },
+  {
    "source": "Keysar & Henly 2002",
    "verdict": "holds_qualified",
    "group": "stands",
@@ -711,6 +1059,32 @@
      "id": 1,
      "verdict": "holds_qualified",
      "gist": "June becomes Jane; essay conflates Keysar's transparency of intention with Gilovich's transparency of feeling.",
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You"
+    }
+   ]
+  },
+  {
+   "source": "Keysar 1998",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "I"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You",
+     "footnote": 3
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Sarcasm result reproduced by Gerrig et al., who dispute the egocentric reading; broader overestimation replicates.",
      "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
      "title": "Illusion of Transparency: Why No One Understands You"
     }
@@ -846,6 +1220,14 @@
      "gist": "Anchor-and-adjust mechanism applies to self-generated anchors; provided anchors work via selective accessibility (Epley & Gilovich).",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
+    },
+    {
+     "set": "replication",
+     "id": 3,
+     "verdict": "holds_qualified",
+     "gist": "The African-nations anchoring effect replicates in Many Labs; the insufficient-adjustment mechanism does not.",
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination"
     }
    ]
   },
@@ -990,6 +1372,32 @@
      "gist": "Rank-dependent and generalized EU theories coherently accommodate Allais; independence remains disputed among decision theorists.",
      "article": "TheAllaisParadox",
      "title": "The Allais Paradox"
+    }
+   ]
+  },
+  {
+   "source": "Carson & Mitchell 1995",
+   "verdict": "contested",
+   "group": "open",
+   "books": [
+    "V"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 5
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 3,
+     "verdict": "contested",
+     "gist": "Cited source reports the THM risk study as rejecting scope insensitivity; essay uses it as evidence for it.",
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity"
     }
    ]
   },
@@ -1179,6 +1587,32 @@
    ]
   },
   {
+   "source": "Kahneman, Ritov & Schkade 1999",
+   "verdict": "contested",
+   "group": "open",
+   "books": [
+    "V"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 4
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 2,
+     "verdict": "contested",
+     "gist": "Attitude-expression account of CV answers well supported within surveys; its reach to real valuation disputed.",
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity"
+    }
+   ]
+  },
+  {
    "source": "Kosslyn 1994",
    "verdict": "contested",
    "group": "open",
@@ -1201,6 +1635,32 @@
      "gist": "Retinotopic imagery activation real but didn't settle the debate; resolved in 2015 as a compromise.",
      "article": "WordsAsMentalPaintbrushHandles",
      "title": "Words as Mental Paintbrush Handles"
+    }
+   ]
+  },
+  {
+   "source": "McFadden & Leonard 1993",
+   "verdict": "contested",
+   "group": "open",
+   "books": [
+    "V"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 3
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "contested",
+     "gist": "Exxon-funded CV critique; Carson finds 30+ split-sample tests rejecting scope insensitivity and a scope effect on reanalysis.",
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity"
     }
    ]
   },
@@ -1277,55 +1737,6 @@
      "gist": "Attitude polarization vanishes with direct pre/post measures; Guess & Coppock 2020 found no backlash.",
      "article": "KnowingAboutBiasesCanHurtPeople",
      "title": "Knowing About Biases Can Hurt People"
-    }
-   ]
-  },
-  {
-   "source": "Asch 1956",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "II"
-   ],
-   "conflict": true,
-   "cited_in": [
-    {
-     "article": "AschsConformityExperiment",
-     "title": "Asch’s Conformity Experiment",
-     "footnote": 1
-    },
-    {
-     "article": "LonelyDissent",
-     "title": "Lonely Dissent",
-     "footnote": null
-    },
-    {
-     "article": "OnExpressingYourConcerns",
-     "title": "On Expressing Your Concerns",
-     "footnote": null
-    },
-    {
-     "article": "CultishCountercultishness",
-     "title": "Cultish Countercultishness",
-     "footnote": null
-    }
-   ],
-   "notes": [
-    {
-     "set": "OpusOld",
-     "id": 1,
-     "verdict": "holds_qualified",
-     "gist": "Three-quarters conformed once, but most trial responses were independent; headline oversells conformity.",
-     "article": "AschsConformityExperiment",
-     "title": "Asch’s Conformity Experiment"
-    },
-    {
-     "set": "OpusOld",
-     "id": 1,
-     "verdict": "weakened",
-     "gist": "Pluralistic ignorance is well supported, but distinct from Asch conformity; merging them overstates Asch's relevance.",
-     "article": "OnExpressingYourConcerns",
-     "title": "On Expressing Your Concerns"
     }
    ]
   },
@@ -1684,6 +2095,32 @@
      "gist": "Cited meta-analysis finds near-zero halo for honesty; catalogue cherry-picks largest small-study effects.",
      "article": "TheHaloEffect",
      "title": "The Halo Effect"
+    }
+   ]
+  },
+  {
+   "source": "Epley & Gilovich 2001",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination",
+     "footnote": 4
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 4,
+     "verdict": "weakened",
+     "gist": "Later replications found no difference between adjustment from self-generated and provided anchors.",
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination"
     }
    ]
   },
@@ -2400,6 +2837,32 @@
    ]
   },
   {
+   "source": "Tversky & Kahneman 1973",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "VI"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "MyBayesianEnlightenment",
+     "title": "My Bayesian Enlightenment",
+     "footnote": null
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "The availability paper's famous letter-position study has never replicated (Sedlmeier et al. 1998).",
+     "article": "MyBayesianEnlightenment",
+     "title": "My Bayesian Enlightenment"
+    }
+   ]
+  },
+  {
    "source": "Wade 1976",
    "verdict": "weakened",
    "group": "damaged",
@@ -2515,6 +2978,32 @@
    ]
   },
   {
+   "source": "Mussweiler & Strack 1999",
+   "verdict": "failed_replication",
+   "group": "damaged",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "failed_replication",
+     "gist": "Five preregistered experiments (Harris et al. 2019) failed to find the anchor-driven lexical-decision speedup.",
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination"
+    }
+   ]
+  },
+  {
    "source": "Casscells, Schoenberger & Graboys 1978",
    "verdict": "false_or_misattributed",
    "group": "damaged",
@@ -2565,310 +3054,16 @@
      "title": "Zut Allais!"
     }
    ]
-  },
-  {
-   "source": "Benson, Karabenick & Lerner 1976",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "TheHaloEffect",
-     "title": "The Halo Effect",
-     "footnote": 11
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Budesheim & DePaola 1994",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "TheHaloEffect",
-     "title": "The Halo Effect",
-     "footnote": 5
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Buehler, Griffin & Ross 1995",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "I"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "PlanningFallacy",
-     "title": "Planning Fallacy",
-     "footnote": 2
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Carson & Mitchell 1995",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "V"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "ScopeInsensitivity",
-     "title": "Scope Insensitivity",
-     "footnote": 5
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Chaiken 1979",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "TheHaloEffect",
-     "title": "The Halo Effect",
-     "footnote": 12
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Chapman & Johnson 2002",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "Priming-And-Contamination",
-     "title": "Priming and Contamination",
-     "footnote": 2
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Epley & Gilovich 2001",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "Priming-And-Contamination",
-     "title": "Priming and Contamination",
-     "footnote": 4
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Kahneman & Tversky 1979",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "V"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "TheAllaisParadox",
-     "title": "The Allais Paradox",
-     "footnote": 1
-    },
-    {
-     "article": "ZutAllais",
-     "title": "Zut Allais!",
-     "footnote": 4
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Kahneman, Ritov & Schkade 1999",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "V"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "ScopeInsensitivity",
-     "title": "Scope Insensitivity",
-     "footnote": 4
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Keysar & Bly 1995",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "I"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
-     "title": "Illusion of Transparency: Why No One Understands You",
-     "footnote": 5
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Keysar 1998",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "I"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
-     "title": "Illusion of Transparency: Why No One Understands You",
-     "footnote": 3
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "McFadden & Leonard 1993",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "V"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "ScopeInsensitivity",
-     "title": "Scope Insensitivity",
-     "footnote": 3
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Mussweiler & Strack 1999",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "Priming-And-Contamination",
-     "title": "Priming and Contamination",
-     "footnote": 1
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Quattrone et al. 1981",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "Anchoring-And-Adjustment",
-     "title": "Anchoring and Adjustment",
-     "footnote": 3
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Schul & Mayo 2003",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "I"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "LawfulUncertainty",
-     "title": "Lawful Uncertainty",
-     "footnote": 1
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Tversky & Kahneman 1973",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "VI"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "MyBayesianEnlightenment",
-     "title": "My Bayesian Enlightenment",
-     "footnote": null
-    }
-   ],
-   "notes": []
-  },
-  {
-   "source": "Yates et al. 2002",
-   "verdict": "unassessed",
-   "group": "unassessed",
-   "books": [
-    "IV"
-   ],
-   "conflict": false,
-   "cited_in": [
-    {
-     "article": "ATechnicalExplanationOfTechnicalExplanation",
-     "title": "A Technical Explanation of Technical Explanation",
-     "footnote": 5
-    }
-   ],
-   "notes": []
   }
  ],
  "target_x_verdict": {
   "cited_study": {
-   "holds": 14,
-   "holds_qualified": 75,
-   "contested": 13,
+   "holds": 20,
+   "holds_qualified": 85,
+   "contested": 16,
    "unfalsifiable_or_na": 0,
-   "weakened": 57,
-   "failed_replication": 18,
+   "weakened": 59,
+   "failed_replication": 19,
    "retracted_or_fraud": 5,
    "false_or_misattributed": 14
   },
@@ -2993,6 +3188,16 @@
    "failed_replication": 2,
    "retracted_or_fraud": 0,
    "false_or_misattributed": 4
+  },
+  "replication": {
+   "holds": 6,
+   "holds_qualified": 10,
+   "contested": 3,
+   "unfalsifiable_or_na": 0,
+   "weakened": 2,
+   "failed_replication": 1,
+   "retracted_or_fraud": 0,
+   "false_or_misattributed": 0
   }
  },
  "sequences": [
@@ -3001,10 +3206,10 @@
    "sequence": "A",
    "title": "Predictably Wrong",
    "articles": 10,
-   "notes": 76,
+   "notes": 79,
    "verdicts": {
     "holds": 0,
-    "holds_qualified": 15,
+    "holds_qualified": 18,
     "contested": 10,
     "unfalsifiable_or_na": 3,
     "weakened": 40,
@@ -3052,9 +3257,9 @@
    "sequence": "D",
    "title": "Mysterious Answers",
    "articles": 16,
-   "notes": 114,
+   "notes": 115,
    "verdicts": {
-    "holds": 10,
+    "holds": 11,
     "holds_qualified": 22,
     "contested": 9,
     "unfalsifiable_or_na": 1,
@@ -3137,14 +3342,14 @@
    "sequence": "I",
    "title": "Seeing With Fresh Eyes",
    "articles": 13,
-   "notes": 40,
+   "notes": 45,
    "verdicts": {
-    "holds": 3,
-    "holds_qualified": 10,
+    "holds": 4,
+    "holds_qualified": 12,
     "contested": 2,
     "unfalsifiable_or_na": 0,
-    "weakened": 19,
-    "failed_replication": 2,
+    "weakened": 20,
+    "failed_replication": 3,
     "retracted_or_fraud": 2,
     "false_or_misattributed": 2
    }
@@ -3154,10 +3359,10 @@
    "sequence": "J",
    "title": "Death Spirals",
    "articles": 21,
-   "notes": 67,
+   "notes": 73,
    "verdicts": {
-    "holds": 2,
-    "holds_qualified": 17,
+    "holds": 3,
+    "holds_qualified": 22,
     "contested": 1,
     "unfalsifiable_or_na": 3,
     "weakened": 25,
@@ -3358,9 +3563,9 @@
    "sequence": "interlude",
    "title": "Introduction / interlude",
    "articles": 1,
-   "notes": 7,
+   "notes": 8,
    "verdicts": {
-    "holds": 0,
+    "holds": 1,
     "holds_qualified": 0,
     "contested": 0,
     "unfalsifiable_or_na": 1,
@@ -3409,11 +3614,11 @@
    "sequence": "W",
    "title": "Quantified Humanism",
    "articles": 11,
-   "notes": 61,
+   "notes": 66,
    "verdicts": {
-    "holds": 1,
+    "holds": 3,
     "holds_qualified": 5,
-    "contested": 7,
+    "contested": 10,
     "unfalsifiable_or_na": 0,
     "weakened": 26,
     "failed_replication": 0,
@@ -3443,13 +3648,13 @@
    "sequence": "X",
    "title": "Yudkowsky’s Coming of Age",
    "articles": 12,
-   "notes": 100,
+   "notes": 101,
    "verdicts": {
     "holds": 2,
     "holds_qualified": 10,
     "contested": 8,
     "unfalsifiable_or_na": 5,
-    "weakened": 57,
+    "weakened": 58,
     "failed_replication": 0,
     "retracted_or_fraud": 0,
     "false_or_misattributed": 18
@@ -8822,6 +9027,71 @@
  },
  "skeptic_conflicts": [
   {
+   "source": "Asch 1956",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "II"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "AschsConformityExperiment",
+     "title": "Asch’s Conformity Experiment",
+     "footnote": 1
+    },
+    {
+     "article": "LonelyDissent",
+     "title": "Lonely Dissent",
+     "footnote": null
+    },
+    {
+     "article": "OnExpressingYourConcerns",
+     "title": "On Expressing Your Concerns",
+     "footnote": null
+    },
+    {
+     "article": "CultishCountercultishness",
+     "title": "Cultish Countercultishness",
+     "footnote": null
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Three-quarters conformed once, but most trial responses were independent; headline oversells conformity.",
+     "article": "AschsConformityExperiment",
+     "title": "Asch’s Conformity Experiment"
+    },
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds",
+     "gist": "Asch conformity replicated at 33% (Franzen & Mader 2023); dissenter effect is one of its most stable moderators.",
+     "article": "LonelyDissent",
+     "title": "Lonely Dissent"
+    },
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Pluralistic ignorance is well supported, but distinct from Asch conformity; merging them overstates Asch's relevance.",
+     "article": "OnExpressingYourConcerns",
+     "title": "On Expressing Your Concerns"
+    },
+    {
+     "set": "replication",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Asch's effect replicates (Franzen & Mader 2023), with conformity varying by culture and era (Bond & Smith 1996).",
+     "article": "CultishCountercultishness",
+     "title": "Cultish Countercultishness"
+    }
+   ]
+  },
+  {
    "source": "Tversky & Kahneman 1974",
    "verdict": "holds_qualified",
    "group": "stands",
@@ -8873,6 +9143,14 @@
      "gist": "Anchor-and-adjust mechanism applies to self-generated anchors; provided anchors work via selective accessibility (Epley & Gilovich).",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
+    },
+    {
+     "set": "replication",
+     "id": 3,
+     "verdict": "holds_qualified",
+     "gist": "The African-nations anchoring effect replicates in Many Labs; the insufficient-adjustment mechanism does not.",
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination"
     }
    ]
   },

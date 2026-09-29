@@ -26,5 +26,12 @@
     "code": "RO",
     "file": "annotations/Anchoring-And-Adjustment.ropusOld.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/Anchoring-And-Adjustment.replication.json",
+    "default": true
   }
 ]

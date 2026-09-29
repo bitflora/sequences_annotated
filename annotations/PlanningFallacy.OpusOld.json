@@ -9,7 +9,7 @@
     "id": 2,
     "side": "right",
     "quote": "45% (less than half!) finished by the time of their 99% probability level",
-    "content": "The arresting \"13% / 19% / 45%\" calibration figures are from <a href=\"https://doi.org/10.1037/0022-3514.67.3.366\">Buehler, Griffin & Ross (1994)</a>, a single study with a student sample on self-relevant academic tasks. The qualitative result reproduces, but the planning fallacy is far more heterogeneous than \"people underestimate.\" The large meta-analysis by <a href=\"https://doi.org/10.1037/bul0000067\">Halkjelsvik & Jørgensen (2018)</a> finds the direction and size of the bias swing with task type, time-unit framing, and elicitation method, and that short or externally-assigned tasks can show <em>over</em>estimation. The blanket statement that \"people think they can plan, ha ha\" overgeneralizes from the conditions most likely to produce underestimation."
+    "content": "The arresting \"13% / 19% / 45%\" calibration figures are from <a href=\"https://doi.org/10.1037/0022-3514.67.3.366\">Buehler, Griffin & Ross (1994)</a>, a single study with a student sample on self-relevant academic tasks. The qualitative result reproduces, but the planning fallacy is far more heterogeneous than \"people underestimate.\" The large review by <a href=\"https://doi.org/10.1037/a0025996\">Halkjelsvik & Jørgensen (2012)</a> finds the direction and size of the bias swing with task type, time-unit framing, and elicitation method, and that short or externally-assigned tasks can show <em>over</em>estimation. The blanket statement that \"people think they can plan, ha ha\" overgeneralizes from the conditions most likely to produce underestimation."
   },
   {
     "id": 3,
@@ -20,7 +20,7 @@
   {
     "id": 4,
     "side": "right",
-    "content": "\"Unlike most cognitive biases, we know a good debiasing heuristic\", the outside view, is the essay's most useful and best-supported claim, and reference-class forecasting genuinely has applied backing. But the confidence is still oversold in two ways. First, the hard part is choosing a reference class of genuinely comparable cases, which is itself a judgment that smuggles the inside view back in; for novel or heterogeneous projects no clean class exists. Second, the debiasing literature broadly shows manipulations have inconsistent, often modest effects (Halkjelsvik & Jørgensen, 2018). Calling it \"fairly reliable\" is defensible; the surrounding tone, that you can just take the long answer as \"true\" and \"deal with it,\" overstates how often a valid reference class is actually available."
+    "content": "\"Unlike most cognitive biases, we know a good debiasing heuristic\", the outside view, is the essay's most useful and best-supported claim, and reference-class forecasting genuinely has applied backing. But the confidence is still oversold in two ways. First, the hard part is choosing a reference class of genuinely comparable cases, which is itself a judgment that smuggles the inside view back in; for novel or heterogeneous projects no clean class exists. Second, the debiasing literature broadly shows manipulations have inconsistent, often modest effects (Halkjelsvik & Jørgensen, 2012). Calling it \"fairly reliable\" is defensible; the surrounding tone, that you can just take the long answer as \"true\" and \"deal with it,\" overstates how often a valid reference class is actually available."
   },
   {
     "id": 5,

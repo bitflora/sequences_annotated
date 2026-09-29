@@ -26,5 +26,12 @@
     "code": "RO",
     "file": "annotations/TheHaloEffect.ropusOld.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/TheHaloEffect.replication.json",
+    "default": true
   }
 ]

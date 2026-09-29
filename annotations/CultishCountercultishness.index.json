@@ -19,5 +19,12 @@
     "code": "RO",
     "file": "annotations/CultishCountercultishness.ropusOld.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/CultishCountercultishness.replication.json",
+    "default": true
   }
 ]

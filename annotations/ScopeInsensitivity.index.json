@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/ScopeInsensitivity.opus.json",
     "default": true
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/ScopeInsensitivity.replication.json",
+    "default": true
   }
 ]

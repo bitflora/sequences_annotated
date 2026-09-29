@@ -26,5 +26,12 @@
     "code": "RO",
     "file": "annotations/TheAffectHeuristic.ropusOld.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/TheAffectHeuristic.replication.json",
+    "default": true
   }
 ]

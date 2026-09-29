@@ -33,5 +33,12 @@
     "code": "RO",
     "file": "annotations/PlanningFallacy.ropusOld.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/PlanningFallacy.replication.json",
+    "default": true
   }
 ]

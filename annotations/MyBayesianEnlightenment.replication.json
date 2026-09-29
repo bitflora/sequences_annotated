@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "He sent me back a scan of Tversky and Kahneman",
+    "content": "Replication check: the most famous demonstration in Tversky and Kahneman's 1973 availability paper has no successful replication. People judged that letters such as K and R occur more often in the first position of words than the third. <a href=\"https://doi.org/10.1037/0278-7393.24.3.754\">Sedlmeier, Hertwig &amp; Gigerenzer (1998)</a> report that an earlier replication attempt failed, as did their own. With a representative sample of letters, frequency judgments closely tracked the actual frequencies. The availability heuristic as a general idea has other support, but the paper that converted the author did not survive intact."
+  }
+]

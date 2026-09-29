@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "evidence has continued to confirm its troubling presence",
+    "content": "Replication check: the laboratory finding that attractive candidates are rated more favorably has been supported outside the laboratory. In Finnish elections, where candidates of the same party compete for personal votes, strangers' ratings of candidate beauty predicted vote share (<a href=\"https://doi.org/10.1016/j.jpubeco.2009.11.002\">Berggren, Jordahl &amp; Poutvaara 2010</a>). The qualification is that facial competence, not attractiveness, carries most of the predictive power in high-information races (<a href=\"https://doi.org/10.1126/science.1110589\">Todorov et al. 2005</a>). No direct replication of the 1994 vignette study exists, but its direction is consistent with everything since."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "attractive people are more likely to obtain help when in need",
+    "content": "Replication check: the airport lost-letter experiment (604 callers) has not been directly replicated, and its effect should be read as one field demonstration. The general claim does replicate. A meta-analysis (<a href=\"https://doi.org/10.1037/0033-2909.126.3.390\">Langlois et al. 2000</a>) found that attractive adults are judged and treated more favorably by others, with modest effect sizes. The same study also found a significant race effect, which the Cialdini summary leaves out."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "are more persuasive in changing the opinions of an audience",
+    "content": "Replication check: Chaiken's field study found the effect, and her own data show why it cannot be read as a pure halo. The attractive communicators differed from the unattractive ones before any persuasion took place: they had higher grade-point averages and SAT scores, rated themselves more favorably, and spoke faster and more fluently. Chaiken herself concluded that attractive people may persuade partly because they are better communicators. The correlation is real; the causal attribution to looks is weaker than the summary implies."
+  }
+]

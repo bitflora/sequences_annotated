@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "good discrimination demands access to solid, predictive evidence",
+    "content": "Replication check: the passage quoted from Yates et al. is a claim about the structure of probability scoring, not an experimental effect, and it is correct. Calibration and discrimination separate exactly in <a href=\"https://doi.org/10.1175/1520-0450(1973)012%3C0595:ANVPOT%3E2.0.CO;2\">Murphy's (1973) decomposition</a> of the Brier score, and calibration can be repaired by transforming forecasts after the fact while discrimination cannot. The chapter's empirical content, cross-cultural differences in overconfidence, is not what the essay uses and is not assessed here."
+  }
+]

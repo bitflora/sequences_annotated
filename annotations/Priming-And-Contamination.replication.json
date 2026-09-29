@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "were faster on identifying words like",
+    "content": "Replication check: this is the essay's central experiment, and it failed replication. <a href=\"https://doi.org/10.1037/xge0000644\">Harris et al. (2019)</a> ran four preregistered experiments using this lexical-decision test, which they call the signature test for selective accessibility, plus a fifth with a different method. None found that comparing a quantity with a high or low anchor speeds recognition of anchor-consistent words. A further study found that anchors do not bias which examples people call to mind (<a href=\"https://doi.org/10.31234/osf.io/4j5wb\">Bahník 2021</a>). Anchoring itself remains robust; the evidence that it works through priming of compatible knowledge, the mechanism this essay generalizes into \"contamination,\" does not."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "completely uninformative, known false, or totally irrelevant",
+    "content": "Replication check: the claim holds for anchors people are asked to compare against, and it holds much less well for numbers that are merely present in the surroundings. Explicit comparison anchors replicated in every Many Labs sample (<a href=\"https://doi.org/10.1027/1864-9335/a000178\">Klein et al. 2014</a>). Incidental anchors, numbers people see without being asked to use them, are the purest case of \"totally irrelevant\" information, and a set of preregistered experiments found little or no effect from them (<a href=\"https://doi.org/10.1525/collabra.310\">Shanks et al. 2020</a>). Contamination is real when the irrelevant number is made part of the judgment task; the broader phrasing overstates it."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "stopping as soon as they reached a plausible value",
+    "content": "Replication check: the effect replicates and the mechanism described here does not. The anchoring result replicated across dozens of labs (<a href=\"https://doi.org/10.1027/1864-9335/a000178\">Klein et al. 2014</a>). The insufficient-adjustment account was not supported for provided anchors by the time the essay was written, as the essay says, but the selective-accessibility account it put in its place has since failed its own key test (<a href=\"https://doi.org/10.1037/xge0000644\">Harris et al. 2019</a>). The finding stands, and the field has no agreed explanation for it."
+  },
+  {
+    "id": 4,
+    "side": "right",
+    "quote": "notably when subjects generate the initial estimate themselves",
+    "content": "Replication check: the distinction this sentence relies on, adjustment for self-generated anchors and none for provided ones, has not held up well. <a href=\"https://doi.org/10.1037/a0021540\">Simmons, LeBoeuf &amp; Nelson (2010)</a> showed that people do adjust from provided anchors when they know which direction to go. Three replications of Epley and Gilovich's follow-up studies (<a href=\"https://doi.org/10.18718/81781.38\">Röseler et al. 2024</a>) found that cognitive load did not affect adjustment from self-generated anchors, and found no evidence in any study that adjustment differs between self-generated and provided anchors. Anchoring was robust in all of them; the two-mechanism split was not."
+  }
+]

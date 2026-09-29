@@ -12,7 +12,7 @@ from html.parser import HTMLParser
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ANN = os.path.join(ROOT, "annotations")
 
-SKEPTIC_SETS = ["opus", "OpusOld", "fable", "Opus5_5", "SkepticAstra"]
+SKEPTIC_SETS = ["opus", "OpusOld", "fable", "Opus5_5", "SkepticAstra", "replication"]
 REBUTTAL_SETS = ["ropus", "RationalistAstra"]
 SETS = SKEPTIC_SETS + REBUTTAL_SETS
 

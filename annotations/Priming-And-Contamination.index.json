@@ -26,5 +26,12 @@
     "code": "RO",
     "file": "annotations/Priming-And-Contamination.ropusOld.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/Priming-And-Contamination.replication.json",
+    "default": true
   }
 ]

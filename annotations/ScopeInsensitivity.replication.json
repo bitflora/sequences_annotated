@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "side": "left",
+    "quote": "would pay only 28% more to protect all 57 wilderness areas",
+    "content": "Replication check: this result comes from the Exxon-funded critique of contingent valuation that followed the Valdez spill, and whether scope insensitivity replicates is still disputed. Carson's survey of the literature (in Kopp, Pommerehne &amp; Schwarz, eds., Determining the Value of Non-Marketed Goods, 1997; book, no DOI) listed more than thirty split-sample studies that rejected scope insensitivity, and Carson &amp; Flores's reanalysis of the companion Exxon wilderness study found a significant effect of acreage that the original test had missed; <a href=\"https://doi.org/10.1257/jep.26.4.27\">Carson (2012)</a> summarizes the later record. <a href=\"https://doi.org/10.1016/j.ecolecon.2012.10.003\">Desvousges, Mathews &amp; Train (2012)</a> reply that statistically detectable sensitivity is not adequate sensitivity, and that most studies' responses are far smaller than theory requires. The 28% figure is real; its status as the typical finding is contested."
+  },
+  {
+    "id": 2,
+    "side": "right",
+    "quote": "calls forth some level of emotional arousal that is primarily responsible for willingness-to-pay",
+    "content": "Replication check: Kahneman, Ritov and Schkade's core finding, that dollar answers to valuation surveys track attitude ratings closely and are insensitive to scope, was reported across the paper's own surveys and in the psychological studies it reviews. Economists who run contingent-valuation surveys dispute how far it generalizes. They argue that well-designed surveys with clear goods and realistic payment mechanisms do detect scope (<a href=\"https://doi.org/10.1257/jep.26.4.27\">Carson 2012</a>). The affect-driven account is a leading hypothesis, but \"primarily responsible\" asserts as settled what remains a live dispute between two fields."
+  },
+  {
+    "id": 3,
+    "side": "left",
+    "quote": "increased willingness-to-pay from $3.78 to $15.23",
+    "content": "Replication check: the cited paper draws the opposite conclusion. Carson and Mitchell were defending contingent valuation, and in the section on new scope tests they describe their trihalomethane (drinking-water chlorination) study as having found significant differences in willingness to pay across risk levels, evidence against scope insensitivity. Both readings are available: willingness to pay did rise significantly, and it rose about fourfold while risk rose about 600-fold. Whether that counts as sensitivity or insensitivity is the substance of the dispute, and the essay presents one side of it using the other side's source."
+  }
+]

@@ -5,5 +5,12 @@
     "code": "O",
     "file": "annotations/ZutAllais.opus.json",
     "default": true
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/ZutAllais.replication.json",
+    "default": true
   }
 ]

@@ -33,5 +33,12 @@
     "code": "RO",
     "file": "annotations/LawfulUncertainty.ropusOld.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/LawfulUncertainty.replication.json",
+    "default": true
   }
 ]

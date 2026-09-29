@@ -26,5 +26,12 @@
     "code": "RO",
     "file": "annotations/LonelyDissent.ropusOld.json",
     "default": false
+  },
+  {
+    "id": "replication",
+    "label": "Replication check",
+    "code": "RC",
+    "file": "annotations/LonelyDissent.replication.json",
+    "default": true
   }
 ]
