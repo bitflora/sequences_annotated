@@ -7,6 +7,14 @@ the annotation files, attaches book/sequence from Contents.html, pairs each
 rebuttal note with the Fable note whose quote it shares, and writes
 analysis/findings-summary.json.
 
+The cited-study charts count only studies the essays themselves cite, listed in
+analysis/essay-studies.jsonl: one row per (article, study) with the footnote
+number (null for a study named in the body) and the skeptic notes that assess
+that study, each with a verdict on it. A row with no assessments is a study the
+essay cites that no note judges; it is shown as "not assessed".
+scripts/essay_studies_batches.py prints each essay's references beside its
+notes for filling that file in.
+
 Usage:
     python3 scripts/build_findings.py [FRAGMENT.jsonl ...]
 
@@ -16,6 +24,7 @@ first; without, the existing findings.jsonl is used.
 import collections
 import datetime
 import glob
+import html
 import json
 import math
 import os
@@ -30,6 +39,7 @@ SUMMARY = os.path.join(ROOT, "analysis", "findings-summary.json")
 INDEX = os.path.join(ROOT, "index.html")
 TOC_PAGES = os.path.join(ROOT, "*.html")
 ARTICLE_BARS = os.path.join(ROOT, "analysis", "article-studies.json")
+ESSAY_STUDIES = os.path.join(ROOT, "analysis", "essay-studies.jsonl")
 
 TARGETS = ["cited_study", "empirical_claim", "historical_fact", "attribution",
            "ai_prediction", "argument", "prior_work", "other"]
@@ -40,6 +50,14 @@ GROUP = {"holds": "stands", "holds_qualified": "stands",
          "contested": "open", "unfalsifiable_or_na": "open",
          "weakened": "damaged", "failed_replication": "damaged",
          "retracted_or_fraud": "damaged", "false_or_misattributed": "damaged"}
+# An essay-cited study that no note assesses.
+STUDY_VERDICTS = VERDICTS + ["unassessed"]
+STUDY_GROUP = dict(GROUP, unassessed="unassessed")
+BAR_GROUPS = ("stands", "open", "damaged", "unassessed")
+SHORT_VERDICT = {"holds": "holds", "holds_qualified": "holds, qualified", "contested": "contested",
+                 "unfalsifiable_or_na": "no empirical verdict", "weakened": "weakened",
+                 "failed_replication": "failed replication", "retracted_or_fraud": "retracted",
+                 "false_or_misattributed": "misreported", "unassessed": "not assessed"}
 # Study names the classifier wrote more than one way.
 SOURCE_ALIASES = {
     "Gilbert et al. 1993": "Gilbert, Tafarodi & Malone 1993",
@@ -110,27 +128,110 @@ def load_rows(expected):
     return rows
 
 
+def load_essay_studies(note_by_key):
+    """Rows of analysis/essay-studies.jsonl, validated against the in-scope skeptic notes."""
+    rows, seen, errors = [], set(), []
+    with open(ESSAY_STUDIES, encoding="utf-8") as f:
+        for n, line in enumerate(f, 1):
+            if not line.strip():
+                continue
+            try:
+                r = json.loads(line)
+            except json.JSONDecodeError as e:
+                errors.append(f"essay-studies line {n}: bad JSON ({e})")
+                continue
+            study = " ".join((r.get("study") or "").replace("&amp;", "&").split())
+            r["study"] = SOURCE_ALIASES.get(study, study)
+            art = r.get("article")
+            if not study or not any(note["article"] == art for note in note_by_key.values()):
+                errors.append(f"essay-studies line {n}: unknown article {art!r} or empty study")
+                continue
+            if (art, r["study"]) in seen:
+                errors.append(f"essay-studies line {n}: duplicate {art} / {r['study']}")
+            seen.add((art, r["study"]))
+            if r.get("footnote") is not None and not isinstance(r["footnote"], int):
+                errors.append(f"essay-studies line {n}: footnote must be an integer or null")
+            for a in r.get("assessments") or []:
+                note = note_by_key.get(a.get("note"))
+                if not note or note["set"] not in SKEPTIC_SETS or note["article"] != art:
+                    errors.append(f"essay-studies line {n}: {a.get('note')!r} is not an in-scope skeptic note on {art}")
+                if a.get("verdict") not in VERDICTS:
+                    errors.append(f"essay-studies line {n}: bad verdict {a.get('verdict')!r}")
+            r["assessments"] = r.get("assessments") or []
+            rows.append(r)
+    if errors:
+        die("\n  " + "\n  ".join(errors[:40]))
+    return rows
+
+
+def set_codes(article):
+    """set id -> the short code annotations.js prefixes marker numbers with."""
+    with open(os.path.join(ROOT, "annotations", f"{article}.index.json"), encoding="utf-8") as f:
+        return {e["id"]: e.get("code") or e["id"][0].upper() for e in json.load(f)}
+
+
 def counter_dict(c, keys):
     return {k: c.get(k, 0) for k in keys}
 
 
-def bar_html(c, cls, title):
-    """A stands/open/damaged bar with its caption, as on the front page; empty when no studies are cited."""
+def study_label(c):
+    """("N of M cited studies hold up", ["K damaged", ...]) for a Counter of study groups."""
     total = sum(c.values())
-    if not total:
-        return ""
-    segs = "".join(f'<span style="flex:{c[g]};background:var(--st-{g})"></span>'
-                   for g in ("stands", "open", "damaged") if c[g])
     noun = "study holds" if total == 1 else "studies hold"
-    label = f"{c['stands']} of {total} cited {noun} up"
     extra = [f"{c['damaged']} damaged"] if c["damaged"] else []
     extra += [f"{c['open']} contested"] if c["open"] else []
-    detail = " · ".join(extra)
+    extra += [f"{c['unassessed']} not assessed"] if c["unassessed"] else []
+    return f"{c['stands']} of {total} cited {noun} up", extra
+
+
+def bar_inner(c):
+    """The bar and caption spans shared by the front page and the article titles."""
+    segs = "".join(f'<span style="flex:{c[g]};background:var(--st-{g})"></span>' for g in BAR_GROUPS if c[g])
+    label, extra = study_label(c)
     aria = label + (", " + ", ".join(extra) if extra else "")
-    return (f'<a class="{cls}" href="Findings.html" title="{title}">'
-            f'<span class="bar" role="img" aria-label="{aria}">{segs}</span>'
-            f'<span class="cap">{label}</span>'
-            + (f'<span class="cap">{detail}</span>' if detail else "") + '</a>')
+    return (f'<span class="bar" role="img" aria-label="{aria}">{segs}</span><span class="cap">{label}</span>'
+            + (f'<span class="cap">{" · ".join(extra)}</span>' if extra else ""))
+
+
+def bar_html(c, cls, title):
+    """A stands/open/damaged bar with its caption, as on the front page; empty when no studies are cited."""
+    if not sum(c.values()):
+        return ""
+    return f'<a class="{cls}" href="Findings.html" title="{title}">{bar_inner(c)}</a>'
+
+
+def article_bar_html(article, cites, study_by_name, note_by_key):
+    """The article-title bar plus a list of the essay's cited studies, each linked to its footnote
+    and to the notes on this page that assess it."""
+    c = collections.Counter(study_by_name[r["study"]]["group"] for r in cites)
+    codes = set_codes(article)
+    with open(os.path.join(ROOT, article + ".html"), encoding="utf-8") as f:
+        page = f.read()
+    order = {g: i for i, g in enumerate(BAR_GROUPS)}
+    items = []
+    for r in sorted(cites, key=lambda r: (order[study_by_name[r["study"]]["group"]], r["footnote"] or 999, r["study"])):
+        st = study_by_name[r["study"]]
+        name = html.escape(r["study"])
+        if r["footnote"] and f"id='footnote{r['footnote']}'" in page:
+            name = f'<a href="#footnote{r["footnote"]}">{name}</a>'
+        refs = []
+        for a in r["assessments"]:
+            note = note_by_key[a["note"]]
+            refs.append(f'<a class="study-note" href="#annotation-{note["set"]}-{note["id"]}" data-set="{note["set"]}" '
+                        f'title="{html.escape(SHORT_VERDICT[a["verdict"]])}">{codes.get(note["set"], "")}{note["id"]}</a>')
+        where = ""
+        if not refs and st["group"] != "unassessed":
+            other = next(n for n in st["notes"] if n["article"] != article)
+            where = f' <a class="study-elsewhere" href="{other["article"]}.html">see {html.escape(other["title"])}</a>'
+        items.append(f'<span class="study"><i class="dot {st["group"]}"></i>{name} '
+                     f'<span class="verdict">{SHORT_VERDICT[st["verdict"]]}</span>'
+                     + (f' <span class="refs">{" ".join(refs)}</span>' if refs else "") + where + '</span>')
+    body = "".join(items)
+    n = len(cites)
+    listing = (f'<span class="study-list">{body}</span>' if n <= 4 else
+               f'<details class="study-list"><summary>The {n} studies</summary>{body}</details>')
+    return (f'<span class="article-studies"><a class="studies-bar" href="Findings.html" '
+            f'title="Cited studies in this essay">{bar_inner(c)}</a>{listing}</span>')
 
 
 def write_index_bars(study_fate):
@@ -140,7 +241,7 @@ def write_index_bars(study_fate):
     for b in BOOKS:
         c = collections.Counter()
         for v, n in study_fate[b].items():
-            c[GROUP[v]] += n
+            c[STUDY_GROUP[v]] += n
         html = bar_html(c, "book-studies", f"Cited studies in Book {b}")
         start, end = f"<!-- studies:{b} -->", f"<!-- /studies:{b} -->"
         i, j = page.find(start), page.find(end)
@@ -152,11 +253,11 @@ def write_index_bars(study_fate):
 
 
 def pie_svg(c, size):
-    """A small inline SVG pie of stands/open/damaged study counts."""
+    """A small inline SVG pie of stands/open/damaged/unassessed study counts."""
     total = sum(c.values())
     r = size / 2
     parts, a = [], -math.pi / 2
-    for g in ("stands", "open", "damaged"):
+    for g in BAR_GROUPS:
         if not c[g]:
             continue
         if c[g] == total:
@@ -176,12 +277,9 @@ def pie_html(groups, size, cls):
     """Pie plus tooltip for a {source: group} map; empty when no studies are cited."""
     if not groups:
         return ""
+    label, extra = study_label(collections.Counter(groups.values()))
+    label += "; " + ", ".join(extra) if extra else ""
     c = collections.Counter(groups.values())
-    total = sum(c.values())
-    extra = [f"{c['damaged']} damaged"] if c["damaged"] else []
-    extra += [f"{c['open']} contested"] if c["open"] else []
-    noun = "study holds" if total == 1 else "studies hold"
-    label = f"{c['stands']} of {total} cited {noun} up" + ("; " + ", ".join(extra) if extra else "")
     return (f'<!--pie--><a class="study-pie {cls}" href="Findings.html" title="{label}" '
             f'role="img" aria-label="{label}">{pie_svg(c, size)}</a><!--/pie-->')
 
@@ -196,15 +294,15 @@ def _toc_region(page):
     return None
 
 
-def write_toc_pies(studies):
+def write_toc_pies(studies, cites, note_by_key):
     """Put a cited-study pie after every chapter, sequence and book link in the tables of contents
     (Book pages, sequence pages, Contents.html) and in each sequence page's heading, and write
     analysis/article-studies.json for annotations.js to put a bar under each article's title."""
     norm = lambda a: re.sub(r"[^a-z0-9]", "", a.lower())
+    study_by_name = {st["source"]: st for st in studies}
     groups = collections.defaultdict(dict)  # normalized page name -> {source: group}
-    for st in studies:
-        for n in st["notes"]:
-            groups[norm(n["article"])][st["source"]] = st["group"]
+    for r in cites:
+        groups[norm(r["article"])][r["study"]] = study_by_name[r["study"]]["group"]
     item = re.compile(r"<li[^>]*>\s*<a class='wikilink' href='([^']+)\.html'>")
     pages = {}
     for path in sorted(glob.glob(TOC_PAGES)):
@@ -236,13 +334,11 @@ def write_toc_pies(studies):
         with open(path, "w", encoding="utf-8") as f:
             f.write(page)
 
-    articles = {}
-    for st in studies:
-        for n in st["notes"]:
-            articles.setdefault(n["article"], None)
+    by_article = collections.defaultdict(list)
+    for r in cites:
+        by_article[r["article"]].append(r)
     with open(ARTICLE_BARS, "w", encoding="utf-8") as f:
-        json.dump({a: bar_html(collections.Counter(groups[norm(a)].values()), "article-studies",
-                               "Cited studies in this essay") for a in sorted(articles)}, f,
+        json.dump({a: article_bar_html(a, rs, study_by_name, note_by_key) for a, rs in sorted(by_article.items())}, f,
                   ensure_ascii=False, indent=0)
 
 
@@ -266,34 +362,43 @@ def main():
     skeptic = [n for n in notes if n["set"] in SKEPTIC_SETS]
     rebuttal = [n for n in notes if n["set"] in REBUTTAL_SETS]
 
-    # --- Cited studies, deduplicated by normalized source name ---------------
+    # --- Cited studies: those the essays cite, deduplicated by name --------------
+    note_by_key = {n["key"]: n for n in notes}
+    meta_by_article = {n["article"]: n for n in notes}
+    cites = load_essay_studies(note_by_key)
     by_source = collections.defaultdict(list)
-    for n in skeptic:
-        if n["target"] == "cited_study" and n["source"]:
-            src = " ".join(n["source"].replace("&amp;", "&").split())
-            by_source[SOURCE_ALIASES.get(src, src)].append(n)
+    for r in cites:
+        by_source[r["study"]].append(r)
     studies = []
-    for src, ns in by_source.items():
-        groups = collections.Counter(GROUP[n["verdict"]] for n in ns)
-        top = max(groups.values())
-        # Majority group; ties go to the middle ("open"), then to "damaged".
-        group = next(g for g in ("open", "damaged", "stands") if groups.get(g) == top) \
-            if list(groups.values()).count(top) > 1 else groups.most_common(1)[0][0]
-        vs = collections.Counter(n["verdict"] for n in ns if GROUP[n["verdict"]] == group)
-        verdict = max(vs, key=lambda v: (vs[v], -VERDICTS.index(v)))
-        books = sorted({n["book"] for n in ns}, key=BOOKS.index)
+    for src, rs in by_source.items():
+        # Each note's verdict here is on this study, which may differ from the note's overall verdict.
+        ns = [dict(note_by_key[a["note"]], verdict=a["verdict"]) for r in rs for a in r["assessments"]]
+        if ns:
+            groups = collections.Counter(GROUP[n["verdict"]] for n in ns)
+            top = max(groups.values())
+            # Majority group; ties go to the middle ("open"), then to "damaged".
+            group = next(g for g in ("open", "damaged", "stands") if groups.get(g) == top) \
+                if list(groups.values()).count(top) > 1 else groups.most_common(1)[0][0]
+            vs = collections.Counter(n["verdict"] for n in ns if GROUP[n["verdict"]] == group)
+            verdict = max(vs, key=lambda v: (vs[v], -VERDICTS.index(v)))
+        else:
+            groups, group, verdict = {}, "unassessed", "unassessed"
         studies.append({
-            "source": src, "verdict": verdict, "group": group, "books": books,
+            "source": src, "verdict": verdict, "group": group,
+            "books": sorted({meta_by_article[r["article"]]["book"] for r in rs}, key=BOOKS.index),
             "conflict": len(groups) > 1,
-            "notes": [{"set": n["set"], "verdict": n["verdict"], "gist": n["gist"],
+            "cited_in": [{"article": r["article"], "title": meta_by_article[r["article"]]["title"],
+                          "footnote": r["footnote"]} for r in rs],
+            "notes": [{"set": n["set"], "id": n["id"], "verdict": n["verdict"], "gist": n["gist"],
                        "article": n["article"], "title": n["title"]} for n in ns],
         })
-    studies.sort(key=lambda s: (VERDICTS.index(s["verdict"]), s["source"].lower()))
+    studies.sort(key=lambda s: (STUDY_VERDICTS.index(s["verdict"]), s["source"].lower()))
 
-    study_fate = {"all": counter_dict(collections.Counter(s["verdict"] for s in studies), VERDICTS)}
+    study_fate = {"all": counter_dict(collections.Counter(s["verdict"] for s in studies), STUDY_VERDICTS)}
     for b in BOOKS:
         # A study cited in two books counts in each.
-        study_fate[b] = counter_dict(collections.Counter(s["verdict"] for s in studies if b in s["books"]), VERDICTS)
+        study_fate[b] = counter_dict(collections.Counter(s["verdict"] for s in studies if b in s["books"]),
+                                     STUDY_VERDICTS)
 
     # --- Skeptic notes by target and by sequence ------------------------------
     target_x_verdict = {t: counter_dict(collections.Counter(n["verdict"] for n in skeptic if n["target"] == t), VERDICTS)
@@ -377,10 +482,12 @@ def main():
         "generated": datetime.date.today().isoformat(),
         "sets": {"skeptic": SKEPTIC_SETS, "rebuttal": REBUTTAL_SETS},
         "verdicts": VERDICTS, "groups": GROUP, "targets": TARGETS, "stances": STANCES, "modes": MODES,
+        "study_verdicts": STUDY_VERDICTS,
         "totals": {
             "notes": len(notes), "skeptic_notes": len(skeptic), "rebuttal_notes": len(rebuttal),
             "articles": len({n["article"] for n in notes}),
             "studies": len(studies), "studies_stand": stands,
+            "studies_assessed": sum(1 for s in studies if s["group"] != "unassessed"),
             "studies_damaged": sum(1 for s in studies if s["group"] == "damaged"),
             "by_set": {s: sum(1 for n in notes if n["set"] == s) for s in SETS},
             "skeptic_groups": counter_dict(collections.Counter(GROUP[n["verdict"]] for n in skeptic),
@@ -399,10 +506,11 @@ def main():
     with open(SUMMARY, "w", encoding="utf-8") as f:
         json.dump(summary, f, ensure_ascii=False, indent=1)
     write_index_bars(study_fate)
-    write_toc_pies(studies)
+    write_toc_pies(studies, cites, note_by_key)
     t = summary["totals"]
     print(f"{t['notes']} notes ({t['skeptic_notes']} skeptic, {t['rebuttal_notes']} rebuttal) in {t['articles']} articles")
-    print(f"{t['studies']} distinct cited studies: {stands} stand, {t['studies_damaged']} damaged")
+    print(f"{t['studies']} distinct cited studies ({t['studies_assessed']} assessed): "
+          f"{stands} stand, {t['studies_damaged']} damaged")
     print(f"{len(pairs)} rebuttal pairs, {len(sharp)} sharp disagreements, "
           f"{rebuttal_agreement['n']} Fable notes answered by both rebuttal sets")
     print(f"wrote {os.path.relpath(SUMMARY, ROOT)}")

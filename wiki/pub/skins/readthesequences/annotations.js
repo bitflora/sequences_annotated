@@ -340,9 +340,9 @@
         if (!enabled.length) {
             var wikitext = document.getElementById('wikitext');
             if (wikitext) clear(wikitext);
-            return;
+            return Promise.resolve();
         }
-        Promise.all(enabled.map(function (s) { return fetchJson(s.file); })).then(function (results) {
+        return Promise.all(enabled.map(function (s) { return fetchJson(s.file); })).then(function (results) {
             var merged = [];
             results.forEach(function (list, i) {
                 if (!list) return;
@@ -376,6 +376,7 @@
 
             var cb = document.createElement('input');
             cb.type = 'checkbox';
+            cb.dataset.set = s.id;
             cb.checked = isEnabled(s, prefs);
             cb.addEventListener('change', function () {
                 prefs[s.id] = cb.checked;
@@ -408,6 +409,45 @@
         loadAndRender(sets, prefs);
         if (sets.length) {
             buildToggleUi(sets, prefs, function () { loadAndRender(sets, prefs); });
+        }
+        initStudyLinks(sets, prefs);
+    }
+
+    // The cited-study list under the title links each study to the notes that assess it
+    // (a.study-note, data-set = the note's set). A note in a set the reader has switched
+    // off is switched on first, as if its box had been ticked.
+    function initStudyLinks(sets, prefs) {
+        document.addEventListener('click', function (e) {
+            var a = e.target.closest('a.study-note');
+            if (!a) return;
+            e.preventDefault();
+            var id = a.getAttribute('href').slice(1);
+            var ready = Promise.resolve();
+            if (!document.getElementById(id)) {
+                prefs[a.dataset.set] = true;
+                savePrefs(prefs);
+                var cb = document.querySelector('.annotation-toggle-row input[data-set="' + a.dataset.set + '"]');
+                if (cb) cb.checked = true;
+                ready = loadAndRender(sets, prefs);
+            }
+            ready.then(function () { showNote(id); });
+        });
+    }
+
+    function showNote(id) {
+        var ref = document.getElementById(id + '-ref');
+        var note = document.getElementById(id);
+        if (NARROW.matches) {
+            if (ref) openGroup(groupSpans(spanForRef(ref)), false);
+            return;
+        }
+        var target = ref || note;
+        if (!target) return;
+        target.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        if (note) {
+            note.classList.remove('annotation-flash');
+            void note.offsetWidth;
+            note.classList.add('annotation-flash');
         }
     }
 

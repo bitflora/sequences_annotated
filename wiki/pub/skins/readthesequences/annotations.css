@@ -60,6 +60,15 @@ sup.annotation-ref a:hover {
     right: 20px;
 }
 
+/* Brief highlight when a note is reached from the cited-study list under the title */
+.margin-note.annotation-flash {
+    animation: annotation-flash 1.6s ease-out;
+}
+@keyframes annotation-flash {
+    0%, 30% { background: rgba(212, 160, 32, 0.22); }
+    100% { background: transparent; }
+}
+
 .margin-note-number {
     font-weight: 700;
     color: #b06000;

@@ -13,13 +13,15 @@
 		/* Per-book cited-study bars, written by scripts/build_findings.py. The skin's
 		   dark mode inverts body>*, so the bars invert back and use dark tokens. */
 		.book-studies { --st-stands: #1c5cab; --st-open: #b8b6ae; --st-damaged: #e34948; --st-ink: #52514e;
+			--st-unassessed: repeating-linear-gradient(135deg, #c9c7bf 0 2px, #ebe9e2 2px 4px);
 			display: block; width: 320px; max-width: 100%; margin: -0.35em auto 1.1em; text-decoration: none; }
 		.main_toc a.book-studies:hover { text-shadow: none; }
 		.book-studies .bar { display: flex; height: 6px; border-radius: 3px; overflow: hidden; gap: 2px; }
 		.book-studies .bar span { display: block; }
 		.book-studies .cap { display: block; margin-top: 3px; text-align: center; hyphens: none; font-size: 12px; line-height: 1.3; color: var(--st-ink); font-variant: normal; }
 		@media (prefers-color-scheme: dark) {
-			.book-studies { filter: invert(100%); --st-stands: #86b6ef; --st-open: #6b6a64; --st-damaged: #cc4443; --st-ink: #c3c2b7; }
+			.book-studies { filter: invert(100%); --st-stands: #86b6ef; --st-open: #6b6a64; --st-damaged: #cc4443; --st-ink: #c3c2b7;
+				--st-unassessed: repeating-linear-gradient(135deg, #4a4944 0 2px, #2c2b28 2px 4px); }
 		}
 	</style>
 </head>
@@ -50,22 +52,22 @@
 		</p>
 		<p><a href='Book-I-MapAndTerritory.html'><span style='font-size:83%'>Book I</span><br clear='all' /><span class='smallcaps'>Map and Territory</span></a>
 		</p>
-		<!-- studies:I --><a class="book-studies" href="Findings.html" title="Cited studies in Book I"><span class="bar" role="img" aria-label="12 of 21 cited studies hold up, 8 damaged, 1 contested"><span style="flex:12;background:var(--st-stands)"></span><span style="flex:1;background:var(--st-open)"></span><span style="flex:8;background:var(--st-damaged)"></span></span><span class="cap">12 of 21 cited studies hold up</span><span class="cap">8 damaged · 1 contested</span></a><!-- /studies:I -->
+		<!-- studies:I --><a class="book-studies" href="Findings.html" title="Cited studies in Book I"><span class="bar" role="img" aria-label="10 of 22 cited studies hold up, 7 damaged, 1 contested, 4 not assessed"><span style="flex:10;background:var(--st-stands)"></span><span style="flex:1;background:var(--st-open)"></span><span style="flex:7;background:var(--st-damaged)"></span><span style="flex:4;background:var(--st-unassessed)"></span></span><span class="cap">10 of 22 cited studies hold up</span><span class="cap">7 damaged · 1 contested · 4 not assessed</span></a><!-- /studies:I -->
 		<p><a href='Book-II-HowToActuallyChangeYourMind.html'><span style='font-size:83%'>Book II</span><br clear='all' /><span class='smallcaps'>How to Actually Change Your Mind</span></a>
 		</p>
-		<!-- studies:II --><a class="book-studies" href="Findings.html" title="Cited studies in Book II"><span class="bar" role="img" aria-label="16 of 42 cited studies hold up, 22 damaged, 4 contested"><span style="flex:16;background:var(--st-stands)"></span><span style="flex:4;background:var(--st-open)"></span><span style="flex:22;background:var(--st-damaged)"></span></span><span class="cap">16 of 42 cited studies hold up</span><span class="cap">22 damaged · 4 contested</span></a><!-- /studies:II -->
+		<!-- studies:II --><a class="book-studies" href="Findings.html" title="Cited studies in Book II"><span class="bar" role="img" aria-label="10 of 37 cited studies hold up, 15 damaged, 5 contested, 7 not assessed"><span style="flex:10;background:var(--st-stands)"></span><span style="flex:5;background:var(--st-open)"></span><span style="flex:15;background:var(--st-damaged)"></span><span style="flex:7;background:var(--st-unassessed)"></span></span><span class="cap">10 of 37 cited studies hold up</span><span class="cap">15 damaged · 5 contested · 7 not assessed</span></a><!-- /studies:II -->
 		<p><a href='Book-III-TheMachineInTheGhost.html'><span style='font-size:83%'>Book III</span><br clear='all' /><span class='smallcaps'>The Machine in the Ghost</span></a>
 		</p>
-		<!-- studies:III --><a class="book-studies" href="Findings.html" title="Cited studies in Book III"><span class="bar" role="img" aria-label="8 of 17 cited studies hold up, 7 damaged, 2 contested"><span style="flex:8;background:var(--st-stands)"></span><span style="flex:2;background:var(--st-open)"></span><span style="flex:7;background:var(--st-damaged)"></span></span><span class="cap">8 of 17 cited studies hold up</span><span class="cap">7 damaged · 2 contested</span></a><!-- /studies:III -->
+		<!-- studies:III --><a class="book-studies" href="Findings.html" title="Cited studies in Book III"><span class="bar" role="img" aria-label="2 of 10 cited studies hold up, 6 damaged, 2 contested"><span style="flex:2;background:var(--st-stands)"></span><span style="flex:2;background:var(--st-open)"></span><span style="flex:6;background:var(--st-damaged)"></span></span><span class="cap">2 of 10 cited studies hold up</span><span class="cap">6 damaged · 2 contested</span></a><!-- /studies:III -->
 		<p><a href='Book-IV-MereReality.html'><span style='font-size:83%'>Book IV</span><br clear='all' /><span class='smallcaps'>Mere Reality</span></a>
 		</p>
-		<!-- studies:IV --><a class="book-studies" href="Findings.html" title="Cited studies in Book IV"><span class="bar" role="img" aria-label="10 of 16 cited studies hold up, 6 damaged"><span style="flex:10;background:var(--st-stands)"></span><span style="flex:6;background:var(--st-damaged)"></span></span><span class="cap">10 of 16 cited studies hold up</span><span class="cap">6 damaged</span></a><!-- /studies:IV -->
+		<!-- studies:IV --><a class="book-studies" href="Findings.html" title="Cited studies in Book IV"><span class="bar" role="img" aria-label="1 of 6 cited studies hold up, 4 damaged, 1 not assessed"><span style="flex:1;background:var(--st-stands)"></span><span style="flex:4;background:var(--st-damaged)"></span><span style="flex:1;background:var(--st-unassessed)"></span></span><span class="cap">1 of 6 cited studies hold up</span><span class="cap">4 damaged · 1 not assessed</span></a><!-- /studies:IV -->
 		<p><a href='Book-V-MereGoodness.html'><span style='font-size:83%'>Book V</span><br clear='all' /><span class='smallcaps'>Mere Goodness</span></a>
 		</p>
-		<!-- studies:V --><a class="book-studies" href="Findings.html" title="Cited studies in Book V"><span class="bar" role="img" aria-label="4 of 13 cited studies hold up, 7 damaged, 2 contested"><span style="flex:4;background:var(--st-stands)"></span><span style="flex:2;background:var(--st-open)"></span><span style="flex:7;background:var(--st-damaged)"></span></span><span class="cap">4 of 13 cited studies hold up</span><span class="cap">7 damaged · 2 contested</span></a><!-- /studies:V -->
+		<!-- studies:V --><a class="book-studies" href="Findings.html" title="Cited studies in Book V"><span class="bar" role="img" aria-label="0 of 11 cited studies hold up, 5 damaged, 2 contested, 4 not assessed"><span style="flex:2;background:var(--st-open)"></span><span style="flex:5;background:var(--st-damaged)"></span><span style="flex:4;background:var(--st-unassessed)"></span></span><span class="cap">0 of 11 cited studies hold up</span><span class="cap">5 damaged · 2 contested · 4 not assessed</span></a><!-- /studies:V -->
 		<p><a href='Book-VI-BecomingStronger.html'><span style='font-size:83%'>Book VI</span><br clear='all' /><span class='smallcaps'>Becoming Stronger</span></a>
 		</p>
-		<!-- studies:VI --><a class="book-studies" href="Findings.html" title="Cited studies in Book VI"><span class="bar" role="img" aria-label="2 of 15 cited studies hold up, 12 damaged, 1 contested"><span style="flex:2;background:var(--st-stands)"></span><span style="flex:1;background:var(--st-open)"></span><span style="flex:12;background:var(--st-damaged)"></span></span><span class="cap">2 of 15 cited studies hold up</span><span class="cap">12 damaged · 1 contested</span></a><!-- /studies:VI -->
+		<!-- studies:VI --><a class="book-studies" href="Findings.html" title="Cited studies in Book VI"><span class="bar" role="img" aria-label="2 of 5 cited studies hold up, 2 damaged, 1 not assessed"><span style="flex:2;background:var(--st-stands)"></span><span style="flex:2;background:var(--st-damaged)"></span><span style="flex:1;background:var(--st-unassessed)"></span></span><span class="cap">2 of 5 cited studies hold up</span><span class="cap">2 damaged · 1 not assessed</span></a><!-- /studies:VI -->
 		<p><span class='smallcaps'><span style='font-size:83%'><a href='Bibliography.html'>Bibliography</a></span></span>
 		</p>
 		<p><span class='smallcaps'><span style='font-size:83%'><a href='Glossary.html'>Glossary</a></span></span>

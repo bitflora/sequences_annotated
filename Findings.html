@@ -26,6 +26,7 @@
 			--v-failed_replication: #e34948;
 			--v-retracted_or_fraud: #b52e2e;
 			--v-false_or_misattributed: #7c1d1d;
+			--v-unassessed: repeating-linear-gradient(135deg, #c9c7bf 0 2px, #ebe9e2 2px 4px);
 			--s-concedes: #e34948;
 			--s-partly_concedes: #b8b6ae;
 			--s-contests: #1c5cab;
@@ -56,6 +57,7 @@
 				--v-failed_replication: #cc4443;
 				--v-retracted_or_fraud: #e66767;
 				--v-false_or_misattributed: #f4a8a3;
+				--v-unassessed: repeating-linear-gradient(135deg, #4a4944 0 2px, #2c2b28 2px 4px);
 				--s-concedes: #e66767;
 				--s-partly_concedes: #6b6a64;
 				--s-contests: #86b6ef;
@@ -187,7 +189,7 @@
 
 <h2>The cited studies</h2>
 
-<p>The most objective question the notes can answer is whether the research the essays lean on still stands. Each study below is counted once, however many notes discuss it. When several notes disagree, the study takes the verdict most of them give.</p>
+<p>The most objective question the notes can answer is whether the research the essays lean on still stands. Only studies the essays themselves cite are counted, in a footnote or by name in the text; studies that the notes bring in to argue against an essay are not. Each study is counted once, however many notes discuss it. When several notes disagree, the study takes the verdict most of them give. A study an essay cites that no note examines is shown as not assessed.</p>
 
 <div class="viz" id="study-fate"></div>
 
@@ -235,7 +237,7 @@
 
 <h2 id="method">Method</h2>
 
-<p>Each note in the seven current sets was read in full by a Claude model working from a fixed rubric. The model recorded what the note is about (a cited study, an unsourced empirical claim, a historical fact, an attribution, an AI prediction, the argument itself, or uncredited prior work). It also recorded the note's verdict on the essay's claim, the short name of the study if there was one, and a one-line summary. For rebuttal notes it recorded whether the reply concedes, partly concedes or contests the Fable note, and the reply's main device. The classifications are in <code>analysis/findings.jsonl</code>. <code>scripts/build_findings.py</code> checks them against the annotation files and computes everything on this page.</p>
+<p>Each note in the seven current sets was read in full by a Claude model working from a fixed rubric. The model recorded what the note is about (a cited study, an unsourced empirical claim, a historical fact, an attribution, an AI prediction, the argument itself, or uncredited prior work). It also recorded the note's verdict on the essay's claim, the short name of the study if there was one, and a one-line summary. The studies on this page are a separate list, <code>analysis/essay-studies.jsonl</code>: every study an essay cites in a footnote or names in its text, with the notes that assess it and each note's verdict on that study. For rebuttal notes it recorded whether the reply concedes, partly concedes or contests the Fable note, and the reply's main device. The classifications are in <code>analysis/findings.jsonl</code>. <code>scripts/build_findings.py</code> checks them against the annotation files and computes everything on this page.</p>
 
 <p>These are the annotators' verdicts, not independent ones. A note that calls a study "weakened" is counted as weakened, even if another reader would weigh the evidence differently. The numbers measure what the annotation passes concluded. They are not a ruling on the essays. Studies are matched by name, so the same study written two different ways can appear twice. The classification was done by a model and will contain some errors, but the totals should be stable to within a few points.</p>
 
@@ -252,7 +254,7 @@
 		holds: "Holds", holds_qualified: "Holds, qualified", contested: "Contested",
 		unfalsifiable_or_na: "No empirical verdict", weakened: "Weakened",
 		failed_replication: "Failed replication", retracted_or_fraud: "Retracted / compromised",
-		false_or_misattributed: "False or misattributed"
+		false_or_misattributed: "False or misattributed", unassessed: "Not assessed"
 	};
 	var TARGET_LABEL = {
 		cited_study: "Cited study", empirical_claim: "Unsourced empirical claim", historical_fact: "Historical fact",
@@ -419,9 +421,9 @@
 		[
 			["Margin notes", T.notes.toLocaleString(), T.skeptic_notes.toLocaleString() + " skeptical · " + T.rebuttal_notes.toLocaleString() + " rebuttal"],
 			["Essays annotated", String(T.articles), "across six books"],
-			["Distinct cited studies judged", String(T.studies), "each counted once"],
-			["Cited studies that stand", pct(T.studies_stand, T.studies), T.studies_stand + " hold, some with qualifications"],
-			["Cited studies damaged", pct(T.studies_damaged, T.studies), "weakened, failed, retracted, or misreported"],
+			["Studies the essays cite", String(T.studies), T.studies_assessed + " assessed by a note"],
+			["Assessed studies that stand", pct(T.studies_stand, T.studies_assessed), T.studies_stand + " hold, some with qualifications"],
+			["Assessed studies damaged", pct(T.studies_damaged, T.studies_assessed), "weakened, failed, retracted, or misreported"],
 			["Skeptical notes finding damage", pct(T.skeptic_groups.damaged, T.skeptic_notes), "of every kind of claim"]
 		].forEach(function (t) {
 			var c = el("div", "tile");
@@ -439,7 +441,7 @@
 		["I", "II", "III", "IV", "V", "VI"].forEach(function (b) {
 			if (sum(d.study_fate[b])) rows.push({ label: "Book " + b, sub: BOOK_TITLE[b], counts: d.study_fate[b] });
 		});
-		stackedBars(sf, rows, V, VERDICT_LABEL, vColor, "studies");
+		stackedBars(sf, rows, d.study_verdicts, VERDICT_LABEL, vColor, "studies");
 
 		renderStudyTable(d);
 
@@ -478,14 +480,14 @@
 
 	function renderStudyTable(d) {
 		var root = document.getElementById("study-table");
-		header(root, "Every cited study", d.studies.length + " studies. The verdict column is the majority verdict; the last column lists each note.");
+		header(root, "Every cited study", d.studies.length + " studies the essays cite. The verdict column is the majority verdict; the last column lists each note that assesses the study.");
 		var controls = el("div", "controls");
 		var q = el("input"); q.type = "search"; q.placeholder = "Filter by study or essay"; q.setAttribute("aria-label", "Filter studies");
 		var book = el("select"); book.setAttribute("aria-label", "Book");
 		[["", "All books"], ["I", "Book I"], ["II", "Book II"], ["III", "Book III"], ["IV", "Book IV"], ["V", "Book V"], ["VI", "Book VI"]]
 			.forEach(function (o) { var op = el("option", null, o[1]); op.value = o[0]; book.appendChild(op); });
 		var grp = el("select"); grp.setAttribute("aria-label", "Verdict");
-		[["", "All verdicts"], ["stands", "Stands"], ["open", "Open"], ["damaged", "Damaged"], ["conflict", "Sets disagree"]]
+		[["", "All verdicts"], ["stands", "Stands"], ["open", "Open"], ["damaged", "Damaged"], ["unassessed", "Not assessed"], ["conflict", "Sets disagree"]]
 			.forEach(function (o) { var op = el("option", null, o[1]); op.value = o[0]; grp.appendChild(op); });
 		controls.appendChild(q); controls.appendChild(book); controls.appendChild(grp);
 		root.appendChild(controls);
@@ -515,11 +517,12 @@
 				if (grp.value === "conflict" ? !s.conflict : grp.value && s.group !== grp.value) return false;
 				if (!needle) return true;
 				return s.source.toLowerCase().indexOf(needle) >= 0 ||
-					s.notes.some(function (n) { return n.title.toLowerCase().indexOf(needle) >= 0 || n.gist.toLowerCase().indexOf(needle) >= 0; });
+					s.cited_in.some(function (c) { return c.title.toLowerCase().indexOf(needle) >= 0; }) ||
+					s.notes.some(function (n) { return n.gist.toLowerCase().indexOf(needle) >= 0; });
 			});
 			list.sort(function (a, b) {
 				var x, y;
-				if (sortKey === "verdict") { x = d.verdicts.indexOf(a.verdict); y = d.verdicts.indexOf(b.verdict); }
+				if (sortKey === "verdict") { x = d.study_verdicts.indexOf(a.verdict); y = d.study_verdicts.indexOf(b.verdict); }
 				else if (sortKey === "notes") { x = a.notes.length; y = b.notes.length; }
 				else if (sortKey === "books") { x = a.books.join(); y = b.books.join(); }
 				else { x = a.source.toLowerCase(); y = b.source.toLowerCase(); }
@@ -529,6 +532,12 @@
 			list.forEach(function (s) {
 				var tr = el("tr");
 				var name = el("td"); name.appendChild(el("div", null, s.source));
+				var ci = el("div", "muted", "Cited in "); ci.style.fontSize = "11px";
+				s.cited_in.forEach(function (c, i) {
+					if (i) ci.appendChild(document.createTextNode(", "));
+					ci.appendChild(articleLink(c.article, c.title));
+				});
+				name.appendChild(ci);
 				if (s.conflict) { var cf = el("div", "muted", "sets disagree"); cf.style.fontSize = "11px"; name.appendChild(cf); }
 				tr.appendChild(name);
 				var v = el("td"); v.appendChild(chip(s.verdict, VERDICT_LABEL, vColor)); tr.appendChild(v);
@@ -542,6 +551,7 @@
 					line.appendChild(el("div", "gist", n.gist));
 					sv.appendChild(line);
 				});
+				if (!s.notes.length) sv.appendChild(el("div", "muted", "No note assesses it."));
 				nd.appendChild(sv); tr.appendChild(nd);
 				tbody.appendChild(tr);
 			});

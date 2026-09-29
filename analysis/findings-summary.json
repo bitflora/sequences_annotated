@@ -56,14 +56,26 @@
   "reread",
   "concession_only"
  ],
+ "study_verdicts": [
+  "holds",
+  "holds_qualified",
+  "contested",
+  "unfalsifiable_or_na",
+  "weakened",
+  "failed_replication",
+  "retracted_or_fraud",
+  "false_or_misattributed",
+  "unassessed"
+ ],
  "totals": {
   "notes": 2203,
   "skeptic_notes": 1648,
   "rebuttal_notes": 555,
   "articles": 338,
-  "studies": 115,
-  "studies_stand": 51,
-  "studies_damaged": 55,
+  "studies": 90,
+  "studies_stand": 25,
+  "studies_assessed": 73,
+  "studies_damaged": 38,
   "by_set": {
    "opus": 187,
    "OpusOld": 252,
@@ -81,181 +93,167 @@
  },
  "study_fate": {
   "all": {
-   "holds": 8,
-   "holds_qualified": 43,
-   "contested": 9,
+   "holds": 7,
+   "holds_qualified": 18,
+   "contested": 10,
    "unfalsifiable_or_na": 0,
-   "weakened": 35,
-   "failed_replication": 8,
-   "retracted_or_fraud": 3,
-   "false_or_misattributed": 9
+   "weakened": 36,
+   "failed_replication": 0,
+   "retracted_or_fraud": 0,
+   "false_or_misattributed": 2,
+   "unassessed": 17
   },
   "I": {
-   "holds": 2,
-   "holds_qualified": 10,
+   "holds": 1,
+   "holds_qualified": 9,
    "contested": 1,
    "unfalsifiable_or_na": 0,
    "weakened": 7,
    "failed_replication": 0,
    "retracted_or_fraud": 0,
-   "false_or_misattributed": 1
+   "false_or_misattributed": 0,
+   "unassessed": 4
   },
   "II": {
-   "holds": 1,
-   "holds_qualified": 15,
-   "contested": 4,
+   "holds": 3,
+   "holds_qualified": 7,
+   "contested": 5,
    "unfalsifiable_or_na": 0,
-   "weakened": 11,
-   "failed_replication": 5,
-   "retracted_or_fraud": 3,
-   "false_or_misattributed": 3
+   "weakened": 15,
+   "failed_replication": 0,
+   "retracted_or_fraud": 0,
+   "false_or_misattributed": 0,
+   "unassessed": 7
   },
   "III": {
    "holds": 2,
-   "holds_qualified": 6,
-   "contested": 2,
-   "unfalsifiable_or_na": 0,
-   "weakened": 3,
-   "failed_replication": 2,
-   "retracted_or_fraud": 0,
-   "false_or_misattributed": 2
-  },
-  "IV": {
-   "holds": 2,
-   "holds_qualified": 8,
-   "contested": 0,
-   "unfalsifiable_or_na": 0,
-   "weakened": 4,
-   "failed_replication": 2,
-   "retracted_or_fraud": 0,
-   "false_or_misattributed": 0
-  },
-  "V": {
-   "holds": 1,
-   "holds_qualified": 3,
+   "holds_qualified": 0,
    "contested": 2,
    "unfalsifiable_or_na": 0,
    "weakened": 5,
    "failed_replication": 0,
    "retracted_or_fraud": 0,
-   "false_or_misattributed": 2
+   "false_or_misattributed": 1,
+   "unassessed": 0
+  },
+  "IV": {
+   "holds": 0,
+   "holds_qualified": 1,
+   "contested": 0,
+   "unfalsifiable_or_na": 0,
+   "weakened": 4,
+   "failed_replication": 0,
+   "retracted_or_fraud": 0,
+   "false_or_misattributed": 0,
+   "unassessed": 1
+  },
+  "V": {
+   "holds": 0,
+   "holds_qualified": 0,
+   "contested": 2,
+   "unfalsifiable_or_na": 0,
+   "weakened": 4,
+   "failed_replication": 0,
+   "retracted_or_fraud": 0,
+   "false_or_misattributed": 1,
+   "unassessed": 4
   },
   "VI": {
-   "holds": 0,
-   "holds_qualified": 2,
-   "contested": 1,
+   "holds": 1,
+   "holds_qualified": 1,
+   "contested": 0,
    "unfalsifiable_or_na": 0,
-   "weakened": 8,
-   "failed_replication": 2,
+   "weakened": 2,
+   "failed_replication": 0,
    "retracted_or_fraud": 0,
-   "false_or_misattributed": 2
+   "false_or_misattributed": 0,
+   "unassessed": 1
   }
  },
  "studies": [
   {
-   "source": "Boyer & Ramble 2001",
+   "source": "Bourget & Chalmers 2014",
    "verdict": "holds",
    "group": "stands",
    "books": [
-    "IV"
+    "VI"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "BeginningsAnIntroduction",
+     "title": "Beginnings: An Introduction",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
-     "set": "fable",
+     "set": "Opus5_5",
+     "id": 2,
      "verdict": "holds",
-     "gist": "Minimal counterintuitiveness has experimental support; many-worlds itself is minimally counterintuitive.",
-     "article": "LivingInManyWorlds",
-     "title": "Living in Many Worlds"
+     "gist": "Intro honestly admits one-boxing is a minority view; rest of corpus treats it as settled.",
+     "article": "BeginningsAnIntroduction",
+     "title": "Beginnings: An Introduction"
     }
    ]
   },
   {
-   "source": "Fischhoff 1975",
-   "verdict": "holds",
-   "group": "stands",
-   "books": [
-    "I"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds",
-     "gist": "Hindsight bias is robust; Guilbault et al. meta-analysis confirms a reliable moderate effect.",
-     "article": "FakeCausality",
-     "title": "Fake Causality"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds",
-     "gist": "Hindsight bias is one of the most robust findings and has weathered the replication crisis.",
-     "article": "HindsightDevaluesScience",
-     "title": "Hindsight Devalues Science"
-    },
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Hindsight bias is real and replicable but small (r≈.17), not 'much higher'.",
-     "article": "HindsightDevaluesScience",
-     "title": "Hindsight Devalues Science"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Hindsight bias is robust, but consider-the-alternative partly reduces it; 'can't de-interpret' overstates.",
-     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
-     "title": "Illusion of Transparency: Why No One Understands You"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Hindsight bias robust, but resistant to debiasing by willful remembering.",
-     "article": "Making-History-Available",
-     "title": "Making History Available"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds",
-     "gist": "Hindsight bias invoked implicitly is well replicated (Guilbault et al. 2004 meta-analysis).",
-     "article": "TheFutilityOfEmergence",
-     "title": "The Futility of Emergence"
-    }
-   ]
-  },
-  {
-   "source": "Gick & Holyoak 1980",
-   "verdict": "holds",
-   "group": "stands",
-   "books": [
-    "I"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds",
-     "gist": "Weak spontaneous far transfer is robust across decades and survived the replication crisis.",
-     "article": "FocusYourUncertainty",
-     "title": "Focus Your Uncertainty"
-    }
-   ]
-  },
-  {
-   "source": "Meyer & Schvaneveldt 1971",
+   "source": "Hsee 1996",
    "verdict": "holds",
    "group": "stands",
    "books": [
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "holds",
-     "gist": "Lexical semantic priming is robust; the problem is extending it to social and behavioral priming.",
-     "article": "Priming-And-Contamination",
-     "title": "Priming and Contamination"
+     "gist": "Evaluability hypothesis robust, but reversal needs hard-to-evaluate attributes and fades with reference standards or expertise.",
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)"
+    }
+   ]
+  },
+  {
+   "source": "Kahneman, Schkade & Sunstein 1998",
+   "verdict": "holds",
+   "group": "stands",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Unbounded-Scales-Huge-Jury-Awards-And-Futurism",
+     "title": "Unbounded Scales, Huge Jury Awards, and Futurism",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Strong study, but individual ratings, not deliberating juries, which shift and polarize awards.",
+     "article": "Unbounded-Scales-Huge-Jury-Awards-And-Futurism",
+     "title": "Unbounded Scales, Huge Jury Awards, and Futurism"
+    },
+    {
+     "set": "fable",
+     "id": 2,
+     "verdict": "holds",
+     "gist": "Doubling loudness needs about tenfold power, not eightfold; wrong psychophysics number.",
+     "article": "Unbounded-Scales-Huge-Jury-Awards-And-Futurism",
+     "title": "Unbounded Scales, Huge Jury Awards, and Futurism"
     }
    ]
   },
@@ -267,9 +265,17 @@
     "III"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "TypicalityAndAsymmetricalSimilarity",
+     "title": "Typicality and Asymmetrical Similarity",
+     "footnote": 5
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "holds",
      "gist": "Asymmetric category-based induction confirmed and formalized by Osherson et al. 1990.",
      "article": "TypicalityAndAsymmetricalSimilarity",
@@ -277,6 +283,7 @@
     },
     {
      "set": "fable",
+     "id": 2,
      "verdict": "holds_qualified",
      "gist": "Rips's asymmetry real, but induction depends on property and knowledge; similarity is a novice strategy.",
      "article": "TypicalityAndAsymmetricalSimilarity",
@@ -285,34 +292,63 @@
    ]
   },
   {
-   "source": "Stanley et al. 1999",
+   "source": "Slovic et al. 2002",
    "verdict": "holds",
    "group": "stands",
    "books": [
-    "IV"
+    "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)",
+     "footnote": 3
+    },
+    {
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "holds",
-     "gist": "Cat LGN reconstruction is accurate; later human fMRI decoding goes further.",
-     "article": "ZombiesZombies",
-     "title": "Zombies! Zombies?"
+     "gist": "Preference-reversal demonstration is solid, though reversals shrink with learning and markets and require separate evaluation.",
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)"
+    },
+    {
+     "set": "fable",
+     "id": 2,
+     "verdict": "holds",
+     "gist": "Adding a small loss raises gamble attractiveness replicated (Bateman 2007); AI joke aged badly.",
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)"
     }
    ]
   },
   {
-   "source": "Tversky 1977",
+   "source": "Tversky & Gati 1978",
    "verdict": "holds",
    "group": "stands",
    "books": [
     "III"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "TypicalityAndAsymmetricalSimilarity",
+     "title": "Typicality and Asymmetrical Similarity",
+     "footnote": 4
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "holds",
      "gist": "Asymmetric similarity is genuine and replicated, as the contrast model predicts.",
      "article": "TypicalityAndAsymmetricalSimilarity",
@@ -321,146 +357,140 @@
    ]
   },
   {
-   "source": "Wilkinson 1984",
+   "source": "Tversky & Kahneman 1982",
    "verdict": "holds",
-   "group": "stands",
-   "books": [
-    "V"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "opus",
-     "verdict": "holds",
-     "gist": "Vampire bat reciprocity holds; received help predicts donations more than relatedness (Carter & Wilkinson 2013).",
-     "article": "SympatheticMinds",
-     "title": "Sympathetic Minds"
-    }
-   ]
-  },
-  {
-   "source": "Allais 1953",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "V"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "opus",
-     "verdict": "holds_qualified",
-     "gist": "Allais violation rates vary with stakes and population; 'a majority' reflects particular high-hypothetical designs.",
-     "article": "TheAllaisParadox",
-     "title": "The Allais Paradox"
-    }
-   ]
-  },
-  {
-   "source": "Aronson & Mills 1959",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "IV"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "No fraternity study; effort justification is small and uncertain; wine-price finding replicated.",
-     "article": "JoyInDiscovery",
-     "title": "Joy in Discovery"
-    }
-   ]
-  },
-  {
-   "source": "Asch 1951",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Three-quarters conformed once, but most trial responses were independent; headline oversells conformity.",
-     "article": "AschsConformityExperiment",
-     "title": "Asch’s Conformity Experiment"
-    }
-   ]
-  },
-  {
-   "source": "Baratz 1983",
-   "verdict": "holds_qualified",
    "group": "stands",
    "books": [
     "I"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "BurdensomeDetails",
+     "title": "Burdensome Details",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Unpublished dissertation is weak, but conclusion matches robust hindsight-bias literature.",
-     "article": "HindsightDevaluesScience",
-     "title": "Hindsight Devalues Science"
+     "id": 4,
+     "verdict": "holds",
+     "gist": "Blanket factor-of-four penalty on conjunctions ignores conditional dependence and creates new errors.",
+     "article": "BurdensomeDetails",
+     "title": "Burdensome Details"
     }
    ]
   },
   {
-   "source": "Brown 1991",
+   "source": "Ashmore, Ramchandra & Jones 1971",
    "verdict": "holds_qualified",
    "group": "stands",
    "books": [
     "IV"
    ],
    "conflict": false,
-   "notes": [
+   "cited_in": [
     {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Brown's universals mix trivial near-universals; ethnographic presence doesn't show innateness; some held (music), emotions didn't.",
-     "article": "SavannahPoets",
-     "title": "Savannah Poets"
+     "article": "Scarcity",
+     "title": "Scarcity",
+     "footnote": 4
     }
-   ]
-  },
-  {
-   "source": "Cialdini 1984",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "IV"
    ],
-   "conflict": false,
    "notes": [
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "holds_qualified",
-     "gist": "Scarcity principle survives, but Cialdini's dramatic magnitudes are illustrations, not stable effect sizes.",
+     "gist": "Censorship reactance is real but moderated by censor legitimacy; can shrink or reverse.",
      "article": "Scarcity",
      "title": "Scarcity"
     }
    ]
   },
   {
-   "source": "Dawes 1988",
+   "source": "Buehler, Griffin & Ross 1994",
    "verdict": "holds_qualified",
    "group": "stands",
    "books": [
     "I"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "PlanningFallacy",
+     "title": "Planning Fallacy",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "holds_qualified",
-     "gist": "Warren anecdote fits unfalsifiable-hypothesis error; confirmation bias is nuanced per Klayman & Ha.",
-     "article": "AbsenceOfEvidenceIsEvidenceOfAbsence",
-     "title": "Absence of Evidence Is Evidence of Absence"
+     "gist": "Result reproduces qualitatively, but meta-analysis shows direction and size vary; some tasks show overestimation.",
+     "article": "PlanningFallacy",
+     "title": "Planning Fallacy"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Detailed planning makes forecasts optimistic but speeds completion (implementation intentions); essay conflates prediction and performance.",
+     "article": "PlanningFallacy",
+     "title": "Planning Fallacy"
+    }
+   ]
+  },
+  {
+   "source": "Buehler, Griffin & Ross 2002",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "I"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "PlanningFallacy",
+     "title": "Planning Fallacy",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 4,
+     "verdict": "holds_qualified",
+     "gist": "Outside view has real support, but reference-class choice is hard and debiasing effects modest.",
+     "article": "PlanningFallacy",
+     "title": "Planning Fallacy"
+    }
+   ]
+  },
+  {
+   "source": "Combs & Slovic 1979",
+   "verdict": "holds_qualified",
+   "group": "stands",
+   "books": [
+    "I"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Availability",
+     "title": "Availability",
+     "footnote": 2
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 3,
+     "verdict": "holds_qualified",
+     "gist": "Tracking media coverage is rational updating on available data; the problem is the environment, not a bias.",
+     "article": "Availability",
+     "title": "Availability"
     }
    ]
   },
@@ -472,9 +502,17 @@
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic",
+     "footnote": 4
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "holds_qualified",
      "gist": "Ratio bias replicates well, but denominator neglect is a numeracy mechanism distinct from affect.",
      "article": "TheAffectHeuristic",
@@ -482,28 +520,11 @@
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "holds_qualified",
      "gist": "Ratio bias real but cost three cents and is moderated by numeracy; not the whole planet.",
      "article": "TheAffectHeuristic",
      "title": "The Affect Heuristic"
-    }
-   ]
-  },
-  {
-   "source": "Feldman & Ballard 1982",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Hundred-step rule is a rough heuristic; 'cognition is mostly cache lookups' is metaphor, not a result.",
-     "article": "CachedThoughts",
-     "title": "Cached Thoughts"
     }
    ]
   },
@@ -515,67 +536,63 @@
     "VI"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "BeginningsAnIntroduction",
+     "title": "Beginnings: An Introduction",
+     "footnote": 12
+    }
+   ],
    "notes": [
     {
      "set": "SkepticAstra",
+     "id": 3,
      "verdict": "holds_qualified",
      "gist": "Statistical training shows some transfer in defined domains; not broad universal improvement.",
+     "article": "BeginningsAnIntroduction",
+     "title": "Beginnings: An Introduction"
+    },
+    {
+     "set": "Opus5_5",
+     "id": 4,
+     "verdict": "holds_qualified",
+     "gist": "Critical-thinking instruction shows g≈0.30 (Abrami 2015); statistics training effect also small, domain-bound.",
      "article": "BeginningsAnIntroduction",
      "title": "Beginnings: An Introduction"
     }
    ]
   },
   {
-   "source": "Gigerenzer & Hoffrage 1995",
+   "source": "Gilbert & Malone 1995",
    "verdict": "holds_qualified",
    "group": "stands",
    "books": [
-    "III"
+    "II"
    ],
    "conflict": false,
-   "notes": [
+   "cited_in": [
     {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Natural frequencies help, but only to about 24% correct; mechanism disputed (nested sets).",
-     "article": "AnIntuitiveExplanationOfBayessTheorem",
-     "title": "An Intuitive Explanation of Bayes’s Theorem"
+     "article": "CorrespondenceBias",
+     "title": "Correspondence Bias",
+     "footnote": 1
     }
-   ]
-  },
-  {
-   "source": "Gilovich et al. 1998",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "I"
    ],
-   "conflict": false,
    "notes": [
     {
      "set": "OpusOld",
+     "id": 4,
      "verdict": "holds_qualified",
-     "gist": "Illusion of transparency replicates but concerns emotional states, not knowledge or inferential chains.",
-     "article": "ExpectingShortInferentialDistances",
-     "title": "Expecting Short Inferential Distances"
-    }
-   ]
-  },
-  {
-   "source": "Haldane 1927",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "III"
-   ],
-   "conflict": false,
-   "notes": [
+     "gist": "'Fundamental attribution error' neither fundamental nor clearly an error; actor-observer half failed meta-analysis.",
+     "article": "CorrespondenceBias",
+     "title": "Correspondence Bias"
+    },
     {
      "set": "fable",
+     "id": 2,
      "verdict": "holds_qualified",
-     "gist": "Fixation probability 2s is correct, though higher in growing populations and supply rate matters.",
-     "article": "EvolutionsAreStupidButWorkAnyway",
-     "title": "Evolutions Are Stupid (But Work Anyway)"
+     "gist": "Correspondence bias robust, but actor-observer asymmetry essentially zero per Malle 2006.",
+     "article": "CorrespondenceBias",
+     "title": "Correspondence Bias"
     }
    ]
   },
@@ -587,85 +604,21 @@
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 7
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "holds_qualified",
      "gist": "Beauty premium robust, but partly confidence and sorting channels rather than pure halo.",
      "article": "TheHaloEffect",
      "title": "The Halo Effect"
-    }
-   ]
-  },
-  {
-   "source": "Hoosain & Salili 1988",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "IV"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Chinese digit-span effect is sound (rehearsal rate), but the 'seven plus or minus two' benchmark is outdated.",
-     "article": "ZombiesZombies",
-     "title": "Zombies! Zombies?"
-    }
-   ]
-  },
-  {
-   "source": "Hsee 1996",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Evaluability hypothesis robust, but reversal needs hard-to-evaluate attributes and fades with reference standards or expertise.",
-     "article": "Evaluability-And-Cheap-Holiday-Shopping",
-     "title": "Evaluability (and Cheap Holiday Shopping)"
-    }
-   ]
-  },
-  {
-   "source": "Hsee 1998",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Less-is-better effect is real but rests on small hypothetical samples; specific prices are illustrations only.",
-     "article": "Evaluability-And-Cheap-Holiday-Shopping",
-     "title": "Evaluability (and Cheap Holiday Shopping)"
-    }
-   ]
-  },
-  {
-   "source": "Ioannidis 2005",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "III"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Concern valid, but 'majority untrue' is a modelled scenario, not a measured fact.",
-     "article": "LostPurposes",
-     "title": "Lost Purposes"
     }
    ]
   },
@@ -677,67 +630,21 @@
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "CorrespondenceBias",
+     "title": "Correspondence Bias",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "holds_qualified",
      "gist": "Attitude-attribution effect replicates, but is partly Bayesian and weaker in East Asian samples.",
      "article": "CorrespondenceBias",
      "title": "Correspondence Bias"
-    }
-   ]
-  },
-  {
-   "source": "Kahneman & Knetsch 1992",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "V"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "opus",
-     "verdict": "holds_qualified",
-     "gist": "Warm glow is one source; Baron & Greene find budgets and prominence also drive insensitivity.",
-     "article": "ScopeInsensitivity",
-     "title": "Scope Insensitivity"
-    }
-   ]
-  },
-  {
-   "source": "Kahneman et al. 1990",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "V"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "opus",
-     "verdict": "holds_qualified",
-     "gist": "Mean loss aversion ~1.96 survives, but depends on stimulus range; mug endowment effect fragile.",
-     "article": "SeriousStories",
-     "title": "Serious Stories"
-    }
-   ]
-  },
-  {
-   "source": "Kahneman et al. 1998",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Strong study, but individual ratings, not deliberating juries, which shift and polarize awards.",
-     "article": "Unbounded-Scales-Huge-Jury-Awards-And-Futurism",
-     "title": "Unbounded Scales, Huge Jury Awards, and Futurism"
     }
    ]
   },
@@ -749,9 +656,17 @@
     "I"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You",
+     "footnote": 6
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "holds_qualified",
      "gist": "Speakers overestimate by 11 points against high actual success; title dramatizes a modest effect.",
      "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
@@ -759,6 +674,7 @@
     },
     {
      "set": "fable",
+     "id": 2,
      "verdict": "holds_qualified",
      "gist": "Overhearers were also miscalibrated; 'no such bias' is a gloss; eleven-point effect is real but modest.",
      "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
@@ -767,117 +683,62 @@
    ]
   },
   {
-   "source": "Landauer 1961",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "IV"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Landauer cost confirmed experimentally (Bérut 2012); demon exorcism remains philosophically disputed.",
-     "article": "TheSecondLawOfThermodynamicsAndEnginesOfCognition",
-     "title": "The Second Law of Thermodynamics, and Engines of Cognition"
-    }
-   ]
-  },
-  {
-   "source": "Latané & Darley 1968",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "III",
-    "VI"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "Opus5_5",
-     "verdict": "holds_qualified",
-     "gist": "Smoke-study figures reported accurately but rest on tiny samples; presented as a law.",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
-    },
-    {
-     "set": "Opus5_5",
-     "verdict": "false_or_misattributed",
-     "gist": "Collective bystander effect reverses in field: more bystanders raise chance someone helps (Philpot 2020, Fischer 2011).",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "holds_qualified",
-     "gist": "Fischer 2011 meta-analysis supports individual inhibition (g=-0.35), varying with danger.",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Diffusion of responsibility real, but CCTV field data show someone intervenes in 90% of conflicts.",
-     "article": "EvolvingToExtinction",
-     "title": "Evolving to Extinction"
-    },
-    {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "Bystander effect shrinks or reverses in dangerous real emergencies; genetic arms race speculation unsupported.",
-     "article": "EvolvingToExtinction",
-     "title": "Evolving to Extinction"
-    }
-   ]
-  },
-  {
-   "source": "Lazarsfeld 1949",
+   "source": "Keysar 1994",
    "verdict": "holds_qualified",
    "group": "stands",
    "books": [
     "I"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "holds_qualified",
-     "gist": "Lazarsfeld reversal is a pedagogical demonstration, not a controlled experiment.",
-     "article": "HindsightDevaluesScience",
-     "title": "Hindsight Devalues Science"
+     "gist": "Keysar's sarcasm study replicates reasonably but uses vignettes with deliberately strong manipulations.",
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "June becomes Jane; essay conflates Keysar's transparency of intention with Gilovich's transparency of feeling.",
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You"
     }
    ]
   },
   {
-   "source": "Maier 1952",
+   "source": "Lichtenstein et al. 1978",
    "verdict": "holds_qualified",
    "group": "stands",
    "books": [
-    "II"
+    "I"
    ],
-   "conflict": true,
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Availability",
+     "title": "Availability",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "holds_qualified",
-     "gist": "Maier's single contrived role-play, reported thirdhand; related group-ideation research is suggestive, not proof.",
-     "article": "HoldOffOnProposingSolutions",
-     "title": "Hold Off On Proposing Solutions"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "weakened",
-     "gist": "Dawes admits no objective criterion; practitioner evidence is impressionistic, backing thin.",
-     "article": "HoldOffOnProposingSolutions",
-     "title": "Hold Off On Proposing Solutions"
-    },
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Problem analysis helps groups (Orlitzky & Hirokawa), but extrapolation to individuals is untested; experts' first options best.",
-     "article": "HoldOffOnProposingSolutions",
-     "title": "Hold Off On Proposing Solutions"
+     "gist": "Mortality misjudgments are real but confounded with regression toward the mean; availability not established as cause.",
+     "article": "Availability",
+     "title": "Availability"
     }
    ]
   },
@@ -889,135 +750,21 @@
     "I"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "PlanningFallacy",
+     "title": "Planning Fallacy",
+     "footnote": 4
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "holds_qualified",
      "gist": "Best-guess/best-case convergence is real but narrower; 'worse than worst case' is a quip, not finding.",
      "article": "PlanningFallacy",
      "title": "Planning Fallacy"
-    }
-   ]
-  },
-  {
-   "source": "Prentice & Miller 1993",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Pluralistic ignorance is well supported, but distinct from Asch conformity; merging them overstates Asch's relevance.",
-     "article": "OnExpressingYourConcerns",
-     "title": "On Expressing Your Concerns"
-    }
-   ]
-  },
-  {
-   "source": "Rosch 1975",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "III"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Typicality effects replicate, but Armstrong et al. show they don't imply non-classical categories.",
-     "article": "TypicalityAndAsymmetricalSimilarity",
-     "title": "Typicality and Asymmetrical Similarity"
-    }
-   ]
-  },
-  {
-   "source": "Ross, Greene & House 1977",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "False consensus replicates, but is partly rational and distinct from correspondence bias.",
-     "article": "CorrespondenceBias",
-     "title": "Correspondence Bias"
-    },
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "False consensus real but mostly Bayesian (Dawes 1989); essay names the bias then reasserts its estimate.",
-     "article": "CorrespondenceBias",
-     "title": "Correspondence Bias"
-    }
-   ]
-  },
-  {
-   "source": "Scarani et al. 2000",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "IV"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Numbers right (source uncredited), but experiments don't discriminate among Everett, pilot-wave, relativistic collapse.",
-     "article": "ManyWorldsOneBestGuess",
-     "title": "Many Worlds, One Best Guess"
-    }
-   ]
-  },
-  {
-   "source": "Slovic et al. 2002",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Preference-reversal demonstration is solid, though reversals shrink with learning and markets and require separate evaluation.",
-     "article": "Evaluability-And-Cheap-Holiday-Shopping",
-     "title": "Evaluability (and Cheap Holiday Shopping)"
-    },
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Adding a small loss raises gamble attractiveness replicated (Bateman 2007); AI joke aged badly.",
-     "article": "Evaluability-And-Cheap-Holiday-Shopping",
-     "title": "Evaluability (and Cheap Holiday Shopping)"
-    }
-   ]
-  },
-  {
-   "source": "Stigler et al. 1986",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "IV"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Digit-span finding real, but inner speech is motor-based and auditory response is suppressed, not like hearing others.",
-     "article": "ZombiesZombies",
-     "title": "Zombies! Zombies?"
     }
    ]
   },
@@ -1029,106 +776,21 @@
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "Anchoring-And-Adjustment",
+     "title": "Anchoring and Adjustment",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "holds_qualified",
      "gist": "Implausible anchors often produce smaller effects (Wegener et al. 2001); equal-effect claim overgeneralizes.",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
-    }
-   ]
-  },
-  {
-   "source": "Tajfel et al. 1971",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "I"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Minimal groups produce favoritism, not the lethal out-group hatred the fable depicts.",
-     "article": "A-Fable-Of-Science-And-Politics",
-     "title": "A Fable of Science and Politics"
-    }
-   ]
-  },
-  {
-   "source": "Tinbergen 1951",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "III"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Supernormal stimuli are solid ethology; extension to candy and civilizational collapse is analogy.",
-     "article": "SuperstimuliAndTheCollapseOfWesternCivilization",
-     "title": "Superstimuli and the Collapse of Western Civilization"
-    }
-   ]
-  },
-  {
-   "source": "Tversky & Edwards 1966",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "I"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Probability matching is real but strongly moderated by incentives, feedback and deliberation.",
-     "article": "LawfulUncertainty",
-     "title": "Lawful Uncertainty"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "76% figure is one study's value; many subjects converge toward maximizing in other designs.",
-     "article": "LawfulUncertainty",
-     "title": "Lawful Uncertainty"
-    },
-    {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "With incentives most subjects converge to maximizing; matching is a defensible pattern-detection strategy.",
-     "article": "LawfulUncertainty",
-     "title": "Lawful Uncertainty"
-    }
-   ]
-  },
-  {
-   "source": "Tversky & Kahneman 1973",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "I"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Availability effect holds, but ease of retrieval, not amount recalled, is the operative cue (Schwarz 1991).",
-     "article": "Availability",
-     "title": "Availability"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Availability replicates, but fluency not count drives it, so effortful recall of history may backfire.",
-     "article": "Making-History-Available",
-     "title": "Making History Available"
     }
    ]
   },
@@ -1140,32 +802,48 @@
     "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "Anchoring-And-Adjustment",
+     "title": "Anchoring and Adjustment",
+     "footnote": 1
+    },
+    {
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "holds",
      "gist": "Anchoring replicated robustly in Many Labs 1 and 2.",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
-     "set": "OpusOld",
-     "verdict": "weakened",
-     "gist": "Anchor-and-adjust mechanism applies to self-generated anchors; provided anchors work via selective accessibility (Epley & Gilovich).",
+     "set": "fable",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Anchoring replicates robustly, but the wheel was rigged to 10 or 65 and the adjustment mechanism was outdated.",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
      "set": "OpusOld",
+     "id": 4,
      "verdict": "holds_qualified",
      "gist": "Anchoring is fairly incentive-resistant, but incentives can reduce it (Simmons et al. 2010); 'did not reduce' too strong.",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Anchoring replicates robustly, but the wheel was rigged to 10 or 65 and the adjustment mechanism was outdated.",
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "contested",
+     "gist": "Anchor-and-adjust mechanism applies to self-generated anchors; provided anchors work via selective accessibility (Epley & Gilovich).",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     }
@@ -1179,9 +857,17 @@
     "I"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "BurdensomeDetails",
+     "title": "Burdensome Details",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "holds_qualified",
      "gist": "Conjunction fallacy replicates, but pragmatics and frequency formats shrink it; swindle-by-narrative leap is larger.",
      "article": "BurdensomeDetails",
@@ -1189,13 +875,7 @@
     },
     {
      "set": "OpusOld",
-     "verdict": "contested",
-     "gist": "Representativeness account is one contested interpretation, not nailed down; risks circularity.",
-     "article": "BurdensomeDetails",
-     "title": "Burdensome Details"
-    },
-    {
-     "set": "OpusOld",
+     "id": 3,
      "verdict": "holds_qualified",
      "gist": "Dice dominance violation is format-dependent; changing representation addresses the cause, not a band-aid.",
      "article": "BurdensomeDetails",
@@ -1203,56 +883,53 @@
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "contested",
      "gist": "Mechanism was not nailed down; frequency formats and confirmation accounts remain in contention.",
      "article": "BurdensomeDetails",
      "title": "Burdensome Details"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Conjunction fallacy replicates; interpretation contested and knowing its name doesn't immunize.",
-     "article": "MyWildAndRecklessYouth",
-     "title": "My Wild and Reckless Youth"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Conjunction violation genuine in strict setup but partly dissolves under pragmatics and frequency formats.",
-     "article": "What-Do-I-Mean-By-Rationality",
-     "title": "What Do I Mean By “Rationality”?"
-    },
-    {
-     "set": "fable",
-     "verdict": "contested",
-     "gist": "Labeling as incorrect depends on contested interpretation of 'probable'; frequency formats largely remove fallacy.",
-     "article": "What-Do-I-Mean-By-Rationality",
-     "title": "What Do I Mean By “Rationality”?"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Listed biases differ in robustness; conjunction and base-rate neglect shrink with frequencies, overconfidence partly artifact.",
-     "article": "Whats-A-Bias-Again",
-     "title": "… What’s a Bias, Again?"
     }
    ]
   },
   {
-   "source": "Worchel et al. 1975",
+   "source": "Wason 1960",
    "verdict": "holds_qualified",
    "group": "stands",
    "books": [
-    "IV"
+    "I"
    ],
-   "conflict": false,
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "PositiveBiasLookIntoTheDark",
+     "title": "Positive Bias: Look into the Dark",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "holds_qualified",
-     "gist": "Censorship reactance is real but moderated by censor legitimacy; can shrink or reverse.",
-     "article": "Scarcity",
-     "title": "Scarcity"
+     "gist": "Low solve rate replicates, but DAX/MED framing raises success; not a fixed 20% ceiling.",
+     "article": "PositiveBiasLookIntoTheDark",
+     "title": "Positive Bias: Look into the Dark"
+    },
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Positive testing is real but often rational (Klayman & Ha); the task is engineered to defeat it.",
+     "article": "PositiveBiasLookIntoTheDark",
+     "title": "Positive Bias: Look into the Dark"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Positive testing is near-optimal in natural environments (Klayman & Ha); DAX/MED framing triples success.",
+     "article": "PositiveBiasLookIntoTheDark",
+     "title": "Positive Bias: Look into the Dark"
     }
    ]
   },
@@ -1264,9 +941,17 @@
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "fable",
+     "id": 3,
      "verdict": "holds_qualified",
      "gist": "Denominator neglect robust, but Yamagishi's design was between-subjects; a format error, not stupidity.",
      "article": "TheAffectHeuristic",
@@ -1275,63 +960,36 @@
    ]
   },
   {
-   "source": "Bickerton 1984",
+   "source": "Allais 1953",
    "verdict": "contested",
    "group": "open",
    "books": [
     "V"
    ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "contested",
-     "gist": "Bickerton's bioprogram is mostly rejected by creolists; children heard full adult languages; learners acquire syntax from text.",
-     "article": "DetachedLeverFallacy",
-     "title": "Detached Lever Fallacy"
-    }
-   ]
-  },
-  {
-   "source": "Buss 1989",
-   "verdict": "contested",
-   "group": "open",
-   "books": [
-    "III"
-   ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "TheAllaisParadox",
+     "title": "The Allais Paradox",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
-     "set": "OpusOld",
+     "set": "opus",
+     "id": 1,
      "verdict": "contested",
-     "gist": "Sex-differentiated mate preferences shrink in gender-equal societies; adaptationist reading disputed.",
-     "article": "EvolutionaryPsychology",
-     "title": "Evolutionary Psychology"
+     "gist": "Allais violation rates vary with stakes and population; 'a majority' reflects particular high-hypothetical designs.",
+     "article": "TheAllaisParadox",
+     "title": "The Allais Paradox"
     },
     {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "Stated preferences don't predict real attraction (Eastwick & Finkel) and sex difference tracks gender inequality.",
-     "article": "EvolutionaryPsychology",
-     "title": "Evolutionary Psychology"
-    }
-   ]
-  },
-  {
-   "source": "Cosmides 1989",
-   "verdict": "contested",
-   "group": "open",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "contested",
-     "gist": "Cheater-detection interpretation challenged by relevance/deontic accounts; rationality's 'laws' are contested unlike the Second Law.",
-     "article": "NoOneCanExemptYouFromRationalitysLaws",
-     "title": "No One Can Exempt You From Rationality’s Laws"
+     "set": "opus",
+     "id": 3,
+     "verdict": "holds",
+     "gist": "Rank-dependent and generalized EU theories coherently accommodate Allais; independence remains disputed among decision theorists.",
+     "article": "TheAllaisParadox",
+     "title": "The Allais Paradox"
     }
    ]
   },
@@ -1342,47 +1000,48 @@
    "books": [
     "V"
    ],
-   "conflict": true,
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "opus",
+     "id": 1,
      "verdict": "contested",
      "gist": "Hypothetical contingent-valuation survey; Carson finds WTP usually scales, Hausman calls method hopeless.",
      "article": "ScopeInsensitivity",
      "title": "Scope Insensitivity"
-    },
-    {
-     "set": "opus",
-     "verdict": "false_or_misattributed",
-     "gist": "57 wilderness areas were in western US states, not Ontario; the 50,000-vs-5,000 lives claim is unsourced.",
-     "article": "TheIntuitionsBehindUtilitarianism",
-     "title": "The “Intuitions” Behind “Utilitarianism”"
     }
    ]
   },
   {
-   "source": "Ditto & Lopez 1992",
+   "source": "Dyson, Eddington & Davidson 1920",
    "verdict": "contested",
    "group": "open",
    "books": [
-    "II",
-    "VI"
+    "I"
    ],
-   "conflict": true,
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "EinsteinsArrogance",
+     "title": "Einstein’s Arrogance",
+     "footnote": null
+    }
+   ],
    "notes": [
     {
-     "set": "Opus5_5",
-     "verdict": "holds",
-     "gist": "Motivated skepticism is well established; rightly listed first.",
-     "article": "FinalWords",
-     "title": "Final Words"
-    },
-    {
      "set": "fable",
+     "id": 2,
      "verdict": "contested",
-     "gist": "Asymmetric scrutiny is also what Bayesians with strong priors do; motivated-reasoning evidence is confounded.",
-     "article": "TheProperUseOfHumility",
-     "title": "The Proper Use of Humility"
+     "gist": "1919 eclipse data were marginal; GR accepted on Mercury and later measurements; clean story is myth.",
+     "article": "EinsteinsArrogance",
+     "title": "Einstein’s Arrogance"
     }
    ]
   },
@@ -1394,16 +1053,30 @@
     "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "The-Scales-Of-Justice-The-Notebook-Of-Rationality",
+     "title": "The Scales of Justice, the Notebook of Rationality",
+     "footnote": 1
+    },
+    {
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic",
+     "footnote": 5
+    }
+   ],
    "notes": [
     {
      "set": "fable",
-     "verdict": "weakened",
+     "id": 1,
+     "verdict": "false_or_misattributed",
      "gist": "Finucane measured global attitudes, not meltdown estimates; reactor example is extrapolation and inverse inference may be partly rational.",
      "article": "The-Scales-Of-Justice-The-Notebook-Of-Rationality",
      "title": "The Scales of Justice, the Notebook of Rationality"
     },
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "contested",
      "gist": "Inverse risk-benefit correlation has alternative interpretations; affect heuristic is an umbrella hypothesis, not settled.",
      "article": "TheAffectHeuristic",
@@ -1412,59 +1085,118 @@
    ]
   },
   {
-   "source": "Gilbert et al. 1990",
+   "source": "Ganzach 2000",
    "verdict": "contested",
    "group": "open",
    "books": [
     "II"
    ],
-   "conflict": false,
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic",
+     "footnote": 6
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 4,
+     "verdict": "weakened",
+     "gist": "Single correlational study; low-volatility anomaly means negative risk-return perception may track reality.",
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic"
+    },
+    {
+     "set": "fable",
+     "id": 2,
+     "verdict": "contested",
+     "gist": "Low-volatility anomaly shows risk and return don't correlate positively; essay's correctness standard is a failed model.",
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic"
+    }
+   ]
+  },
+  {
+   "source": "Gilbert, Krull & Malone 1990",
+   "verdict": "contested",
+   "group": "open",
+   "books": [
+    "II"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
      "verdict": "contested",
      "gist": "Spinozan default-acceptance model is contested; Hasson et al. and Richter et al. find plausibility-dependent validation.",
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Spinozan model fails generally; survives only for novel unverifiable claims under load (Richter, Nadarevic & Erdfelder).",
      "article": "Do-We-Believe-Everything-Were-Told",
      "title": "Do We Believe Everything We’re Told?"
     }
    ]
   },
   {
-   "source": "Gopnik et al. 2004",
+   "source": "Hsee & Kunreuther 2000",
    "verdict": "contested",
    "group": "open",
    "books": [
-    "I"
+    "II"
    ],
-   "conflict": true,
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "contested",
-     "gist": "Causal Bayes nets fit many judgments but are a debated computational account; Markov violations persist.",
-     "article": "FakeCausality",
-     "title": "Fake Causality"
-    },
-    {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "People systematically violate the causal Markov condition (Rehder & Burnett; Rottman & Hastie).",
-     "article": "FakeCausality",
-     "title": "Fake Causality"
+     "gist": "Affection effect rests on small hypothetical WTP samples; consolation reading makes it possibly rational.",
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic"
     }
    ]
   },
   {
-   "source": "Kosslyn et al. 1995",
+   "source": "Kosslyn 1994",
    "verdict": "contested",
    "group": "open",
    "books": [
     "III"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "WordsAsMentalPaintbrushHandles",
+     "title": "Words as Mental Paintbrush Handles",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "fable",
+     "id": 2,
      "verdict": "contested",
      "gist": "Retinotopic imagery activation real but didn't settle the debate; resolved in 2015 as a compromise.",
      "article": "WordsAsMentalPaintbrushHandles",
@@ -1473,27 +1205,187 @@
    ]
   },
   {
-   "source": "Beaman et al. 1978",
+   "source": "Rosch 1978",
+   "verdict": "contested",
+   "group": "open",
+   "books": [
+    "III"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "TypicalityAndAsymmetricalSimilarity",
+     "title": "Typicality and Asymmetrical Similarity",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "contested",
+     "gist": "Typicality effects replicate, but Armstrong et al. show they don't imply non-classical categories.",
+     "article": "TypicalityAndAsymmetricalSimilarity",
+     "title": "Typicality and Asymmetrical Similarity"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Typicality differs from graded membership; evidence compatible with sharp membership (Armstrong, Hampton).",
+     "article": "TypicalityAndAsymmetricalSimilarity",
+     "title": "Typicality and Asymmetrical Similarity"
+    }
+   ]
+  },
+  {
+   "source": "Taber & Lodge 2006",
+   "verdict": "contested",
+   "group": "open",
+   "books": [
+    "II"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "KnowingAboutBiasesCanHurtPeople",
+     "title": "Knowing About Biases Can Hurt People",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Prior-attitude and disconfirmation effects hold, but attitude polarization and backfire largely failed to replicate.",
+     "article": "KnowingAboutBiasesCanHurtPeople",
+     "title": "Knowing About Biases Can Hurt People"
+    },
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "contested",
+     "gist": "Sophistication effect rests on two issues; knowledge hurts mainly on identity-relevant topics, otherwise improves accuracy.",
+     "article": "KnowingAboutBiasesCanHurtPeople",
+     "title": "Knowing About Biases Can Hurt People"
+    },
+    {
+     "set": "fable",
+     "id": 2,
+     "verdict": "failed_replication",
+     "gist": "Attitude polarization vanishes with direct pre/post measures; Guess & Coppock 2020 found no backlash.",
+     "article": "KnowingAboutBiasesCanHurtPeople",
+     "title": "Knowing About Biases Can Hurt People"
+    }
+   ]
+  },
+  {
+   "source": "Asch 1956",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "VI"
+    "II"
    ],
    "conflict": true,
-   "notes": [
+   "cited_in": [
     {
-     "set": "Opus5_5",
-     "verdict": "holds_qualified",
-     "gist": "Beaman 1978 is a rare debiasing success, but a single modest study of a field-weak effect.",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
+     "article": "AschsConformityExperiment",
+     "title": "Asch’s Conformity Experiment",
+     "footnote": 1
     },
     {
-     "set": "SkepticAstra",
+     "article": "LonelyDissent",
+     "title": "Lonely Dissent",
+     "footnote": null
+    },
+    {
+     "article": "OnExpressingYourConcerns",
+     "title": "On Expressing Your Concerns",
+     "footnote": null
+    },
+    {
+     "article": "CultishCountercultishness",
+     "title": "Cultish Countercultishness",
+     "footnote": null
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Three-quarters conformed once, but most trial responses were independent; headline oversells conformity.",
+     "article": "AschsConformityExperiment",
+     "title": "Asch’s Conformity Experiment"
+    },
+    {
+     "set": "OpusOld",
+     "id": 1,
      "verdict": "weakened",
-     "gist": "Warning improving helping in one setting does not establish lasting immunity across contexts.",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
+     "gist": "Pluralistic ignorance is well supported, but distinct from Asch conformity; merging them overstates Asch's relevance.",
+     "article": "OnExpressingYourConcerns",
+     "title": "On Expressing Your Concerns"
+    }
+   ]
+  },
+  {
+   "source": "Baratz 1983",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "I"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science",
+     "footnote": 3
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 3,
+     "verdict": "holds_qualified",
+     "gist": "Unpublished dissertation is weak, but conclusion matches robust hindsight-bias literature.",
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Myers misspelled, citation typo; evidence is a textbook sidebar and an unpublished dissertation.",
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science"
+    }
+   ]
+  },
+  {
+   "source": "Baron & Greene 1996",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "V"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 6
+    }
+   ],
+   "notes": [
+    {
+     "set": "opus",
+     "id": 4,
+     "verdict": "weakened",
+     "gist": "Warm glow is one source; Baron & Greene find budgets and prominence also drive insensitivity.",
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity"
     }
    ]
   },
@@ -1505,9 +1397,17 @@
     "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "AschsConformityExperiment",
+     "title": "Asch’s Conformity Experiment",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "holds_qualified",
      "gist": "Conformity declined across cohorts and varies by culture; not a fixed universal phenomenon.",
      "article": "AschsConformityExperiment",
@@ -1515,6 +1415,7 @@
     },
     {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "weakened",
      "gist": "Sex difference small and task/author confounded (Eagly & Carli 1981); gloss about agreeableness unwarranted.",
      "article": "AschsConformityExperiment",
@@ -1522,6 +1423,7 @@
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "weakened",
      "gist": "Sex difference not consistent, author-moderated; conformity declined since 1950s.",
      "article": "AschsConformityExperiment",
@@ -1537,9 +1439,17 @@
     "IV"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "Scarcity",
+     "title": "Scarcity",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "weakened",
      "gist": "Forbidden-toy effect appeared only in boys in a small study; thin support for a universal claim.",
      "article": "Scarcity",
@@ -1548,98 +1458,134 @@
    ]
   },
   {
-   "source": "Buehler et al. 1994",
+   "source": "Broeder 1959",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "I"
+    "IV"
    ],
-   "conflict": true,
-   "notes": [
+   "conflict": false,
+   "cited_in": [
     {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Result reproduces qualitatively, but meta-analysis shows direction and size vary; some tasks show overestimation.",
-     "article": "PlanningFallacy",
-     "title": "Planning Fallacy"
-    },
+     "article": "Scarcity",
+     "title": "Scarcity",
+     "footnote": 5
+    }
+   ],
+   "notes": [
     {
      "set": "fable",
+     "id": 2,
      "verdict": "weakened",
-     "gist": "Detailed planning makes forecasts optimistic but speeds completion (implementation intentions); essay conflates prediction and performance.",
-     "article": "PlanningFallacy",
-     "title": "Planning Fallacy"
-    }
-   ]
-  },
-  {
-   "source": "Cheng et al. 1986",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "VI"
-   ],
-   "conflict": false,
-   "notes": [
+     "gist": "Meta-analysis finds disregard instructions usually reduce the evidence's weight; backfire only under specific conditions.",
+     "article": "Scarcity",
+     "title": "Scarcity"
+    },
     {
-     "set": "Opus5_5",
+     "set": "OpusOld",
+     "id": 4,
      "verdict": "weakened",
-     "gist": "Critical-thinking instruction shows g≈0.30 (Abrami 2015); statistics training effect also small, domain-bound.",
-     "article": "BeginningsAnIntroduction",
-     "title": "Beginnings: An Introduction"
+     "gist": "Scarcity principle survives, but Cialdini's dramatic magnitudes are illustrations, not stable effect sizes.",
+     "article": "Scarcity",
+     "title": "Scarcity"
     }
    ]
   },
   {
-   "source": "Combs & Slovic 1979",
+   "source": "Burton, Kates & White 1978",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
     "I"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "Availability",
+     "title": "Availability",
+     "footnote": 4
+    }
+   ],
    "notes": [
     {
-     "set": "OpusOld",
+     "set": "fable",
+     "id": 3,
      "verdict": "weakened",
-     "gist": "Tracking media coverage is rational updating on available data; the problem is the environment, not a bias.",
+     "gist": "Normalized flood damage shows no upward trend; levee development is better explained by incentives.",
      "article": "Availability",
      "title": "Availability"
     }
    ]
   },
   {
-   "source": "Crawford et al. 1989",
+   "source": "Castellow, Wuensch & Moore 1990",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 8
+    }
+   ],
+   "notes": [
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Cited meta-analysis finds near-zero halo for honesty; catalogue cherry-picks largest small-study effects.",
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect"
+    }
+   ]
+  },
+  {
+   "source": "Crawford, Salter & Jang 1989",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
     "III"
    ],
-   "conflict": false,
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
+     "title": "An Especially Elegant Evolutionary Psychology Experiment",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
-     "verdict": "weakened",
+     "id": 1,
+     "verdict": "holds_qualified",
      "gist": "0.92 correlation is between smooth curves over few age bins; precision largely an artifact.",
      "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
      "title": "An Especially Elegant Evolutionary Psychology Experiment"
     },
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "weakened",
      "gist": "Rating imagined grief measures folk theory, not grief; confounds could manufacture the correlation.",
      "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
      "title": "An Especially Elegant Evolutionary Psychology Experiment"
     },
     {
-     "set": "OpusOld",
+     "set": "fable",
+     "id": 1,
      "verdict": "weakened",
-     "gist": "One unpreregistered, rarely replicated correlation cannot answer the post-hoc storytelling critique of evo psych.",
+     "gist": "Studies of real bereaved parents find grief rising with child's age, contradicting the claimed agreement.",
      "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
      "title": "An Especially Elegant Evolutionary Psychology Experiment"
     },
     {
      "set": "fable",
+     "id": 3,
      "verdict": "weakened",
      "gist": "Investment and reproductive value diverge only post-adolescence, where real grief keeps rising, contradicting the claim.",
      "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
@@ -1648,63 +1594,62 @@
    ]
   },
   {
-   "source": "Dawes 1994",
+   "source": "Eagly et al. 1991",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "VI"
+    "II"
    ],
    "conflict": false,
-   "notes": [
+   "cited_in": [
     {
-     "set": "Opus5_5",
-     "verdict": "weakened",
-     "gist": "Mihura 2013: about a fifth of Rorschach variables are validated; not a simple 'No'; Dawes's book is 1994.",
-     "article": "SchoolsProliferatingWithoutEvidence",
-     "title": "Schools Proliferating Without Evidence"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "weakened",
-     "gist": "Rorschach validity is uneven across variables (Mihura 2013); no blanket verdict.",
-     "article": "SchoolsProliferatingWithoutEvidence",
-     "title": "Schools Proliferating Without Evidence"
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 2
     }
-   ]
-  },
-  {
-   "source": "Dunbar 1992",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "I"
    ],
-   "conflict": false,
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "weakened",
-     "gist": "Dunbar's number re-analysis gives huge confidence intervals; 200 figure is illustrative, not established.",
-     "article": "ExpectingShortInferentialDistances",
-     "title": "Expecting Short Inferential Distances"
+     "gist": "Cited meta-analysis finds near-zero halo for honesty and kindness; halo is selective.",
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Cited meta-analysis finds near-zero halo for honesty; catalogue cherry-picks largest small-study effects.",
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect"
     }
    ]
   },
   {
-   "source": "Dweck 2006",
+   "source": "Eddy 1982",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "VI"
+    "III"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "AnIntuitiveExplanationOfBayessTheorem",
+     "title": "An Intuitive Explanation of Bayes’s Theorem",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
-     "set": "Opus5_5",
+     "set": "fable",
+     "id": 1,
      "verdict": "weakened",
-     "gist": "Growth-mindset effects shrank to near zero or small under meta-analysis and preregistered trials.",
-     "article": "TheSinOfUnderconfidence",
-     "title": "The Sin of Underconfidence"
+     "gist": "Cited studies don't contain the essay's numbers; the 46% figure is from uncited Hoffrage & Gigerenzer 1998.",
+     "article": "AnIntuitiveExplanationOfBayessTheorem",
+     "title": "An Intuitive Explanation of Bayes’s Theorem"
     }
    ]
   },
@@ -1716,28 +1661,51 @@
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "weakened",
      "gist": "Election figure from an unpublished thesis, confounded raw correlation; denial evidence ambiguous.",
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Cited meta-analysis finds near-zero halo for honesty; catalogue cherry-picks largest small-study effects.",
      "article": "TheHaloEffect",
      "title": "The Halo Effect"
     }
    ]
   },
   {
-   "source": "Festinger et al. 1956",
+   "source": "Festinger, Riecken & Schachter 1956",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "I",
     "II"
    ],
-   "conflict": true,
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "EvaporativeCoolingOfGroupBeliefs",
+     "title": "Evaporative Cooling of Group Beliefs",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "weakened",
      "gist": "When Prophecy Fails is a single tiny contaminated case; later reviews find intensified belief is the exception.",
      "article": "EvaporativeCoolingOfGroupBeliefs",
@@ -1745,17 +1713,11 @@
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "failed_replication",
      "gist": "Seekers dissolved, Hardyck & Braden found no increase; Watchtower never officially set 1975 and declined afterward.",
      "article": "EvaporativeCoolingOfGroupBeliefs",
      "title": "Evaporative Cooling of Group Beliefs"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Belief maintenance after disconfirmation is real, but predicted proselytizing surge is inconsistent in later cases.",
-     "article": "ReligionsClaimToBeNonDisprovable",
-     "title": "Religion’s Claim to be Non-Disprovable"
     }
    ]
   },
@@ -1767,9 +1729,17 @@
     "V"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 7
+    }
+   ],
    "notes": [
     {
      "set": "opus",
+     "id": 5,
      "verdict": "weakened",
      "gist": "Rwandan result is proportion dominance, a different bias, sometimes informative, not scope neglect.",
      "article": "ScopeInsensitivity",
@@ -1778,95 +1748,36 @@
    ]
   },
   {
-   "source": "Fischhoff, Slovic & Lichtenstein 1977",
+   "source": "Gigerenzer & Hoffrage 1995",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "II"
+    "III"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "AnIntuitiveExplanationOfBayessTheorem",
+     "title": "An Intuitive Explanation of Bayes’s Theorem",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
      "set": "fable",
-     "verdict": "weakened",
-     "gist": "Overconfidence came from hard experimenter-chosen items; self-chosen certainties would score near one hundred.",
-     "article": "AbsoluteAuthority",
-     "title": "Absolute Authority"
-    }
-   ]
-  },
-  {
-   "source": "Galinsky et al. 2006",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "VI"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "Opus5_5",
-     "verdict": "weakened",
-     "gist": "Unlocated power-empathy study is likely Galinsky 2006, a recall-priming paradigm that fares poorly in replications.",
-     "article": "BewareOfOtherOptimizing",
-     "title": "Beware of Other-Optimizing"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "failed_replication",
-     "gist": "Many Labs 3 replication of Galinsky's power/perspective study found d=0.03.",
-     "article": "BewareOfOtherOptimizing",
-     "title": "Beware of Other-Optimizing"
-    }
-   ]
-  },
-  {
-   "source": "Ganzach 2000",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "weakened",
-     "gist": "Single correlational study; low-volatility anomaly means negative risk-return perception may track reality.",
-     "article": "TheAffectHeuristic",
-     "title": "The Affect Heuristic"
-    }
-   ]
-  },
-  {
-   "source": "Gieringer 1985",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "VI"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "Opus5_5",
-     "verdict": "weakened",
-     "gist": "FDA casualty figure is one contested extrapolation; drug lag had reversed by the 2000s.",
-     "article": "RaisedInTechnophilia",
-     "title": "Raised in Technophilia"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "weakened",
-     "gist": "Counterfactual FDA ledger rests on assumptions; neither side's model is an observed death count.",
-     "article": "RaisedInTechnophilia",
-     "title": "Raised in Technophilia"
-    },
-    {
-     "set": "SkepticAstra",
+     "id": 1,
      "verdict": "false_or_misattributed",
-     "gist": "Gieringer's per-decade figures restated per year, a tenfold inflation, and deaths blurred with casualties.",
-     "article": "RaisedInTechnophilia",
-     "title": "Raised in Technophilia"
+     "gist": "Cited studies don't contain the essay's numbers; the 46% figure is from uncited Hoffrage & Gigerenzer 1998.",
+     "article": "AnIntuitiveExplanationOfBayessTheorem",
+     "title": "An Intuitive Explanation of Bayes’s Theorem"
+    },
+    {
+     "set": "fable",
+     "id": 3,
+     "verdict": "weakened",
+     "gist": "Natural frequencies help, but only to about 24% correct; mechanism disputed (nested sets).",
+     "article": "AnIntuitiveExplanationOfBayessTheorem",
+     "title": "An Intuitive Explanation of Bayes’s Theorem"
     }
    ]
   },
@@ -1879,30 +1790,22 @@
     "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "YourStrengthAsARationalist",
+     "title": "Your Strength as a Rationalist",
+     "footnote": 1
+    },
+    {
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Single unreplicated study; effect only under load, non-busy readers largely rejected falsehoods.",
-     "article": "Do-We-Believe-Everything-Were-Told",
-     "title": "Do We Believe Everything We’re Told?"
-    },
-    {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "Spinozan model fails generally; survives only for novel unverifiable claims under load (Richter, Nadarevic & Erdfelder).",
-     "article": "Do-We-Believe-Everything-Were-Told",
-     "title": "Do We Believe Everything We’re Told?"
-    },
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Effect is a load effect; conclusion better supported by continued-influence literature (Lewandowsky 2012).",
-     "article": "Do-We-Believe-Everything-Were-Told",
-     "title": "Do We Believe Everything We’re Told?"
-    },
-    {
-     "set": "OpusOld",
+     "id": 1,
      "verdict": "contested",
      "gist": "Spinozan automatic-belief model only partly supported; one 1993 paper does not settle belief architecture.",
      "article": "YourStrengthAsARationalist",
@@ -1910,10 +1813,35 @@
     },
     {
      "set": "fable",
+     "id": 4,
      "verdict": "weakened",
      "gist": "Spinozan default appears only without background knowledge; anecdote shows motivated reasoning instead.",
      "article": "YourStrengthAsARationalist",
      "title": "Your Strength as a Rationalist"
+    },
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Single unreplicated study; effect only under load, non-busy readers largely rejected falsehoods.",
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Spinozan model fails generally; survives only for novel unverifiable claims under load (Richter, Nadarevic & Erdfelder).",
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?"
+    },
+    {
+     "set": "fable",
+     "id": 2,
+     "verdict": "weakened",
+     "gist": "Effect is a load effect; conclusion better supported by continued-influence literature (Lewandowsky 2012).",
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?"
     }
    ]
   },
@@ -1925,9 +1853,17 @@
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "WeChangeOurMindsLessOftenThanWeThink",
+     "title": "We Change Our Minds Less Often Than We Think",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "weakened",
      "gist": "24-colleague convenience sample is an anecdote; cannot distinguish rarely changing minds from consulting once decided.",
      "article": "WeChangeOurMindsLessOftenThanWeThink",
@@ -1935,6 +1871,7 @@
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "weakened",
      "gist": "Data show underconfidence in self-prediction, not that deliberation had stopped; half-second claim is introspection.",
      "article": "WeChangeOurMindsLessOftenThanWeThink",
@@ -1943,20 +1880,36 @@
    ]
   },
   {
-   "source": "Hsee & Kunreuther 2000",
+   "source": "Hsee 1998",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
     "II"
    ],
-   "conflict": false,
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Less-is-better effect is real but rests on small hypothetical samples; specific prices are illustrations only.",
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)"
+    },
+    {
+     "set": "fable",
+     "id": 1,
      "verdict": "weakened",
-     "gist": "Affection effect rests on small hypothetical WTP samples; consolation reading makes it possibly rational.",
-     "article": "TheAffectHeuristic",
-     "title": "The Affect Heuristic"
+     "gist": "Recipients' appreciation doesn't track price (Flynn & Adams); essay shifts from observers to recipients.",
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)"
     }
    ]
   },
@@ -1968,9 +1921,17 @@
     "V"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "opus",
+     "id": 2,
      "verdict": "weakened",
      "gist": "Part-whole result consistent with substitution and budgets; source is a thin conference comment.",
      "article": "ScopeInsensitivity",
@@ -1979,27 +1940,36 @@
    ]
   },
   {
-   "source": "Kahneman et al. 1993",
+   "source": "Keysar & Barr 2002",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "VI"
+    "I"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
-     "set": "Opus5_5",
-     "verdict": "weakened",
-     "gist": "Peak-end rule largely failed when tested on meals (Rode, Rozin & Durlach 2007).",
-     "article": "PracticalAdviceBackedByDeepTheories",
-     "title": "Practical Advice Backed by Deep Theories"
+     "set": "fable",
+     "id": 3,
+     "verdict": "false_or_misattributed",
+     "gist": "Chamberlain letter anecdote is historically false; Hitler understood British intent and gambled on inaction.",
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You"
     },
     {
-     "set": "SkepticAstra",
+     "set": "OpusOld",
+     "id": 4,
      "verdict": "weakened",
-     "gist": "Cold-water peak-end result doesn't transfer to meal advice without a direct test.",
-     "article": "PracticalAdviceBackedByDeepTheories",
-     "title": "Practical Advice Backed by Deep Theories"
+     "gist": "Chamberlain-Hitler anecdote is a selected just-so illustration; Hitler's decision driven by strategy, not prose.",
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You"
     }
    ]
   },
@@ -2011,11 +1981,27 @@
     "IV"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "Scarcity",
+     "title": "Scarcity",
+     "footnote": 6
+    }
+   ],
    "notes": [
     {
      "set": "fable",
+     "id": 3,
      "verdict": "weakened",
      "gist": "Buying more on true exclusive scarcity information is rational trading, not a bias.",
+     "article": "Scarcity",
+     "title": "Scarcity"
+    },
+    {
+     "set": "OpusOld",
+     "id": 4,
+     "verdict": "weakened",
+     "gist": "Scarcity principle survives, but Cialdini's dramatic magnitudes are illustrations, not stable effect sizes.",
      "article": "Scarcity",
      "title": "Scarcity"
     }
@@ -2029,9 +2015,17 @@
     "V"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheIntuitionsBehindUtilitarianism",
+     "title": "The “Intuitions” Behind “Utilitarianism”",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "opus",
+     "id": 2,
      "verdict": "weakened",
      "gist": "Identified-victim effect reverses under joint evaluation and is small overall (r ≈ .05).",
      "article": "TheIntuitionsBehindUtilitarianism",
@@ -2040,88 +2034,236 @@
    ]
   },
   {
-   "source": "Lichtenstein & Slovic 1973",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "V"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "opus",
-     "verdict": "weakened",
-     "gist": "Miscited study; reversals stem mostly from pricing elicitation and shrink under real arbitrage.",
-     "article": "ZutAllais",
-     "title": "Zut Allais!"
-    }
-   ]
-  },
-  {
-   "source": "Lichtenstein et al. 1978",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "I"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "weakened",
-     "gist": "Mortality misjudgments are real but confounded with regression toward the mean; availability not established as cause.",
-     "article": "Availability",
-     "title": "Availability"
-    }
-   ]
-  },
-  {
-   "source": "Lichtenstein, Fischhoff & Phillips 1982",
+   "source": "Kulka & Kessler 1978",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 10
+    }
+   ],
    "notes": [
     {
-     "set": "fable",
+     "set": "OpusOld",
+     "id": 4,
      "verdict": "weakened",
-     "gist": "Calibration literature shows a hard-easy effect; applied to 2+2=4 it predicts underconfidence.",
-     "article": "InfiniteCertainty",
-     "title": "Infinite Certainty"
+     "gist": "Courtroom studies small and mixed; meta-analysis finds small, crime-specific effects, reversing for fraud.",
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect"
     }
    ]
   },
   {
-   "source": "Maier 1963",
+   "source": "Kunreuther, Hogarth & Meszaros 1993",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "V"
+    "I"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "Availability",
+     "title": "Availability",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
      "set": "fable",
+     "id": 1,
+     "verdict": "false_or_misattributed",
+     "gist": "Flood-plains quotation is Kates 1962, not the cited Kunreuther et al. 1993 paper.",
+     "article": "Availability",
+     "title": "Availability"
+    },
+    {
+     "set": "fable",
+     "id": 2,
      "verdict": "weakened",
-     "gist": "Maier's edict was a group-discussion rule with no modern replication, misapplied to individual theorists.",
-     "article": "FakeUtilityFunctions",
-     "title": "Fake Utility Functions"
+     "gist": "Flood insurance take-up reflects updating, forgetting, prices and relief expectations, not probability zero.",
+     "article": "Availability",
+     "title": "Availability"
     }
    ]
   },
   {
-   "source": "Mazis 1975",
+   "source": "Latané & Darley 1969",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "VI"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "Opus5_5",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Smoke-study figures reported accurately but rest on tiny samples; presented as a law.",
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy"
+    },
+    {
+     "set": "Opus5_5",
+     "id": 2,
+     "verdict": "weakened",
+     "gist": "Collective bystander effect reverses in field: more bystanders raise chance someone helps (Philpot 2020, Fischer 2011).",
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy"
+    },
+    {
+     "set": "SkepticAstra",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Fischer 2011 meta-analysis supports individual inhibition (g=-0.35), varying with danger.",
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy"
+    },
+    {
+     "set": "SkepticAstra",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Philpot's CCTV data: larger groups more likely to produce some helper; blocks the collective extrapolation.",
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy"
+    }
+   ]
+  },
+  {
+   "source": "Lazarsfeld 1949",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "I"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science",
+     "footnote": 2
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Lazarsfeld reversal is a pedagogical demonstration, not a controlled experiment.",
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Myers misspelled, citation typo; evidence is a textbook sidebar and an unpublished dissertation.",
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science"
+    }
+   ]
+  },
+  {
+   "source": "Mack & Rainey 1990",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 6
+    }
+   ],
+   "notes": [
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Cited meta-analysis finds near-zero halo for honesty; catalogue cherry-picks largest small-study effects.",
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect"
+    }
+   ]
+  },
+  {
+   "source": "Maier (in Dawes 1988)",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "II"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "HoldOffOnProposingSolutions",
+     "title": "Hold Off On Proposing Solutions",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Maier's single contrived role-play, reported thirdhand; related group-ideation research is suggestive, not proof.",
+     "article": "HoldOffOnProposingSolutions",
+     "title": "Hold Off On Proposing Solutions"
+    },
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "weakened",
+     "gist": "Dawes admits no objective criterion; practitioner evidence is impressionistic, backing thin.",
+     "article": "HoldOffOnProposingSolutions",
+     "title": "Hold Off On Proposing Solutions"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Problem analysis helps groups (Orlitzky & Hirokawa), but extrapolation to individuals is untested; experts' first options best.",
+     "article": "HoldOffOnProposingSolutions",
+     "title": "Hold Off On Proposing Solutions"
+    }
+   ]
+  },
+  {
+   "source": "Mazis, Settle & Leslie 1973",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
     "IV"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "Scarcity",
+     "title": "Scarcity",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
      "set": "fable",
+     "id": 1,
      "verdict": "weakened",
      "gist": "Cross-sectional Miami/Tampa survey can't separate reactance from selection and city differences.",
      "article": "Scarcity",
@@ -2130,46 +2272,70 @@
    ]
   },
   {
-   "source": "Mueller & Dweck 1998",
+   "source": "Schoemaker 1979",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
     "VI"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "BeginningsAnIntroduction",
+     "title": "Beginnings: An Introduction",
+     "footnote": 13
+    }
+   ],
    "notes": [
     {
      "set": "SkepticAstra",
+     "id": 3,
      "verdict": "weakened",
-     "gist": "Growth-mindset meta-analyses show small, variable effects; effort praise isn't a universal prescription.",
-     "article": "MyChildhoodDeathSpiral",
-     "title": "My Childhood Death Spiral"
+     "gist": "Statistical training shows some transfer in defined domains; not broad universal improvement.",
+     "article": "BeginningsAnIntroduction",
+     "title": "Beginnings: An Introduction"
     }
    ]
   },
   {
-   "source": "Ross 1977",
+   "source": "Sherif et al. 1954",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "II",
-    "IV"
+    "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "The-Robbers-Cave-Experiment",
+     "title": "The Robbers Cave Experiment",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "weakened",
-     "gist": "'Fundamental attribution error' neither fundamental nor clearly an error; actor-observer half failed meta-analysis.",
-     "article": "CorrespondenceBias",
-     "title": "Correspondence Bias"
+     "gist": "Failed Middle Grove precursor was buried and staff engineered conflict (Perry 2018).",
+     "article": "The-Robbers-Cave-Experiment",
+     "title": "The Robbers Cave Experiment"
+    },
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "weakened",
+     "gist": "Single uncontrolled study of 22 boys with experimenter-staff; illustration, not decisive evidence.",
+     "article": "The-Robbers-Cave-Experiment",
+     "title": "The Robbers Cave Experiment"
     },
     {
      "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Actor-observer asymmetry near zero in Malle's meta-analysis; halo effect suffices for the point.",
-     "article": "EinsteinsSuperpowers",
-     "title": "Einstein’s Superpowers"
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Archive shows failed Middle Grove run and staff manipulation; tiny uncontrolled study, not a perfect experiment.",
+     "article": "The-Robbers-Cave-Experiment",
+     "title": "The Robbers Cave Experiment"
     }
    ]
   },
@@ -2181,13 +2347,55 @@
     "II"
    ],
    "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 9
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 4,
      "verdict": "weakened",
      "gist": "Courtroom studies small and mixed; meta-analysis finds small, crime-specific effects, reversing for fraud.",
      "article": "TheHaloEffect",
      "title": "The Halo Effect"
+    }
+   ]
+  },
+  {
+   "source": "Tversky & Edwards 1966",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "I"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "LawfulUncertainty",
+     "title": "Lawful Uncertainty",
+     "footnote": 2
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "76% figure is one study's value; many subjects converge toward maximizing in other designs.",
+     "article": "LawfulUncertainty",
+     "title": "Lawful Uncertainty"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "With incentives most subjects converge to maximizing; matching is a defensible pattern-detection strategy.",
+     "article": "LawfulUncertainty",
+     "title": "Lawful Uncertainty"
     }
    ]
   },
@@ -2199,16 +2407,22 @@
     "III"
    ],
    "conflict": false,
-   "notes": [
+   "cited_in": [
     {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "Muir's hen group selection reduced cannibalism; outcome depends on the criterion, Wade's result cherry-picked.",
-     "article": "FakeOptimizationCriteria",
-     "title": "Fake Optimization Criteria"
+     "article": "TheTragedyOfGroupSelectionism",
+     "title": "The Tragedy of Group Selectionism",
+     "footnote": 2
     },
     {
+     "article": "AnthropomorphicOptimism",
+     "title": "Anthropomorphic Optimism",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "weakened",
      "gist": "Wade's experiments showed group selection strong and fast, contrary to the essay's cautionary framing.",
      "article": "TheTragedyOfGroupSelectionism",
@@ -2216,24 +2430,15 @@
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "weakened",
      "gist": "Cannibalism reflects the selected criterion; Muir's hen group selection reduced cannibalism.",
      "article": "TheTragedyOfGroupSelectionism",
      "title": "The Tragedy of Group Selectionism"
-    }
-   ]
-  },
-  {
-   "source": "Wade 1977",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "III"
-   ],
-   "conflict": false,
-   "notes": [
+    },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "weakened",
      "gist": "Group selection on hens reduced cannibalism; Wade's cannibals reflect selection criterion and standing variation.",
      "article": "AnthropomorphicOptimism",
@@ -2241,7 +2446,8 @@
     },
     {
      "set": "fable",
-     "verdict": "false_or_misattributed",
+     "id": 4,
+     "verdict": "weakened",
      "gist": "Wade's experiments were read as showing group selection is strong, launching the multilevel revival.",
      "article": "AnthropomorphicOptimism",
      "title": "Anthropomorphic Optimism"
@@ -2249,337 +2455,33 @@
    ]
   },
   {
-   "source": "Wason 1960",
+   "source": "Wansink, Kent & Hoch 1998",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "I"
+    "II"
    ],
-   "conflict": true,
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination",
+     "footnote": 5
+    }
+   ],
    "notes": [
     {
-     "set": "fable",
+     "set": "OpusOld",
+     "id": 3,
      "verdict": "weakened",
-     "gist": "Positive test strategy is often efficient (Klayman & Ha); theorem leaves search strategy open.",
-     "article": "ConservationOfExpectedEvidence",
-     "title": "Conservation of Expected Evidence"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Low solve rate replicates, but DAX/MED framing raises success; not a fixed 20% ceiling.",
-     "article": "PositiveBiasLookIntoTheDark",
-     "title": "Positive Bias: Look into the Dark"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Positive testing is real but often rational (Klayman & Ha); the task is engineered to defeat it.",
-     "article": "PositiveBiasLookIntoTheDark",
-     "title": "Positive Bias: Look into the Dark"
-    },
-    {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "Positive testing is near-optimal in natural environments (Klayman & Ha); DAX/MED framing triples success.",
-     "article": "PositiveBiasLookIntoTheDark",
-     "title": "Positive Bias: Look into the Dark"
-    }
-   ]
-  },
-  {
-   "source": "Baumeister et al. 1998",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "III",
-    "VI"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "Opus5_5",
-     "verdict": "failed_replication",
-     "gist": "Ego depletion failed multi-lab preregistered replications (Hagger 2016, Vohs 2021).",
-     "article": "CanHumanismMatchReligionsOutput",
-     "title": "Can Humanism Match Religion’s Output?"
-    },
-    {
-     "set": "Opus5_5",
-     "verdict": "failed_replication",
-     "gist": "Ego depletion, listed as a real phenomenon, failed replication; p<0.01 threshold didn't protect it.",
-     "article": "PracticalAdviceBackedByDeepTheories",
-     "title": "Practical Advice Backed by Deep Theories"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "failed_replication",
-     "gist": "Multi-lab preregistered tests found d=0.04 and d=0.06 for ego depletion.",
-     "article": "PracticalAdviceBackedByDeepTheories",
-     "title": "Practical Advice Backed by Deep Theories"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "holds_qualified",
-     "gist": "Dang et al. found small d=0.10; update effect size and mechanism, not sweeping denial.",
-     "article": "PracticalAdviceBackedByDeepTheories",
-     "title": "Practical Advice Backed by Deep Theories"
-    },
-    {
-     "set": "Opus5_5",
-     "verdict": "failed_replication",
-     "gist": "'Willpower the true limiting resource' is ego depletion, which failed multi-lab replication.",
-     "article": "RationalityCommonInterestOfManyCauses",
-     "title": "Rationality: Common Interest of Many Causes"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "failed_replication",
-     "gist": "Ego depletion failed multi-lab registered replication (Hagger 2016); bias-corrected effect near zero.",
-     "article": "SuperstimuliAndTheCollapseOfWesternCivilization",
-     "title": "Superstimuli and the Collapse of Western Civilization"
-    },
-    {
-     "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Ego depletion near zero in preregistered multi-lab replications; glucose fuel account fails physiologically.",
-     "article": "SuperstimuliAndTheCollapseOfWesternCivilization",
-     "title": "Superstimuli and the Collapse of Western Civilization"
-    }
-   ]
-  },
-  {
-   "source": "Brickman et al. 1978",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "II",
-    "IV"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Tiny lottery-winner study reversed by Swedish administrative data showing lasting satisfaction gains.",
-     "article": "IfYouDemandMagicMagicWontHelp",
-     "title": "If You Demand Magic, Magic Won’t Help"
-    },
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Accident victims stayed less happy; gap smaller than predicted, adaptation partial (Lucas 2007).",
-     "article": "LeaveALineOfRetreat",
-     "title": "Leave a Line of Retreat"
-    }
-   ]
-  },
-  {
-   "source": "Broeder 1959",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "IV"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Meta-analysis finds disregard instructions usually reduce the evidence's weight; backfire only under specific conditions.",
-     "article": "Scarcity",
-     "title": "Scarcity"
-    }
-   ]
-  },
-  {
-   "source": "Brosnan & de Waal 2003",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Primate inequity aversion failed in apes and capuchin result reinterpreted; 'all primates' unsupported.",
-     "article": "PolicyDebatesShouldNotAppearOneSided",
-     "title": "Policy Debates Should Not Appear One-Sided"
-    }
-   ]
-  },
-  {
-   "source": "Ekman & Friesen 1971",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "III"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Universal facial expressions failed free-sorting and cross-cultural tests; Barrett et al. 2019 reject it.",
-     "article": "HumansInFunnySuits",
-     "title": "Humans in Funny Suits"
-    }
-   ]
-  },
-  {
-   "source": "Jones & Nisbett 1971",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "failed_replication",
-     "gist": "Actor-observer asymmetry near zero in Malle's 2006 meta-analysis of 173 studies.",
-     "article": "CorrespondenceBias",
-     "title": "Correspondence Bias"
-    },
-    {
-     "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Correspondence bias robust, but actor-observer asymmetry essentially zero per Malle 2006.",
-     "article": "CorrespondenceBias",
-     "title": "Correspondence Bias"
-    }
-   ]
-  },
-  {
-   "source": "Lord, Ross & Lepper 1979",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Attitude polarization vanishes with direct pre/post measures; Guess & Coppock 2020 found no backlash.",
-     "article": "KnowingAboutBiasesCanHurtPeople",
-     "title": "Knowing About Biases Can Hurt People"
-    }
-   ]
-  },
-  {
-   "source": "Taber & Lodge 2006",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "II",
-    "VI"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "failed_replication",
-     "gist": "Prior-attitude and disconfirmation effects hold, but attitude polarization and backfire largely failed to replicate.",
-     "article": "KnowingAboutBiasesCanHurtPeople",
-     "title": "Knowing About Biases Can Hurt People"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Sophistication effect rests on two issues; knowledge hurts mainly on identity-relevant topics, otherwise improves accuracy.",
-     "article": "KnowingAboutBiasesCanHurtPeople",
-     "title": "Knowing About Biases Can Hurt People"
-    },
-    {
-     "set": "Opus5_5",
-     "verdict": "failed_replication",
-     "gist": "Attitude polarization failed preregistered tests (Guess & Coppock 2020); motivated numeracy too.",
-     "article": "WhyOurKindCantCooperate",
-     "title": "Why Our Kind Can’t Cooperate"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "weakened",
-     "gist": "Guess & Coppock found no backlash; limits sweeping entrenchment claims without directly falsifying the study.",
-     "article": "WhyOurKindCantCooperate",
-     "title": "Why Our Kind Can’t Cooperate"
-    }
-   ]
-  },
-  {
-   "source": "Dehnadi & Bornat 2006",
-   "verdict": "retracted_or_fraud",
-   "group": "damaged",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "fable",
-     "verdict": "retracted_or_fraud",
-     "gist": "Camel-has-two-humps paper was retracted by Bornat in 2014.",
-     "article": "CrisisOfFaith",
-     "title": "Crisis of Faith"
-    }
-   ]
-  },
-  {
-   "source": "Sherif et al. 1961",
-   "verdict": "retracted_or_fraud",
-   "group": "damaged",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "retracted_or_fraud",
-     "gist": "Failed Middle Grove precursor was buried and staff engineered conflict (Perry 2018).",
-     "article": "The-Robbers-Cave-Experiment",
-     "title": "The Robbers Cave Experiment"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "weakened",
-     "gist": "Single uncontrolled study of 22 boys with experimenter-staff; illustration, not decisive evidence.",
-     "article": "The-Robbers-Cave-Experiment",
-     "title": "The Robbers Cave Experiment"
-    },
-    {
-     "set": "fable",
-     "verdict": "retracted_or_fraud",
-     "gist": "Archive shows failed Middle Grove run and staff manipulation; tiny uncontrolled study, not a perfect experiment.",
-     "article": "The-Robbers-Cave-Experiment",
-     "title": "The Robbers Cave Experiment"
-    }
-   ]
-  },
-  {
-   "source": "Wansink, Kent & Hoch 1998",
-   "verdict": "retracted_or_fraud",
-   "group": "damaged",
-   "books": [
-    "II"
-   ],
-   "conflict": false,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "retracted_or_fraud",
      "gist": "Source is Wansink, whose lab had many retractions; store persistence is survivorship, not evidence.",
      "article": "Priming-And-Contamination",
      "title": "Priming and Contamination"
     },
     {
      "set": "fable",
-     "verdict": "retracted_or_fraud",
+     "id": 2,
+     "verdict": "weakened",
      "gist": "Wansink's misconduct means the finding can't be cited as shown; store-persistence argument is weak.",
      "article": "Priming-And-Contamination",
      "title": "Priming and Contamination"
@@ -2587,216 +2489,376 @@
    ]
   },
   {
-   "source": "Cameron 1999",
-   "verdict": "false_or_misattributed",
+   "source": "Wilson 1975",
+   "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "VI"
+    "III"
    ],
-   "conflict": true,
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheTragedyOfGroupSelectionism",
+     "title": "The Tragedy of Group Selectionism",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
-     "set": "Opus5_5",
-     "verdict": "false_or_misattributed",
-     "gist": "Cameron 1999 found acceptance rising with stakes; anecdote used opposite to source (Andersen 2011 confirms).",
-     "article": "YourPriceForJoining",
-     "title": "Your Price for Joining"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "holds_qualified",
-     "gist": "Anecdote is real, but Cameron also found higher stakes increased acceptance; omitted.",
-     "article": "YourPriceForJoining",
-     "title": "Your Price for Joining"
+     "set": "fable",
+     "id": 2,
+     "verdict": "weakened",
+     "gist": "Unidentified simulation; cited Wilson 1975 paper actually argued group selection can work.",
+     "article": "TheTragedyOfGroupSelectionism",
+     "title": "The Tragedy of Group Selectionism"
     }
    ]
   },
   {
-   "source": "Deci, Koestner & Ryan 1999",
+   "source": "Casscells, Schoenberger & Graboys 1978",
    "verdict": "false_or_misattributed",
    "group": "damaged",
+   "books": [
+    "III"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "AnIntuitiveExplanationOfBayessTheorem",
+     "title": "An Intuitive Explanation of Bayes’s Theorem",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "false_or_misattributed",
+     "gist": "Cited studies don't contain the essay's numbers; the 46% figure is from uncited Hoffrage & Gigerenzer 1998.",
+     "article": "AnIntuitiveExplanationOfBayessTheorem",
+     "title": "An Intuitive Explanation of Bayes’s Theorem"
+    }
+   ]
+  },
+  {
+   "source": "Lichtenstein & Slovic 1971",
+   "verdict": "false_or_misattributed",
+   "group": "damaged",
+   "books": [
+    "V"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "ZutAllais",
+     "title": "Zut Allais!",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "opus",
+     "id": 5,
+     "verdict": "false_or_misattributed",
+     "gist": "Miscited study; reversals stem mostly from pricing elicitation and shrink under real arbitrage.",
+     "article": "ZutAllais",
+     "title": "Zut Allais!"
+    }
+   ]
+  },
+  {
+   "source": "Benson, Karabenick & Lerner 1976",
+   "verdict": "unassessed",
+   "group": "unassessed",
    "books": [
     "II"
    ],
    "conflict": false,
-   "notes": [
+   "cited_in": [
     {
-     "set": "fable",
-     "verdict": "false_or_misattributed",
-     "gist": "Half-remembered bribes-vs-praise finding is wrong: undermining concerns interesting tasks, and praise can harm.",
-     "article": "TheThirdAlternative",
-     "title": "The Third Alternative"
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 11
     }
-   ]
+   ],
+   "notes": []
   },
   {
-   "source": "Eagly et al. 1991",
-   "verdict": "false_or_misattributed",
-   "group": "damaged",
+   "source": "Budesheim & DePaola 1994",
+   "verdict": "unassessed",
+   "group": "unassessed",
    "books": [
     "II"
    ],
-   "conflict": true,
-   "notes": [
+   "conflict": false,
+   "cited_in": [
     {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Cited meta-analysis finds near-zero halo for honesty and kindness; halo is selective.",
      "article": "TheHaloEffect",
-     "title": "The Halo Effect"
-    },
-    {
-     "set": "fable",
-     "verdict": "false_or_misattributed",
-     "gist": "Cited meta-analysis finds near-zero halo for honesty; catalogue cherry-picks largest small-study effects.",
-     "article": "TheHaloEffect",
-     "title": "The Halo Effect"
+     "title": "The Halo Effect",
+     "footnote": 5
     }
-   ]
+   ],
+   "notes": []
   },
   {
-   "source": "Keysar 1994",
-   "verdict": "false_or_misattributed",
-   "group": "damaged",
+   "source": "Buehler, Griffin & Ross 1995",
+   "verdict": "unassessed",
+   "group": "unassessed",
    "books": [
     "I"
    ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Keysar's sarcasm study replicates reasonably but uses vignettes with deliberately strong manipulations.",
-     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
-     "title": "Illusion of Transparency: Why No One Understands You"
-    },
-    {
-     "set": "fable",
-     "verdict": "false_or_misattributed",
-     "gist": "June becomes Jane; essay conflates Keysar's transparency of intention with Gilovich's transparency of feeling.",
-     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
-     "title": "Illusion of Transparency: Why No One Understands You"
-    }
-   ]
-  },
-  {
-   "source": "Kruglanski & Webster 1996",
-   "verdict": "false_or_misattributed",
-   "group": "damaged",
-   "books": [
-    "III"
-   ],
    "conflict": false,
-   "notes": [
+   "cited_in": [
     {
-     "set": "fable",
-     "verdict": "false_or_misattributed",
-     "gist": "Higher stakes raise fear of invalidity and lower closure-seeking; essay reverses the construct's prediction.",
-     "article": "LeakyGeneralizations",
-     "title": "Leaky Generalizations"
+     "article": "PlanningFallacy",
+     "title": "Planning Fallacy",
+     "footnote": 2
     }
-   ]
+   ],
+   "notes": []
   },
   {
-   "source": "Ord et al. 2010",
-   "verdict": "false_or_misattributed",
-   "group": "damaged",
+   "source": "Carson & Mitchell 1995",
+   "verdict": "unassessed",
+   "group": "unassessed",
    "books": [
     "V"
    ],
    "conflict": false,
-   "notes": [
+   "cited_in": [
     {
-     "set": "opus",
-     "verdict": "false_or_misattributed",
-     "gist": "Ord, Hillerbrand & Sandberg based their numbers on empirical error rates, not thin air.",
-     "article": "WhenNotToUseProbabilities",
-     "title": "When (Not) to Use Probabilities"
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 5
     }
-   ]
+   ],
+   "notes": []
   },
   {
-   "source": "Stroop 1935",
-   "verdict": "false_or_misattributed",
-   "group": "damaged",
+   "source": "Chaiken 1979",
+   "verdict": "unassessed",
+   "group": "unassessed",
    "books": [
-    "II",
-    "III"
+    "II"
    ],
-   "conflict": true,
-   "notes": [
+   "conflict": false,
+   "cited_in": [
     {
-     "set": "OpusOld",
-     "verdict": "holds",
-     "gist": "Stroop effect is among psychology's most robust, replicated findings.",
-     "article": "EvolutionaryPsychology",
-     "title": "Evolutionary Psychology"
+     "article": "TheHaloEffect",
+     "title": "The Halo Effect",
+     "footnote": 12
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "Chapman & Johnson 2002",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination",
+     "footnote": 2
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "Epley & Gilovich 2001",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination",
+     "footnote": 4
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "Kahneman & Tversky 1979",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "V"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "TheAllaisParadox",
+     "title": "The Allais Paradox",
+     "footnote": 1
     },
     {
-     "set": "fable",
-     "verdict": "false_or_misattributed",
-     "gist": "Stroop subjects are slowed, not often wrong; error rates are a few percent.",
-     "article": "TheBottomLine",
-     "title": "The Bottom Line"
+     "article": "ZutAllais",
+     "title": "Zut Allais!",
+     "footnote": 4
     }
-   ]
+   ],
+   "notes": []
   },
   {
-   "source": "Strupp & Hadley 1979",
-   "verdict": "false_or_misattributed",
-   "group": "damaged",
+   "source": "Kahneman, Ritov & Schkade 1999",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "V"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 4
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "Keysar & Bly 1995",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "I"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You",
+     "footnote": 5
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "Keysar 1998",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "I"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
+     "title": "Illusion of Transparency: Why No One Understands You",
+     "footnote": 3
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "McFadden & Leonard 1993",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "V"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "ScopeInsensitivity",
+     "title": "Scope Insensitivity",
+     "footnote": 3
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "Mussweiler & Strack 1999",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination",
+     "footnote": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "Quattrone et al. 1981",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "II"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "Anchoring-And-Adjustment",
+     "title": "Anchoring and Adjustment",
+     "footnote": 3
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "Schul & Mayo 2003",
+   "verdict": "unassessed",
+   "group": "unassessed",
+   "books": [
+    "I"
+   ],
+   "conflict": false,
+   "cited_in": [
+    {
+     "article": "LawfulUncertainty",
+     "title": "Lawful Uncertainty",
+     "footnote": 1
+    }
+   ],
+   "notes": []
+  },
+  {
+   "source": "Tversky & Kahneman 1973",
+   "verdict": "unassessed",
+   "group": "unassessed",
    "books": [
     "VI"
    ],
    "conflict": false,
-   "notes": [
+   "cited_in": [
     {
-     "set": "Opus5_5",
-     "verdict": "false_or_misattributed",
-     "gist": "Professors were selected for warmth, not random; patients mildly distressed; essay distorts the study.",
-     "article": "SchoolsProliferatingWithoutEvidence",
-     "title": "Schools Proliferating Without Evidence"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "false_or_misattributed",
-     "gist": "Professors were chosen for interpersonal skill; small selected sample; 'random' misstates the study.",
-     "article": "SchoolsProliferatingWithoutEvidence",
-     "title": "Schools Proliferating Without Evidence"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "weakened",
-     "gist": "Similar outcomes don't show arbitrary talk is the mechanism; null contrast isn't equivalence.",
-     "article": "SchoolsProliferatingWithoutEvidence",
-     "title": "Schools Proliferating Without Evidence"
+     "article": "MyBayesianEnlightenment",
+     "title": "My Bayesian Enlightenment",
+     "footnote": null
     }
-   ]
+   ],
+   "notes": []
   },
   {
-   "source": "Tversky & Kahneman 1981",
-   "verdict": "false_or_misattributed",
-   "group": "damaged",
+   "source": "Yates et al. 2002",
+   "verdict": "unassessed",
+   "group": "unassessed",
    "books": [
-    "V"
+    "IV"
    ],
-   "conflict": true,
-   "notes": [
+   "conflict": false,
+   "cited_in": [
     {
-     "set": "opus",
-     "verdict": "false_or_misattributed",
-     "gist": "Essay's variant has unequal expected values; reported majority choice is unsupported by any study.",
-     "article": "FeelingMoral",
-     "title": "Feeling Moral"
-    },
-    {
-     "set": "opus",
-     "verdict": "holds",
-     "gist": "Asian disease framing effect replicated strongly in Many Labs 1.",
-     "article": "FeelingMoral",
-     "title": "Feeling Moral"
+     "article": "ATechnicalExplanationOfTechnicalExplanation",
+     "title": "A Technical Explanation of Technical Explanation",
+     "footnote": 5
     }
-   ]
+   ],
+   "notes": []
   }
  ],
  "target_x_verdict": {
@@ -8760,117 +8822,6 @@
  },
  "skeptic_conflicts": [
   {
-   "source": "Latané & Darley 1968",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "III",
-    "VI"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "Opus5_5",
-     "verdict": "holds_qualified",
-     "gist": "Smoke-study figures reported accurately but rest on tiny samples; presented as a law.",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
-    },
-    {
-     "set": "Opus5_5",
-     "verdict": "false_or_misattributed",
-     "gist": "Collective bystander effect reverses in field: more bystanders raise chance someone helps (Philpot 2020, Fischer 2011).",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "holds_qualified",
-     "gist": "Fischer 2011 meta-analysis supports individual inhibition (g=-0.35), varying with danger.",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Diffusion of responsibility real, but CCTV field data show someone intervenes in 90% of conflicts.",
-     "article": "EvolvingToExtinction",
-     "title": "Evolving to Extinction"
-    },
-    {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "Bystander effect shrinks or reverses in dangerous real emergencies; genetic arms race speculation unsupported.",
-     "article": "EvolvingToExtinction",
-     "title": "Evolving to Extinction"
-    }
-   ]
-  },
-  {
-   "source": "Maier 1952",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "II"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Maier's single contrived role-play, reported thirdhand; related group-ideation research is suggestive, not proof.",
-     "article": "HoldOffOnProposingSolutions",
-     "title": "Hold Off On Proposing Solutions"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "weakened",
-     "gist": "Dawes admits no objective criterion; practitioner evidence is impressionistic, backing thin.",
-     "article": "HoldOffOnProposingSolutions",
-     "title": "Hold Off On Proposing Solutions"
-    },
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Problem analysis helps groups (Orlitzky & Hirokawa), but extrapolation to individuals is untested; experts' first options best.",
-     "article": "HoldOffOnProposingSolutions",
-     "title": "Hold Off On Proposing Solutions"
-    }
-   ]
-  },
-  {
-   "source": "Tversky & Edwards 1966",
-   "verdict": "holds_qualified",
-   "group": "stands",
-   "books": [
-    "I"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Probability matching is real but strongly moderated by incentives, feedback and deliberation.",
-     "article": "LawfulUncertainty",
-     "title": "Lawful Uncertainty"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "76% figure is one study's value; many subjects converge toward maximizing in other designs.",
-     "article": "LawfulUncertainty",
-     "title": "Lawful Uncertainty"
-    },
-    {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "With incentives most subjects converge to maximizing; matching is a defensible pattern-detection strategy.",
-     "article": "LawfulUncertainty",
-     "title": "Lawful Uncertainty"
-    }
-   ]
-  },
-  {
    "source": "Tversky & Kahneman 1974",
    "verdict": "holds_qualified",
    "group": "stands",
@@ -8878,32 +8829,48 @@
     "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "Anchoring-And-Adjustment",
+     "title": "Anchoring and Adjustment",
+     "footnote": 1
+    },
+    {
+     "article": "Priming-And-Contamination",
+     "title": "Priming and Contamination",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "holds",
      "gist": "Anchoring replicated robustly in Many Labs 1 and 2.",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
-     "set": "OpusOld",
-     "verdict": "weakened",
-     "gist": "Anchor-and-adjust mechanism applies to self-generated anchors; provided anchors work via selective accessibility (Epley & Gilovich).",
+     "set": "fable",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Anchoring replicates robustly, but the wheel was rigged to 10 or 65 and the adjustment mechanism was outdated.",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
      "set": "OpusOld",
+     "id": 4,
      "verdict": "holds_qualified",
      "gist": "Anchoring is fairly incentive-resistant, but incentives can reduce it (Simmons et al. 2010); 'did not reduce' too strong.",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     },
     {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Anchoring replicates robustly, but the wheel was rigged to 10 or 65 and the adjustment mechanism was outdated.",
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "contested",
+     "gist": "Anchor-and-adjust mechanism applies to self-generated anchors; provided anchors work via selective accessibility (Epley & Gilovich).",
      "article": "Anchoring-And-Adjustment",
      "title": "Anchoring and Adjustment"
     }
@@ -8917,9 +8884,17 @@
     "I"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "BurdensomeDetails",
+     "title": "Burdensome Details",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 1,
      "verdict": "holds_qualified",
      "gist": "Conjunction fallacy replicates, but pragmatics and frequency formats shrink it; swindle-by-narrative leap is larger.",
      "article": "BurdensomeDetails",
@@ -8927,13 +8902,7 @@
     },
     {
      "set": "OpusOld",
-     "verdict": "contested",
-     "gist": "Representativeness account is one contested interpretation, not nailed down; risks circularity.",
-     "article": "BurdensomeDetails",
-     "title": "Burdensome Details"
-    },
-    {
-     "set": "OpusOld",
+     "id": 3,
      "verdict": "holds_qualified",
      "gist": "Dice dominance violation is format-dependent; changing representation addresses the cause, not a band-aid.",
      "article": "BurdensomeDetails",
@@ -8941,89 +8910,53 @@
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "contested",
      "gist": "Mechanism was not nailed down; frequency formats and confirmation accounts remain in contention.",
      "article": "BurdensomeDetails",
      "title": "Burdensome Details"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Conjunction fallacy replicates; interpretation contested and knowing its name doesn't immunize.",
-     "article": "MyWildAndRecklessYouth",
-     "title": "My Wild and Reckless Youth"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Conjunction violation genuine in strict setup but partly dissolves under pragmatics and frequency formats.",
-     "article": "What-Do-I-Mean-By-Rationality",
-     "title": "What Do I Mean By “Rationality”?"
-    },
-    {
-     "set": "fable",
-     "verdict": "contested",
-     "gist": "Labeling as incorrect depends on contested interpretation of 'probable'; frequency formats largely remove fallacy.",
-     "article": "What-Do-I-Mean-By-Rationality",
-     "title": "What Do I Mean By “Rationality”?"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Listed biases differ in robustness; conjunction and base-rate neglect shrink with frequencies, overconfidence partly artifact.",
-     "article": "Whats-A-Bias-Again",
-     "title": "… What’s a Bias, Again?"
     }
    ]
   },
   {
-   "source": "Buss 1989",
-   "verdict": "contested",
-   "group": "open",
+   "source": "Wason 1960",
+   "verdict": "holds_qualified",
+   "group": "stands",
    "books": [
-    "III"
+    "I"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "PositiveBiasLookIntoTheDark",
+     "title": "Positive Bias: Look into the Dark",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
-     "verdict": "contested",
-     "gist": "Sex-differentiated mate preferences shrink in gender-equal societies; adaptationist reading disputed.",
-     "article": "EvolutionaryPsychology",
-     "title": "Evolutionary Psychology"
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Low solve rate replicates, but DAX/MED framing raises success; not a fixed 20% ceiling.",
+     "article": "PositiveBiasLookIntoTheDark",
+     "title": "Positive Bias: Look into the Dark"
+    },
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Positive testing is real but often rational (Klayman & Ha); the task is engineered to defeat it.",
+     "article": "PositiveBiasLookIntoTheDark",
+     "title": "Positive Bias: Look into the Dark"
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "weakened",
-     "gist": "Stated preferences don't predict real attraction (Eastwick & Finkel) and sex difference tracks gender inequality.",
-     "article": "EvolutionaryPsychology",
-     "title": "Evolutionary Psychology"
-    }
-   ]
-  },
-  {
-   "source": "Ditto & Lopez 1992",
-   "verdict": "contested",
-   "group": "open",
-   "books": [
-    "II",
-    "VI"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "Opus5_5",
-     "verdict": "holds",
-     "gist": "Motivated skepticism is well established; rightly listed first.",
-     "article": "FinalWords",
-     "title": "Final Words"
-    },
-    {
-     "set": "fable",
-     "verdict": "contested",
-     "gist": "Asymmetric scrutiny is also what Bayesians with strong priors do; motivated-reasoning evidence is confounded.",
-     "article": "TheProperUseOfHumility",
-     "title": "The Proper Use of Humility"
+     "gist": "Positive testing is near-optimal in natural environments (Klayman & Ha); DAX/MED framing triples success.",
+     "article": "PositiveBiasLookIntoTheDark",
+     "title": "Positive Bias: Look into the Dark"
     }
    ]
   },
@@ -9035,16 +8968,30 @@
     "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "The-Scales-Of-Justice-The-Notebook-Of-Rationality",
+     "title": "The Scales of Justice, the Notebook of Rationality",
+     "footnote": 1
+    },
+    {
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic",
+     "footnote": 5
+    }
+   ],
    "notes": [
     {
      "set": "fable",
-     "verdict": "weakened",
+     "id": 1,
+     "verdict": "false_or_misattributed",
      "gist": "Finucane measured global attitudes, not meltdown estimates; reactor example is extrapolation and inverse inference may be partly rational.",
      "article": "The-Scales-Of-Justice-The-Notebook-Of-Rationality",
      "title": "The Scales of Justice, the Notebook of Rationality"
     },
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "contested",
      "gist": "Inverse risk-benefit correlation has alternative interpretations; affect heuristic is an umbrella hypothesis, not settled.",
      "article": "TheAffectHeuristic",
@@ -9053,52 +9000,180 @@
    ]
   },
   {
-   "source": "Gopnik et al. 2004",
+   "source": "Ganzach 2000",
    "verdict": "contested",
    "group": "open",
    "books": [
-    "I"
+    "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic",
+     "footnote": 6
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
-     "verdict": "contested",
-     "gist": "Causal Bayes nets fit many judgments but are a debated computational account; Markov violations persist.",
-     "article": "FakeCausality",
-     "title": "Fake Causality"
+     "id": 4,
+     "verdict": "weakened",
+     "gist": "Single correlational study; low-volatility anomaly means negative risk-return perception may track reality.",
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic"
     },
     {
      "set": "fable",
-     "verdict": "weakened",
-     "gist": "People systematically violate the causal Markov condition (Rehder & Burnett; Rottman & Hastie).",
-     "article": "FakeCausality",
-     "title": "Fake Causality"
+     "id": 2,
+     "verdict": "contested",
+     "gist": "Low-volatility anomaly shows risk and return don't correlate positively; essay's correctness standard is a failed model.",
+     "article": "TheAffectHeuristic",
+     "title": "The Affect Heuristic"
     }
    ]
   },
   {
-   "source": "Beaman et al. 1978",
+   "source": "Gilbert, Krull & Malone 1990",
+   "verdict": "contested",
+   "group": "open",
+   "books": [
+    "II"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "contested",
+     "gist": "Spinozan default-acceptance model is contested; Hasson et al. and Richter et al. find plausibility-dependent validation.",
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Spinozan model fails generally; survives only for novel unverifiable claims under load (Richter, Nadarevic & Erdfelder).",
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?"
+    }
+   ]
+  },
+  {
+   "source": "Rosch 1978",
+   "verdict": "contested",
+   "group": "open",
+   "books": [
+    "III"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "TypicalityAndAsymmetricalSimilarity",
+     "title": "Typicality and Asymmetrical Similarity",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "contested",
+     "gist": "Typicality effects replicate, but Armstrong et al. show they don't imply non-classical categories.",
+     "article": "TypicalityAndAsymmetricalSimilarity",
+     "title": "Typicality and Asymmetrical Similarity"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Typicality differs from graded membership; evidence compatible with sharp membership (Armstrong, Hampton).",
+     "article": "TypicalityAndAsymmetricalSimilarity",
+     "title": "Typicality and Asymmetrical Similarity"
+    }
+   ]
+  },
+  {
+   "source": "Taber & Lodge 2006",
+   "verdict": "contested",
+   "group": "open",
+   "books": [
+    "II"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "KnowingAboutBiasesCanHurtPeople",
+     "title": "Knowing About Biases Can Hurt People",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Prior-attitude and disconfirmation effects hold, but attitude polarization and backfire largely failed to replicate.",
+     "article": "KnowingAboutBiasesCanHurtPeople",
+     "title": "Knowing About Biases Can Hurt People"
+    },
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "contested",
+     "gist": "Sophistication effect rests on two issues; knowledge hurts mainly on identity-relevant topics, otherwise improves accuracy.",
+     "article": "KnowingAboutBiasesCanHurtPeople",
+     "title": "Knowing About Biases Can Hurt People"
+    },
+    {
+     "set": "fable",
+     "id": 2,
+     "verdict": "failed_replication",
+     "gist": "Attitude polarization vanishes with direct pre/post measures; Guess & Coppock 2020 found no backlash.",
+     "article": "KnowingAboutBiasesCanHurtPeople",
+     "title": "Knowing About Biases Can Hurt People"
+    }
+   ]
+  },
+  {
+   "source": "Baratz 1983",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "VI"
+    "I"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science",
+     "footnote": 3
+    }
+   ],
    "notes": [
     {
-     "set": "Opus5_5",
+     "set": "OpusOld",
+     "id": 3,
      "verdict": "holds_qualified",
-     "gist": "Beaman 1978 is a rare debiasing success, but a single modest study of a field-weak effect.",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
+     "gist": "Unpublished dissertation is weak, but conclusion matches robust hindsight-bias literature.",
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science"
     },
     {
-     "set": "SkepticAstra",
+     "set": "fable",
+     "id": 1,
      "verdict": "weakened",
-     "gist": "Warning improving helping in one setting does not establish lasting immunity across contexts.",
-     "article": "BystanderApathy",
-     "title": "Bystander Apathy"
+     "gist": "Myers misspelled, citation typo; evidence is a textbook sidebar and an unpublished dissertation.",
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science"
     }
    ]
   },
@@ -9110,9 +9185,17 @@
     "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "AschsConformityExperiment",
+     "title": "Asch’s Conformity Experiment",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "holds_qualified",
      "gist": "Conformity declined across cohorts and varies by culture; not a fixed universal phenomenon.",
      "article": "AschsConformityExperiment",
@@ -9120,6 +9203,7 @@
     },
     {
      "set": "OpusOld",
+     "id": 3,
      "verdict": "weakened",
      "gist": "Sex difference small and task/author confounded (Eagly & Carli 1981); gloss about agreeableness unwarranted.",
      "article": "AschsConformityExperiment",
@@ -9127,6 +9211,7 @@
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "weakened",
      "gist": "Sex difference not consistent, author-moderated; conformity declined since 1950s.",
      "article": "AschsConformityExperiment",
@@ -9135,60 +9220,52 @@
    ]
   },
   {
-   "source": "Buehler et al. 1994",
+   "source": "Crawford, Salter & Jang 1989",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
-    "I"
+    "III"
    ],
    "conflict": true,
-   "notes": [
+   "cited_in": [
     {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Result reproduces qualitatively, but meta-analysis shows direction and size vary; some tasks show overestimation.",
-     "article": "PlanningFallacy",
-     "title": "Planning Fallacy"
-    },
-    {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "Detailed planning makes forecasts optimistic but speeds completion (implementation intentions); essay conflates prediction and performance.",
-     "article": "PlanningFallacy",
-     "title": "Planning Fallacy"
+     "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
+     "title": "An Especially Elegant Evolutionary Psychology Experiment",
+     "footnote": 1
     }
-   ]
-  },
-  {
-   "source": "Festinger et al. 1956",
-   "verdict": "weakened",
-   "group": "damaged",
-   "books": [
-    "I",
-    "II"
    ],
-   "conflict": true,
    "notes": [
     {
      "set": "OpusOld",
-     "verdict": "weakened",
-     "gist": "When Prophecy Fails is a single tiny contaminated case; later reviews find intensified belief is the exception.",
-     "article": "EvaporativeCoolingOfGroupBeliefs",
-     "title": "Evaporative Cooling of Group Beliefs"
-    },
-    {
-     "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Seekers dissolved, Hardyck & Braden found no increase; Watchtower never officially set 1975 and declined afterward.",
-     "article": "EvaporativeCoolingOfGroupBeliefs",
-     "title": "Evaporative Cooling of Group Beliefs"
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "0.92 correlation is between smooth curves over few age bins; precision largely an artifact.",
+     "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
+     "title": "An Especially Elegant Evolutionary Psychology Experiment"
     },
     {
      "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Belief maintenance after disconfirmation is real, but predicted proselytizing surge is inconsistent in later cases.",
-     "article": "ReligionsClaimToBeNonDisprovable",
-     "title": "Religion’s Claim to be Non-Disprovable"
+     "id": 2,
+     "verdict": "weakened",
+     "gist": "Rating imagined grief measures folk theory, not grief; confounds could manufacture the correlation.",
+     "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
+     "title": "An Especially Elegant Evolutionary Psychology Experiment"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Studies of real bereaved parents find grief rising with child's age, contradicting the claimed agreement.",
+     "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
+     "title": "An Especially Elegant Evolutionary Psychology Experiment"
+    },
+    {
+     "set": "fable",
+     "id": 3,
+     "verdict": "weakened",
+     "gist": "Investment and reproductive value diverge only post-adolescence, where real grief keeps rising, contradicting the claim.",
+     "article": "AnEspeciallyElegantEvolutionaryPsychologyExperiment",
+     "title": "An Especially Elegant Evolutionary Psychology Experiment"
     }
    ]
   },
@@ -9201,30 +9278,22 @@
     "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "YourStrengthAsARationalist",
+     "title": "Your Strength as a Rationalist",
+     "footnote": 1
+    },
+    {
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Single unreplicated study; effect only under load, non-busy readers largely rejected falsehoods.",
-     "article": "Do-We-Believe-Everything-Were-Told",
-     "title": "Do We Believe Everything We’re Told?"
-    },
-    {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "Spinozan model fails generally; survives only for novel unverifiable claims under load (Richter, Nadarevic & Erdfelder).",
-     "article": "Do-We-Believe-Everything-Were-Told",
-     "title": "Do We Believe Everything We’re Told?"
-    },
-    {
-     "set": "fable",
-     "verdict": "holds_qualified",
-     "gist": "Effect is a load effect; conclusion better supported by continued-influence literature (Lewandowsky 2012).",
-     "article": "Do-We-Believe-Everything-Were-Told",
-     "title": "Do We Believe Everything We’re Told?"
-    },
-    {
-     "set": "OpusOld",
+     "id": 1,
      "verdict": "contested",
      "gist": "Spinozan automatic-belief model only partly supported; one 1993 paper does not settle belief architecture.",
      "article": "YourStrengthAsARationalist",
@@ -9232,251 +9301,229 @@
     },
     {
      "set": "fable",
+     "id": 4,
      "verdict": "weakened",
      "gist": "Spinozan default appears only without background knowledge; anecdote shows motivated reasoning instead.",
      "article": "YourStrengthAsARationalist",
      "title": "Your Strength as a Rationalist"
+    },
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Single unreplicated study; effect only under load, non-busy readers largely rejected falsehoods.",
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Spinozan model fails generally; survives only for novel unverifiable claims under load (Richter, Nadarevic & Erdfelder).",
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?"
+    },
+    {
+     "set": "fable",
+     "id": 2,
+     "verdict": "weakened",
+     "gist": "Effect is a load effect; conclusion better supported by continued-influence literature (Lewandowsky 2012).",
+     "article": "Do-We-Believe-Everything-Were-Told",
+     "title": "Do We Believe Everything We’re Told?"
     }
    ]
   },
   {
-   "source": "Wason 1960",
+   "source": "Hsee 1998",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "II"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "OpusOld",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Less-is-better effect is real but rests on small hypothetical samples; specific prices are illustrations only.",
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)"
+    },
+    {
+     "set": "fable",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Recipients' appreciation doesn't track price (Flynn & Adams); essay shifts from observers to recipients.",
+     "article": "Evaluability-And-Cheap-Holiday-Shopping",
+     "title": "Evaluability (and Cheap Holiday Shopping)"
+    }
+   ]
+  },
+  {
+   "source": "Latané & Darley 1969",
+   "verdict": "weakened",
+   "group": "damaged",
+   "books": [
+    "VI"
+   ],
+   "conflict": true,
+   "cited_in": [
+    {
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy",
+     "footnote": 1
+    }
+   ],
+   "notes": [
+    {
+     "set": "Opus5_5",
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Smoke-study figures reported accurately but rest on tiny samples; presented as a law.",
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy"
+    },
+    {
+     "set": "Opus5_5",
+     "id": 2,
+     "verdict": "weakened",
+     "gist": "Collective bystander effect reverses in field: more bystanders raise chance someone helps (Philpot 2020, Fischer 2011).",
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy"
+    },
+    {
+     "set": "SkepticAstra",
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "Fischer 2011 meta-analysis supports individual inhibition (g=-0.35), varying with danger.",
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy"
+    },
+    {
+     "set": "SkepticAstra",
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Philpot's CCTV data: larger groups more likely to produce some helper; blocks the collective extrapolation.",
+     "article": "BystanderApathy",
+     "title": "Bystander Apathy"
+    }
+   ]
+  },
+  {
+   "source": "Lazarsfeld 1949",
    "verdict": "weakened",
    "group": "damaged",
    "books": [
     "I"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science",
+     "footnote": 2
+    }
+   ],
    "notes": [
     {
-     "set": "fable",
-     "verdict": "weakened",
-     "gist": "Positive test strategy is often efficient (Klayman & Ha); theorem leaves search strategy open.",
-     "article": "ConservationOfExpectedEvidence",
-     "title": "Conservation of Expected Evidence"
-    },
-    {
      "set": "OpusOld",
+     "id": 2,
      "verdict": "holds_qualified",
-     "gist": "Low solve rate replicates, but DAX/MED framing raises success; not a fixed 20% ceiling.",
-     "article": "PositiveBiasLookIntoTheDark",
-     "title": "Positive Bias: Look into the Dark"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Positive testing is real but often rational (Klayman & Ha); the task is engineered to defeat it.",
-     "article": "PositiveBiasLookIntoTheDark",
-     "title": "Positive Bias: Look into the Dark"
+     "gist": "Lazarsfeld reversal is a pedagogical demonstration, not a controlled experiment.",
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science"
     },
     {
      "set": "fable",
+     "id": 1,
      "verdict": "weakened",
-     "gist": "Positive testing is near-optimal in natural environments (Klayman & Ha); DAX/MED framing triples success.",
-     "article": "PositiveBiasLookIntoTheDark",
-     "title": "Positive Bias: Look into the Dark"
+     "gist": "Myers misspelled, citation typo; evidence is a textbook sidebar and an unpublished dissertation.",
+     "article": "HindsightDevaluesScience",
+     "title": "Hindsight Devalues Science"
     }
    ]
   },
   {
-   "source": "Baumeister et al. 1998",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "III",
-    "VI"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "Opus5_5",
-     "verdict": "failed_replication",
-     "gist": "Ego depletion failed multi-lab preregistered replications (Hagger 2016, Vohs 2021).",
-     "article": "CanHumanismMatchReligionsOutput",
-     "title": "Can Humanism Match Religion’s Output?"
-    },
-    {
-     "set": "Opus5_5",
-     "verdict": "failed_replication",
-     "gist": "Ego depletion, listed as a real phenomenon, failed replication; p<0.01 threshold didn't protect it.",
-     "article": "PracticalAdviceBackedByDeepTheories",
-     "title": "Practical Advice Backed by Deep Theories"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "failed_replication",
-     "gist": "Multi-lab preregistered tests found d=0.04 and d=0.06 for ego depletion.",
-     "article": "PracticalAdviceBackedByDeepTheories",
-     "title": "Practical Advice Backed by Deep Theories"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "holds_qualified",
-     "gist": "Dang et al. found small d=0.10; update effect size and mechanism, not sweeping denial.",
-     "article": "PracticalAdviceBackedByDeepTheories",
-     "title": "Practical Advice Backed by Deep Theories"
-    },
-    {
-     "set": "Opus5_5",
-     "verdict": "failed_replication",
-     "gist": "'Willpower the true limiting resource' is ego depletion, which failed multi-lab replication.",
-     "article": "RationalityCommonInterestOfManyCauses",
-     "title": "Rationality: Common Interest of Many Causes"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "failed_replication",
-     "gist": "Ego depletion failed multi-lab registered replication (Hagger 2016); bias-corrected effect near zero.",
-     "article": "SuperstimuliAndTheCollapseOfWesternCivilization",
-     "title": "Superstimuli and the Collapse of Western Civilization"
-    },
-    {
-     "set": "fable",
-     "verdict": "failed_replication",
-     "gist": "Ego depletion near zero in preregistered multi-lab replications; glucose fuel account fails physiologically.",
-     "article": "SuperstimuliAndTheCollapseOfWesternCivilization",
-     "title": "Superstimuli and the Collapse of Western Civilization"
-    }
-   ]
-  },
-  {
-   "source": "Taber & Lodge 2006",
-   "verdict": "failed_replication",
-   "group": "damaged",
-   "books": [
-    "II",
-    "VI"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "OpusOld",
-     "verdict": "failed_replication",
-     "gist": "Prior-attitude and disconfirmation effects hold, but attitude polarization and backfire largely failed to replicate.",
-     "article": "KnowingAboutBiasesCanHurtPeople",
-     "title": "Knowing About Biases Can Hurt People"
-    },
-    {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Sophistication effect rests on two issues; knowledge hurts mainly on identity-relevant topics, otherwise improves accuracy.",
-     "article": "KnowingAboutBiasesCanHurtPeople",
-     "title": "Knowing About Biases Can Hurt People"
-    },
-    {
-     "set": "Opus5_5",
-     "verdict": "failed_replication",
-     "gist": "Attitude polarization failed preregistered tests (Guess & Coppock 2020); motivated numeracy too.",
-     "article": "WhyOurKindCantCooperate",
-     "title": "Why Our Kind Can’t Cooperate"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "weakened",
-     "gist": "Guess & Coppock found no backlash; limits sweeping entrenchment claims without directly falsifying the study.",
-     "article": "WhyOurKindCantCooperate",
-     "title": "Why Our Kind Can’t Cooperate"
-    }
-   ]
-  },
-  {
-   "source": "Cameron 1999",
-   "verdict": "false_or_misattributed",
-   "group": "damaged",
-   "books": [
-    "VI"
-   ],
-   "conflict": true,
-   "notes": [
-    {
-     "set": "Opus5_5",
-     "verdict": "false_or_misattributed",
-     "gist": "Cameron 1999 found acceptance rising with stakes; anecdote used opposite to source (Andersen 2011 confirms).",
-     "article": "YourPriceForJoining",
-     "title": "Your Price for Joining"
-    },
-    {
-     "set": "SkepticAstra",
-     "verdict": "holds_qualified",
-     "gist": "Anecdote is real, but Cameron also found higher stakes increased acceptance; omitted.",
-     "article": "YourPriceForJoining",
-     "title": "Your Price for Joining"
-    }
-   ]
-  },
-  {
-   "source": "Eagly et al. 1991",
-   "verdict": "false_or_misattributed",
+   "source": "Maier (in Dawes 1988)",
+   "verdict": "weakened",
    "group": "damaged",
    "books": [
     "II"
    ],
    "conflict": true,
+   "cited_in": [
+    {
+     "article": "HoldOffOnProposingSolutions",
+     "title": "Hold Off On Proposing Solutions",
+     "footnote": 1
+    }
+   ],
    "notes": [
     {
      "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Cited meta-analysis finds near-zero halo for honesty and kindness; halo is selective.",
-     "article": "TheHaloEffect",
-     "title": "The Halo Effect"
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "Maier's single contrived role-play, reported thirdhand; related group-ideation research is suggestive, not proof.",
+     "article": "HoldOffOnProposingSolutions",
+     "title": "Hold Off On Proposing Solutions"
+    },
+    {
+     "set": "OpusOld",
+     "id": 2,
+     "verdict": "weakened",
+     "gist": "Dawes admits no objective criterion; practitioner evidence is impressionistic, backing thin.",
+     "article": "HoldOffOnProposingSolutions",
+     "title": "Hold Off On Proposing Solutions"
     },
     {
      "set": "fable",
-     "verdict": "false_or_misattributed",
-     "gist": "Cited meta-analysis finds near-zero halo for honesty; catalogue cherry-picks largest small-study effects.",
-     "article": "TheHaloEffect",
-     "title": "The Halo Effect"
+     "id": 1,
+     "verdict": "holds_qualified",
+     "gist": "Problem analysis helps groups (Orlitzky & Hirokawa), but extrapolation to individuals is untested; experts' first options best.",
+     "article": "HoldOffOnProposingSolutions",
+     "title": "Hold Off On Proposing Solutions"
     }
    ]
   },
   {
-   "source": "Keysar 1994",
-   "verdict": "false_or_misattributed",
+   "source": "Tversky & Edwards 1966",
+   "verdict": "weakened",
    "group": "damaged",
    "books": [
     "I"
    ],
    "conflict": true,
-   "notes": [
+   "cited_in": [
     {
-     "set": "OpusOld",
-     "verdict": "holds_qualified",
-     "gist": "Keysar's sarcasm study replicates reasonably but uses vignettes with deliberately strong manipulations.",
-     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
-     "title": "Illusion of Transparency: Why No One Understands You"
-    },
-    {
-     "set": "fable",
-     "verdict": "false_or_misattributed",
-     "gist": "June becomes Jane; essay conflates Keysar's transparency of intention with Gilovich's transparency of feeling.",
-     "article": "IllusionOfTransparencyWhyNoOneUnderstandsYou",
-     "title": "Illusion of Transparency: Why No One Understands You"
+     "article": "LawfulUncertainty",
+     "title": "Lawful Uncertainty",
+     "footnote": 2
     }
-   ]
-  },
-  {
-   "source": "Stroop 1935",
-   "verdict": "false_or_misattributed",
-   "group": "damaged",
-   "books": [
-    "II",
-    "III"
    ],
-   "conflict": true,
    "notes": [
     {
      "set": "OpusOld",
-     "verdict": "holds",
-     "gist": "Stroop effect is among psychology's most robust, replicated findings.",
-     "article": "EvolutionaryPsychology",
-     "title": "Evolutionary Psychology"
+     "id": 2,
+     "verdict": "holds_qualified",
+     "gist": "76% figure is one study's value; many subjects converge toward maximizing in other designs.",
+     "article": "LawfulUncertainty",
+     "title": "Lawful Uncertainty"
     },
     {
      "set": "fable",
-     "verdict": "false_or_misattributed",
-     "gist": "Stroop subjects are slowed, not often wrong; error rates are a few percent.",
-     "article": "TheBottomLine",
-     "title": "The Bottom Line"
+     "id": 1,
+     "verdict": "weakened",
+     "gist": "With incentives most subjects converge to maximizing; matching is a defensible pattern-detection strategy.",
+     "article": "LawfulUncertainty",
+     "title": "Lawful Uncertainty"
     }
    ]
   }
